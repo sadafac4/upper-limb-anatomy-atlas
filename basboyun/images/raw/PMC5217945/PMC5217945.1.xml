@@ -1,0 +1,371 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Thorac Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Thorac Cancer</journal-id><journal-id journal-id-type="pmc-domain-id">2735</journal-id><journal-id journal-id-type="pmc-domain">tca</journal-id><journal-id journal-id-type="nlm-id">101531441</journal-id><journal-id journal-id-type="publisher-id">TCA</journal-id><journal-title-group><journal-title>Thoracic Cancer</journal-title></journal-title-group><issn pub-type="ppub">1759-7706</issn><issn pub-type="epub">1759-7714</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5217945</article-id><article-id pub-id-type="pmcid-ver">PMC5217945.1</article-id><article-id pub-id-type="pmcaid">5217945</article-id><article-id pub-id-type="pmcaiid">5217945</article-id><article-id pub-id-type="pmid">27910227</article-id><article-id pub-id-type="doi">10.1111/1759-7714.12409</article-id><article-id pub-id-type="publisher-id">TCA12409</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Preoperative computed tomography diagnosis of non‐recurrent laryngeal nerve in patients with esophageal carcinoma</article-title><alt-title alt-title-type="right-running-head"><styled-content style="fixed-case">CT</styled-content> diagnosis of <styled-content style="fixed-case">NRLN</styled-content> in EC</alt-title><alt-title alt-title-type="left-running-head">Z.‐X. Niu <italic toggle="yes">et al.</italic></alt-title></title-group><contrib-group><contrib id="tca12409-cr-0001" contrib-type="author"><name name-style="western"><surname>Niu</surname><given-names initials="ZX">Zhong‐Xi</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="tca12409-note-0001">
+<sup>†</sup>
+</xref></contrib><contrib id="tca12409-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="H">Hang</given-names></name><xref ref-type="aff" rid="tca12409-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="tca12409-note-0001">
+<sup>†</sup>
+</xref></contrib><contrib id="tca12409-cr-0003" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="LQ">Long‐Qi</given-names></name><xref ref-type="aff" rid="tca12409-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="tca12409-cr-0004" contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="H">Hui</given-names></name><xref ref-type="aff" rid="tca12409-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="tca12409-cr-0005" contrib-type="author"><name name-style="western"><surname>Peng</surname><given-names initials="J">Jun</given-names></name><xref ref-type="aff" rid="tca12409-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="tca12409-cr-0006" contrib-type="author"><name name-style="western"><surname>Su</surname><given-names initials="LW">Li‐Wei</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca12409-cr-0007" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="W">Wei</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca12409-cr-0008" contrib-type="author"><name name-style="western"><surname>Xiao</surname><given-names initials="B">Bo</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca12409-cr-0009" contrib-type="author"><name name-style="western"><surname>He</surname><given-names initials="S">Shu</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca12409-cr-0010" contrib-type="author"><name name-style="western"><surname>Yue</surname><given-names initials="HX">Hong‐Xu</given-names></name><xref ref-type="aff" rid="tca12409-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="tca12409-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Thoracic Surgery</named-content><institution>General Hospital of Chinese People's Armed Police Force</institution><named-content content-type="city">Beijing</named-content><country country="CN">China</country></aff><aff id="tca12409-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">West China School of Medicine</named-content><institution>Sichuan University</institution><named-content content-type="city">Chengdu</named-content><country country="CN">China</country></aff><aff id="tca12409-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Thoracic Surgery</named-content><institution>West China Hospital, Sichuan University</institution><named-content content-type="city">Chengdu</named-content><country country="CN">China</country></aff><aff id="tca12409-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Thoracic Surgery</named-content><institution>Sichuan Cancer Hospital and Institute</institution><named-content content-type="city">Chengdu</named-content><country country="CN">China</country></aff><author-notes><corresp id="correspondenceTo"><bold>Correspondence</bold><break/>
+Zhong‐Xi Niu, Department of Thoracic Surgery, General Hospital of Chinese People's Armed Police Force, 69 Yongding Road, Haidian District, Beijing 100039, China.<break/>
+Tel: +86 10 5797 6619<break/>
+Fax: +86 10 5797 6903<break/>
+Email: <email>nzxnzx182@163.com</email><break/></corresp><fn id="tca12409-note-0001"><label>†</label><p>These authors contributed equally to this article.</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>12</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2017</year></pub-date><volume>8</volume><issue>1</issue><issue-id pub-id-type="pmc-issue-id">283457</issue-id><issue-id pub-id-type="doi">10.1111/tca.2017.8.issue-1</issue-id><fpage>46</fpage><lpage>50</lpage><history><date date-type="received"><day>05</day><month>9</month><year>2016</year></date><date date-type="rev-recd"><day>17</day><month>10</month><year>2016</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2016</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>01</month><year>2017</year></date></event><event event-type="pmc-live"><date><day>09</day><month>01</month><year>2017</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-07-28 19:25:18.030"><day>28</day><month>07</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2016 The Authors. Thoracic Cancer published by China Lung Oncology Group and John Wiley &amp; Sons Australia, Ltd</copyright-statement><license license-type="creativeCommonsBy-nc"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution‐NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="TCA-8-46.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:TCA-8-46.pdf"/><abstract><sec id="tca12409-sec-0001"><title>Background</title><p>The non‐recurrent laryngeal nerve (<styled-content style="fixed-case">NRLN</styled-content>) is a rare but potentially serious anomaly that is commonly associated with the aberrant right subclavian artery (<styled-content style="fixed-case">ARSA</styled-content>). It is easy to damage during surgical resection of esophageal cancer, leading to severe complications.</p></sec><sec id="tca12409-sec-0002"><title>Methods</title><p>Preoperative enhanced thoracic computed tomography (<styled-content style="fixed-case">CT)</styled-content> scans of 2697 patients with esophageal carcinoma treated in our hospital between <styled-content style="fixed-case">J</styled-content>anuary 2010 and <styled-content style="fixed-case">D</styled-content>ecember 2013 were examined. We classified the positional relationship between the right subclavian artery and the membranous wall of the trachea into two types and used this method to predicate <styled-content style="fixed-case">NRLN</styled-content> by identifying <styled-content style="fixed-case">ARSA</styled-content>.</p></sec><sec id="tca12409-sec-0003"><title>Results</title><p>Twenty‐six patients (0.96%) were identified with <styled-content style="fixed-case">ARSA</styled-content>, all of which were cases of <styled-content style="fixed-case">NRLN</styled-content> by <styled-content style="fixed-case">CT</styled-content>. <styled-content style="fixed-case">NRLN</styled-content> was identified during surgery in the 26 patients, and a normal right recurrent laryngeal nerve was observed in 2671 patients. The <styled-content style="fixed-case">ARSA</styled-content> was detected on the dorsal side of the membranous wall of the trachea in all 26 <styled-content style="fixed-case">NRLN</styled-content> cases, while it was detected on the ventral side in all 2671 recurrent laryngeal nerve cases.</p></sec><sec id="tca12409-sec-0004"><title>Conclusion</title><p>Enhanced <styled-content style="fixed-case">CT</styled-content> scanning is a reliable method for predicting <styled-content style="fixed-case">NRLN</styled-content> by identifying <styled-content style="fixed-case">ARSA</styled-content>. Preoperative recognition of this nerve anomaly allows surgeons to avoid damaging the nerve and abnormal vessels during esophagectomy.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tca12409-kwd-0001"><styled-content style="fixed-case">A</styled-content>berrant subclavian artery</kwd><kwd id="tca12409-kwd-0002">esophagectomy</kwd><kwd id="tca12409-kwd-0003">non‐recurrent laryngeal nerve</kwd><kwd id="tca12409-kwd-0004">tomography scanner</kwd><kwd id="tca12409-kwd-0005"><styled-content style="fixed-case">X</styled-content>‐ray computed</kwd></kwd-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="4"/><word-count count="2526"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>tca12409</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.0 mode:remove_FC converted:05.01.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="tca12409-sec-0005"><title>Introduction</title><p>A non‐recurrent laryngeal nerve (NRLN) is an anomaly with an incidence of 0.21–1.94% on the right side and 0–0.24% on the left side.<xref rid="tca12409-bib-0001" ref-type="ref">1</xref>, <xref rid="tca12409-bib-0002" ref-type="ref">2</xref>, <xref rid="tca12409-bib-0003" ref-type="ref">3</xref>, <xref rid="tca12409-bib-0004" ref-type="ref">4</xref>, <xref rid="tca12409-bib-0005" ref-type="ref">5</xref>, <xref rid="tca12409-bib-0006" ref-type="ref">6</xref>, <xref rid="tca12409-bib-0007" ref-type="ref">7</xref>, <xref rid="tca12409-bib-0008" ref-type="ref">8</xref>, <xref rid="tca12409-bib-0009" ref-type="ref">9</xref>, <xref rid="tca12409-bib-0010" ref-type="ref">10</xref>, <xref rid="tca12409-bib-0011" ref-type="ref">11</xref>, <xref rid="tca12409-bib-0012" ref-type="ref">12</xref>, <xref rid="tca12409-bib-0013" ref-type="ref">13</xref>, <xref rid="tca12409-bib-0014" ref-type="ref">14</xref> Although it is rare, it causes a much higher risk of nerve injury and accompanied severe complications during esophagectomy, including hoarseness and pulmonary complications.<xref rid="tca12409-bib-0015" ref-type="ref">15</xref> Even to an experienced surgeon, preserving the NRLN presents an extreme challenge because it is difficult to preoperatively diagnose an NRLN by any current imaging technique.</p><p>An NRLN is almost always associated with the aberrant subclavian artery; therefore, preoperatively identifying the aberrant subclavian artery would be tantamount to diagnosing the NRLN.<xref rid="tca12409-bib-0016" ref-type="ref">16</xref> Thus, it is possible to predict an NRLN with a diagnosis of aberrant right subclavian artery (ARSA) using chest enhanced computed tomography (CT), which serves to warn surgeons to avoid inadvertent nerve damage and uncontrolled bleeding.</p><p>We retrospectively studied enhanced CT scans obtained before surgery for esophageal carcinoma, including 26 cases of NRLN and 2671 cases of recurrent laryngeal nerve (RLN).</p><p>The cases of NRLN and RLN used in this study were all identified during surgery. The purpose of this study was to assess the possibility of NRLN diagnosis by enhanced chest CT, which is a routine preoperative examination, performed before esophagectomy. The human research ethics board at West China Hospital of Sichuan University approved this retrospective study, and informed consent was obtained from each patient for the use of individual data profiles within the study.</p></sec><sec id="tca12409-sec-0006"><title>Methods</title><sec id="tca12409-sec-0007"><title>Image examination</title><p>We retrospectively studied the medical images of 2697 patients with esophageal carcinoma who underwent surgery in our hospital between January 2010 and December 2013, including 2133 men and 564 women, with ages ranging from 41 to 68 years. Twenty‐six patients were diagnosed with an NRLN during surgery. An ARSA was described as the last branch arising directly from the aortic arch and crossing the midline with a retroesophageal course to reach the right axillary area (Fig <xref rid="tca12409-fig-0001" ref-type="fig">1</xref>).<xref rid="tca12409-bib-0017" ref-type="ref">17</xref> We classified the positional relationship between ARSA and the tracheoesophagus into two types according to that proposed by Watanabe <italic toggle="yes">et al.</italic> (Fig <xref rid="tca12409-fig-0002" ref-type="fig">2</xref>).
+<xref rid="tca12409-bib-0017" ref-type="ref">17</xref> In type 1, the horizontal line of the RSA lies on the dorsal side of the membranous wall of the trachea, while in type 2, it lies on the ventral side of the membranous wall of the trachea.</p><fig fig-type="Figure" xml:lang="en" id="tca12409-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>An aberrant right subclavian artery (long arrow) is defined as (<bold>a</bold>) the last branch arising directly from the aortic arch, and (<bold>b</bold>) crossing the midline, (<bold>c</bold>) with a retroesophageal (short arrow) course (<bold>d</bold>) to reach the right axillary area.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="TCA-8-46-g001.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="tca12409-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Classification of the positional relationship between aberrant right subclavian artery (<styled-content style="fixed-case">RSA</styled-content>) and the tracheoesophagus. Type 1: the horizontal line of the <styled-content style="fixed-case">RSA</styled-content> lies on the dorsal side of the membranous wall of trachea. Type 2: the horizontal line of the <styled-content style="fixed-case">RSA</styled-content> lies on the ventral side of the membranous wall of trachea. <styled-content style="fixed-case">E</styled-content>, esophagus; <styled-content style="fixed-case">T</styled-content>, trachea.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="TCA-8-46-g002.jpg"/></fig><p>An ARSA usually can be found by chest enhanced CT. A digital subtraction angiography or magnetic resonance angiography can be helpful when ARSA diagnosis is difficult via CT.</p></sec><sec id="tca12409-sec-0008"><title>Findings during surgery</title><p>During mobilization of the esophagus via left thoracotomy, an ARSA located in front of the vertebrae narrowed the area above the level of the aortic arch and the space between the esophagus and spine. Special attention was paid not to damage the ARSA when dissecting nodes along the left RLN. From the right view, during Ivor–Lewis and McKeown procedures, the ARSA crossed behind the upper esophagus, in front of the thoracic vertebrae, and above the azygos vein. Meanwhile, the right RLN was not found along the vagus nerve at the right thoracic apex. When dissecting the cervical nodes, the right RLN was located and carefully protected.</p></sec></sec><sec id="tca12409-sec-0009"><title>Results</title><p>Initially, 25 patients were identified as ARSA (type 1), 2669 patients as RSA (type 2), and the remaining three patients were difficult to diagnose via CT scanning preoperatively. Digital subtraction angiography and magnetic resonance angiography were then used. Two patients were diagnosed with esophageal cancer coexisting with upper mediastinal tumors, and in both, the RSA was compressed over the ventral side of the membranous wall of the trachea. According to the aforementioned criteria, they belonged to type 1 and had a normal RLN. Therefore, 26 patients were finally preoperatively diagnosed with ARSA and 2671 with RSA. Each ARSA was located between the esophagus and spine (Figs <xref rid="tca12409-fig-0003" ref-type="fig">3</xref>, <xref rid="tca12409-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="tca12409-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Chest enhanced computed tomography film of case 4. The right subclavian artery (long arrow) is on the dorsal side of the membranous wall of the trachea and further away from the common carotid artery (short arrow).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="TCA-8-46-g003.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="tca12409-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(<bold>a</bold>) Angiography and (<bold>b</bold>) 3<styled-content style="fixed-case">D</styled-content> image of case 4. Long arrow: aberrant right subclavian artery. Short arrow: common carotid artery.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="TCA-8-46-g004.jpg"/></fig><p>All patients underwent radical‐intent esophagectomy and lymphadenectomy. No operative death occurred. The vascular anomalies were confirmed in accordance with preoperative examination and were protected carefully without damage.</p></sec><sec id="tca12409-sec-0010"><title>Discussion</title><p>An NRLN originates in the ganglion node of the vagus, crosses the posterior of the common carotid artery, and enters the larynx instead of descending along the RSA. As a result of embryologic reasons, an NRLN is always associated with an ARSA. Thus, a diagnosis of ARSA, in theory, can be predictive of an NRLN. The only clinical indicator of an ARSA is that the patient complains of dysphagia on swallowing. Whether the dysphagia is actually the result of esophageal cancer or aberrant subclavian artery is difficult to determine. In most cases, this artery anomaly causes no symptoms; therefore, diagnosis always depends upon preoperative imaging. The diagnosis of an ARSA is based on an anomalous tubular structure running from the distal part of the aortic arch to the right axillary area on scans.</p><p>In our study, three cases of ARSA were not clearly identified by the CT scans, therefore abstraction scans and enhanced magnetic resonance imaging were used to identify the presence of this abnormal artery. By classifying patients into the two types of RSA, we were able to easily reveal ARSA by enhanced chest CT and prove it by surgery. Substraction scans and enhanced magnetic resonance imaging were not necessary in later cases. The NRLN, diagnosed as an ARSA by enhanced chest CT, was confirmed intraoperatively in every case, which proves that it is feasible to diagnose an NRLN based on an ARSA by enhanced CT. In the studied cases, all of the aberrant arteries ran on the dorsal side of the membranous wall of the trachea. We did not find a relationship between tumor level and ARSA development.</p><p>At present, preoperative diagnosis of NRLN has attracted attention in thyroid and parathyroid surgery. Similar criteria are used to classify ARSA and RSA.<xref rid="tca12409-bib-0018" ref-type="ref">18</xref> None of the patients in our study had ARSA, esophageal cancer, and mediastinal tumors in combination.<xref rid="tca12409-bib-0019" ref-type="ref">19</xref> This may be because the coexistence of an ARSA and a mediastinal tumor is extremely rare in esophageal cancer patients. Many studies have demonstrated that an NRLN should be treated with great care to avoid subsequent hoarseness and other complications.<xref rid="tca12409-bib-0005" ref-type="ref">5</xref>, <xref rid="tca12409-bib-0008" ref-type="ref">8</xref>, <xref rid="tca12409-bib-0020" ref-type="ref">20</xref>, <xref rid="tca12409-bib-0021" ref-type="ref">21</xref> An esophagectomy sometimes causes vocal cord palsy because of inferior laryngeal nerve paralysis. An NRLN is more likely than a RLN to be damaged during the procedure, which can cause RLN paralysis leading to severe pneumonia because of aspiration and a to high morbidity rate.<xref rid="tca12409-bib-0015" ref-type="ref">15</xref> An ARSA also results in additional difficulty to mobilize the proximal esophagus. Pop <italic toggle="yes">et al.</italic> advise that fistulas and severe bleeding are other probable complications associated with ARSA.
+<xref rid="tca12409-bib-0022" ref-type="ref">22</xref>
+</p><p>Because of these risk factors, it is important and feasible to diagnose an NRLN by the identification of an ARSA on enhanced CT scans. Preoperative chest enhanced CT scans provide a wide image to reveal the complete course of an ARSA. Once an ARSA is confirmed, meticulous care should be taken during surgery to avoid unexpected nerve and arterial damage.</p></sec><sec id="tca12409-sec-0012"><title>Disclosure</title><p>No authors report any conflict of interest.</p></sec></body><back><ack id="tca12409-sec-0011"><title>Acknowledgment</title><p>We thank Department of Thoracic Surgery, West China Hospital and all of the patients who consented to their imaging material being used for this study.</p></ack><ref-list id="tca12409-bibl-0001" content-type="cited-references"><title>References</title><ref id="tca12409-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="tca12409-cit-0001">
+<string-name name-style="western">
+<surname>Hermans</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dewandel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Debruyne</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delaere</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>Arteria lusoria identified on preoperative CT and nonrecurrent inferior laryngeal nerve during thyroidectomy: A retrospective study</article-title>. <source>Head Neck</source>
+<year>2003</year>; <volume>25</volume>: <fpage>113</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">12509793</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hed.10180</pub-id></mixed-citation></ref><ref id="tca12409-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="tca12409-cit-0002">
+<string-name name-style="western">
+<surname>Sciumè</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geraci</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pisello</surname>
+<given-names>F</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic> [<article-title>Non recurrent laryngeal nerve. Personal experience</article-title>.]<source>G Chir</source>
+<year>2005</year>; <volume>26</volume>: <fpage>434</fpage>–<lpage>7</lpage> (In Italian.).<pub-id pub-id-type="pmid">16472423</pub-id></mixed-citation></ref><ref id="tca12409-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="tca12409-cit-0003">
+<string-name name-style="western">
+<surname>Yetisir</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salman</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Çiftçi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teber</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kiliç</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Efficacy of ultrasonography in identification of non‐recurrent laryngeal nerve</article-title>. <source>Int J Surg</source>
+<year>2012</year>; <volume>10</volume>: <fpage>506</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">22858799</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijsu.2012.07.006</pub-id></mixed-citation></ref><ref id="tca12409-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="tca12409-cit-0004">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Preoperative diagnosis and intraoperative protection of nonrecurrent laryngeal nerve: A review of 5 cases</article-title>. <source>Med Sci Monit</source>
+<year>2014</year>; <volume>20</volume>: <fpage>233</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">24518037</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12659/MSM.889942</pub-id><pub-id pub-id-type="pmcid">PMC3930603</pub-id></mixed-citation></ref><ref id="tca12409-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="tca12409-cit-0005">
+<string-name name-style="western">
+<surname>Henry</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Audiffret</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Denizot</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plan</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The nonrecurrent inferior laryngeal nerve: Review of 33 cases, including two on the left side</article-title>. <source>Surgery</source>
+<year>1988</year>; <volume>104</volume>: <fpage>977</fpage>–<lpage>84</lpage>.<pub-id pub-id-type="pmid">3057672</pub-id></mixed-citation></ref><ref id="tca12409-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="tca12409-cit-0006">
+<string-name name-style="western">
+<surname>Gong</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gong</surname>
+<given-names>YP</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Prediction of nonrecurrent laryngeal nerve before thyroid surgery‐‐experience with 1825 cases</article-title>. <source>J Surg Res</source>
+<year>2014</year>; <volume>189</volume>: <fpage>75</fpage>–<lpage>80</lpage>.<pub-id pub-id-type="pmid">24650455</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jss.2014.02.010</pub-id></mixed-citation></ref><ref id="tca12409-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="tca12409-cit-0007">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Non‐recurrent laryngeal nerve related to thyroid surgery: A report of 5 cases and literature review</article-title>. <source>Med Sci Monit</source>
+<year>2010</year>; <volume>16</volume>: <fpage>CS71</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">20512096</pub-id></mixed-citation></ref><ref id="tca12409-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="tca12409-cit-0008">
+<string-name name-style="western">
+<surname>Chiang</surname>
+<given-names>FY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsiao</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Detecting and identifying nonrecurrent laryngeal nerve with the application of intraoperative neuromonitoring during thyroid and parathyroid operation</article-title>. <source>Am J Otolaryngol</source>
+<year>2012</year>; <volume>33</volume>: <fpage>1</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">21306793</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjoto.2010.11.011</pub-id></mixed-citation></ref><ref id="tca12409-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="tca12409-cit-0009">
+<string-name name-style="western">
+<surname>Tartaglia</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blasi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tromba</surname>
+<given-names>L</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Duplex ultrasound and magnetic resonance imaging of the supra‐aortic arches in patients with non recurrent inferior laryngeal nerve: A comparative study</article-title>. <source>G Chir</source>
+<year>2011</year>; <volume>32</volume>: <fpage>245</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">21619775</pub-id></mixed-citation></ref><ref id="tca12409-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="tca12409-cit-0010">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Son</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nam</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Computed tomography is useful for preoperative identification of nonrecurrent laryngeal nerve in thyroid cancer patients</article-title>. <source>Otolaryngol Head Neck Surg</source>
+<year>2011</year>; <volume>145</volume>: <fpage>204</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">21521891</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0194599811406670</pub-id></mixed-citation></ref><ref id="tca12409-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="tca12409-cit-0011">
+<string-name name-style="western">
+<surname>Iacobone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zanella</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bottussi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frego</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Favia</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The usefulness of preoperative ultrasonographic identification of nonrecurrent inferior laryngeal nerve in neck surgery</article-title>. <source>Langenbecks Arch Surg</source>
+<year>2008</year>; <volume>393</volume>: <fpage>633</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">18604552</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00423-008-0372-9</pub-id></mixed-citation></ref><ref id="tca12409-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="tca12409-cit-0012">
+<string-name name-style="western">
+<surname>Toniato</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazzarotto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piotto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernante</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pagetta</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pelizzo</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Identification of the nonrecurrent laryngeal nerve during thyroid surgery: 20‐year experience</article-title>. <source>World J Surg</source>
+<year>2004</year>; <volume>28</volume>: <fpage>659</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">15175898</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00268-004-7197-7</pub-id></mixed-citation></ref><ref id="tca12409-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="tca12409-cit-0013">
+<string-name name-style="western">
+<surname>Terao</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murata</surname>
+<given-names>K</given-names>
+</string-name>. [<article-title>A clinical study of the nonrecurrent inferior laryngeal nerve in seven patients</article-title>. .]<source>Nihon Jibiinkoka Gakkai Kaiho</source>
+<year>2000</year>; <volume>103</volume>: <fpage>1205</fpage>–<lpage>11</lpage> (In Japanese.).<pub-id pub-id-type="pmid">11187754</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3950/jibiinkoka.103.1205</pub-id></mixed-citation></ref><ref id="tca12409-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="tca12409-cit-0014">
+<string-name name-style="western">
+<surname>Gockel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kneist</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keilmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Junginger</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Recurrent laryngeal nerve paralysis (RLNP) following esophagectomy for carcinoma</article-title>. <source>Eur J Surg Oncol</source>
+<year>2005</year>; <volume>31</volume>: <fpage>277</fpage>–<lpage>81</lpage>.<pub-id pub-id-type="pmid">15780563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejso.2004.10.007</pub-id></mixed-citation></ref><ref id="tca12409-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="tca12409-cit-0015">
+<string-name name-style="western">
+<surname>Avisse</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcus</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delattre</surname>
+<given-names>JF</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Right nonrecurrent inferior laryngeal nerve and arteria lusoria: The diagnostic and therapeutic implications of an anatomic anomaly. Review of 17 cases</article-title>. <source>Surg Radiol Anat</source>
+<year>1998</year>; <volume>20</volume>: <fpage>227</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">9706684</pub-id></mixed-citation></ref><ref id="tca12409-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="tca12409-cit-0016">
+<string-name name-style="western">
+<surname>Janssen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baggen</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veen</surname>
+<given-names>HF</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Dysphagia lusoria: Clinical aspects, manometric findings, diagnosis, and therapy</article-title>. <source>Am J Gastroenterol</source>
+<year>2000</year>; <volume>95</volume>: <fpage>1411</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">10894572</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1572-0241.2000.02071.x</pub-id></mixed-citation></ref><ref id="tca12409-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="tca12409-cit-0017">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawabori</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osanai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taniguchi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hosokawa</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Preoperative computed tomography diagnosis of non‐recurrent inferior laryngeal nerve</article-title>. <source>Laryngoscope</source>
+<year>2001</year>; <volume>111</volume>: <fpage>1756</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">11801940</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00005537-200110000-00017</pub-id></mixed-citation></ref><ref id="tca12409-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="tca12409-cit-0018">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al.</italic>
+<article-title>Preoperative CT diagnosis of right nonrecurrent inferior laryngeal nerve</article-title>. <source>Head Neck</source>
+<year>2011</year>; <volume>33</volume>: <fpage>232</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">20848443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hed.21434</pub-id></mixed-citation></ref><ref id="tca12409-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="tca12409-cit-0019">
+<string-name name-style="western">
+<surname>Page</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peltier</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonnaire</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strunski</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Non‐recurrent laryngeal nerve related to thyroid surgery: Report of three cases</article-title>. <source>J Laryngol Otol</source>
+<year>2008</year>; <volume>122</volume>: <fpage>757</fpage>–<lpage>61</lpage>.<pub-id pub-id-type="pmid">17517167</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0022215107008389</pub-id></mixed-citation></ref><ref id="tca12409-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="tca12409-cit-0020">
+<string-name name-style="western">
+<surname>Coady</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adler</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davila</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gahtan</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Nonrecurrent laryngeal nerve during carotid artery surgery: Case report and literature review</article-title>. <source>J Vasc Surg</source>
+<year>2000</year>; <volume>32</volume>: <fpage>192</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">10876223</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1067/mva.2000.105680</pub-id></mixed-citation></ref><ref id="tca12409-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="tca12409-cit-0021">
+<string-name name-style="western">
+<surname>Sato</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsubosa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ugumori</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Esophagectomy with three‐field lymph node dissection for esophageal carcinoma with a nonrecurrent inferior laryngeal nerve</article-title>. <source>Jpn J Thorac Cardiovasc Surg</source>
+<year>2005</year>; <volume>53</volume>: <fpage>502</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="pmid">16200893</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11748-005-0096-5</pub-id></mixed-citation></ref><ref id="tca12409-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="tca12409-cit-0022">
+<string-name name-style="western">
+<surname>Pop</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venissac</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nadeemy</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneck</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aze</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mouroux</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Lesson to be learned: Beware of lusoria artery during transhiatal esophagectomy</article-title>. <source>Ann Thorac Surg</source>
+<year>2012</year>; <volume>94</volume>: <fpage>1010</fpage>–<lpage>1</lpage>.<pub-id pub-id-type="pmid">22916758</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2012.01.092</pub-id></mixed-citation></ref></ref-list></back></article>

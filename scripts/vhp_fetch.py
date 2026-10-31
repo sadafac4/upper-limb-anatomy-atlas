@@ -12,6 +12,8 @@ SERIES = {  # IDC series UUID -> role (see kesitsel/KAYNAKLAR.md)
     "frozenCT": ["f3a311eb-3abb-4b22-a28d-36ede7ddf127", "aa81356d-32f2-4b71-ad81-c1defa3175ca",
                  "3455adc0-1341-4058-88a2-c511e38e72ef"],                     # c_vm####.fro 1 mm
     "normalCT": ["477cf391-d387-4ec0-8daa-85207c808a77", "29c772e1-1ea7-4c7e-8de0-dedafb72e347"],  # c_vm####.fre (fresh)
+    "cryoF":    ["56f8119f-5940-48c1-96ee-8d445dc0b5fd"],                      # VHP-F a_vf, 0.33 mm aralık
+    "frozenCT_F": ["2397283b-eb7d-41f7-b310-cc2bc0181865", "e82cd88f-9865-49c8-a14f-7b67c40dac90"],
     "MR_T1ax":  ["a83c457a-d8c9-4290-b657-d1570d99fbef"], "MR_T2ax": ["342d9e2a-7c85-4de3-bb7b-baf6246ba537"],
 }
 

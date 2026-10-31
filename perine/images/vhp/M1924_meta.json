@@ -1,0 +1,19 @@
+{
+ "sex": "M",
+ "slice": 1924,
+ "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1924.raw",
+ "box": [
+  696,
+  354,
+  1356,
+  1117
+ ],
+ "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1924.fro",
+ "ct_slice": 1924.0,
+ "ct_reg": {
+  "scale": 0.35200000000000004,
+  "dx": -100,
+  "dy": 6,
+  "dice": 0.969
+ }
+}

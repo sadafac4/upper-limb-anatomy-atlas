@@ -1,0 +1,1004 @@
+[
+  {
+    "section": "taban",
+    "use": "topo_lecture",
+    "topic": "Levator ani origin: arcus tendineus levator ani within the obturator fascia; LAM fascia fused with obturator fascia",
+    "pmcid": "PMC8096964",
+    "version": 1,
+    "doi": "10.1038/s41598-021-89041-6",
+    "citation": "Sci Rep. 2021 May 4;11:9483. doi: 10.1038/s41598-021-89041-6",
+    "title": "Attachment of the levator ani muscle extends to the superior ramus of the pubic bone through electrophysiological and anatomical examinations",
+    "authors": "Chin Hung-Yen, Peng Chih-Wei, Wu Ming-Ping et al.",
+    "year": "2021",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2021_89041_Fig2_HTML.jpg",
+        "label": "Figure 2",
+        "caption": "Photographs of the inner side of a hemipelvis with the intact obturator fascia. (A) The arcus tendinous levator ani (ATLA) is located within the obturator fascia and attached from the ischial spine to the inferior border of the superior ramus of the pubic bone. The arcus tendineus fasciae pelvis (ATFP) is located between the urinary bladder and obturator fascia and is attached from the ischial spine to the inferior border of the pubic symphysis (PS) in the right pelvis. (B) The obturator fascia can be separated from the obturator internus muscle through the obturator canal in the right pelvis. (C) The margins of the obturator fascia can also be identified through finger insertion into the space between the obturator fascia and obturator internus muscle in the left pelvis. (D) The obturator fascia in the left pelvis of male. (E) The thickness of obturator fascia of male is significantly thinner than that of female. The obturator canal is labeled by a circle. *p < 0.01.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Inner (pelvic) view of hemipelves with intact obturator fascia: arcus tendineus levator ani (ATLA) running from ischial spine toward the pubis, arcus tendineus fasciae pelvis (ATFP) below it, obturator canal circled; panel E bar chart of obturator fascia thickness male vs female.",
+        "labels_visible_in_image": "A-E, PS, ATLA, ATFP, black circles (obturator canal); E: bar chart 'Thickness of obturator fascia (mm)', male/female, *",
+        "pixels": "708x891",
+        "local_path": "perine/images/raw/PMC8096964/41598_2021_89041_Fig2_HTML.jpg"
+      },
+      {
+        "file": "41598_2021_89041_Fig4_HTML.jpg",
+        "label": "Figure 4",
+        "caption": "Photographs presenting the levator ani muscle (LAM) fascia fused with the obturator fascia above the arcus tendinous levator ani (ATLA). (A) Photographs of the right side of the hemipelvis with a reflected obturator fascia and an exposed obturator internus muscle (OIM). Detaching the obturator fascia would detach puborectalis muscle (PRM) of the LAM and destroy the muscle fibers of the OIM only above the ATLA. (B) Whole-body frontal section displaying the fascia of the LAM fused with the obturator fascia above the ATLA. Arrows indicate the fusion site of the LAM fascia with the obturator fascia. The obturator canal is labeled by a circle. IAF ischioanal fossa, Rc rectum, Ut uterus.",
+        "specimen": "human cadaver (dissection + whole-body frontal section)",
+        "what_it_shows": "A: obturator fascia reflected showing ATLA, puborectalis and obturator internus; B: frontal section of female pelvis showing levator ani as the medial wall of the ischioanal fossa and its fascia fused with obturator fascia (arrows).",
+        "labels_visible_in_image": "A: PRM, OIM, ATLA, circle; B: Ut, Rc, LAM, OIM, IAF, white arrows",
+        "pixels": "668x884",
+        "local_path": "perine/images/raw/PMC8096964/41598_2021_89041_Fig4_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"The quantitative results demonstrated that the average thickness of obturator fascia in male (0.167 ± 0.031 mm) was thinner than in female (0.228 ± 0.036 mm) (Fig. 2E, p < 0.01, t-test).\" \"All the cadavers we dissected showed that the aponeurosis of LAM fused with obturator fascia above the ATLA.\" EMG + anatomy \"implied that the attachment of LAM aponeurosis extended beyond ATLA to the inferior border of the superior ramus of the pubic bone.\"",
+    "clinical_relevance": "The authors propose the newly described LAM attachment as \"a reference position for clinical diagnosis and treatment of MFPP or CPP\" (myofascial pelvic pain / chronic pelvic pain).",
+    "notes": "Fig 4B frontal section is an excellent bridge to the ischioanal fossa (IAF) and the VHP coronal sections."
+  },
+  {
+    "section": "taban",
+    "use": "topo_lecture",
+    "topic": "Female perineal muscles and three muscular slings of the pelvic floor (BS-EAS-STP-levator ani)",
+    "pmcid": "PMC6942605",
+    "version": 1,
+    "doi": "10.1007/s12565-019-00492-4",
+    "citation": "Anat Sci Int. 2019 Jun 4;95(1):47–53. doi: 10.1007/s12565-019-00492-4",
+    "title": "Three muscle slings of the pelvic floor in women: an anatomic study",
+    "authors": "Baramee Phichaya, Muro Satoru, Suriyut Janyaruk et al.",
+    "year": "2019",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2019_492_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Whole pelvis dissection, inferior aspect. The muscle bundle of the BS fuses with the lateral surface of the EAS. The superficial transverse perineal muscle crosses the BS superiorly. STP Superficial transverse perineal muscle",
+        "specimen": "human cadaver",
+        "what_it_shows": "Inferior view of female perineum (one side): ischiocavernosus, bulbospongiosus, superficial transverse perineal muscle crossing BS superiorly, external anal sphincter, ischioanal fat.",
+        "labels_visible_in_image": "IC, BS, STP, EAS, orientation arrows 'Anterior', 'Medial'",
+        "pixels": "709x1057",
+        "local_path": "perine/images/raw/PMC6942605/12565_2019_492_Fig2_HTML.jpg"
+      },
+      {
+        "file": "12565_2019_492_Fig6_HTML.jpg",
+        "label": "Fig. 6",
+        "caption": "a Schematic representation of the three muscle slings in the pelvic floor shown from inferior aspect. b The anterior muscular wall of the anal canal from medial aspect. AB Anterior bundle of the anterior part of the LA, ACL anococcygeal ligament, BS bulbospongiosus, EAS external anal sphincter, LA levator ani, PB the posterior bundle of the anterior part of the LA, STP superficial transverse perineal muscle, Sub. EAS subcutaneous part of the EAS",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "A: inferior view of the three muscular slings (BS/STP/anterior bundle of LA) around vagina and anus with perineal body; B: sagittal view of the anterior muscular wall of the anal canal.",
+        "labels_visible_in_image": "A: Vagina, Anus, IC, BS, AB, STP, EAS, Sub. EAS, PB, ACL, Anterior/Posterior; B: LA, PB, EAS, ACL, Anus, AB, STP, Sub. EAS, Superior/Anterior",
+        "pixels": "708x463",
+        "local_path": "perine/images/raw/PMC6942605/12565_2019_492_Fig6_HTML.jpg"
+      }
+    ],
+    "key_findings": "28 pelvic halves from 16 female cadavers (mean age 79.75 years). \"The bulbospongiosus muscle was found to be attached to the lateral surface of the external anal sphincter.\" \"The superficial transverse perineal muscle formed the middle sling.\" \"This study proposes that three muscular slings could be important in supporting the pelvic floor in women.\"",
+    "clinical_relevance": "The anterior anal-canal wall (anterior LA bundle, STP, EAS) is the region injured in obstetric perineal tears; the sling model explains perineal body/anal sphincter support.",
+    "notes": "Schematic is the authors' own (no reproduction notice)."
+  },
+  {
+    "section": "taban",
+    "use": "topo_lecture",
+    "topic": "Male pelvic floor: connections of levator ani, perineal muscles, EAS and anococcygeal ligament",
+    "pmcid": "PMC7182620",
+    "version": 1,
+    "doi": "10.1007/s12565-019-00521-2",
+    "citation": "Anat Sci Int. 2019 Dec 23;95(3):305–12. doi: 10.1007/s12565-019-00521-2",
+    "title": "Various significant connections of the male pelvic floor muscles with special reference to the anal and urethral sphincter muscles",
+    "authors": "Suriyut Janyaruk, Muro Satoru, Baramee Phichaya et al.",
+    "year": "2019",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2019_521_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Pelvic floor muscle. a Pelvic floor muscle on the lateral aspect, which is composed of the IC, BS, STP, EAS, and LA. The star represents the lateral tendon of the STP; white and black arrows, the connection among the STP, BS, and EAS; black asterisk, the connection between the BS and EAS. b After the lateral reflections of the STP, the white and black arrowheads represent the anterior and posterior muscle bundle of the LA, respectively; white asterisk, the connection between the LA and BS; black triangle, the connection between the STP and LA; circle, the blending point between the LA and EAS. ACL anococcygeal ligament, BS bulbospongiosus, EAS external anal sphincter, IC ischiocavernosus, LA levator ani muscle, STP superficial transverse perineal; yellow arrow, anal opening",
+        "specimen": "human cadaver",
+        "what_it_shows": "Lateral view of an isolated male pelvic-floor block: levator ani from pubic bone/tendinous arch, ischiocavernosus, bulbospongiosus, superficial transverse perineal muscle, EAS and anococcygeal ligament to coccyx; B after reflecting STP shows LA bundles blending with EAS/BS.",
+        "labels_visible_in_image": "A: pubis bone, tendinous arch, LA, IC, BS, STP, EAS, ACL, coccyx, star, white/black arrows, *, Sup./Ant./Post., 'Lateral aspect'; B: LA, STP, BS, EAS, ACL, arrowheads, triangle, circle",
+        "pixels": "646x1088",
+        "local_path": "perine/images/raw/PMC7182620/12565_2019_521_Fig1_HTML.jpg"
+      },
+      {
+        "file": "12565_2019_521_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "The muscle bundle of the LA extended to the coccyx via the ACL (white triangle). ACL anococcygeal ligament, EAS external anal sphincter, IC ischiocavernosus, LA levator ani muscle, STP superficial transverse perineal; yellow arrow, anal opening",
+        "specimen": "human cadaver",
+        "what_it_shows": "Levator ani bundle continuing to the coccyx via the anococcygeal ligament (anococcygeal body) behind the EAS.",
+        "labels_visible_in_image": "LA, IC, STP, EAS, ACL, coccyx, white triangle, yellow arrow, Sup./Ant./Post., 'Lateral aspect'",
+        "pixels": "646x515",
+        "local_path": "perine/images/raw/PMC7182620/12565_2019_521_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "15 male pelvises dissected, 3 for histology. \"On the lateral aspect, the perineal muscles were connected to each other.\" \"In addition, the extended muscle bundle from the levator ani muscle and the perineal muscles surround the external urethral sphincter.\" \"On the medial aspect, the levator ani muscle and the external anal sphincter form the anterior and posterior muscular slings of the anal canal.\"",
+    "clinical_relevance": "\"The connection between the perineal muscles and levator ani muscle indicates a possible close relationship between the functions of the urethra and anus.\"",
+    "notes": "Good companion to PMC6942605 (same group, female)."
+  },
+  {
+    "section": "taban",
+    "use": "topo_lecture",
+    "topic": "3D anatomy of levator ani, anal sphincter complex, perineal body and anococcygeal ligament from serial sections (Chinese Visible Human)",
+    "pmcid": "PMC4549266",
+    "version": 1,
+    "doi": "10.1371/journal.pone.0132226",
+    "citation": "PLoS One. 2015 Aug 25;10(8):e0132226. doi: 10.1371/journal.pone.0132226",
+    "title": "3D Topography of the Young Adult Anal Sphincter Complex Reconstructed from Undeformed Serial Anatomical Sections",
+    "authors": "Wu Yi, Dabhoiwala Noshir F., Hagoort Jaco et al.",
+    "year": "2015",
+    "journal": "PLoS ONE",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "pone.0132226.g001.jpg",
+        "label": "Fig 1",
+        "caption": "The architecture of the levator ani muscle.Panel G shows the positions of the transverse sections in panels A-D and that of obliquely sectioned panel E (calculated from reconstruction). The sections show the bilayered make-up of the pubovisceral muscle (A-C) and its attachment to the rectococcygeal muscle (A,B), the extension of the pubovisceral and deep layer of the puborectal muscles to the pubic bone (B,C), the external anal sphincter, the superficial layer of the puborectal muscle, and the conjoint longitudinal muscle of the rectum (C-E), and the rectoperineal muscle (D). Panel E visualizes the successive layers of the anal-sphincter complex, while panel F, a calculated midsagittal section of this specimen, shows the muscles surrounding the anal canal. Panels G and H show reconstructions of the levator and sphincter ani muscles as seen from the left (G) and anterosuperior (H). The color code of the (outlined) structures is shown in S2 Fig and sections without outlines S5 Fig. Abbreviations: AL, anococcygeal ligament; Ant, anterior; B, bladder; Co, coccygeal muscle; EAS, external anal sphincter; GM, gluteus maximus muscle; Post, posterior; PR-D, puborectal muscle, deep portion; PR-S, puborectal muscle, superficial portion; PV, pubovisceral muscle with deep (purple) and superficial (orange) layers; RC, rectococcygeal muscle; U, urethra; R, rectum; V, vagina.",
+        "specimen": "serial anatomical cryosections + 3D reconstruction",
+        "what_it_shows": "Transverse cryosections (A-E) and midsagittal section (F) of a young female pelvis with outlined levator ani subdivisions, EAS, puborectalis, rectococcygeal muscle and anococcygeal ligament; 3D models from the left (G) and anterosuperior (H).",
+        "labels_visible_in_image": "Ant, Post, B, V, R, U, P, OI, GM, EAS, Fat, A-H; G: Co, RC, PV, AL, PR-D, PR-S, EAS, red section lines A-E; H: Co, RC, PV, OI, EAS, PR",
+        "pixels": "750x805",
+        "local_path": "perine/images/raw/PMC4549266/pone.0132226.g001.jpg"
+      },
+      {
+        "file": "pone.0132226.g002.jpg",
+        "label": "Fig 2",
+        "caption": "The architecture of the anal sphincter complex and perineal body.Panel D shows the positions of the sagittal sections of panels A-C. The sections show the position of muscles and the perineal body around the rectum (A: midsagittal; C: most lateral). Panels E and F show a left-lateral and left-anterior view of the muscles surrounding the rectum and vagina that have insertions on the perineal body. The rectococcygeal muscle and anococcygeal ligament are shown in panel E. The bulbospongious muscle is not shown in panel E so as not to hide the perineal body and deep perineal muscle. For the same reason, the vagina and uterus are not shown in panel F. The color code of the (outlined) structures is shown in S2 Fig and sections without outlines in S6 Fig. Abbreviations: AL, anococcygeal ligament; B, bladder; BS, bulbospongious muscle; DP, deep perineal muscle; EAS, external anal sphincter; LR, longitudinal smooth muscle of rectum; PB, perineal body; PR-D, puborectal muscle, deep portion; PR-S, puborectal muscle, superficial portion; Pub: pubic bone; RC, rectococcygeal muscle; RP, rectoperineal muscle; STP, superficial transverse perineal muscle; U, urethra; Ute, uterus; UVS, urethrovaginal sphincter; R, rectum; V, vagina.",
+        "specimen": "serial anatomical cryosections + 3D reconstruction",
+        "what_it_shows": "Sagittal sections (A-C) and 3D views (E, F) of the female perineal body with its muscular insertions (STP, DP, BS, PR, EAS, rectoperineal muscle).",
+        "labels_visible_in_image": "B, Pub, V, U, R, AL, A-F; E: Ute, V, LR, RC, AL, PR-D, PR-S, DP, PB, EAS, STP; F: LR, RP, DP, PB, BS, STP, PR-S",
+        "pixels": "748x392",
+        "local_path": "perine/images/raw/PMC4549266/pone.0132226.g002.jpg"
+      }
+    ],
+    "key_findings": "\"3D reconstructions of undeformed thin serial anatomical sections of 4 females and 2 males (21–35y) of the Chinese Visible Human database.\" \"The anococcygeal ligament fixed the EAS to the coccygeal bone.\" \"The puborectal-muscle loops, which define the levator hiatus, passed around the anorectal junction and inserted anteriorly on the perineal body and pubic bone.\" Rectococcygeal, rectoperineal and conjoint longitudinal muscles \"formed a 'diaphragm' at the inferior boundary of the mesorectum that suspended the anorectal junction.\"",
+    "clinical_relevance": "Undeformed young-adult anatomy of the levator hiatus and perineal body, the structures stretched/torn in childbirth.",
+    "notes": "Cryosection data (Chinese Visible Human) - directly comparable with our NLM VHP sections. Fig 2 is 750 px wide; labels small but legible. Interactive 3D-PDF in supplement (not downloaded)."
+  },
+  {
+    "section": "taban",
+    "use": "kesit_lecture",
+    "topic": "Levator ani subdivisions (puborectal, iliococcygeal, puboperineal, pubovaginal, puboanal) on 3D transperineal ultrasound",
+    "pmcid": "PMC8253870",
+    "version": 1,
+    "doi": "10.1186/s13244-021-01037-y",
+    "citation": "Insights Imaging. 2021 Jul 2;12:91. doi: 10.1186/s13244-021-01037-y",
+    "title": "Appearance of the levator ani muscle subdivisions on 3D transperineal ultrasound",
+    "authors": "Manzini Claudia, van den Noort Frieda, Grob Anique T. M. et al.",
+    "year": "2021",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2021_1037_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Midsagittal (A and B) and coronal (C and D) plane, without and with segmentation. In B, the C shape of the iliococcygeal muscle (ICM) (blue) surrounding the puborectal muscle (PRM) (green); in D, the round shape of the external sphincter (brown). The red line in B shows the position of the coronal plane and in D, the position of the midsagittal plane (A and B). The ultrasound probe position with respect to the images is indicated by the arrows",
+        "specimen": "US (3D transperineal) with segmentation",
+        "what_it_shows": "Midsagittal (A, B) and coronal (C, D) TPUS planes without and with colour segmentation: iliococcygeal (blue) C-shape around puborectal (green), external sphincter (brown).",
+        "labels_visible_in_image": "A-D in circles, 'Probe' arrows, red plane lines; colour overlays only (no text labels)",
+        "pixels": "797x640",
+        "local_path": "perine/images/raw/PMC8253870/13244_2021_1037_Fig1_HTML.jpg"
+      },
+      {
+        "file": "13244_2021_1037_Fig4_HTML.jpg",
+        "label": "Fig. 4",
+        "caption": "The 3D model showing the segmented structures: The Pubic bone (PB, grey), external sphincter (ES, brown), puboperineal muscle (PPM, red), puboanal muscle (PAM, orange), pubovaginal muscle (PVM, yellow), puborectal muscle (PRM, green) and iliococcygeal muscle (ICM, blue). A shows the view from caudal to cranial; B shows the view from cranial to caudal. In C, the model is disassembled to appreciate the single structures separately",
+        "specimen": "3D model from US segmentation",
+        "what_it_shows": "3D model of pubic bone, external sphincter and five LAM subdivisions, caudal (A) and cranial (B) views and disassembled (C).",
+        "labels_visible_in_image": "A, B, C, orientation axes (left/right, anterior/posterior, cranial/caudal); colour code only",
+        "pixels": "784x565",
+        "local_path": "perine/images/raw/PMC8253870/13244_2021_1037_Fig4_HTML.jpg"
+      }
+    ],
+    "key_findings": "Twenty 3D TPUS scans of vaginally nulliparous women. Mean inter-/median intra-observer DSI: \"puborectal 0.83 (0.13)/0.83 (0.10), puboanal 0.70 (0.16)/0.79 (0.09), iliococcygeal 0.73 (0.14)/0.79 (0.10), puboperineal 0.63 (0.25)/0.75 (0.22), pubovaginal muscle 0.62 (0.22)/0.71 (0.16), and the external sphincter 0.81 (0.12)/0.89 (0.03).\" \"Our results show that the LAM subdivisions of nulliparous women can be reproducibly identified on 3D TPUS data.\"",
+    "clinical_relevance": "Basis for TPUS assessment of levator injury after vaginal birth.",
+    "notes": "Labels are colour-coded only; add Turkish text labels on the slide using the caption colour key."
+  },
+  {
+    "section": "taban",
+    "use": "variation",
+    "topic": "Postpartum levator ani (puborectalis/iliococcygeus) avulsion on tomographic ultrasound and MRI with 3D models",
+    "pmcid": "PMC5593956",
+    "version": 1,
+    "doi": "10.1038/s41598-017-08201-9",
+    "citation": "Sci Rep. 2017 Sep 11;7:11235. doi: 10.1038/s41598-017-08201-9",
+    "title": "Combination of tomographic ultrasound imaging and three-dimensional magnetic resonance imaging-based model to diagnose postpartum levator avulsion",
+    "authors": "Yan Yulin, Dou Chaoran, Wang Xia et al.",
+    "year": "2017",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2017_8201_Fig1_HTML.jpg",
+        "label": "Figure 1",
+        "caption": "Images of the normal levator ani muscle of a 20-year-old nulliparous woman on TUI are presented. The image in the top left corner is a reference slice in the coronal plane. The other eight images represent axial plane slices obtained at 2.5-mm intervals; slice 1 is obtained in the plane of the minimum levator hiatus; the -1, -2, and 0 slices are caudal of the minimum plane; and the 2, 3, 4, and 5 slices are cephalad of the minimum plane. LUG was measured in slices 0, 1, and 2 and then averaged. (TUI: Tomographic ultrasound imaging; LUG: Levator-urethra gap, PR: puborectalis).",
+        "specimen": "US (tomographic ultrasound imaging, TUI)",
+        "what_it_shows": "Normal levator ani in a 20-year-old nulliparous woman: coronal reference + 8 axial TUI slices at 2.5 mm, puborectalis inserted bilaterally on pubis, levator-urethra gap measured.",
+        "labels_visible_in_image": "slice numbers -2..5, PUBIS, PR, LUG, 2.5 mm, scanner text",
+        "pixels": "675x507",
+        "local_path": "perine/images/raw/PMC5593956/41598_2017_8201_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41598_2017_8201_Fig3_HTML.jpg",
+        "label": "Figure 3",
+        "caption": "(a) Shows that the puborectalis originates from the inner surface of the pubic bone and bypasses the rectum to the inner surface of the pubic bone on the other side, like a sling. (b–d) Demonstrate the morphology of the iliococcygeus in the axial, coronal and sagittal planes, respectively. In the coronal plane, it is similar to a wing. In (e,f), the pelvic bone structures are presented in green, the obturator muscle in yellow (showing its attachment to the pelvic medial surface), the iliococcygeus muscle in blue and puborectalis in red. (g,h) Shows the 3D model of the iliococcygeus and puborectalis. In (g), the blue structure is the iliococcygeus, and the red structure is the puborectalis. To better display the puborectalis, which is in the bottom of the iliococcygeus, the iliococcygeus, obturator muscle and bone structure were made transparent as seen on (h). (PR: puborectalis, IC: iliococcygeus, OB: obturator muscle).",
+        "specimen": "MRI + 3D model",
+        "what_it_shows": "Axial MRI of puborectalis sling (a), iliococcygeus in axial/coronal/sagittal planes (b-d), colour segmentation (e, f) and 3D model of iliococcygeus (blue) and puborectalis (red) (g, h).",
+        "labels_visible_in_image": "a-h, PUBIS, U, V, R, PR, OB, IC; colour segmentation",
+        "pixels": "675x956",
+        "local_path": "perine/images/raw/PMC5593956/41598_2017_8201_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "80 women examined 45-60 days after vaginal delivery. \"The incidence of puborectalis avulsion in these postpartum women was 13.75% in this study.\" \"Iliococcygeus muscle injury is difficult to detect using TUI.\" \"Interestingly, our study reveals that iliococcygeus muscle injury is often associated with severe puborectalis muscle tear.\"",
+    "clinical_relevance": "Levator avulsion after vaginal birth \"may increase the risk of pelvic floor dysfunction (PFD).\"",
+    "notes": "Prevalence = acquired (obstetric) morphological variant, not congenital."
+  },
+  {
+    "section": "taban",
+    "use": "topo_lecture",
+    "topic": "Anococcygeal ligament vs anococcygeal raphe (anococcygeal body) - histology and author diagram",
+    "pmcid": "PMC3381476",
+    "version": 1,
+    "doi": "10.3349/ymj.2012.53.4.849",
+    "citation": "Yonsei Med J. 2012 May 22;53(4):849–55. doi: 10.3349/ymj.2012.53.4.849",
+    "title": "Anococcygeal Raphe Revisited: A Histological Study Using Mid-Term Human Fetuses and Elderly Cadavers",
+    "authors": "Kinugasa Yusuke, Arakawa Takashi, Abe Hiroshi et al.",
+    "year": "2012",
+    "journal": "Yonsei Medical Journal",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "ymj-53-849-g006.jpg",
+        "label": "Fig. 6",
+        "caption": "Anococcygeal raphe: a classical concept and our identification according to the present histology. (A) A classical view of the anococcygeal raphe (raphe) in dorsal views of the female perineum. (B) Our identification according to the present study. Muscles are not drawn in a dorsal part of the ischorectal fossa (asterisk). In the diagram, the ventral part of the female perineum is drawn according to our recent studies.20,30 ACL, anococcygeal ligament; ATLA, arcus tendineus for the levator ani; BS, bulbospongiosus muscle; CO, coccyx; COM, coccygeus muscle; EAS, external anal sphincter; IC, ishchiocavernosus muscle; LA, levator ani; OI, obturator internus muscle; PB, perneal body; PM, perineal membrane; SSL, sacrospinous ligament; STL, sacrotuberous ligament.",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Dorsal view of female perineum and pelvic floor: classical anococcygeal raphe (A) versus the authors' interpretation (B) with the anococcygeal ligament between EAS and coccyx; also perineal body, perineal membrane, ATLA, sacrospinous/sacrotuberous ligaments.",
+        "labels_visible_in_image": "A, B, IC, PM, OI, ATLA, PB, BS, EAS, LA, ACL, CO, COM, SSL, STL, natal cleft (of the skin), raphe / 'raphe?', *",
+        "pixels": "588x925",
+        "local_path": "perine/images/raw/PMC3381476/ymj-53-849-g006.jpg"
+      }
+    ],
+    "key_findings": "15 fetuses plus adult cadaver histology. \"The adult ligament contained both smooth and striated muscle fibers.\" \"Along and around the anococcygeal ligament, we did not find any aponeurotic tissue with transversely oriented fibers connecting bilateral levator ani slings.\" \"We hypothesize that a classically described raphe corresponds to the specific subcutaneous tissue on the superficial or dorsal side of the anococcygeal ligament.\"",
+    "clinical_relevance": "Clarifies the posterior attachment of the EAS/levator ani (anococcygeal body), relevant to posterior perineal hernia and APR dissection.",
+    "notes": "LICENCE CC BY-NC (acceptable, flagged). Line drawing is the authors' own (caption says ventral part drawn 'according to our recent studies')."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Perineal membrane and deep perineal pouch: dissection and stereological histology (is there a striated deep transverse perineal muscle?)",
+    "pmcid": "PMC13069139",
+    "version": 1,
+    "doi": "10.1111/joa.70057",
+    "citation": "J Anat. 2025 Oct 22;248(5):755–65. doi: 10.1111/joa.70057",
+    "title": "Macroscopical and histological characterization of the perineal membrane and deep perineal pouch",
+    "authors": "Kampelmann Morten, Grindley Carina, Mühlfeld Christian et al.",
+    "year": "2025",
+    "journal": "Journal of Anatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "JOA-248-755-g004.jpg",
+        "label": "FIGURE 1",
+        "caption": "Topography of the perineal region in a male. Dorsally, the anal region is formed by the ischioanal fossa (green circle). On the ventral side is the urogenital region with the deep and superficial perineal pouches. The loose connective tissue extends over (cranial) the deep perineal pouch (arrow). (1) levator ani muscle, (2) coccygeus muscle, (3) perineal membrane/deep transverse perineal muscle, (4) ischiocavernosus muscle, and (5) bulbospongiosus muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Male perineum from below: ischioanal fossa (green circle) behind, urogenital region with superficial and deep pouches in front; levator ani, coccygeus, perineal membrane/DTP, ischiocavernosus, bulbospongiosus numbered.",
+        "labels_visible_in_image": "1-5, green circle, white arrow, ventral, dorsal, right, left",
+        "pixels": "709x628",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g004.jpg"
+      },
+      {
+        "file": "JOA-248-755-g001.jpg",
+        "label": "FIGURE 2",
+        "caption": "Perineal regions of (a) female and (b) male donors. Branches of the pudendal artery and nerve partly covering the deep perineal pouch. (1) Ischioanal fossa, (2) levator ani muscle, (3) perineal membrane/deep transverse perineal muscle covered by branches of the internal pudendal artery (inferior rectal artery), as well as branches of the pudendal nerve (perineal nerves and inferior rectal nerves), (4) superficial transverse perineal muscle (only visible in males), (5) ischiocavernous muscle, and (6) bulbospongiosus muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Female (a) and male (b) perineum with branches of internal pudendal artery and pudendal nerve (inferior rectal, perineal) running over the perineal membrane; ischioanal fossa, levator ani, STP, IC, BS numbered.",
+        "labels_visible_in_image": "(a), (b), 1-6, ventral, dorsal, right, left",
+        "pixels": "661x1332",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g001.jpg"
+      },
+      {
+        "file": "JOA-248-755-g006.jpg",
+        "label": "FIGURE 5",
+        "caption": "Histological section of (a) female (no. 7 in Table 1) and (b) male (no. 4 in Table) DTPs stained with azan. Transversally running collagen fibers (blue) are predominantly seen. Only limited muscle fibers (red) are visible. Green boxes indicate the counting frame for the stereological analysis. Scale bar: 0.2 Cm. (c, d) Male donor; age at death, 87 years (no. 5 in Table 1). Azan section (c) with subsequent immunofluorescence (d). Acidophilic structures, which were stereologically evaluated as smooth muscles (black arrows), are immunohistochemically positive for smooth muscle actin (white arrows). Merged channels with blue = DAPI and green = smooth muscle actin. Scale bar: 50 μm.",
+        "specimen": "histology (azan + immunofluorescence SMA)",
+        "what_it_shows": "Azan sections of the female (a) and male (b) deep transverse perineal tissue plate: mostly transverse collagen (blue) with few muscle fibres; (c, d) smooth-muscle actin positive cells.",
+        "labels_visible_in_image": "(a)-(d), ventral, dorsal, lateral, medial, DTP, green outlines, black/white arrowheads, scale bars",
+        "pixels": "709x623",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g006.jpg"
+      }
+    ],
+    "key_findings": "10 embalmed donors (mean age at death 82 years). A \"relatively thick tissue plate (diameter: 4–5 mm) located superior to a fascia‐like structure, the perineal membrane, was observed running transversally to the ischiopubic rami.\" \"In both sexes, the volume densities of the connective tissue were approximately 80%.\" \"In females, the volume density of the muscle cells was approximately 20%.\" \"With increasing age, the volume density of the connective tissue increased, whereas those of the smooth muscle cells and/or striated muscle fibers decreased, independent of sex.\"",
+    "clinical_relevance": "Directly addresses the 'urogenital diaphragm' controversy: the deep pouch is mainly connective tissue (perineal membrane complex) rather than a muscular diaphragm.",
+    "notes": "Key figure set for the 'urogenital diaphragm controversy' slide."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Layered perineum: STP, perineal membrane and smooth-muscle 'deep transverse perineal muscle' in the deep perineal space (male & female)",
+    "pmcid": "PMC12229694",
+    "version": 1,
+    "doi": "10.1038/s41598-025-09585-9",
+    "citation": "Sci Rep. 2025 Jul 3;15:23730. doi: 10.1038/s41598-025-09585-9",
+    "title": "Presence of smooth muscle continuous with the rectal and vaginal walls in the deep perineal space prompts reconsideration of the deep transverse perineal muscle",
+    "authors": "Muro Satoru, Chang Liu, Tharnmanularp Suthasinee et al.",
+    "year": "2025",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2025_9585_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Macroscopic examination of the male perineum. (A) Removal of the skin, fat, and connective tissue reveals the perineal muscles. (B) A slender, band-like muscle extending from the midline to the IPR, identified as the STP. (C) Deeper dissection reveals the PM, a firm, dense connective tissue structure. (D) Removal of the PM exposes the structure, a triangular, plate-like shaped muscle with transverse fibers, continuous with the anterior rectal wall (dashed arrows). BP, bulb of penis; Bs, bulbospongiosus; EAS, external anal sphincter; Ic, ischiocavernosus; IPR, ischiopubic ramus; LA, levator ani; PM, perineal membrane; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Male perineum dissected in layers: superficial muscles (A, B: IC, BS, STP, EAS), perineal membrane after removing them (C), and the plate-like smooth muscle continuous with the rectal wall after removing the membrane (D).",
+        "labels_visible_in_image": "A-D, Ic, Bs, STP, EAS, Anterior, BP, IPR, PM, LA, EUS, Ur, SM, LM, dashed lines/arrows",
+        "pixels": "669x549",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41598_2025_9585_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Macroscopic examination of the female perineum. (A) Dissection of the skin, fat, and connective tissue reveals the perineal muscles. (B) A slender, band-like muscle running transversely, identified as the STP, is located posterolateral to the vaginal opening. (C) Deeper dissection reveals the PM. (D) Removal of the PM exposes the structure, a triangular, plate-like shaped muscle with transverse fibers, continuous with the vaginal wall and anterior rectal wall (dashed arrow). BV, bulb of vestibule; Bs, bulbospongiosus; EAS, external anal sphincter; Ic, ischiocavernosus; IPR, ischiopubic ramus; LA, levator ani; PM, perineal membrane; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra; Va, vagina.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Female perineum in the same four layers: STP posterolateral to the vaginal opening, perineal membrane, bulb of vestibule, and smooth muscle continuous with vaginal and rectal walls.",
+        "labels_visible_in_image": "A-D, Ic, Bs, Va, STP, EAS, Anterior, IPR, PM, BV, Ur, SM, LA, LM, dashed lines/arrow",
+        "pixels": "669x549",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig2_HTML.jpg"
+      },
+      {
+        "file": "41598_2025_9585_Fig7_HTML.jpg",
+        "label": "Fig. 7",
+        "caption": "Schematic view of the pelvic region, seen from an oblique inferior angle. (A) Male pelvic structures. (B) Female pelvic structures. (C) Enlarged view of the male perineum, illustrating the arrangement from superficial to deep layers: the STP, followed by the PM, and then the smooth muscle structure in the deep perineal space, a triangular, plate-like shaped smooth muscle continuous with the rectal wall. (D) Enlarged view of the female perineum, showing the arrangement from superficial to deep layers: the STP, followed by the PM, and then the smooth muscle structure in the deep perineal space, a triangular, plate-like shaped smooth muscle continuous with both the rectal wall and the vaginal wall. Bl, bladder; Bs, bulbospongiosus; EAS, external anal sphincter; EUS, external urethral sphincter; Ic, ischiocavernosus; LM, longitudinal muscle of rectum; PM, perineal membrane; R, rectum; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra; Va, vagina.",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Oblique inferior view of male (A, C) and female (B, D) pelvis showing superficial-to-deep layering: STP, perineal membrane, then smooth muscle of the deep perineal space.",
+        "labels_visible_in_image": "A-D, Ur, Bs, SM, LM, R, PM, Ic, STP, EAS, Bl, Va",
+        "pixels": "669x529",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig7_HTML.jpg"
+      }
+    ],
+    "key_findings": "Nine cadavers (five males; average age, 79 years). \"An overall layered perineum structure was revealed in both sexes.\" \"A triangular, plate-like shaped smooth muscle with transversely oriented fibers occupied the deep perineal space, which, unlike the striated muscle, was continuous with the rectal wall and was identified as the deep transverse perineal muscle.\" \"The smooth muscle was continuous with the longitudinal rectal muscle and, in females, with the vaginal muscular wall.\"",
+    "clinical_relevance": "The authors define the deep perineal space as \"the region between the perineal membrane and the levator ani muscle\" - a modern replacement for the 'urogenital diaphragm'.",
+    "notes": "Best layered dissection pair for male vs female superficial/deep pouch. Schematic Fig 7 is the authors' own."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Perineal membrane, rhabdosphincter (urethral sphincter complex) and levator ani: histology and sex-specific diagrams",
+    "pmcid": "PMC4022307",
+    "version": 1,
+    "doi": "10.1155/2014/906921",
+    "citation": "Biomed Res Int. 2014 Apr 27;2014:906921. doi: 10.1155/2014/906921",
+    "title": "The Urethral Rhabdosphincter, Levator Ani Muscle, and Perineal Membrane: A Review",
+    "authors": "Hinata Nobuyuki, Murakami Gen",
+    "year": "2014",
+    "journal": "BioMed Research International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "BMRI2014-906921.007.jpg",
+        "label": "Figure 7",
+        "caption": "Horizontal sections in a 76-year-old woman. Panel (a) (elastica-Masson staining) includes the urethra (UR), crus clitoris (CC), rhabdosphincter (RS), urethrovaginal sphincter (UVS), and levator ani (LA): the anterior side of the body corresponds to the upper side of the figure. Panel (b) (immunohistochemistry for smooth muscle actin) is a higher-magnification view of the square marked B in panel (a), while panel (c) (immunohistochemistry for desmin) and panel (d) (immunohistochemistry for smooth muscle actin) are higher-magnification views of the square marked CD in panel (a). The levator ani is accompanied by a smooth muscle-rich fascia (panel (b)). The urethrovaginal sphincter is composed of striated muscle fibers (positive in panel (c); negative in panel (d)), accompanied by abundant irregular elastic fibers (panel (e)). The rectovaginal septum between the vagina (VAG) and rectum (REC) is replaced by veins. Scales bars: 10 mm in panel (a); 1 mm in panels (b), (c), and (d); 0.1 mm in panel (e).",
+        "specimen": "histology (elastica-Masson, SMA/desmin IHC)",
+        "what_it_shows": "Horizontal section of a 76-year-old woman: urethra, rhabdosphincter, urethrovaginal sphincter, crus clitoridis, vagina, rectum and levator ani; IHC shows striated UVS and smooth-muscle-rich levator fascia.",
+        "labels_visible_in_image": "(a)-(e), RS, CC, UR, UVS, Veins, VAG, LA, REC, boxes B and C,D, scale bars",
+        "pixels": "600x898",
+        "local_path": "perine/images/raw/PMC4022307/BMRI2014-906921.007.jpg"
+      },
+      {
+        "file": "BMRI2014-906921.011.jpg",
+        "label": "Figure 11",
+        "caption": "A diagram of the levator ani, rhabdosphincter, and perineal membrane in women. Lateral view through the bony pelvis. In the female, the rhabdosphincter is connected with the ischiadic bony ramus by the perineal membrane. The fibers of the levator ani muscle are directed to the external sphincter and anus. In the female, the rhabdosphincter is continuous with the anterior long muscle sheet, the urethrovaginal sphincter (UVS), and the posterolateral small part, the compressor urethrae (CU). These striated muscles are embedded in an elastic-fiber mesh that provides the insertion for the perineal membrane (PM) to the ischiadic bony ramus. The perineal membrane extends anteromedially to a space between the vestibular bulb and the vaginal wall. The levator ani is attached to the superior aspects of the perineal membrane (arrows).",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Lateral view through the female bony pelvis: rhabdosphincter, compressor urethrae, urethrovaginal sphincter embedded in the perineal membrane; levator ani attached to the upper surface of the perineal membrane; vestibular bulb, bulbospongiosus, EAS.",
+        "labels_visible_in_image": "Uterus, Bladder, Pubis, RS, Urethra, UVS, Vestibular bulb, Bulbospongiosus muscle, Vagina, CU, Levator ani (x2), PM, External anal sphincter, Anus",
+        "pixels": "600x733",
+        "local_path": "perine/images/raw/PMC4022307/BMRI2014-906921.011.jpg"
+      }
+    ],
+    "key_findings": "Review of the authors' histology. \"The male perineal membrane was thin but solid and extends along the inferior margin or bottom of the rhabdosphincter area.\" \"In contrast, the female rhabdosphincter, including the compressor urethrae and urethrovaginal sphincter muscles, was embedded in the elastic fiber mesh that is continuous with the thick, multilaminar perineal membrane.\" \"The inferomedial edge of the female LA was attached to the upper surface of the perineal membrane and not directly attached to the rhabdosphincter.\"",
+    "clinical_relevance": "\"Detailed knowledge of the anatomy of the rhabdosphincter and adjacent tissues is mandatory during urologic surgery to ensure reliable oncologic and functional outcomes.\"",
+    "notes": "Licence CC BY 3.0. Diagram is presented as 'new diagrams' by the authors. Male diagram (Fig 10) also available if needed."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Denonvilliers' (rectoprostatic) fascia: multiple-leaf histology in elderly male cadavers",
+    "pmcid": "PMC4433060",
+    "version": 1,
+    "doi": "10.1186/s12894-015-0034-5",
+    "citation": "BMC Urol. 2015 May 12;15:42. doi: 10.1186/s12894-015-0034-5",
+    "title": "Site-dependent and interindividual variations in Denonvilliers’ fascia: a histological study using donated elderly male cadavers",
+    "authors": "Muraoka Kuniyasu, Hinata Nobuyuki, Morizane Shuichi et al.",
+    "year": "2015",
+    "journal": "BMC Urology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12894_2015_34_Fig4_HTML.jpg",
+        "label": "Figure 4",
+        "caption": "Multiple-leaf configuration of Denonvilliers’ fascia in a midsagittal section from a 79-year-old man. Panel A displays topographical anatomy around Denonvilliers’ fascia (DF). The longitudinal muscle layer of the rectum (LMR) extends inferiorly to continue to the conjoint muscle coat or longitudinal anal muscle (asterisks). The leaves of DF (arrow) are dispersed in a venous plexus (veins) without ending at the rectourethralis muscle (RUM) in this specimen. The insert in the panel A (elastic–Masson staining; a section near panel A) shows rich content of elastic fibers (black color) in the prostatic capsule, DF, and fascia propria of the rectum. Panel B, corresponding to the rectangle in panel A, shows the multiple-leaf configuration of DF. Periprostatic nerves (thin arrows) are scattered between the fascial leaves. A thick leaf of the fascia is fused with the prostatic capsule (capsule) at the site indicated by arrowheads, while the other leaf merges with the fascia propria of the rectum (stars) at a site indicated by thick arrows. BP: bulbus penis; CG: Cowper’s gland, CMR: circular muscle layer of the rectum; EAS: external anal sphincter; IAS: internal anal sphincter; PR: prostate; REC: rectum; RS: rhabdosphincter area; UR: urethra.",
+        "specimen": "histology (HE, elastic-Masson)",
+        "what_it_shows": "Midsagittal section of a 79-year-old man: prostate, rhabdosphincter, Cowper's gland, rectourethralis, IAS/EAS, rectum with DF as multiple leaves between prostatic capsule and fascia propria of rectum (B, high magnification); orientation sketch.",
+        "labels_visible_in_image": "A, B, RS, UR, PR, CG, BP, RUM, LMR, CMR, REC, IAS, EAS, vein, capsule, DF, asterisks, stars, arrows, arrowheads, 5mm, 1mm",
+        "pixels": "567x942",
+        "local_path": "perine/images/raw/PMC4433060/12894_2015_34_Fig4_HTML.jpg"
+      }
+    ],
+    "key_findings": "25 donated male cadavers (72-95 years). \"We observed that DF consisted of disorderly, loose connective tissue and structures resembling 'leaves', which were interlacing and adjacent to each other, actually representing elastic or smooth muscle fibers.\" Variations included DF connection with the lateral pelvic fascia \"being clear, unclear, or absent\" and \"all or most leaves of DF fused with the prostatic capsule near the base of the seminal vesicles\".",
+    "clinical_relevance": "Defines the plane for nerve-sparing radical prostatectomy and anterior TME; site-dependent variation of DF.",
+    "notes": "Fig 5 (intra-op photo + rough sketch) downloaded then dropped - low didactic value."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Denonvilliers' fascia as a single 'Y'-shaped layer continuous with peritoneal reflection (male cadaver)",
+    "pmcid": "PMC9843937",
+    "version": 1,
+    "doi": "10.1186/s12893-023-01913-y",
+    "citation": "BMC Surg. 2023 Jan 17;23:13. doi: 10.1186/s12893-023-01913-y",
+    "title": "The “Y”-shaped Denonvilliers’ fascia and its adjacent relationship with the urogenital fascia based on a male cadaveric anatomical study",
+    "authors": "Li Yi, Zhao Ya-Min, Ma Yan-Bing et al.",
+    "year": "2023",
+    "journal": "BMC Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12893_2023_1913_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Midsagittal male cadaveric specimens. 1 Visceral layer of the urogenital fascia; 2 peritoneum; 3 peritoneal reflection; 4 Denonvilliers’ fascia; 5 urinary bladder; 6 rectum; 7 seminal vesicles; 8. prostate",
+        "specimen": "human cadaver (midsagittal section)",
+        "what_it_shows": "Midsagittal male pelvis: peritoneal reflection of the rectovesical pouch continuing as Denonvilliers' fascia between seminal vesicle/prostate and rectum; urogenital fascia.",
+        "labels_visible_in_image": "numbers 1-8 with arrows",
+        "pixels": "896x780",
+        "local_path": "perine/images/raw/PMC9843937/12893_2023_1913_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "20 adult male pelvic specimens. \"Denonvilliers’ fascia was typically single-layered and tough.\" \"On the sagittal plane, the peritoneum constituting the peritoneal reflection and Denonvilliers’ fascia formed a 'Y' shape.\" \"Denonvilliers’ fascia, the extension of the peritoneum in the pelvic floor, appears as a single-layered 'Y'-shape on the sagittal plane.\"",
+    "clinical_relevance": "Supports the peritoneal fusion theory of DF origin; surgical landmark in TME/prostatectomy.",
+    "notes": "Contrasts with multilayer descriptions (PMC4433060, PMC8571354) - present as an open controversy."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Denonvilliers' fascia on micro-CT and Masson trichrome; schematic of anterior TME planes vs mesorectal fascia",
+    "pmcid": "PMC8571354",
+    "version": 1,
+    "doi": "10.1038/s41598-021-01106-8",
+    "citation": "Sci Rep. 2021 Nov 5;11:21759. doi: 10.1038/s41598-021-01106-8",
+    "title": "Three-dimensional anatomy of the Denonvilliers’ fascia after micro-CT reconstruction",
+    "authors": "Yang Seung Yoon, Kim Ho Seung, Cho Min Soo et al.",
+    "year": "2021",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2021_1106_Fig2_HTML.jpg",
+        "label": "Figure 2",
+        "caption": "(A) Three-dimensional anatomy of the hemi-pelvis from a sagittal section reconstructed from micro-computed tomography. (B) Masson trichrome-stained section at the level of the seminal vesicles. Horizontal sections of the Denonvilliers’ fascia (DVF) are indicated by the black arrowheads. (C) Masson trichrome-stained section at the level of the prostate. Horizontal sections of the DVF are indicated by the black arrowheads and of the prostatic capsule is indicated by the red arrowheads. (D) Masson trichrome-stained section of the specimen. The black arrowheads indicate sagittal sections of the DVF, and the black arrow indicates the neurovascular bundle. The distal seminar part of the DVF merging with the prostatic capsule is indicated by the white arrows. UB, urinary bladder; SV, seminal vesicle; P, prostate; R, rectum; S, sagittal; M, medial; A, anterior; P, posterior.",
+        "specimen": "micro-CT + histology (Masson trichrome)",
+        "what_it_shows": "Micro-CT sagittal hemipelvis with section levels (A) and Masson trichrome horizontal sections at seminal vesicle and prostate levels plus sagittal section showing DVF (arrowheads) and NVB.",
+        "labels_visible_in_image": "2A-2D, U.B, SV, R, P, B, C, D level markers, black/red/white arrowheads, arrow, 1mm scale bars, S/A/M/P axes",
+        "pixels": "792x388",
+        "local_path": "perine/images/raw/PMC8571354/41598_2021_1106_Fig2_HTML.jpg"
+      },
+      {
+        "file": "41598_2021_1106_Fig5_HTML.jpg",
+        "label": "Figure 5",
+        "caption": "Schematic representation of the relationships of the correct surgical plane during an anterior total mesorectal excision to the Denonvilliers’s fascia in the male. The authors would like to thank Dong-Su Jang, MID (Medical Illustration & Design), a part of the Medical Research Support Services of sei University College of Medicine, for all artistic support related to this work.",
+        "specimen": "schematic (commissioned medical illustration)",
+        "what_it_shows": "Axial schematic: prostate anteriorly, rectum posteriorly; Denonvilliers' fascia (green) with neurovascular bundles, mesorectal fascia (yellow), anterior (black) and posterior (red) dissection planes.",
+        "labels_visible_in_image": "Prostate, Rectum, legend: Mesorectal fascia, Denonvilliers' fascia, Anterior dissection plane, Posterior dissection plane",
+        "pixels": "752x461",
+        "local_path": "perine/images/raw/PMC8571354/41598_2021_1106_Fig5_HTML.jpg"
+      }
+    ],
+    "key_findings": "Eight specimens from four fresh cadavers. \"Micro-CT images corroborate that the Denonvilliers’ fascia consists of a multilayered structure that separates the rectum from the seminal vesicles and the prostate.\" \"... a successful mesorectal excision requires a dissection plane posterior to the Denonvilliers’ fascia.\"",
+    "clinical_relevance": "Mesorectal fascia vs DF relationship; preservation of urogenital neurovascular bundles in rectal cancer surgery.",
+    "notes": "Fig 5 drawn by an institutional medical illustrator (acknowledged in caption, no copyright/permission notice) - published under the article's CC BY."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Denonvilliers' fascia and anterior mesorectal dissection planes in formalin-fixed male cadavers",
+    "pmcid": "PMC8995278",
+    "version": 1,
+    "doi": "10.1007/s13304-022-01252-2",
+    "citation": "Updates Surg. 2022 Mar 14;74(2):629–36. doi: 10.1007/s13304-022-01252-2",
+    "title": "Navigating surgical anatomy of the Denonvilliers’ fascia and dissection planes of the anterior mesorectum with a cadaveric simulation model",
+    "authors": "García-Gausí María, García-Armengol Juan, Pellino Gianluca et al.",
+    "year": "2022",
+    "journal": "Updates in Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13304_2022_1252_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "After cranial anterior dissection of loose areolar tissue, forceps make a traction of Denonvilliers’ fascia like a single and consistent layer that offers a posterior plane with the anterior mesorectum (red arrow), and an anterior plane (yellow arrow) in front of said fascia with the seminal vesicles (SV). Immediately below the seminal vesicles, the fascia adheres firmly to the prostate capsule in all its extension (Den + PC). Den*: Denonvilliers’ fascia extends downward to reach the level of the urogenital diaphragm (colour figure online)",
+        "specimen": "human cadaver (sagittal hemipelvis)",
+        "what_it_shows": "Sagittal hemisected male pelvis with forceps retracting Denonvilliers' fascia from the anterior mesorectum; DF adherent to prostatic capsule and extending down toward the urogenital diaphragm.",
+        "labels_visible_in_image": "Prostate, Den + PC, Den*, Den (x2), SV, Anterior mesorectum, Rectal wall, yellow and red arrows",
+        "pixels": "628x379",
+        "local_path": "perine/images/raw/PMC8995278/13304_2022_1252_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "31 formalin-preserved male cadavers. \"Denonvilliers’ fascia was identified in 100% of the pelvises, as a single-layer fascia that originates from the peritoneal reflection and descends until its firm adhesion to the prostate capsule.\" \"The fascia divides the space providing an anterior and a posterior plane.\"",
+    "clinical_relevance": "Defines anterior/posterior planes in TME; DF reaching the urogenital diaphragm (perineal membrane) links pelvic and perineal fascial layers.",
+    "notes": "Fig 1 (unlabelled midsagittal section) downloaded then dropped."
+  },
+  {
+    "section": "fasya",
+    "use": "topo_lecture",
+    "topic": "Presacral fascia, rectal proper (mesorectal) fascia and rectosacral (Waldeyer) fascia in hemisected cadaver pelvis",
+    "pmcid": "PMC2810586",
+    "version": 1,
+    "doi": "10.3349/ymj.2005.46.6.737",
+    "citation": "Yonsei Med J. 2005 Dec 31;46(6):737–49. doi: 10.3349/ymj.2005.46.6.737",
+    "title": "Anatomic Basis of Sharp Pelvic Dissection for Curative Resection of Rectal Cancer",
+    "authors": "Kim Nam Kyu",
+    "year": "2005",
+    "journal": "Yonsei Medical Journal",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "ymj-46-737-g001.jpg",
+        "label": "Fig. 1",
+        "caption": "Cadaveric dissection of hemisectioned pelvis. (A) Presacral fascia covers the presacral vein over the sacrum. (B) The fascia picked up by the forceps is the rectal proper fascia enveloping the mesorectum and the rectum.",
+        "specimen": "human cadaver (hemisected pelvis)",
+        "what_it_shows": "A: presacral fascia over the sacrum; B: rectal proper fascia enveloping the mesorectum picked up by forceps.",
+        "labels_visible_in_image": "A, B, 'Presacral fascia', 'Rectal proper fascia', arrows",
+        "pixels": "605x203",
+        "local_path": "perine/images/raw/PMC2810586/ymj-46-737-g001.jpg"
+      },
+      {
+        "file": "ymj-46-737-g002.jpg",
+        "label": "Fig. 2",
+        "caption": "Cadaveric dissection of hemisectioned pelvis; the retrorectal space. The rectosacral fascia is noted in the retrorectal space at the level of 4th sacrum when dissection proceeds along the rectal proper fascial plane.",
+        "specimen": "human cadaver (hemisected pelvis)",
+        "what_it_shows": "Retrorectal space: rectosacral (Waldeyer) fascia at the level of S4 when dissection follows the rectal proper fascia; levator ani below.",
+        "labels_visible_in_image": "'Rectosacral fascia', 'Levator ani muscle', arrows",
+        "pixels": "464x314",
+        "local_path": "perine/images/raw/PMC2810586/ymj-46-737-g002.jpg"
+      }
+    ],
+    "key_findings": "Review with authors' cadaver dissections. Loose areolar tissue \"between the presacral fascia and the rectal proper fascia is encountered\" ... \"This fascia is known as the rectosacral fascia or Waldeyer's fascia.\" \"In addition, full mobilization of the rectum is not possible unless the rectosacral fascia is divided.\" \"The mesorectum disappears at the area of the attachment of the rectosacral fascia.\"",
+    "clinical_relevance": "With sharp pelvic dissection based on fascial anatomy \"local recurrence has decreased to less than 10%\".",
+    "notes": "LICENCE CC BY-NC (acceptable, flagged). These are the ORIGINAL photos (Kim 2005) later reproduced in PMC11375228 - cite this source, not the 2024 review. Images small (605x203, 464x314)."
+  },
+  {
+    "section": "urogenital",
+    "use": "kesit_lecture",
+    "topic": "Normal MRI anatomy of clitoris, vestibular bulbs and Bartholin region; anatomical illustration of the female urogenital triangle",
+    "pmcid": "PMC13013239",
+    "version": 1,
+    "doi": "10.1007/s00261-025-05179-1",
+    "citation": "Abdom Radiol (NY). 2025 Sep 8;51(4):2106–24. doi: 10.1007/s00261-025-05179-1",
+    "title": "Under the hood: vulvar anatomy and pathology with a focus on MRI",
+    "authors": "Golden Edwarda, Cooke Siobhan, Butler Elise et al.",
+    "year": "2025",
+    "journal": "Abdominal Radiology (New York)",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "261_2025_5179_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Axial T2WI (Left) and Sagittal T2WI with fat saturation (Right) demonstrating normal anatomy of the clitoris and relationship with surrounding structures in a 67-year-old female undergoing MRI for follow-up of repaired urethral diverticulum. The T2 hyperintense or intermediate vestibular bulbs of the clitoris (black arrows) flank the vaginal introitus (dashed white arrows). The T2 hyperintense crura of the clitoris run inferior to the inferior pubic rami (white arrows) and join anteriorly to form the body of the clitoris (grey arrow). The glans is ovoid in shape and intermediate in signal on T2WI (white arrow heads). The urethra (black dashed arrow) is anterior to the vaginal introitus",
+        "specimen": "MRI (T2WI)",
+        "what_it_shows": "Axial T2 (a) and sagittal fat-sat T2 (b, c) of the female perineum: vestibular bulbs flanking the introitus, crura under the inferior pubic rami, clitoral body and glans, urethra.",
+        "labels_visible_in_image": "a, b, c; white/black/grey arrows, arrowheads, dashed arrows (no text labels)",
+        "pixels": "749x200",
+        "local_path": "perine/images/raw/PMC13013239/261_2025_5179_Fig1_HTML.jpg"
+      },
+      {
+        "file": "261_2025_5179_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Illustrated depiction of the clitoris. A Inferior view, corresponding to imaging findings in the axial plane. B Sagittal view, corresponding to imaging findings and highlighting the clitoris, surrounding structures, and the three components of the suspensory ligament (46). C Inferior oblique view depicting spatial relationships of the erectile tissues of the clitoris, neurovascular supply, pelvic floor musculature, and the bony pelvis. D Detailed view of the clitoris, bulb of the vestibule, and associated neurovasculature in cross section.Illustration © 2025 Elise Butler",
+        "specimen": "schematic (medical illustration)",
+        "what_it_shows": "Illustrated female urogenital triangle: axial/sagittal views of clitoris (glans, body, crura, bulbs), suspensory ligament layers, ischiocavernosus/bulbospongiosus, greater vestibular gland, perineal membrane, superficial transverse perineal muscle, pudendal (Alcock's) canal and pudendal nerve/dorsal nerve.",
+        "labels_visible_in_image": "A: Pubic symphysis, Dorsal n., Glans, Body, Crus, Bulb, External urethral orifice, Vaginal orifice, Greater vestibular gl., Pudendal canal, Pudendal nerve; B: Suspensory Ligament (Superficial/Intermediate/Deep), Body, Bulb, Glans, Prepuce, Frenulum, Labia minora, Bladder, Pubic symphysis; C: Dorsal n./a./v., Suspensory lig., Glans, Prepuce, Body, Ischiocavernosus m., Bulbospongiosus m., Greater vestibular gl., Perineal membrane, Superficial transverse perineal m., Crura, Deep a., Bulbs, Pudendal (Alcock's) canal - in obturator internus fascia, Pudendal nerve exiting pudendal (Alcock's) canal; D: Sectioned Clitoris Detail",
+        "pixels": "678x777",
+        "local_path": "perine/images/raw/PMC13013239/261_2025_5179_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Pictorial review. On MRI \"The T2 hyperintense or intermediate vestibular bulbs of the clitoris (black arrows) flank the vaginal introitus (dashed white arrows).\" \"Bartholin glands or greater vestibular glands are small glands located within the posterolateral vagina bilaterally.\"",
+    "clinical_relevance": "Normal-anatomy baseline for Bartholin cysts, vulvar cancer staging and urethral diverticula on MRI.",
+    "notes": "FLAG: Fig 2 caption ends 'Illustration © 2025 Elise Butler' (illustrator signature on image) although the article is CC BY 4.0 - treat as CC BY with attribution to the illustrator; if strict policy, exclude Fig 2. Fig 1 is low resolution (749x200)."
+  },
+  {
+    "section": "urogenital",
+    "use": "kesit_lecture",
+    "topic": "Normal penile MRI: corpora cavernosa, corpus spongiosum, tunica albuginea, Buck's/dartos layers",
+    "pmcid": "PMC12732017",
+    "version": 1,
+    "doi": "10.3390/diagnostics15243134",
+    "citation": "Diagnostics (Basel). 2025 Dec 9;15(24):3134. doi: 10.3390/diagnostics15243134",
+    "title": "MRI of the Scrotum and Penis: Current Applications and Clinical Relevance",
+    "authors": "Regent Bartosz, Nowak Karolina, Skrobisz Katarzyna et al.",
+    "year": "2025",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-15-03134-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Normal penile anatomy on T2-weighted MRI. (a) Sagittal and (b) coronal images. Green arrows indicate the tunica albuginea; yellow arrows denote the urethra centrally located within the corpus spongiosum. The glans penis is marked with a white arrow. Red arrows identify the cavernosal arteries, and the blue arrow highlights the superficial dorsal vein.",
+        "specimen": "MRI (T2WI)",
+        "what_it_shows": "Sagittal (a) and coronal (b) T2 MRI of the penis: tunica albuginea (green), urethra in corpus spongiosum (yellow), cavernosal arteries (red), superficial dorsal vein (blue), glans (white).",
+        "labels_visible_in_image": "(a), (b); coloured arrows only (green, yellow, red, blue, white)",
+        "pixels": "761x455",
+        "local_path": "perine/images/raw/PMC12732017/diagnostics-15-03134-g001.jpg"
+      }
+    ],
+    "key_findings": "Review. \"Superficial to the tunica lies Buck’s fascia, another fibrous layer that is sometimes distinguishable on imaging, and more superficially, the thin Dartos fascia, loose connective tissue, and skin.\" Venous drainage \"occurs mainly through the superficial and deep dorsal veins located in the midline between Buck’s fascia and the tunica albuginea\".",
+    "clinical_relevance": "Buck's fascia confines haematoma/urine in penile fracture and anterior urethral injury - links to urine extravasation slide.",
+    "notes": "Labels are coloured arrows; add text labels on slide."
+  },
+  {
+    "section": "anal",
+    "use": "kesit_lecture",
+    "topic": "Anal canal, sphincters, intersphincteric space and ischioanal (ischiorectal) fossa: author diagram + annotated normal MRI",
+    "pmcid": "PMC13512459",
+    "version": 1,
+    "doi": "10.3390/diagnostics16162584",
+    "citation": "Diagnostics (Basel). 2026 Aug 15;16(16):2584. doi: 10.3390/diagnostics16162584",
+    "title": "Perianal Fistulae Medical Imaging Maps: A Pictorial Diagnostic Review",
+    "authors": "Alshoabi Sultan Abdulwadoud, Binnuhaid Abdulkhaleq Ayedh, Magram Abdullatif O. et al.",
+    "year": "2026",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-16-02584-g001.webp",
+        "label": "Figure 1",
+        "caption": "The diagram illustrates the anal and perianal anatomy, showing the anal verge (A), anal canal (AC), dentate line (D), anorectal junction (AR), rectum (R), internal anal sphincter (IAS), external anal sphincter (EAS), puborectalis muscle (PR) and levator ani muscle (LA). The diagram also shows the four types of perianal fistulae: intersphincteric fistula (1), transsphincteric fistula (2), suprasphincteric fistula (3), and extrasphincteric fistula (4).",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Coronal diagram of anal canal: rectum, anorectal junction, dentate line, anal canal, IAS, EAS, puborectalis, levator ani, ischioanal fat; numbered Parks fistula types 1-4.",
+        "labels_visible_in_image": "R, AR, D, AC, A, LA (x2), PR (x2), EAS (x2), IAS (x2), 1, 2, 3, 4",
+        "pixels": "1600x1342",
+        "local_path": "perine/images/raw/PMC13512459/diagnostics-16-02584-g001.webp"
+      },
+      {
+        "file": "diagnostics-16-02584-g002.webp",
+        "label": "Figure 2",
+        "caption": "Pelvic MRI acquired using a 1.5 Tesla MRI machine with high resolution illustrating the normal anatomy of the anal canal. (A) Axial T2-weighted image showing the high signal intensity fat around the anal canal (AC) and bilateral ischiorectal fossae (IRF). (A+) Corresponding unannotated image. (B) Coronal T2-weighted image showing the internal anal sphincter (green line) continuous with the inner circular smooth muscle of the rectum (blue line), external anal sphincter (yellow line), the intersphincteric space in between, the puborectalis muscle (red lines), and the levator ani muscles bilaterally (arrows). (B+) Corresponding unannotated image. (C) Sagittal T2-weighted image showing the internal anal sphincter (green line), external anal sphincter (dotted yellow line), the puborectalis muscle (red lines), and the levator ani muscle (arrow). (C+) Corresponding unannotated image. UB: Urinary bladder.",
+        "specimen": "MRI (T2WI 1.5 T)",
+        "what_it_shows": "Axial, coronal and sagittal T2 MRI of the normal anal canal with colour-outlined IAS (green), EAS (yellow), puborectalis (red), rectal circular muscle (blue), levator ani (arrows), ischiorectal fossae; unannotated copies below.",
+        "labels_visible_in_image": "A, B, C, A+, B+, C+, AC, IRF, R, UB, coloured lines, yellow arrows",
+        "pixels": "1600x1176",
+        "local_path": "perine/images/raw/PMC13512459/diagnostics-16-02584-g002.webp"
+      }
+    ],
+    "key_findings": "Pictorial review. \"MRI clearly demonstrates the IAS, EAS, puborectalis muscle, levator ani muscles, intersphincteric space, and ischiorectal fossae.\" \"Suprasphincteric fistulae ascend within the intersphincteric plane above the puborectalis muscle before descending through the levator ani muscle into the ischiorectal fossa.\"",
+    "clinical_relevance": "Parks classification of perianal fistula/abscess spread into the ischioanal fossa.",
+    "notes": "WebP files (1600x1342, 1600x1176) - convert to PNG for PowerPoint. High resolution, very clean."
+  },
+  {
+    "section": "anal",
+    "use": "kesit_lecture",
+    "topic": "Mid-anal canal on 3D endoanal ultrasound vs transperineal ultrasound (IAS/EAS)",
+    "pmcid": "PMC9955566",
+    "version": 1,
+    "doi": "10.3390/diagnostics13040682",
+    "citation": "Diagnostics (Basel). 2023 Feb 11;13(4):682. doi: 10.3390/diagnostics13040682",
+    "title": "Combined 3D Endoanal Ultrasound and Transperineal Ultrasound Improves the Detection of Anal Sphincter Defects †",
+    "authors": "Carter Dan, Ram Edward, Engel Tal",
+    "year": "2023",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-13-00682-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Mid-anal canal image in EAUS (left image) and axial view on PUS (right image). EAS—external anal sphincter. IAS—internal anal sphincter.",
+        "specimen": "US (endoanal + transperineal)",
+        "what_it_shows": "Mid-anal canal axial EAUS (left) and transperineal US (right): hypoechoic IAS ring inside the echogenic/mixed EAS ring.",
+        "labels_visible_in_image": "EAUS, PUS, EAS, IAS, white and black arrows",
+        "pixels": "743x432",
+        "local_path": "perine/images/raw/PMC9955566/diagnostics-13-00682-g001.jpg"
+      }
+    ],
+    "key_findings": "108 patients with faecal incontinence. \"Interobserver agreement for the diagnosis of tear on EAUS and TPUS was high (83%) with Cohen’s kappa of 0.62.\" \"EAUS confirmed anal muscle defects in 56 patients (52%), while TPUS confirmed them in 62 patients (57%).\" \"Defects in the IAS are defined as hyperechoic disruptions within the internal anal sphincter ring, and defects in the external anal sphincter are defined as hypoechoic disruptions in the external anal sphincter ring.\"",
+    "clinical_relevance": "\"Anal sphincter injury, mainly due to obstetric or iatrogenic etiology, is the most common cause of fecal incontinence (FI).\"",
+    "notes": "Small figure (761x412) but clear."
+  },
+  {
+    "section": "anal",
+    "use": "variation",
+    "topic": "Perineal body size and perineal muscles on 3D endoanal ultrasound in 148 nulligravid women (normative range)",
+    "pmcid": "PMC13308972",
+    "version": 1,
+    "doi": "10.1111/aogs.70227",
+    "citation": "Acta Obstet Gynecol Scand. 2026 Jun 17;105(7):1303–8. doi: 10.1111/aogs.70227",
+    "title": "Three‐dimensional endoanal ultrasound measurements for the assessment of perineal body size in a cohort of Swedish nulligravidae",
+    "authors": "Rotstein Emilia, Rose Nina, Starck Marianne et al.",
+    "year": "2026",
+    "journal": "Acta Obstetricia et Gynecologica Scandinavica",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "AOGS-105-1303-g001.jpg",
+        "label": "FIGURE 1",
+        "caption": "Axial (1) and coronal (2) view of the perineal muscles. Individual muscles marked: (a) puboperineal insertion, (b) deep transverse perineal muscle, (c) superficial transverse perineal muscle, (d) external anal sphincter, and (e) internal anal sphincter.",
+        "specimen": "US (3D endoanal)",
+        "what_it_shows": "Axial (1) and coronal (2) 3D EAUS views of the perineal muscles: puboperineal insertion (a), deep transverse perineal (b), superficial transverse perineal (c), EAS (d), IAS (e).",
+        "labels_visible_in_image": "1., 2., a, b, c, d, e with magenta arrows",
+        "pixels": "709x293",
+        "local_path": "perine/images/raw/PMC13308972/AOGS-105-1303-g001.jpg"
+      }
+    ],
+    "key_findings": "n = 148 nulligravidae. \"The perineal body had a mean proximal–distal length of 17.5 mm (SD ± 3.0), with excellent interrater reliability (ICC = 0.89; 95% CI: 0.85–0.92).\" \"The mean antero–posterior height was 9.7 mm (SD ± 1.4; ICC = 0.67, 95% CI: 0.57–0.75), and the mean perineal body area was 120 mm2 (SD ± 28; ICC = 0.84, 95% CI: 0.77–0.88).\" \"BMI and weight showed a moderate positive correlation with both the length and the area of the perineal body (p = 0.05).\"",
+    "clinical_relevance": "Normative perineal body dimensions as reference for obstetric perineal injury assessment.",
+    "notes": "Normal-range (inter-individual variation) data rather than a discrete variant. Figure 720x293."
+  },
+  {
+    "section": "damar_sinir",
+    "use": "variation",
+    "topic": "Extrapelvic pudendal nerve trunk patterns (types I-III) and sciatic communications in 52 hemipelves",
+    "pmcid": "PMC9492552",
+    "version": 1,
+    "doi": "10.7759/cureus.28281",
+    "citation": "Cureus. 2022 Aug 22;14(8):e28281. doi: 10.7759/cureus.28281",
+    "title": "Anatomical Study of the Variants of the Extrapelvic Part of the Pudendal Nerve",
+    "authors": "Ranjan Rajiv, Chanda Camellia, Kushwaha Rajesh et al.",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0014-00000028281-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Showing type I pattern of Pudendal nerve: single trunk, with no sciatic communication.PN(I): Pudendal nerve type I, IPV: Internal Pudendal Vessels, SN: Sciatic Nerve",
+        "specimen": "human cadaver (gluteal region)",
+        "what_it_shows": "Type I single-trunk pudendal nerve with internal pudendal vessels medial to the sciatic nerve, gluteus maximus reflected.",
+        "labels_visible_in_image": "PN(I), IPV, SN",
+        "pixels": "750x485",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i01.jpg"
+      },
+      {
+        "file": "cureus-0014-00000028281-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Showing type IIa, double trunked with inferior rectal nerve piercing the sacrospinous ligament. PN(IIa): Bifurcated Pudendal nerve with inferior rectal nerve piercing the sacrospinous ligament.IPV: Internal Pudendal Vessels SSL: SSL: Sacrospinous ligament",
+        "specimen": "human cadaver (gluteal region)",
+        "what_it_shows": "Type IIa double-trunk pudendal nerve, one trunk piercing the sacrospinous ligament; internal pudendal vessels.",
+        "labels_visible_in_image": "PN(IIa), IPV, SSL",
+        "pixels": "750x424",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i03.jpg"
+      }
+    ],
+    "key_findings": "26 cadavers (52 hemipelves). \"Single pudendal nerve trunk (type I) was identified in 51.9% of hemipelves.\" Type IIa \"was observed in 13.5% of hemipelves\"; \"23.1% of hemipelves exhibited two trunked pudendal nerves with inferior gluteal nerve not piercing the sacrospinous ligament(type IIb).\" \"Three trunked pudendal nerve (type III) was observed in 11.5% of hemipelves.\" \"In 14/52 hemipelves (26.9%), communication with the sciatic nerve was noted\".",
+    "clinical_relevance": "Variants are \"essential for all surgeons and anesthetists\" operating in the region (pudendal block, sacrospinous fixation, decompression).",
+    "notes": "Licence CC BY 3.0. NOTE discrepancy: abstract says the second trunk is the 'inferior gluteal nerve', figure caption 3 says 'inferior rectal nerve piercing the sacrospinous ligament' - quote carefully; the caption (inferior rectal) is anatomically consistent."
+  },
+  {
+    "section": "damar_sinir",
+    "use": "variation",
+    "topic": "Pudendal nerve formation (S3-S4) and 2/3/4-trunk variants with sciatic communication; morphometry in East Indian cadavers",
+    "pmcid": "PMC12519013",
+    "version": 1,
+    "doi": "10.5115/acb.25.012",
+    "citation": "Anat Cell Biol. 2025 Jun 2;58(3):388–94. doi: 10.5115/acb.25.012",
+    "title": "Morphology and morphometry of pudendal nerve in East Indian population with surgical implications: a cadaveric study",
+    "authors": "Suganya Grace, Ray Biswabina, Bharadwaj Yashu",
+    "year": "2025",
+    "journal": "Anatomy & Cell Biology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "acb-58-3-388-f2.jpg",
+        "label": "Fig. 2",
+        "caption": "The formation and trunking variations in pudendal nerve. (A) Formation variation of pudendal nerve from S3 and S4 root. (B) The trunking variations in pudendal nerve 2 trunks. (C) The trunking variations in pudendal nerve 3 trunks. (D) The trunking variations in pudendal nerve 4 trunks. PN, pudendal nerve; LST, lumbosacral trunk; S, superior; I, inferior; M, medial; L, lateral; Rt, right; Lt, left; yellow arrow, communication with sciatic nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Pelvic view of pudendal nerve formation from S3-S4 with lumbosacral trunk (A) and gluteal views of 2-, 3- and 4-trunk pudendal nerves numbered 1-4, yellow arrow = communication with sciatic nerve.",
+        "labels_visible_in_image": "A-D, PN (green overlay), LST, S1-S4, numbers 1-4 (red), yellow arrows, orientation crosses S/I/M/L, Rt/Lt",
+        "pixels": "698x429",
+        "local_path": "perine/images/raw/PMC12519013/acb-58-3-388-f2.jpg"
+      }
+    ],
+    "key_findings": "10 cadavers (5 male, 5 female). \"The CSA of pudendal nerve was more at piriformis (4.04 mm2) it decreased as the nerve travelled further to Alcock’s canal (0.35 mm2).\" \"Morphologically, formation variation of pudendal nerve from S3 and S4 roots and trunk variations were also observed.\" No significant sex/side differences.",
+    "clinical_relevance": "Relevant to \"nerve transfer, in placement of Richters stitch, transobturator tapes, pudendal nerve block etc.\"",
+    "notes": "LICENCE CC BY-NC (flagged). Small sample; panel labels small. Fig 4 (vernier caliper measurements) downloaded then dropped (poor didactic value)."
+  },
+  {
+    "section": "damar_sinir",
+    "use": "variation",
+    "topic": "Systematic review of pudendal nerve variation: root origins and trunk configurations with pooled prevalence",
+    "pmcid": "PMC12908042",
+    "version": 1,
+    "doi": "10.1016/j.euros.2026.01.015",
+    "citation": "Eur Urol Open Sci. 2026 Feb 9;85:71–81. doi: 10.1016/j.euros.2026.01.015",
+    "title": "Anatomical Variation of the Pudendal Nerve and Related Structures",
+    "authors": "Yang Junjie, Webb Katie E., Carrington Emma V. et al.",
+    "year": "2026",
+    "journal": "European Urology Open Science",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "gr3.jpg",
+        "label": "Fig. 3",
+        "caption": "Origin roots of the pudendal nerve. Different combinations of sacral-root contributions in the formation of the pudendal nerve are illustrated, showing S1–S5 except for the right-hand image (marked L4–S5). Prevalence is summarised according to a combined analysis of 509 samples. The most common configuration was S2–S4, followed by S2–S3, S3–S4, S1–S3, S1–S2, S1–S4, and S2–S5. In addition, rare case studies reported contributions from lumbar roots L4 and L5.",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Seven root-origin combinations of the pudendal nerve (S1-S5, rare L4-L5) with pooled prevalence percentages.",
+        "labels_visible_in_image": "54.62%, 33.60%, 8.84%, 1.57%, 0.79%, 0.39%, 0.20%, <0.1%, L4, L5, S1-S5",
+        "pixels": "777x692",
+        "local_path": "perine/images/raw/PMC12908042/gr3.jpg"
+      },
+      {
+        "file": "gr4.jpg",
+        "label": "Fig. 4",
+        "caption": "Trunk configurations of the pudendal nerve. Schematic representations show branching patterns of the pudendal nerve near the ischial spine. (A) Single-trunk pattern; the dorsal genital nerve branches first in some cases. (B) Double-trunk pattern, with rectopudendal or pudendogenital division. (C) Triple-trunk pattern, with separate rectal, perineal, and genital branches. (D) Quadruple-trunk variants, including duplicated rectal or perineal branches.",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Bony pelvis outline with sacrotuberous/sacrospinous ligaments and colour-coded single, double, triple and quadruple trunk patterns (common trunk, inferior rectal, perineal, dorsal genital nerves).",
+        "labels_visible_in_image": "Pubic symphysis, Obturator foramen, Ischial spine, Ischial tuberosity, Sacrum, Sacrotuberous / Sacrospinous ligaments, legend: Common trunk, Inferior rectal nerve, Perineal nerve, Dorsal genital nerve; A-D",
+        "pixels": "721x581",
+        "local_path": "perine/images/raw/PMC12908042/gr4.jpg"
+      }
+    ],
+    "key_findings": "\"A combined analysis of 509 specimens ... identified the S2–4 pattern in 54.62% of cases\". Trunks (645 specimens): \"A single trunk was observed in 47.60% ... and multiple in 52.40% of cases.\" Of multiple-trunk patterns (619 samples): \"double-trunk patterns in 38.93% ..., a triple trunk in 12.76%, and a quadruple-trunk pattern in 1.29% of cases.\" Interligamentous space \"mean size of 6.7 ± 1.7 mm (range 4–10 mm), but was <5 mm in 15% of cases\".",
+    "clinical_relevance": "\"Recognition of these variants is important for improving diagnosis, surgical planning, and treatment outcomes in conditions such as pudendal neuralgia and persistent genital arousal disorder.\"",
+    "notes": "Best single source of pooled prevalence for the variation slide. Elsevier-hosted OA (gr*.jpg); clean vector-style schematics."
+  },
+  {
+    "section": "damar_sinir",
+    "use": "variation",
+    "topic": "Internal iliac artery branching: common trunk of internal pudendal and middle rectal arteries (80 male hemipelves)",
+    "pmcid": "PMC11961128",
+    "version": 1,
+    "doi": "10.1590/1677-5449.202400752",
+    "citation": "J Vasc Bras. 2025 Mar 31;24:e20240075. doi: 10.1590/1677-5449.202400752",
+    "title": "Variations in the branching pattern of the internal iliac artery and its implications in trauma and surgery – a South Indian cadaveric study",
+    "authors": "Badagabettu Satheesha Nayak, Padur Ashwini Aithal, Shetty Surekha Devadasa",
+    "year": "2025",
+    "journal": "Jornal Vascular Brasileiro",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "jvb-24-e20240075-g06.jpg",
+        "label": "Figure 6",
+        "caption": "Dissected left hemipelvis showing a common trunk of the internal pudendal artery and middle rectal artery. IIA = anterior division of internal iliac artery; IIV = internal iliac vein; MUL = medial umbilical ligament; SVA = superior vesical artery; IVA = inferior vesical artery; MRA = middle rectal artery; IGA = inferior gluteal artery; IPA = internal pudendal artery; CT = common trunk of origin of internal pudendal and middle rectal arteries; EIV = external iliac vein; UB = urinary bladder; R = rectum; S = sacrum.",
+        "specimen": "human cadaver (hemisected pelvis)",
+        "what_it_shows": "Left hemipelvis: anterior division of internal iliac artery giving a common trunk for internal pudendal and middle rectal arteries; inferior gluteal, superior/inferior vesical arteries, bladder, rectum, sacrum.",
+        "labels_visible_in_image": "MUL, EIV, IIA, IIV, SVA, IVA, CT, MRA, IGA, IPA, UB, R, S, arrows",
+        "pixels": "626x470",
+        "local_path": "perine/images/raw/PMC11961128/jvb-24-e20240075-g06.jpg"
+      }
+    ],
+    "key_findings": "80 male hemipelves. \"Variations in the branching pattern were observed in 49 (61%) hemipelvises (right: 21, left: 28).\" \"A common trunk of the internal pudendal and middle rectal arteries was found in 24% of cases and variations of the inferior gluteal artery were seen in 18% of cases.\"",
+    "clinical_relevance": "\"Understanding the anatomical variations of the IIA and its branches is essential to minimize intraoperative blood loss and other complications during pelvic surgeries.\"",
+    "notes": "Clear labelled photo (626x470)."
+  },
+  {
+    "section": "damar_sinir",
+    "use": "kesit_lecture",
+    "topic": "Pudendal nerve course on axial T1 MRI at four levels (piriformis, interligamentous, proximal and distal Alcock canal)",
+    "pmcid": "PMC12840153",
+    "version": 1,
+    "doi": "10.3390/diagnostics16020326",
+    "citation": "Diagnostics (Basel). 2026 Jan 20;16(2):326. doi: 10.3390/diagnostics16020326",
+    "title": "MRI in Chronic Pudendal Neuralgia: Diagnostic Criteria and Associated Pathologies",
+    "authors": "Gaeta Michele, Turturici Sofia, Galletta Karol et al.",
+    "year": "2026",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-16-00326-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Representation of the anatomic course of pudendal nerve at four fundamental levels. (a) Axial T1-weighted scan shows trough piriform muscles and lumbosacral (black arrow) and pudendal (arrowhead) plexuses of the anterior surface of left piriform muscle. On the right side, the S2 spinal root runs into the piriform muscle (arrow). This anatomic variation can predispose to nerve entrapment and pudendalgia. (b) Axial T1-weighted scan at the extra-pelvic course of the pudendal nerve. The nerve runs in the space between sacro-tuberous ligament posteriorly (arrow) and coccygeal muscle and sacro-spinous ligament (arrowhead) anteriorly. (c) Axial T1-weighted scan at the level of proximal Alcock’s canal. The pudendal neurovascular bundle runs close to the obturator internal muscle (arrow). The transverse course of inferior rectal neurovascular bundle can be seen into ischiorectal fossa (arrowhead). (d) Axial T1-weighted scan at distal Alcock’s canal. At this level, it is difficult to detect the distal branches (arrowhead) of the pudendal nerve.",
+        "specimen": "MRI (T1WI)",
+        "what_it_shows": "Four axial T1 MRI levels: sacral plexus on piriformis (a), pudendal nerve between sacrotuberous and sacrospinous ligaments (b), pudendal neurovascular bundle against obturator internus in proximal Alcock canal with inferior rectal bundle crossing the ischioanal fossa (c), distal canal (d).",
+        "labels_visible_in_image": "a., b., c., d.; white/black arrows and arrowheads (no text labels)",
+        "pixels": "730x578",
+        "local_path": "perine/images/raw/PMC12840153/diagnostics-16-00326-g001.jpg"
+      }
+    ],
+    "key_findings": "81 patients with chronic pudendal neuralgia. \"MRI examination revealed DWI abnormalities in 42/81 patients.\" \"Pudendal nerve abnormalities were unilateral in 33/42 patients and bilateral in 9/42.\" In (c) \"The pudendal neurovascular bundle runs close to the obturator internal muscle (arrow). The transverse course of inferior rectal neurovascular bundle can be seen into ischiorectal fossa (arrowhead).\"",
+    "clinical_relevance": "MRI anatomy for pudendal nerve entrapment (interligamentous and Alcock canal sites).",
+    "notes": "Arrows only; add text labels. Caption of panel (a) also notes an S2 root running into piriformis as a variation."
+  },
+  {
+    "section": "klinik",
+    "use": "topo_lecture",
+    "topic": "Episiotomy risk: female perineal anatomy in 47 cadavers (perineal body, bulb, Bartholin gland, perineal nerves)",
+    "pmcid": "PMC7913006",
+    "version": 1,
+    "doi": "10.3390/diagnostics11020221",
+    "citation": "Diagnostics (Basel). 2021 Feb 2;11(2):221. doi: 10.3390/diagnostics11020221",
+    "title": "Midline and Mediolateral Episiotomy: Risk Assessment Based on Clinical Anatomy",
+    "authors": "Garner Danielle K., Patel Akash B., Hung Jun et al.",
+    "year": "2021",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-11-00221-g003.jpg",
+        "label": "Figure 3",
+        "caption": "Representative anatomy of the perineum based on our dissections. Most commonly, the perineal body was not a major site of muscle attachment. The bulbospongiosus muscle was continuous with the superficial portion of the external anal sphincter (EAS), both innervated by branches of the perineal nerves. The inferior rectal nerve innervated the subcutaneous EAS and skin around the anus. The bulb of the vestibule extended to the posterior fourchette, with the greater vestibular gland anchored to its posterior margin.",
+        "specimen": "schematic (author drawing)",
+        "what_it_shows": "Inferior view of female perineum based on the authors' dissections: clitoral body and crus, bulb of the vestibule, greater vestibular gland, bulbospongiosus, superficial and subcutaneous EAS, pudendal nerve with inferior rectal, superficial/deep perineal and posterior labial nerves.",
+        "labels_visible_in_image": "Body of the clitoris, Crus, Bulb of the vestibule, Greater vestibular gland, Bulbospongiosus m., Posterior labia nn., Deep perineal n., Superficial perineal n., Superficial EAS, Subcutaneous EAS, Inferior rectal n., Pudendal n.",
+        "pixels": "742x497",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g003.jpg"
+      },
+      {
+        "file": "diagnostics-11-00221-g004.jpg",
+        "label": "Figure 4",
+        "caption": "Female perineum dissected to reveal all perineal structures accessed by continuing a mediolateral episiotomy incision. The neurovascular bundles contain branches of the superficial (S) and deep (D) perineal nerves and the internal pudendal artery. *Bulb of the vestibule overlain by the bulbospongiosus muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Female perineum dissected along a mediolateral episiotomy line: clitoral body/crus/glans, suspensory ligament, superficial (S) and deep (D) perineal neurovascular bundles, bulb of vestibule under bulbospongiosus (*), superficial transverse perineal muscle.",
+        "labels_visible_in_image": "Suspensory ligament of the clitoris, Body of the clitoris, Crus of the clitoris, Glans clitoridis, Labum majus [sic], Neurovascular bundles, S, D, *, Superficial transverse perineal m.",
+        "pixels": "691x728",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g004.jpg"
+      }
+    ],
+    "key_findings": "61 incisions on 47 female cadavers. \"In 100% of cadavers, the midline incision damaged the connective tissue of the perineal body and overlying skin\"; \"In 16.6% of cadavers, we identified gracile muscle fibers inserting onto the perineal body, while 83.4% had only connective tissue within the incision.\" \"In 14.3% of cadavers, the incision was of sufficient length to completely bisect the perineal body and extend to some muscle fibers of the subcutaneous portion of the external anal sphincter (EAS)\". \"Mediolateral incisions posed greater risk of iatrogenic injury to ipsilateral nerve, muscle, erectile, and gland tissues.\"",
+    "clinical_relevance": "Episiotomy / obstetric perineal injury: midline risks EAS, mediolateral risks bulb, Bartholin gland and perineal nerves.",
+    "notes": "Fig 5 (heat map of risk) also suitable if a quantitative slide is wanted (not downloaded)."
+  },
+  {
+    "section": "klinik",
+    "use": "kesit_lecture",
+    "topic": "Fournier gangrene on CT: fascial thickening and gas tracking from scrotum/perineum to buttock",
+    "pmcid": "PMC11304407",
+    "version": 1,
+    "doi": "10.7759/cureus.64019",
+    "citation": "Cureus. 2024 Jul 7;16(7):e64019. doi: 10.7759/cureus.64019",
+    "title": "Fournier’s Gangrene in an Elderly Male: A Case Report",
+    "authors": "Sears Shalondria J, Menendez Katherine, Cobo Dominguez Beatriz et al.",
+    "year": "2024",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0016-00000064019-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Axial enhanced CT image shows soft tissue edema and fascial thickening (*) in the bilateral scrotum and perineum extending into the left buttock (arrows).",
+        "specimen": "CT (contrast-enhanced axial)",
+        "what_it_shows": "Axial CT through the upper thighs/scrotum: scrotal and perineal soft-tissue oedema with fascial thickening (*) and gas/stranding extending toward the left buttock (arrows).",
+        "labels_visible_in_image": "*, two white arrows, R",
+        "pixels": "750x549",
+        "local_path": "perine/images/raw/PMC11304407/cureus-0016-00000064019-i03.jpg"
+      }
+    ],
+    "key_findings": "Case report (65-year-old man). \"This infection encompasses the Colles, or superficial perineal fascia, with potential spread to the Buck and Dartos fascia, scrotal, and penile tissue, respectively [1].\" \"Fulminant Fournier’s can extend from the fascial envelopment of the genitalia throughout the perineum, along Scarpa’s fascia into the abdomen, and occasionally into the thighs via the fascia lata.\"",
+    "clinical_relevance": "CT is \"crucial for assessing the disease extent, given its high sensitivity in delineating involved fascial planes\".",
+    "notes": "Only CC BY Fournier imaging found; the fascial-spread statement cites ref [1]. Better CC BY review imaging (PMC7047600) is author-manuscript (TDM licence) - rejected."
+  },
+  {
+    "section": "klinik",
+    "use": "kesit_lecture",
+    "topic": "Posterior translevator perineal hernia on MRI; anterior vs posterior perineal hernia relative to transverse perineal muscle",
+    "pmcid": "PMC9668258",
+    "version": 1,
+    "doi": "10.1259/bjrcr.20220009",
+    "citation": "BJR Case Rep. 2022 Jun 8;8(4):20220009. doi: 10.1259/bjrcr.20220009",
+    "title": "Translevator perineal hernia; an incidental rare imaging presentation",
+    "authors": "Coalter Wendy S, Siddiqui Salman A",
+    "year": "2022",
+    "journal": "BJR | Case Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "bjrcr.20220009.g003.jpg",
+        "label": "Figure 3.",
+        "caption": "Axial (a) and coronal (b) T 2-weighted rectal MRI images demonstrating a small Richter type hernia of the left lateral rectal wall (red arrow) through a 22 mm defect in the left levator ani muscle (yellow arrow). No restricted diffusion is noted on ADC (c) and DWI (d) axial sequences in the region of the perineal hernia (yellow circles).",
+        "specimen": "MRI (T2WI, DWI/ADC)",
+        "what_it_shows": "Axial (a) and coronal (b) T2 MRI: small Richter-type hernia of the left lateral rectal wall (red arrow) through a 22 mm defect in the left levator ani (yellow arrows); ADC/DWI (c, d).",
+        "labels_visible_in_image": "a-d, red arrows, yellow arrows, yellow circles",
+        "pixels": "672x1318",
+        "local_path": "perine/images/raw/PMC9668258/bjrcr.20220009.g003.jpg"
+      },
+      {
+        "file": "bjrcr.20220009.g004.jpg",
+        "label": "Figure 4.",
+        "caption": "Line diagram showing cross-sectional (axial) anatomy of female perineal musculature. Anterior (A) and posterior (P) perineal hernias relative to the transverse perineal muscle.",
+        "specimen": "schematic (author line diagram)",
+        "what_it_shows": "Female perineal musculature from below with anterior (A, urogenital triangle) and posterior (P, anal triangle / levator ani) perineal hernia sites relative to the transverse perineal muscle.",
+        "labels_visible_in_image": "Bulbospongiosus, Ischiocavernosus, Superficial & deep perinei, Levator ani, External anal sphincter, A, P, Anterior perineal hernia, Posterior perineal hernia",
+        "pixels": "709x739",
+        "local_path": "perine/images/raw/PMC9668258/bjrcr.20220009.g004.jpg"
+      }
+    ],
+    "key_findings": "Case report. \"Translevator perineal hernias are rare pelvic floor defects that can be classified based on their anatomical location as either anterior or posterior relative to the transverse perineal muscle.\" \"Approximately 100 cases of posterior perineal hernia have been reported in the literature.\"",
+    "clinical_relevance": "MRI is \"a superior problem-solving tool to better delineate the pelvic anatomy, exclude sinister pathology and confirm the diagnosis.\"",
+    "notes": "Line diagram is simple but clear; authors' own."
+  }
+]

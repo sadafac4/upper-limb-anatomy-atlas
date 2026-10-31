@@ -1,0 +1,17 @@
+{
+ "slice": 1230,
+ "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1230.raw",
+ "box": [
+  699,
+  300,
+  1377,
+  978
+ ],
+ "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1230.fro",
+ "ct_reg": {
+  "scale": 0.6257774811128979,
+  "dx": -374,
+  "dy": -142,
+  "dice": 0.978
+ }
+}

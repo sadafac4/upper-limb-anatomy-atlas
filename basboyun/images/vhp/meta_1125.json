@@ -1,0 +1,47 @@
+{
+ "slice": 1125,
+ "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1125.raw",
+ "box": [
+  718,
+  241,
+  1313,
+  989
+ ],
+ "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1125.fro",
+ "ct_reg": {
+  "scale": 0.6257774811128979,
+  "dx": -379,
+  "dy": -144,
+  "dice": 0.957
+ },
+ "mr_t1": {
+  "file": "Visible-Human/Male-Images/radiological/mri/m_vm1125.t1",
+  "reg": {
+   "scale": 0.3249246765522538,
+   "dx": -201,
+   "dy": -76,
+   "dice": 0.981
+  },
+  "px": 1.01562
+ },
+ "mr_t2": {
+  "file": "Visible-Human/Male-Images/radiological/mri/m_vm1125.t2",
+  "reg": {
+   "scale": 0.3249246765522538,
+   "dx": -202,
+   "dy": -76,
+   "dice": 0.974
+  },
+  "px": 1.01562
+ },
+ "mr_pd": {
+  "file": "Visible-Human/Male-Images/radiological/mri/m_vm1125.pd",
+  "reg": {
+   "scale": 0.3249246765522538,
+   "dx": -201,
+   "dy": -77,
+   "dice": 0.978
+  },
+  "px": 1.01562
+ }
+}

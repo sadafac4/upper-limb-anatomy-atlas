@@ -1,0 +1,19 @@
+{
+ "sex": "F",
+ "slice": 1875,
+ "cryo_file": "vhm-data/src-decompressed/data.lhncbc.nlm.nih.gov/public/Visible-Human/Female-Images/Fullcolor/fullbody/avf1875a.raw",
+ "box": [
+  723,
+  404,
+  1383,
+  1115
+ ],
+ "ct_file": "Visible-Human/Female-Images/radiological/normalCT/c_vf1875.fre",
+ "ct_slice": 1875.0,
+ "ct_reg": {
+  "scale": 0.35200000000000004,
+  "dx": -128,
+  "dy": -8,
+  "dice": 0.964
+ }
+}

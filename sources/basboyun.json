@@ -1,0 +1,965 @@
+[
+  {
+    "section": "beyin",
+    "use": "kesit_lecture",
+    "topic": "Brainstem cross-sectional anatomy: 7-T in vivo MRI vs ex vivo MRI and myelin/iron-stained sections (midbrain, pons, medulla)",
+    "pmcid": "PMC10651583",
+    "version": 1,
+    "doi": "10.1186/s41747-023-00389-y",
+    "citation": "Eur Radiol Exp. 2023 Nov 16;7:71. doi: 10.1186/s41747-023-00389-y",
+    "title": "Brainstem anatomy with 7-T MRI: in vivo assessment and ex vivo comparison",
+    "authors": "Donatelli Graziella, Emmi Aron, Costagli Mauro et al.",
+    "year": "2023",
+    "journal": "European Radiology Experimental",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41747_2023_389_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Ex vivo and in vivo images captured at the level of the red nucleus (rostral midbrain). Proton density- (a) and T2*-weighted (b) images of the ex vivo sample that has been then sectioned and stained for iron (Perls stain; c left side) and myelin (Weigert-Pal stain; c right side). In vivo T2*-weighted magnitude image (d), susceptibility (e) and frequency (f) maps taken in a healthy subject. 1, corticospinal, corticonuclear, frontopontine and parietotemporopontine tracts; 2, subthalamic nucleus; 3, pars reticulata of the substantia nigra; 4, extension of the pars reticulata into the crus cerebri; 5, ventral tegmental area; 6, magnocellular portion of the red nucleus; 7, parvocellular portion of the red nucleus; 8, periaqueductal grey matter; 9, superior colliculus; 10, medial geniculate body; 11 (vertical open black arrow in c), lateral geniculate body; oblique open black arrow, lamina medullaris of the red nucleus; arrowhead, medial longitudinal fasciculus; horizontal open black arrow, central tegmental tract; vertical black arrow, cerebral aqueduct; asterisk, oculomotor, principal oculomotor and accessory oculomotor nuclei",
+        "specimen": "MRI (7 T, in vivo + ex vivo) + histology",
+        "what_it_shows": "Axial sections at the level of the red nucleus (rostral midbrain): ex vivo PD/T2* MRI, stained section, and in vivo 7-T magnitude, frequency and susceptibility maps with numbered nuclei and tracts.",
+        "labels_visible_in_image": "a-f panel letters; numbers 1-11; black arrows; asterisk (key given in caption)",
+        "pixels": "777x339",
+        "local_path": "basboyun/images/raw/PMC10651583/41747_2023_389_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41747_2023_389_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Ex vivo and in vivo images captured at the level of the superior cerebellar peduncles (rostral pons). Proton density- (a) and T2*-weighted (b) images of the ex vivo sample that has been then sectioned and stained for myelin (Weigert-Pal stain; c). In vivo T2*-weighted magnitude image (d), susceptibility (e) and frequency (f) maps taken in a healthy subject. 1, corticospinal tract split into small fasciculi, corticonuclear, frontopontine and parietotemporopontine tracts; 2, pontine nuclei; 3, pontocerebellar fibres; 4, nucleus reticularis tegmenti pontis; 5, medial lemniscus and spinothalamic tract; 6, lateral lemniscus (horizontal black arrow in e and f); 7, nucleus reticularis centralis superior; 8, nucleus reticularis pontis oralis; 9, central tegmental tract; 10, central grey matter; 11, superior cerebellar peduncle (or brachium conjunctivum); white arrow, tectospinal tract; black arrowhead, medial longitudinal fasciculus; open black arrow, mesencephalic trigeminal tract; oblique black arrow, lateral parabrachial nucleus; star, nucleus coeruleus; asterisk, medial parabrachial nucleus and nucleus subcoeruleus",
+        "specimen": "MRI (7 T, in vivo + ex vivo) + histology",
+        "what_it_shows": "Axial sections at the level of the superior cerebellar peduncles (rostral pons): transverse pontine fibres, corticospinal bundles, tegmental tracts.",
+        "labels_visible_in_image": "a-f; numbers 1-11; arrows, arrowheads, star and asterisk",
+        "pixels": "777x487",
+        "local_path": "basboyun/images/raw/PMC10651583/41747_2023_389_Fig3_HTML.jpg"
+      },
+      {
+        "file": "41747_2023_389_Fig5_HTML.jpg",
+        "label": "Fig. 5",
+        "caption": "Ex vivo and in vivo images captured at the level of the inferior olivary nucleus (rostral medulla oblongata). Proton density- (a) and T2*-weighted (b) images of an ex vivo sample that has been then sectioned and stained for myelin (Weigert-Pal stain; c). In vivo T2*-weighted magnitude image (d), susceptibility (e) and frequency (f) maps taken in a healthy subject. 1, corticospinal tract; 2, medial lemniscus; 3, tectospinal tract; 4, inferior olivary nucleus; 5, spinothalamic tract; 6, ventral spinocerebellar tract; 7, inferior cerebellar peduncle (or corpus restiform); 8, spinal trigeminal nucleus; 9, spinal trigeminal tract; 10, nucleus reticularis centralis medullae oblongatae; 11, hypoglossal nucleus; 12, dorsal motor nucleus of the vagus and nucleus of the solitary tract; 13, medial vestibular nucleus; 14, lateral cuneate nucleus; vertical white arrow, medial accessory olivary nucleus; horizontal white arrow, amiculum of the inferior olivary nucleus; vertical black arrow, dorsal accessory olivary nucleus; horizontal black arrow, medial longitudinal fasciculus; oblique black arrow, dorsal longitudinal fasciculus; oblique white arrow, solitary tract",
+        "specimen": "MRI (7 T, in vivo + ex vivo) + histology",
+        "what_it_shows": "Axial sections at the level of the inferior olivary nucleus (rostral medulla oblongata): pyramids, olive, medial lemniscus, inferior cerebellar peduncle.",
+        "labels_visible_in_image": "a-f; numbers 1-14 (and '5-7'); white and black arrows",
+        "pixels": "777x438",
+        "local_path": "basboyun/images/raw/PMC10651583/41747_2023_389_Fig5_HTML.jpg"
+      }
+    ],
+    "key_findings": "Single healthy volunteer (46-year-old woman) scanned at 7 T with a 3D multi-echo GRE sequence (\"spatial resolution 0.3 × 0.3 × 1.2 mm3\") and compared with a sectioned and stained brainstem sample from a 48-year-old female body donor; \"nuclei and tracts were labelled and named according to the official nomenclature\". In vivo imaging \"revealed structures usually evaluated through light microscopy, such as the accessory olivary nuclei, oculomotor nucleus and the medial longitudinal fasciculus.\"",
+    "clinical_relevance": "Ideal bridge between VHP cryosections and clinical MRI for teaching brainstem levels (midbrain - pons - medulla) and cranial-nerve nuclei.",
+    "notes": "Labels are numbers only; the number key is in the verbatim caption - relabel in Turkish on the slide. Figures are 777 px wide composites; crop one in vivo panel + the stained section."
+  },
+  {
+    "section": "beyin",
+    "use": "kesit_lecture",
+    "topic": "Hippocampal formation on 3-T MRI (axial, sagittal, coronal) with numbered/lettered anatomy",
+    "pmcid": "PMC5359145",
+    "version": 1,
+    "doi": "10.1007/s13244-016-0541-2",
+    "citation": "Insights Imaging. 2017 Jan 20;8(2):199–212. doi: 10.1007/s13244-016-0541-2",
+    "title": "“Unforgettable” – a pictorial essay on anatomy and pathology of the hippocampus",
+    "authors": "Dekeyzer Sven, De Kock Isabelle, Nikoubashman Omid et al.",
+    "year": "2017",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2016_541_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Anatomy of the hippocampal formation on 3-T axial T2 (a) and sagittal 3D-MPRAGE images (b). Zoomed-in 3-T coronal T2-weighted images at the level of the hippocampal head (c) and the hippocampal tail (d). The hippocampal body is shown in detail in Fig. 2. 1 = hippocampal head, 2 = hippocampal body, 3 = hippocampal tail, 4 = mesencephalon, 5 = amygdala, 6 = hippocampal digitations, 7 = temporal horn of the lateral ventricle, 8 = uncal recess of the lateral ventricle, 9 = splenium of the corpus callosum, 10 = subsplenial gyri, 11 = crura of the fornices. To easily recognize the different portions of the hippocampus, we can use the mesencephalon (4). The head (1) is located in front of the mesencephalon, the body (2) can be found at the level of the mesencephalon and the tail (3) is posterior to the mesencephalon. The hippocampal head is the only portion of the hippocampus not covered by the choroid plexus (7). The hippocampal head is separated from the amygdala (5) by the uncal recess of the lateral ventricle (7) and is characterized by small digitations separated by small sulci, the digitationes hippocampi (6). At the level of the hippocampal tail, the fimbriae continue posteriorly as the crux of the fornix (11) that slants upwards towards the splenium of the corpus callosum (9) and the hippocampal tail continues as the subsplenial gyri (10).",
+        "specimen": "MRI (3 T)",
+        "what_it_shows": "Hippocampal formation on axial T2 (a), sagittal 3D-MPRAGE (b) and zoomed coronal T2 at the hippocampal head (c) and tail (d); temporal horn, amygdala, fornix, etc. numbered.",
+        "labels_visible_in_image": "a-d; numbers 1-11; white arrows",
+        "pixels": "394x358",
+        "local_path": "basboyun/images/raw/PMC5359145/13244_2016_541_Fig1_HTML.jpg"
+      },
+      {
+        "file": "13244_2016_541_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Anatomy of the hippocampal formation at the level of the hippocampal body on 3-T coronal T2. The hippocampal formation consists of the cornu ammonis or hippocampus proper, which can histologically be divided in the four Sommer sectors CA1–CA4, and the dentate gyrus (DG). A small hippocampal cyst (Hs) reflects the location of the largely obliterated hippocampal sulcus. A = alveus, Ac = Ambient cistern, B = basal vein of Rosenthal, C = tail of caudate nucleus, ChF = choroid fissure, CS = collateral suclus, DG = dentate gyrus, P = posterior cerebral artery, PHG = parahippocampal gyrus, Sub = subiculum, T = temporal horn of the lateral ventricle, Tb = transverse fissure of Bichat",
+        "specimen": "MRI (3 T) with colour overlay",
+        "what_it_shows": "Coronal T2 through the hippocampal body, unlabelled (left) and colour-coded (right): CA1-CA4, dentate gyrus, subiculum, hippocampal sulcus, choroid fissure, alveus, temporal horn, collateral sulcus, parahippocampal gyrus.",
+        "labels_visible_in_image": "HS, ChF, A, T, C, CA1, CA2, CA3, CA4, DG, Sub, Tb, PHG, CS, B, P, AC (abbreviations explained in caption)",
+        "pixels": "520x193",
+        "local_path": "basboyun/images/raw/PMC5359145/13244_2016_541_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Pictorial review whose stated aims are \"(1) to review the normal anatomy of the hippocampus on MRI; (2) to discuss the optimal imaging strategy for the evaluation of the hippocampus; and (3) to present a pictorial overview of the most common anatomic variants and pathologic conditions\". Teaching point: \"Knowledge of normal hippocampal anatomy helps recognize anatomic variants and hippocampal pathology.\"",
+    "clinical_relevance": "\"Refractory epilepsy and dementia are the main indications requiring dedicated hippocampal imaging.\"",
+    "notes": "Figures are SMALL (Fig. 1 394x358 px, Fig. 2 520x193 px) - numbers legible but usable only as half-slide images. Do NOT use Fig. 5 (Springer atlas, with permission) or Fig. 12 (Radiology Assistant, with permission) of this article."
+  },
+  {
+    "section": "beyin",
+    "use": "kesit_lecture",
+    "topic": "Cisternal segments of cranial nerves I-XII on axial SSFP (CISS/FIESTA-type) MRI",
+    "pmcid": "PMC6420596",
+    "version": 1,
+    "doi": "10.1186/s13244-019-0719-5",
+    "citation": "Insights Imaging. 2019 Mar 15;10:33. doi: 10.1186/s13244-019-0719-5",
+    "title": "Imaging of cranial nerves: a pictorial overview",
+    "authors": "Romano Nicola, Federici Margherita, Castaldi Antonio",
+    "year": "2019",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2019_719_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "MRI of the cisternal tracts of normal cranial nerves. Steady-state free procession (SSFP), axial planes. a Olfactory (circles); b optic (arrows); c oculomotor (arrows); d trochlear (arrows); e trigeminal (arrows); f abducens (circles); g facial (thin and dotted arrows) and vestibulocochlear (thick arrows); h glossopharyngeal and vagus nerve (circles); i spinal accessory (circles); j hypoglossal (arrows)",
+        "specimen": "MRI (SSFP)",
+        "what_it_shows": "Ten axial SSFP slices from olfactory to hypoglossal level showing the cisternal course of each cranial nerve pair against bright CSF; brainstem, cerebellum, orbits and IAC visible.",
+        "labels_visible_in_image": "A-J panel letters; white arrows, dashed arrows, dashed circles (no text labels; nerve identity per panel in caption)",
+        "pixels": "787x1056",
+        "local_path": "basboyun/images/raw/PMC6420596/13244_2019_719_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"Magnetic resonance imaging (MRI) is considered the gold standard in the study of the cranial nerves.\" The article reviews cisternal, intracranial and extracranial segments of the 12 pairs.",
+    "clinical_relevance": "Recognising the cisternal course of CN V, VII/VIII and IX-XII is needed for CPA lesions, neurovascular compression and skull-base tumour staging.",
+    "notes": "Same article also supplies the skull-base foramina CT (entry in kafa_tabani). Schematic Figs 3-10 are the authors' own drawings (no permission statement) but were not downloaded."
+  },
+  {
+    "section": "beyin",
+    "use": "topo_lecture",
+    "topic": "Cerebellum macroanatomy: midsagittal dissection of cerebellum/brainstem with matching labelled schematic (lobes, vermis, fissures)",
+    "pmcid": "PMC12721976",
+    "version": 1,
+    "doi": "10.1055/s-0045-1814379",
+    "citation": "Arq Neuropsiquiatr. 2025 Dec 22;83(12):s00451814379. doi: 10.1055/s-0045-1814379",
+    "title": "A journey through the anatomy of the cerebellum",
+    "authors": "Tamanini João Vitor Gerdulli, Hora Raphael Pinheiro Camurugy da, Soares Luís Gustavo Biondi et al.",
+    "year": "2025",
+    "journal": "Arquivos de Neuro-Psiquiatria",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "10-1055-s-0045-1814379-i250153-3.jpg",
+        "label": "Figure 3",
+        "caption": "Macroanatomy of the cerebellum, sagittal section. ( A ) Sagittal dissection of the cerebellum and brainstem. ( B ) Graphical representation of the cerebellum in a sagittal section.",
+        "specimen": "cadaver (dissection) + schematic",
+        "what_it_shows": "A: sagittal dissection of cerebellum and brainstem showing the arbor vitae and folia; B: labelled drawing of the same plane with lobes colour-coded.",
+        "labels_visible_in_image": "A, B; Midbrain, Pons, IV ventricle, Medulla oblongata, Superior vermis, Primary fissure, Inferior vermis, Cortex, 'Whire matter' (sic), Hemisphere, Tonsil; legend Anterior/Posterior/Flocculonodular lobe; artist signature",
+        "pixels": "800x291",
+        "local_path": "basboyun/images/raw/PMC12721976/10-1055-s-0045-1814379-i250153-3.jpg"
+      }
+    ],
+    "key_findings": "\"Each hemisphere can be divided into three lobes by two transverse fissures.\" \"The primary fissure separates the anterior from the posterior lobes, whereas the posterolateral fissure separates the posterior and flocculonodular lobes.\" The lobules are numbered I to X with the Schmahmann classification.",
+    "clinical_relevance": "Background for cerebellar MRI anatomy (vermis, tonsils, fourth ventricle) and posterior-fossa malformations.",
+    "notes": "Narrative review (Arq Neuropsiquiatr 2025). Panel B has a typo 'Whire matter'. Provenance of the dissection photo is not stated beyond the caption (no permission/courtesy note). Fig. 8 (cerebellar strokes) was downloaded for checking and discarded."
+  },
+  {
+    "section": "beyin",
+    "use": "kesit_variation",
+    "topic": "Circle of Willis variants on cerebral CTA: complete circle vs fetal PCA (Chen classification), 94 patients, Kenya",
+    "pmcid": "PMC6601480",
+    "version": 1,
+    "doi": "10.1155/2019/6380801",
+    "citation": "Radiol Res Pract. 2019 Jun 16;2019:6380801. doi: 10.1155/2019/6380801",
+    "title": "Proportion of Variant Anatomy of the Circle of Willis and Association with Vascular Anomalies on Cerebral CT Angiography",
+    "authors": "Machasio Roy Munialo, Nyabanda Rose, Mutala Timothy Musila",
+    "year": "2019",
+    "journal": "Radiology Research and Practice",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "RRP2019-6380801.002.jpg",
+        "label": "Figure 2",
+        "caption": "Axial cerebral CTA MIP image showing a complete CW configuration.",
+        "specimen": "CT angiography (axial MIP)",
+        "what_it_shows": "Axial CTA MIP showing a complete circle of Willis configuration.",
+        "labels_visible_in_image": "none (unlabelled MIP)",
+        "pixels": "750x713",
+        "local_path": "basboyun/images/raw/PMC6601480/RRP2019-6380801.002.jpg"
+      },
+      {
+        "file": "RRP2019-6380801.004.jpg",
+        "label": "Figure 4",
+        "caption": "Axial cerebral CTA image showing bilateral fetal PCA with right P1 segment aplasia.",
+        "specimen": "CT angiography (axial)",
+        "what_it_shows": "Axial CTA showing bilateral fetal-type PCA with right P1 aplasia.",
+        "labels_visible_in_image": "none (unlabelled)",
+        "pixels": "752x913",
+        "local_path": "basboyun/images/raw/PMC6601480/RRP2019-6380801.004.jpg"
+      }
+    ],
+    "key_findings": "94 patients referred for cerebral CTA; vessels <0.8 mm counted as absent/hypoplastic. \"Complete CW was seen in 37.2% (37.7% vs. 36.6% in males and females, respectively, p=0.909).\" \"Type A variant was the commonest anterior variant at 78.7%. Type E variant was the dominant posterior variant at 41.5%. Fetal PCA was demonstrated in 25.5%, unilateral > bilateral fetal PCA.\" Persistent trigeminal artery was not demonstrated.",
+    "clinical_relevance": "Variant collateral pathways influence stroke territory and the interpretation of CTA/MRA; fetal PCA links the posterior circulation to the ICA.",
+    "notes": "Images are unlabelled and Fig. 3 (variant combination, low quality crop with scanner ruler) was discarded - add arrows/labels on the slide. Clinical (not healthy) population."
+  },
+  {
+    "section": "beyin",
+    "use": "kesit_variation",
+    "topic": "Enlarged perivascular spaces (basal ganglia and centrum semiovale): grading on coronal T2 MRI and age-specific prevalence (Framingham, n=3,710)",
+    "pmcid": "PMC9512514",
+    "version": 1,
+    "doi": "10.18632/aging.204181",
+    "citation": "Aging (Albany NY). 2022 Jul 15;14(17):6844–58. doi: 10.18632/aging.204181",
+    "title": "Aging, prevalence and risk factors of MRI-visible enlarged perivascular spaces",
+    "authors": "Lara Frances Rodriguez, Scruton Ashlea Lynn, Pinheiro Adlin et al.",
+    "year": "2022",
+    "journal": "Aging (Albany NY)",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "aging-14-204181-g002.jpg",
+        "label": "Figure 2",
+        "caption": "Enlarged perivascular space burden using ratings in coronal T2-weighted MRI sequences. *Top rows: basal ganglia region. Bottom rows: centrum semiovale region. The inserts represent a closer view. White arrows point to individual examples of enlarged perivascular spaces (panel C inserts). †Grades of ePVS burden are based on T2 weighted coronal views. (A) Grade I (0-10), (B) Grade II (10-20) (C) Grade III (20-40) (D) Grade IV (40+).",
+        "specimen": "MRI (coronal T2)",
+        "what_it_shows": "Four-grade ePVS burden scale in the basal ganglia (top rows) and centrum semiovale (bottom rows), with zoomed inserts; white arrows mark perivascular spaces.",
+        "labels_visible_in_image": "A, B, C, D; dashed boxes with inserts; white arrows",
+        "pixels": "712x537",
+        "local_path": "basboyun/images/raw/PMC9512514/aging-14-204181-g002.jpg"
+      }
+    ],
+    "key_findings": "3,710 Framingham Heart Study participants (\"average age 61.4±14.6, 46% men\"). Grades: \"Grade I (0-10), (B) Grade II (10-20) (C) Grade III (20-40) (D) Grade IV (40+)\". \"High burden ePVS (grades III and IV) was low in participants younger than 60 years old, less than 10% in the BG and CSO\" and \"The prevalence of high ePVS burden increased in both brain regions as average age increased.\"",
+    "clinical_relevance": "\"ePVS may be a marker of aging-driven brain vascular pathologies\"; must be distinguished from lacunes on MRI.",
+    "notes": "Licence CC BY (Aging, CC BY 3.0). Good dual use: also shows normal coronal basal ganglia / lentiform nucleus anatomy."
+  },
+  {
+    "section": "beyin",
+    "use": "kesit_variation",
+    "topic": "Cavum septi pellucidi: manual 3D segmentation on high-resolution T1 MRI in 410 young adults (HCP)",
+    "pmcid": "PMC12131514",
+    "version": 1,
+    "doi": "10.3389/fnana.2025.1566762",
+    "citation": "Front Neuroanat. 2025 May 16;19:1566762. doi: 10.3389/fnana.2025.1566762",
+    "title": "High-resolution segmentation of the cavum septum pellucidum in young adult human brains",
+    "authors": "Rios Andrew, Alier Achok, Aneja Mihir et al.",
+    "year": "2025",
+    "journal": "Frontiers in Neuroanatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "fnana-19-1566762-g001.jpg",
+        "label": "FIGURE 1",
+        "caption": "Three-dimensional renderings of manually segmented cava septa pellucida (CSP, green) are shown for representative small (A) and large (B) examples, overlaid on mid-sagittal T1-weighted MRI scans.",
+        "specimen": "MRI (T1, midsagittal) + 3D segmentation",
+        "what_it_shows": "Midsagittal T1 slices with small (A) and large (B) manually segmented CSP rendered in green, below the corpus callosum genu/body.",
+        "labels_visible_in_image": "A, B; green CSP segmentation (no text labels)",
+        "pixels": "702x334",
+        "local_path": "basboyun/images/raw/PMC12131514/fnana-19-1566762-g001.jpg"
+      },
+      {
+        "file": "fnana-19-1566762-g002.jpg",
+        "label": "FIGURE 2",
+        "caption": "Examples of cavum septum pellucidum (CSP) delineation in the same subject using manual methods (A, green) and Human Connectome Project (HCP) FreeSurfer (B, red).",
+        "specimen": "MRI (T1, coronal)",
+        "what_it_shows": "Coronal T1 through the frontal horns: CSP between the leaves of the septum pellucidum delineated manually (A, green) vs FreeSurfer (B, red).",
+        "labels_visible_in_image": "A, B; green and red outlines",
+        "pixels": "702x307",
+        "local_path": "basboyun/images/raw/PMC12131514/fnana-19-1566762-g002.jpg"
+      }
+    ],
+    "key_findings": "410 HCP young-adult T1 scans. \"We identified the CSP in 95.6% of subjects, compared to 57.1% when the automated segmentation approach was used on the same subjects.\" \"The CSP volume was significantly larger in male than female brains\". Mean volume of present CSPs \"18.0 mm3 [SD = 20.7 mm3; median = 12.3 mm3 ...]\".",
+    "clinical_relevance": "A small CSP is a normal variant; an enlarged CSP is discussed as a biomarker (e.g. repetitive head trauma, psychiatric disorders).",
+    "notes": "Subjects with cavum vergae were EXCLUDED (\"those subjects with cavum vergae were excluded from the current study\") - no cavum vergae prevalence here (gap)."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_lecture",
+    "topic": "Skull-base foramina on CT: cribriform plate, optic canal, SOF, foramen rotundum, foramen ovale, facial canal, IAC, jugular foramen, hypoglossal canal",
+    "pmcid": "PMC6420596",
+    "version": 1,
+    "doi": "10.1186/s13244-019-0719-5",
+    "citation": "Insights Imaging. 2019 Mar 15;10:33. doi: 10.1186/s13244-019-0719-5",
+    "title": "Imaging of cranial nerves: a pictorial overview",
+    "authors": "Romano Nicola, Federici Margherita, Castaldi Antonio",
+    "year": "2019",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2019_719_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "CT aspect of the most important foramina of the skull base. a Cribriform plate (asterisk); b optic canal (asterisk) and superior orbital fissure (arrow); c foramen rotundum (asterisk); d foramen ovale (arrow); e facial canal (arrow); f internal auditory meatus (arrow); g jugular foramen (asterisk); h hypoglossal canal (asterisk)",
+        "specimen": "CT (bone window, coronal + axial)",
+        "what_it_shows": "Eight CT panels of the main skull-base foramina from the anterior cranial fossa (cribriform plate) to the hypoglossal canal.",
+        "labels_visible_in_image": "A-H panel letters; white asterisks and arrows (structure per panel in caption)",
+        "pixels": "787x902",
+        "local_path": "basboyun/images/raw/PMC6420596/13244_2019_719_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"Computed tomography (CT) allows, usually, an indirect view of the nerve and is useful to demonstrate the intraosseous segments of cranial nerves, the foramina through which they exit skull base and their pathologic changes.\"",
+    "clinical_relevance": "Foramina are the routes of perineural tumour spread and of cranial nerve injury in skull-base fractures.",
+    "notes": "Labels are only asterisks/arrows - add Turkish foramen names on the slide."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_lecture",
+    "topic": "Temporal bone: normal incudo-stapedial joint / ossicular chain on 2-D and 3-D CT",
+    "pmcid": "PMC4877355",
+    "version": 1,
+    "doi": "10.1007/s13244-016-0490-9",
+    "citation": "Insights Imaging. 2016 Apr 16;7(3):341–50. doi: 10.1007/s13244-016-0490-9",
+    "title": "Post traumatic deafness: a pictorial review of CT and MRI findings",
+    "authors": "Maillot Olivier, Attyé Arnaud, Boyer Eric et al.",
+    "year": "2016",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2016_490_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "2-D CT images in the axial and oblique planes showing a normal incudo-stapedial joint. The malleus is annotated (1) The axial and oblique planes (a and c) show the ossicular « V », comprising the long process of the incus (2) and the stapes (3). 3-D-CT acquisition (b and d) reveal continuity between the stapes head and the long process of the incus in the healthy middle ear",
+        "specimen": "CT (high-resolution, 2-D + 3-D volume rendering)",
+        "what_it_shows": "Axial and oblique CT and 3-D renderings of the normal ossicular chain: malleus (1), incus (2), stapes (3) and the incudo-stapedial joint (arrow).",
+        "labels_visible_in_image": "a-d; numbers 1, 2, 3; white arrows",
+        "pixels": "520x517",
+        "local_path": "basboyun/images/raw/PMC4877355/13244_2016_490_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Pictorial review that \"firstly describes the normal 2-D and 3-D anatomy of the ossicular chain, including the incudo-malleolar and incudo-stapedial joints.\" Key point: \"The most common middle ear injuries are incudo-malleolar and incudo-stapedial joint luxation.\"",
+    "clinical_relevance": "Ossicular anatomy underlies conductive hearing loss after trauma and the reading of temporal-bone CT.",
+    "notes": "Fig. 1 (307x410) and Fig. 3 (cadaveric view, 307x275) were downloaded and dropped as too small. Fig. 2 is 520x517 px."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_lecture",
+    "topic": "Orbit on 3-T MRI: extraocular muscles, optic nerve sheath and superior ophthalmic vein with normative diameters",
+    "pmcid": "PMC9617817",
+    "version": 1,
+    "doi": "10.1007/s10792-022-02407-1",
+    "citation": "Int Ophthalmol. 2022 Jul 14;42(12):3869–75. doi: 10.1007/s10792-022-02407-1",
+    "title": "Normative measurements of orbital structures by magnetic resonance imaging",
+    "authors": "Rana Khizar, Juniat Valerie, Rayan Aaron et al.",
+    "year": "2022",
+    "journal": "International Ophthalmology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "10792_2022_2407_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Axial T1-weighted MRI (A) and fat-suppressed contrast enhanced T1-weighted MRI (B) showing the measurements of the right medial and lateral rectus muscles perpendicular to the muscle belly. Coronal T1-weighted MRI (C) showing the measurements of the superior muscle group, medial rectus, inferior rectus and superior ophthalmic vein. Fat-suppressed contrast enhanced T1-weighted MRI (D) showing the measurements of the medial rectus and superior muscle group",
+        "specimen": "MRI (3 T, axial + coronal T1 / FS-CE T1)",
+        "what_it_shows": "Axial orbit (A, B) with medial and lateral rectus measurements and coronal orbit (C, D) with superior muscle group, inferior rectus and SOV measurements.",
+        "labels_visible_in_image": "A-D; orange measurement lines with mm values (very small text)",
+        "pixels": "745x395",
+        "local_path": "basboyun/images/raw/PMC9617817/10792_2022_2407_Fig1_HTML.jpg"
+      },
+      {
+        "file": "10792_2022_2407_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Coronal T1-weighted MRI showing the optic nerve sheath diameter measurement",
+        "specimen": "MRI (coronal T1)",
+        "what_it_shows": "Coronal T1 of the orbit behind the globe: optic nerve sheath diameter measurement (8.1 mm) amid the four recti and superior oblique.",
+        "labels_visible_in_image": "'8.1 mm' measurement line",
+        "pixels": "581x472",
+        "local_path": "basboyun/images/raw/PMC9617817/10792_2022_2407_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Normative values from 141 orbits on fat-suppressed contrast-enhanced MRI: \"medial rectus, 4.1 ± 0.5 mm; lateral rectus (LR), 3.9 ± 0.7 mm; superior muscle group (SMG), 4.5 ± 0.7 mm; inferior rectus (IR), 4.6 ± 0.7 mm; and SOV, 1.8 ± 0.7 mm.\"",
+    "clinical_relevance": "\"These data may aid in diagnosing pathological enlargement of the EOMs and SOV on different scan sequences\" (e.g. thyroid eye disease).",
+    "notes": "No anatomical text labels - muscles must be labelled on the slide. Gap: no CC BY labelled orbit MRI atlas found."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_lecture",
+    "topic": "Paranasal sinus CT anatomy for preoperative FESS planning: olfactory fossa (Keros), sphenoethmoidal (Onodi) cell, concha bullosa",
+    "pmcid": "PMC6472854",
+    "version": 1,
+    "doi": "10.1590/0100-3984.2017.0082",
+    "citation": "Radiol Bras. 2019 Mar-Apr;52(2):117–22. doi: 10.1590/0100-3984.2017.0082",
+    "title": "Preoperative computed tomography evaluation of the paranasal sinuses: what should the physician know? - pictorial essay",
+    "authors": "Ribeiro Bruno Niemeyer de Freitas, Muniz Bernardo Carvalho, Marchiori Edson",
+    "year": "2019",
+    "journal": "Radiologia Brasileira",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "rb-52-02-0117-g06.jpg",
+        "label": "Figure 6",
+        "caption": "Coronal CT slice, with bone window settings, showing symmetry in the depth and inclination of the olfactory fossae (arrows), each measuring approximately 7.5 mm in depth and therefore classified as Keros type 3.",
+        "specimen": "CT (coronal, bone window)",
+        "what_it_shows": "Symmetric deep olfactory fossae (arrows), ~7.5 mm, Keros type 3; orbits, ethmoid cells, middle/inferior turbinates and maxillary sinuses in the same slice.",
+        "labels_visible_in_image": "two white arrows",
+        "pixels": "771x626",
+        "local_path": "basboyun/images/raw/PMC6472854/rb-52-02-0117-g06.jpg"
+      },
+      {
+        "file": "rb-52-02-0117-g13.jpg",
+        "label": "Figure 13",
+        "caption": "Coronal CT slice, with bone window settings, showing the left sphenoethmoidal cell (arrow). Note the close proximity to the left optic nerve (arrowhead).",
+        "specimen": "CT (coronal, bone window)",
+        "what_it_shows": "Left sphenoethmoidal (Onodi) cell (arrow) in close proximity to the left optic nerve canal (arrowhead).",
+        "labels_visible_in_image": "white arrow, white arrowhead",
+        "pixels": "771x517",
+        "local_path": "basboyun/images/raw/PMC6472854/rb-52-02-0117-g13.jpg"
+      },
+      {
+        "file": "rb-52-02-0117-g16.jpg",
+        "label": "Figure 16",
+        "caption": "Coronal CT slice, with bone window settings, showing pneumatization of the lamellar and bulbous portions of the middle turbinate (arrows).",
+        "specimen": "CT (coronal, bone window)",
+        "what_it_shows": "Bilateral pneumatised middle turbinates (concha bullosa, lamellar + bulbous portions; arrows); osteomeatal region, nasal septum, maxillary sinuses.",
+        "labels_visible_in_image": "two white arrows",
+        "pixels": "771x647",
+        "local_path": "basboyun/images/raw/PMC6472854/rb-52-02-0117-g16.jpg"
+      }
+    ],
+    "key_findings": "Pictorial essay: \"The objective of this pictorial essay was to demonstrate, through computed tomography, the main anatomical variations of the paranasal sinuses, the recognition of which is fundamental for preoperative planning, in order to avoid treatment failure and iatrogenic complications.\"",
+    "clinical_relevance": "Skull-base injury (lateral lamella), optic nerve injury (Onodi cell) and orbital injury are the major FESS complications these variants predict.",
+    "notes": "No prevalence data (pictorial essay). Clean, high-quality coronal CT - good for both normal sinus anatomy and variation slides. Gap: a CC BY normal labelled OMC/OMU CT was not found (Pol J Radiol PMC4841358 has no CC licence)."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_variation",
+    "topic": "Keros classification of olfactory fossa depth on coronal CT: 148 patients / 296 fossae, Qassim (Saudi Arabia)",
+    "pmcid": "PMC8935634",
+    "version": 1,
+    "doi": "10.7759/cureus.22378",
+    "citation": "Cureus. 2022 Feb 19;14(2):e22378. doi: 10.7759/cureus.22378",
+    "title": "Evaluation of the Keros Classification of Olfactory Fossa by CT Scan in Qassim Region",
+    "authors": "Almushayti Ziyad A, Almutairi Abdulhakeem N, Almushayti Mohammed A et al.",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0014-00000022378-i01.jpg",
+        "label": "Figure 1",
+        "caption": "CT scans showing the Keros classification(1) Keros type I, (2) Keros type II, and (3) Keros type III",
+        "specimen": "CT (coronal)",
+        "what_it_shows": "Three coronal CTs illustrating Keros types I, II and III with the lateral lamella, fovea ethmoidalis and lamina cribrosa marked.",
+        "labels_visible_in_image": "(1), (2), (3); FOVEA ETHMOIDALIS; LATERAL LAMELLA; LAMINA CRIBROSA; TYPE I, TYPE II, TYPE III; yellow double arrows/dots",
+        "pixels": "750x373",
+        "local_path": "basboyun/images/raw/PMC8935634/cureus-0014-00000022378-i01.jpg"
+      }
+    ],
+    "key_findings": "\"out of a total of 296 OF, type 1 was found in 84 (28.4%), type 2 in 188 (63.5%), and type 3 in 24 (8.1%).\" Mean depth: right \"5.1 mm\", left \"5.28\".",
+    "clinical_relevance": "A deep olfactory fossa (Keros III) has a long, thin lateral lamella that is vulnerable to CSF leak during endoscopic sinus surgery.",
+    "notes": "Licence CC BY 3.0 (Cureus). Excellent labelled figure."
+  },
+  {
+    "section": "kafa_tabani",
+    "use": "kesit_variation",
+    "topic": "Paranasal sinus anatomical variants on CT (septal deviation, concha bullosa, agger nasi, Haller and Onodi cells): 75 patients",
+    "pmcid": "PMC12085865",
+    "version": 1,
+    "doi": "10.7759/cureus.82506",
+    "citation": "Cureus. 2025 Apr 18;17(4):e82506. doi: 10.7759/cureus.82506",
+    "title": "Clinical and Radiological Significance of Anatomical Variations in Paranasal Sinuses: A Retrospective CT-Based Study",
+    "authors": "Subbiah Nandha Kumar, Bakshi Satvinder S, Arumugam Sangeetha et al.",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0017-00000082506-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Coronal CT images of paranasal sinus showing variation in middle turbinate pneumatizationA: lamellar type; B: bulbous type; C: extensive type (concha bullosa)CT: computed tomography",
+        "specimen": "CT (coronal)",
+        "what_it_shows": "Middle turbinate pneumatisation types: lamellar (A), bulbous (B) and extensive (concha bullosa, C).",
+        "labels_visible_in_image": "A, B, C; yellow arrows",
+        "pixels": "750x269",
+        "local_path": "basboyun/images/raw/PMC12085865/cureus-0017-00000082506-i02.jpg"
+      },
+      {
+        "file": "cureus-0017-00000082506-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Coronal CT images of paranasal sinus showing types of air cellsA: Haller cell; B: agger nasi cell; C: Onodi cellCT: computed tomography",
+        "specimen": "CT (coronal)",
+        "what_it_shows": "Accessory air cells: Haller (infraorbital) cell (A), agger nasi cell (B) and Onodi cell (C).",
+        "labels_visible_in_image": "A, B, C; yellow arrows; scanner overlay text in B/C (panel C shows a name-like string 'MOHAN' and dates - crop it)",
+        "pixels": "750x259",
+        "local_path": "basboyun/images/raw/PMC12085865/cureus-0017-00000082506-i03.jpg"
+      }
+    ],
+    "key_findings": "75 patients with sinus symptoms: \"NSD was the most common anatomical variation, observed in 50 patients (66.6%), followed by hypertrophic ethmoidal bulla in 35 (46.6%), and concha bullosa in 30 (40%).\" Table 1: agger nasi cell 20 (26.6%), Haller cell 15 (20.0%), Onodi cell 10 (13.0%).",
+    "clinical_relevance": "\"Paranasal anatomical variations significantly correlate with sinusitis, emphasizing the importance of preoperative CT evaluation\".",
+    "notes": "Small symptomatic cohort; table titles in the article appear swapped and the abstract's Haller-maxillary association is not significant in Table 3 (p>0.05) - quote prevalence only. Images are photographed-from-screen quality; panel C carries scanner text that may be a patient identifier - crop before use."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_lecture",
+    "topic": "Normal MRI anatomy of the oropharynx (tonsillar fossa, constrictor, parapharyngeal fat, retropharyngeal space) and oral cavity (mylohyoid, sublingual/submandibular spaces)",
+    "pmcid": "PMC9826778",
+    "version": 1,
+    "doi": "10.1186/s13244-022-01347-9",
+    "citation": "Insights Imaging. 2023 Jan 8;14:5. doi: 10.1186/s13244-022-01347-9",
+    "title": "MRI of acute neck infections: evidence summary and pictorial review",
+    "authors": "Hirvonen Jussi, Heikkinen Jaakko, Nyman Mikko et al.",
+    "year": "2023",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2022_1347_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Normal MRI anatomy of the oropharynx. Axial T2-weighted image shows the palatine tonsils (white asterisk) bounded laterally by the superior constrictor muscle (arrow), anteriorly by the palatoglossus muscle (dashed arrow), and posteriorly by the palatopharyngeus muscle (dotted arrow). Posterolateral to the superior constrictor muscle and the buccopharyngeal fascia is the parapharyngeal space indicated by fat signal (black asterisk). The medial pterygoid muscle (double white asterisk) and the parotid gland (hash) can be seen in the masticator and parotid spaces, respectively",
+        "specimen": "MRI (axial T2)",
+        "what_it_shows": "Axial T2 at the oropharynx: palatine tonsils bounded by superior constrictor, palatoglossus and palatopharyngeus; parapharyngeal fat, medial pterygoid and parotid/masseter.",
+        "labels_visible_in_image": "white asterisks, double grey asterisks, small black asterisks, # ; solid, dashed and dotted arrows",
+        "pixels": "598x277",
+        "local_path": "basboyun/images/raw/PMC9826778/13244_2022_1347_Fig2_HTML.jpg"
+      },
+      {
+        "file": "13244_2022_1347_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Normal MRI anatomy of the oral cavity. a A coronal T2-weighted image at the anterior part shows the mylohyoid muscle (arrow), separating the sublingual space superiorly including the sublingual gland (black asterisk) and the submandibular space inferiorly. Medially, and superior to the mylohyoid muscle, are the geniohyoid muscles (dotted arrow) and genioglossus muscles (superior to the geniohyoid muscles). Inferiorly, images show the anterior belly of the digastric muscle (white asterisk), and laterally, the buccinator muscle (dashed arrow). b A coronal T2-weighted image at a more posterior part shows the mylohyoid muscles (arrow) and the hyoglossus muscles more medially (dashed arrow), and the masseter muscle laterally in the masticator space (dotted arrow). Submandibular glands (asterisk) are shown below the mylohyoid muscle",
+        "specimen": "MRI (coronal T2)",
+        "what_it_shows": "Coronal T2 of the oral cavity: mylohyoid muscle separating the sublingual space (sublingual gland) from the submandibular space; genioglossus/geniohyoid; hyoglossus.",
+        "labels_visible_in_image": "a, b; black and grey asterisks; solid, dashed and dotted arrows",
+        "pixels": "797x332",
+        "local_path": "basboyun/images/raw/PMC9826778/13244_2022_1347_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "Review: \"Anatomically, the retropharyngeal space is bounded anteriorly by the superior constrictor muscle and buccopharyngeal fascia, and posteriorly by the prevertebral fascia.\" The retropharyngeal space \"ends at the upper thoracic level, whereas the danger space is a gateway into the lower parts of the mediastinum.\"",
+    "clinical_relevance": "Knowing the spaces predicts the spread of pharyngotonsillar and odontogenic abscesses (\"Most common types are pharyngotonsillar and odontogenic infections\" - key points).",
+    "notes": "Arrow/asterisk legend is in the caption only. Do NOT use Figs 9, 10, 18, 19 ('Image modified from ref.') of this article."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_lecture",
+    "topic": "Paediatric normal neck MRI: oropharynx/palatine tonsils and lateral retropharyngeal (Rouviere) lymph nodes",
+    "pmcid": "PMC10296820",
+    "version": 1,
+    "doi": "10.3390/children10060967",
+    "citation": "Children (Basel). 2023 May 29;10(6):967. doi: 10.3390/children10060967",
+    "title": "Pictorial Review of MRI Findings in Acute Neck Infections in Children",
+    "authors": "Nurminen Janne, Heikkinen Jaakko, Happonen Tatu et al.",
+    "year": "2023",
+    "journal": "Children",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "children-10-00967-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Normal MRI anatomy of the oropharynx in a 12-year-old. Axial T2-weighted (A), fat-suppressed T2-weighted (B), and coronal T2-weighted (C) images and an ADC map (D) demonstrate the palatine tonsils (white asterisk) bounded laterally by the superior constrictor muscle (arrows) and posteriorly by the palatopharyngeus muscle (dotted arrows).",
+        "specimen": "MRI (T2, FS-T2, ADC; axial + coronal)",
+        "what_it_shows": "Normal oropharynx in a 12-year-old: palatine tonsils (asterisks) bounded laterally by the superior constrictor (arrows) on axial and coronal T2, with ADC map.",
+        "labels_visible_in_image": "A-D; white asterisks; white arrows; dotted arrowheads",
+        "pixels": "778x647",
+        "local_path": "basboyun/images/raw/PMC10296820/children-10-00967-g001.jpg"
+      },
+      {
+        "file": "children-10-00967-g003.jpg",
+        "label": "Figure 3",
+        "caption": "Normal lateral retropharyngeal lymph nodes (of Rouvière) in a 2-year-old on axial (A), coronal (B), and sagittal (C) T2-weighted images and axial (D), coronal (E), and sagittal (F) fat-suppressed T2-weighted images (arrows).",
+        "specimen": "MRI (T2, FS-T2; axial, coronal, sagittal)",
+        "what_it_shows": "Normal lateral retropharyngeal lymph nodes (of Rouviere) in a 2-year-old in three planes.",
+        "labels_visible_in_image": "A-F; white arrows",
+        "pixels": "747x434",
+        "local_path": "basboyun/images/raw/PMC10296820/children-10-00967-g003.jpg"
+      }
+    ],
+    "key_findings": "Pictorial review: \"Magnetic resonance imaging (MRI) has proven to be a useful and highly accurate imaging method in acute neck infections in children.\" \"Children and adults differ in terms of the types of acute infections and the anatomy and function of the neck.\"",
+    "clinical_relevance": "Retropharyngeal nodes are the origin of paediatric retropharyngeal abscess; normal nodes must not be mistaken for pathology.",
+    "notes": "Same group as PMC9826778; complements adult anatomy. Do NOT use Figs 18 and 24 (contain 'modified from' text per caption scan)."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_lecture",
+    "topic": "Salivary glands: parotid space and submandibular/sublingual spaces - labelled illustration, CT and T2 MRI",
+    "pmcid": "PMC6251248",
+    "version": 1,
+    "doi": "10.4103/jcis.JCIS_45_18",
+    "citation": "J Clin Imaging Sci. 2018 Nov 15;8:47. doi: 10.4103/jcis.JCIS_45_18",
+    "title": "Review of the Major and Minor Salivary Glands, Part 1: Anatomy, Infectious, and Inflammatory Processes",
+    "authors": "Kessler Alexander T, Bhatt Alok A",
+    "year": "2018",
+    "journal": "Journal of Clinical Imaging Science",
+    "license_code": "CC BY-NC-SA",
+    "figures": [
+      {
+        "file": "JCIS-8-47-g002.jpg",
+        "label": "Figure 1",
+        "caption": "Parotid space anatomy. (a) Illustration of parotid space anatomy with key landmarks labeled. (b) Axial computed tomography of parotid space anatomy with key landmarks labeled. (c) Axial T2-weighted magnetic resonance image of parotid space anatomy with key landmarks labeled.",
+        "specimen": "schematic + CT + MRI (axial)",
+        "what_it_shows": "Parotid space: illustration (a), axial CT (b) and axial T2 MRI (c) with labelled deep/superficial lobes, intraparotid facial nerve course, retromandibular vein, external carotid artery, styloid process, posterior belly of digastric, mastoid tip.",
+        "labels_visible_in_image": "a, b, c; Deep parotid gland, Intraparotid facial nerve, Superficial parotid gland, Retromandibular vein, External carotid artery, Styloid process, Posterior belly of digastric muscle, Mastoid tip (and same terms on CT/MRI)",
+        "pixels": "605x337",
+        "local_path": "basboyun/images/raw/PMC6251248/JCIS-8-47-g002.jpg"
+      },
+      {
+        "file": "JCIS-8-47-g004.jpg",
+        "label": "Figure 3",
+        "caption": "Submandibular space anatomy. (a) Illustration of submandibular and sublingual space anatomy with key landmarks labeled. (b) Axial computed tomography of submandibular space anatomy with key landmarks labeled. (c) Axial T2-weighted magnetic resonance image of submandibular space anatomy with key landmarks labeled. (d) Axial T2-weighted magnetic resonance image of submandibular duct anatomy with key landmarks labeled.",
+        "specimen": "schematic + CT + MRI (axial)",
+        "what_it_shows": "Submandibular and sublingual spaces: colour illustration (a), CT (b), T1/T2 MRI (c, d) labelling mylohyoid, hyoglossus, genioglossus, sublingual gland, submandibular gland deep/superficial portions, submandibular duct, facial artery, anterior belly of digastric.",
+        "labels_visible_in_image": "a-d; Sublingual space, Submandibular space, Mylohyoid cleft, Genioglossus muscle, Sublingual gland, Lingual artery, Mylohyoid muscle, Hyoglossus muscle, Submandibular gland, Intrinsic tongue muscles, Mandible, Deep/Superficial Portion of the Submandibular Gland, Facial artery, Anterior Belly of the Digastric, Submandibular duct",
+        "pixels": "605x384",
+        "local_path": "basboyun/images/raw/PMC6251248/JCIS-8-47-g004.jpg"
+      }
+    ],
+    "key_findings": "\"The parotid space is located posterolateral to the masticator space, lateral to the parapharyngeal space, and anterolateral to the carotid space\". \"Although not a true fascial plane, the intraparotid facial nerve separates the parotid gland into superficial and deep portions\"; the retromandibular vein is \"commonly used as surrogate landmark for its location.\"",
+    "clinical_relevance": "Superficial vs deep lobe location of parotid tumours determines surgical approach and facial nerve risk.",
+    "notes": "LICENCE CC BY-NC-SA (flag: non-commercial, share-alike). Best labelled salivary-gland anatomy found. Labels are small at 605 px width - may need re-typing. Illustration provenance not stated (no permission note)."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_variation",
+    "topic": "Elongated styloid process (Eagle) on CBCT: length, angulation and prevalence in 498 patients (China)",
+    "pmcid": "PMC11622470",
+    "version": 1,
+    "doi": "10.1186/s12880-024-01516-w",
+    "citation": "BMC Med Imaging. 2024 Dec 6;24:333. doi: 10.1186/s12880-024-01516-w",
+    "title": "Cone-beam computed tomographic evaluation of styloid process: a retrospective study of 498 patients with maxillofacial diseases",
+    "authors": "Yang Zhang, Yuzi Jing, Beibei Liang",
+    "year": "2024",
+    "journal": "BMC Medical Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12880_2024_1516_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "The measurement of the styloid process length",
+        "specimen": "CBCT (3-D volume rendering)",
+        "what_it_shows": "Frontal 3-D CBCT rendering of the mandible/skull base with bilateral styloid process length measurements.",
+        "labels_visible_in_image": "'18.52 mm', '16.08 mm' measurement lines",
+        "pixels": "595x574",
+        "local_path": "basboyun/images/raw/PMC11622470/12880_2024_1516_Fig1_HTML.jpg"
+      },
+      {
+        "file": "12880_2024_1516_Fig8_HTML.jpg",
+        "label": "Fig. 8",
+        "caption": "Elongated styloid process distribution in males and females with cutoff 30 mm (red dashed line)",
+        "specimen": "chart (data from CBCT)",
+        "what_it_shows": "Scatter plot of left and right styloid length by sex with the 30 mm elongation cut-off (red dashed line).",
+        "labels_visible_in_image": "A, B; axis titles Left_Length / Right_Length, Gender; legend female/male",
+        "pixels": "777x465",
+        "local_path": "basboyun/images/raw/PMC11622470/12880_2024_1516_Fig8_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"Out of 498 subjects, 62 (24.13%) females and 101 (41.91%) males had elongated left styloid process (≥30 mm), while 75 (29.18%) and 90 (37.34%) had right side respectively.\" \"Males had significantly longer styloid process in both sides than females\" with left-right correlation \"r = 0.83; p < 0.001\".",
+    "clinical_relevance": "An elongated styloid process or calcified stylohyoid ligament can cause Eagle syndrome (pharyngeal pain, carotid compression).",
+    "notes": "Patients with maxillofacial disease, not general population. Fig. 1 3-D render is not a cross-section but clearly shows the variant."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_variation",
+    "topic": "Accessory parotid gland and facial process of the parotid on CT: 1,600 glands / 800 patients",
+    "pmcid": "PMC5600370",
+    "version": 1,
+    "doi": "10.1371/journal.pone.0184633",
+    "citation": "PLoS One. 2017 Sep 15;12(9):e0184633. doi: 10.1371/journal.pone.0184633",
+    "title": "The accessory parotid gland and facial process of the parotid gland on computed tomography",
+    "authors": "Ahn Dongbin, Yeo Chang Ki, Han Soon Yong et al.",
+    "year": "2017",
+    "journal": "PLoS ONE",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "pone.0184633.g001.jpg",
+        "label": "Fig 1",
+        "caption": "A representative example of an accessory parotid gland.A soft-tissue mass that has the same density as the main parotid gland is shown, is located at the anterior part of the main parotid gland, and is completely separate from the main parotid gland on every slice of the CT scan (arrow).",
+        "specimen": "CT (axial, contrast-enhanced)",
+        "what_it_shows": "Accessory parotid gland (arrow) on the masseter, separate from the main gland.",
+        "labels_visible_in_image": "white arrow",
+        "pixels": "700x817",
+        "local_path": "basboyun/images/raw/PMC5600370/pone.0184633.g001.jpg"
+      },
+      {
+        "file": "pone.0184633.g002.jpg",
+        "label": "Fig 2",
+        "caption": "A representative example of a facial process of the parotid gland.Protrusion of the parotid gland anteriorly over the anterior edge of the ramus of the mandible and continuity with the main gland distinguishes a facial process of the parotid from an accessory parotid gland (arrow).",
+        "specimen": "CT (axial, contrast-enhanced)",
+        "what_it_shows": "Facial process of the parotid (arrow) extending over the ramus/masseter in continuity with the main gland; also shows parapharyngeal fat, medial pterygoid, retromandibular vein.",
+        "labels_visible_in_image": "white arrow",
+        "pixels": "700x749",
+        "local_path": "basboyun/images/raw/PMC5600370/pone.0184633.g002.jpg"
+      }
+    ],
+    "key_findings": "\"The incidence rates of APGs and FPs were 10.2% (163/1,600) and 28.3% (452/1,600), respectively. The mean size of an APG was 15.8 mm × 5.0 mm and the mean distance from the main parotid gland was 10.5 mm.\" APG incidence decreased and FP incidence increased with age.",
+    "clinical_relevance": "An accessory parotid on the masseter can mimic a cheek mass; tumours may arise in it (Fig. 4, not downloaded).",
+    "notes": "Good clean axial CTs; also usable to show normal masticator/parotid space anatomy."
+  },
+  {
+    "section": "yuz_farinks",
+    "use": "kesit_variation",
+    "topic": "Aberrant (medialised / retropharyngeal) cervical internal carotid arteries, 'kissing carotids': CT and angiography, 14 of 5,500 patients",
+    "pmcid": "PMC3026334",
+    "version": 1,
+    "doi": "10.2174/1874440001004010174",
+    "citation": "Open Neuroimag J. 2010 Nov 5;4:174–81. doi: 10.2174/1874440001004010174",
+    "title": "Imaging and Clinical Findings in Patients with Aberrant Course of the Cervical Internal Carotid Arteries",
+    "authors": "Muñoz Alberto, De Vergas Joaquín, Crespo José",
+    "year": "2010",
+    "journal": "The Open Neuroimaging Journal",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "TONIJ-4-174_F3.jpg",
+        "label": "Fig. (3)",
+        "caption": "(A-C). Extended bilateral retropharyngeal course of both internal carotid arteries (kissing carotids), (patient #12). A: Axial contrast CT scan in early-enhanced phase throughout the oropharynx. Notice medialization of both ICA’s reaching the retropharyngeal midline (arrows), and also medialization of both internal jugular veins. B and C: Digital subtraction angiography in anteroposterior projection. Upper aortogram of both ICA’s in the early arteriographic phase (B) shows bilateral medialization of the cervical segment of the ICA’s (arrows). Notice tortuosity of the proximal portions of the right common and external carotid arteries. Selective injection of the right common carotid artery in early arteriographic phase (C) shows progressive medialization of the proximal segment of ICA and then abrupt change in the course of the artery and then the artery regains its normal position after a short horizontal segment. Notice extrinsic arterial notch pinpointing the place of arterial course change and producing a focal non-atherosclerotic stenosis (arrow). (Radiological classification of this patient was considered C,2.)",
+        "specimen": "CT + catheter angiography",
+        "what_it_shows": "Kissing carotids: axial contrast CT at the oropharynx with both ICAs in the retropharyngeal midline (A) and corresponding catheter angiograms (B, C).",
+        "labels_visible_in_image": "A, B, C; black arrows",
+        "pixels": "685x918",
+        "local_path": "basboyun/images/raw/PMC3026334/TONIJ-4-174_F3.jpg"
+      }
+    ],
+    "key_findings": "CT studies of 5,500 head-and-neck patients: \"we found 14 (0.2%) patients who met the cervical ICA aberrancy criteria\"; \"the course of the right ICA was aberrant in 43%, the left ICA in 14%, and both in 43%\"; \"Four patients (28%) were considered to have clinical symptoms\".",
+    "clinical_relevance": "A retropharyngeal ICA is a pulsatile submucosal pharyngeal mass at risk during tonsillectomy, adenoidectomy, retropharyngeal drainage or transoral surgery.",
+    "notes": "LICENCE CC BY-NC (flag). Prevalence is for a restrictive classification - other series report higher rates (WebSearch only; AJNR Lukins 2016 not OA)."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_lecture",
+    "topic": "Neck ultrasound anatomy: systematic survey (submandibular, submental, parotid, carotid bifurcation, thyroid, larynx) and laryngeal US (thyroid cartilage, vocal cords, arytenoids, epiglottis)",
+    "pmcid": "PMC9640455",
+    "version": 1,
+    "doi": "10.1007/s10396-022-01266-8",
+    "citation": "J Med Ultrason (2001). 2022 Oct 26;49(4):593–600. doi: 10.1007/s10396-022-01266-8",
+    "title": "Point-of-care ultrasound in the head and neck region",
+    "authors": "Furukawa Madoka, Hashimoto Kaori, Kitani Yuka et al.",
+    "year": "2022",
+    "journal": "Journal of Medical Ultrasonics (2001)",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "10396_2022_1266_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Basic image of the neck (systematic cervical ultrasonography). SG submandibular gland, PL: pharyngeal lateral wall, OB: oral base, PG: parotid gland, BIF: carotid bifurcation, TR: trachea, TH: thyroid gland, ES: esophagus, LX: larynx. The probe should be continuously scanned to ensure that it passes through these sites, and the left and right necks should always be observed. Observe in a manner that does not overlook changes in lymph nodes, blood vessels, and muscles along the way. a Submandibular region (submandibular gland, facial arteriovenous, oropharyngeal sidewall). b Submental region (oral floor muscles, base of tongue). c Parotid region (parotid gland, mandible, masseter muscle). d Carotid bifurcation (external carotid artery, internal carotid artery, internal jugular vein). e Anterior neck (thyroid, common carotid artery, internal jugular vein, cervical esophagus). f Larynx",
+        "specimen": "US (B-mode) + probe-position photo",
+        "what_it_shows": "Six standard transverse neck US windows (a-f) with a neck photograph showing probe positions: submandibular gland, oral floor, parotid, carotid bifurcation, thyroid/trachea/oesophagus, larynx.",
+        "labels_visible_in_image": "a-f; SG, PL, OB, PG, BIF, TR, TH, ES, LX; boxes a-f on neck photo",
+        "pixels": "706x407",
+        "local_path": "basboyun/images/raw/PMC9640455/10396_2022_1266_Fig1_HTML.jpg"
+      },
+      {
+        "file": "10396_2022_1266_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "POCUS of the anterior neck HB hyoid bone, LX larynx, TH thyroid gland, TR trachea, HP hypopharynx, ES esophagus, CCA common carotid artery, JV internal jugular vein, VC vocal cord, TC thyroid cartilage, AR arytenoid cartilage, EP epiglottis cartilage. a Anterior neck anatomy. b Anterior neck probe operation. c Transverse view of the anterior neck: Ultrasound image of the larynx (vocal cord level). d Transverse view of the anterior neck: Ultrasound image of the larynx (supraglottic level)",
+        "specimen": "schematic + photo + US",
+        "what_it_shows": "Anterior neck schematic (hyoid, larynx, thyroid, trachea, oesophagus, CCA, IJV), probe placement, and transverse US of the larynx at vocal-cord and supraglottic levels.",
+        "labels_visible_in_image": "a-d; HB, LX, HP, TH, TR, ES, CCA, JV, TC, VC, AR, EP",
+        "pixels": "708x589",
+        "local_path": "basboyun/images/raw/PMC9640455/10396_2022_1266_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"Point-of-care ultrasound (POCUS) in the head and neck region plays a particularly significant role in the diagnosis and treatment of upper airway stenosis, swelling, and painful diseases in the neck, and in the evaluation of swallowing function.\"",
+    "clinical_relevance": "Laryngeal and thyroid US landmarks are used for airway assessment, vocal cord motion and cricothyroid identification.",
+    "notes": "Fig. 2a schematic origin is not stated in the caption (no permission note) - acceptable but flagged. Fig. 1/2 include photographs of a volunteer's neck (no face)."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_lecture",
+    "topic": "Normal transverse thyroid ultrasound with labelled surrounding structures",
+    "pmcid": "PMC3955795",
+    "version": 1,
+    "doi": "10.3348/kjr.2014.15.2.267",
+    "citation": "Korean J Radiol. 2014 Mar 7;15(2):267–76. doi: 10.3348/kjr.2014.15.2.267",
+    "title": "Thyroid Ultrasonography: Pitfalls and Techniques",
+    "authors": "Choi Seon Hyeong, Kim Eun-Kyung, Kim Soo Jin et al.",
+    "year": "2014",
+    "journal": "Korean Journal of Radiology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "kjr-15-267-g001.jpg",
+        "label": "Fig. 1",
+        "caption": "Normal transverse US of thyroid gland. Cross-sectional US shows normal thyroid glands and surrounding structures. Both thyroid glands show homogeneous parenchymal echogenicity higher than anterior strap muscles. Both CCAs run laterally adjacent to both thyroid lobes and infrahyoid strap muscles overlie thyroid gland. Both SCM muscles are located antero-laterally and longus colli muscles are seen posterolaterally to thyroid gland. US = ultrasonography, SCM = sternocleidomastoid muscle, CCA = common carotid artery, IJV = internal jugular vein, Ant. Strap m = anterior strap muscle, Longus Colli m = longus colli muscle",
+        "specimen": "US (B-mode, panoramic transverse)",
+        "what_it_shows": "Panoramic transverse US of both thyroid lobes and isthmus with trachea, oesophagus, CCA, IJV, SCM, strap and longus colli muscles labelled.",
+        "labels_visible_in_image": "SCM, CCA, IJV, Ant. Strap m, Isthmus, Thyroid, Trachea, Longus Colli m, Esophagus",
+        "pixels": "755x227",
+        "local_path": "basboyun/images/raw/PMC3955795/kjr-15-267-g001.jpg"
+      }
+    ],
+    "key_findings": "\"Approximately 40% of individuals have a pyramidal lobe arising from the isthmus that extends towards the hyoid bone (8, 13)\"; \"The length of the lateral lobes is approximately 4-5 cm, with the transverse and antero-posterior diameter of the lateral lobes being approximately 2 cm and the thickness of the isthmus being less than 0.5 cm (8, 13, 14)\".",
+    "clinical_relevance": "Reference for normal thyroid size, echogenicity and relations (CCA, IJV, oesophagus, recurrent laryngeal region).",
+    "notes": "LICENCE CC BY-NC (flag). Image is wide (755x227) but labels are legible. Article's Fig. 2 shows a pyramidal lobe on US (not downloaded; PMC4347276 used instead)."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_lecture",
+    "topic": "Carotid space (carotid sheath) contents and fascial walls - labelled schematic",
+    "pmcid": "PMC6377693",
+    "version": 1,
+    "doi": "10.1186/s13244-019-0704-z",
+    "citation": "Insights Imaging. 2019 Feb 15;10:21. doi: 10.1186/s13244-019-0704-z",
+    "title": "Pathology of the carotid space",
+    "authors": "Chengazi Harris U., Bhatt Alok A.",
+    "year": "2019",
+    "journal": "Insights into Imaging",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "13244_2019_704_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "The carotid space. Illustration demonstrating the contents and configuration of the left carotid space, including cranial nerves IX, X, XI, and XII",
+        "specimen": "schematic",
+        "what_it_shows": "Axial drawing of the left carotid space: carotid artery, jugular vein, CN IX-XII, sympathetic trunk, and the contributions of the superficial, middle and deep layers of the deep cervical fascia.",
+        "labels_visible_in_image": "The Carotid Space; Anterior; Carotid artery; Jugular vein; Sympathetic trunk; IX, X, XI, XII; Superficial layer; Middle layer; Deep layer; artist signature and 'UR MEDICINE' logo",
+        "pixels": "787x468",
+        "local_path": "basboyun/images/raw/PMC6377693/13244_2019_704_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"The carotid space is a paired space defined by the carotid sheath, a connective tissue boundary in the neck, that is made by the superficial, middle, and deep layers of the deep cervical fascia.\" \"Extending from the jugular foramen at the skull base to the aortic arch at the thoracic inlet, the carotid space is divided craniocaudally into the supra- and infrahyoid regions.\" Key point: \"The infrahyoid carotid space contains the vagus nerve, as well as the common carotid artery and internal jugular vein.\"",
+    "clinical_relevance": "\"A lesion centered within the carotid space will displace the ipsilateral parapharyngeal fat anteromedially.\"",
+    "notes": "Schematic, not imaging. Contains a University of Rochester Medicine logo - CC BY covers the figure but crop/mask the institutional logo to avoid implying endorsement."
+  },
+  {
+    "section": "boyun",
+    "use": "topo_lecture",
+    "topic": "Deep cervical fascia, alar fascia, retropharyngeal and danger spaces: E12 sheet-plastinated sagittal section + labelled C6 schematic",
+    "pmcid": "PMC9868889",
+    "version": 1,
+    "doi": "10.7759/cureus.32871",
+    "citation": "Cureus. 2022 Dec 23;14(12):e32871. doi: 10.7759/cureus.32871",
+    "title": "The Alar Fascia and Danger Space: A Modern Review",
+    "authors": "Phan Tammy, Lay Johnson, Scali Frank",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0014-00000032871-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Illustration depicts a magnified transverse section at the C6 vertebral level.The three layers of the deep cervical fascia - superficial, middle, and deep (refer to legend) - are depicted in relation to the alar fascia (*). The alar fascia is situated between the retropharyngeal fascia (RF) anteriorly and the prevertebral fascia (PVF) posteriorly. Therefore, the alar fascia divides the potential space between the retropharyngeal and prevertebral layers to form the retropharyngeal space (RS) anteriorly and the danger space (DS) posteriorly. Also labeled: pretracheal fascia (PTF); carotid sheath (CS); superficial layer of the deep cervical fascia (SLDCF); superficial fascia (SF) (illustrated by Christina Pecora, MSMI).",
+        "specimen": "schematic",
+        "what_it_shows": "Transverse section at C6 showing superficial, middle (pretracheal) and deep (prevertebral) layers, alar fascia, carotid sheath, retropharyngeal and danger spaces.",
+        "labels_visible_in_image": "PTF, RF, RS, *, PVF, DS, CS, SLDCF, SF, C6; legend Superficial/Middle/Deep layer; inset head with C6 level; artist signature",
+        "pixels": "750x671",
+        "local_path": "basboyun/images/raw/PMC9868889/cureus-0014-00000032871-i01.jpg"
+      },
+      {
+        "file": "cureus-0014-00000032871-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Single 4 mm translucent sheet plastinate of the head and neck revealing the relationship of the alar fascia with its respective surrounding structures and potential spaces.(a) E12 plastinated sagittal section of the head and neck (4-mm-thick section) with call out revealing the area of interest (scale bar = 3 cm). (b) Magnified region of anatomy between the first (C1) and third (C3) cervical vertebral levels. A dense membrane, identified as the alar fascia (black arrowheads), extends from the inferior pole (*) of the anterior arch of the atlas. The alar fascia separates the retropharyngeal space from the danger space. The anteroinferior attachment point diverges posteriorly (double arrows) to coalesce with the anterior ligaments of C2 and the atlantoaxial ligaments (AAL) (scale bar = 1 cm).",
+        "specimen": "cadaver (E12 sheet plastination, sagittal 4 mm)",
+        "what_it_shows": "Midsagittal plastinated head-and-neck slice (a) and magnified C1-C3 prevertebral region (b) showing the alar fascia separating retropharyngeal and danger spaces.",
+        "labels_visible_in_image": "a, b; C1, C2, C3, AAL, *, black and white arrowheads, double arrows; scale bars 3cm and 1cm",
+        "pixels": "750x467",
+        "local_path": "basboyun/images/raw/PMC9868889/cureus-0014-00000032871-i02.jpg"
+      }
+    ],
+    "key_findings": "\"Thirty-two sagittal E12 sheet plastination slices of the head and neck were analyzed\". \"Recent advancements have provided evidence that the alar fascia is a true fascial layer between the retropharyngeal and danger spaces\" and it \"may serve as a physical barrier to prevent the spread of infection into the danger space.\"",
+    "clinical_relevance": "\"Complications arising from deep neck infections that invade the danger space include mediastinitis, necrotizing fasciitis, and empyema.\"",
+    "notes": "Schematic drawn for the article (\"illustrated by Christina Pecora, MSMI\") - no third-party permission. The plastinate is a true cadaveric sagittal section comparable to VHP sagittal reconstructions."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_variation",
+    "topic": "Aortic arch branching variants (incl. aberrant right subclavian artery / arteria lusoria) on contrast chest CT: 4,000 patients, South India",
+    "pmcid": "PMC7936046",
+    "version": 1,
+    "doi": "10.7759/cureus.13115",
+    "citation": "Cureus. 2021 Feb 3;13(2):e13115. doi: 10.7759/cureus.13115",
+    "title": "Anatomical Variations of the Aortic Arch: A Computerized Tomography-Based Study",
+    "authors": "Pandalai Uma, Pillay Minnie, Moorthy Srikanth et al.",
+    "year": "2021",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0013-00000013115-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Axial CT chest contrast image showing aberrant right subclavian artery with schematic representation of finding.ARSA: Aberrant Right Subclavian Artery, AA: Aortic Arch, RCCA: Right Common Carotid Artery, LCCA: Left Common Carotid Artery, LSA: Left Subclavian Artery",
+        "specimen": "CT (axial, contrast) + schematic inset",
+        "what_it_shows": "Aberrant right subclavian artery passing behind the trachea/oesophagus, with inset diagram of the arch branching.",
+        "labels_visible_in_image": "ARSA (red arrow); inset: RCCA, LCCA, ARSA, LSA, AA",
+        "pixels": "800x574",
+        "local_path": "basboyun/images/raw/PMC7936046/cureus-0013-00000013115-i01.jpg"
+      },
+      {
+        "file": "cureus-0013-00000013115-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Axial CT chest contrast image showing type 1 bovine arch with schematic representation of finding.AA: Aortic Arch, BCT: Brachiocephalic Trunk, RVA: Right Vertebral Artery, LCCA: Left Common Carotid Artery, LVA: Left Vertebral Artery, LSA: Left Subclavian Artery",
+        "specimen": "CT (axial, contrast) + schematic inset",
+        "what_it_shows": "Type 1 bovine arch with labelled great vessels at the thoracic inlet and inset diagram.",
+        "labels_visible_in_image": "RSA, LCCA, LSA (red arrows); inset: RVA, LCCA, LVA, BCT, LSA, AA",
+        "pixels": "800x499",
+        "local_path": "basboyun/images/raw/PMC7936046/cureus-0013-00000013115-i03.jpg"
+      }
+    ],
+    "key_findings": "\"A total of 27 variations were observed in the 4,000 CT images, making the prevalence of variations 0.675%.\" Variants: \"seven cases (25.9%) of aberrant right subclavian artery ... one case of bovine arch ... one case of bovine origin of left vertebral artery from arch ... one case of double aortic arch (F), and 16 cases of right-sided aortic arch\"; \"we observed a prevalence of 0.175%\" for ARSA.",
+    "clinical_relevance": "ARSA is associated with a non-recurrent right laryngeal nerve and dysphagia lusoria; \"only 60% of procedures using a transradial approach were successful in the presence of an arteria lusoria\".",
+    "notes": "Licence CC BY (Cureus). Low variant prevalence vs literature (bovine arch usually much commoner) - mention population/reader differences."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_variation",
+    "topic": "Vertical level of the carotid bifurcation on CTA relative to vertebral and anterior neck landmarks: 147 CTAs / 294 bifurcations",
+    "pmcid": "PMC11246274",
+    "version": 1,
+    "doi": "10.1007/s00276-024-03404-y",
+    "citation": "Surg Radiol Anat. 2024 Jun 7;46(8):1253–63. doi: 10.1007/s00276-024-03404-y",
+    "title": "The vertical topography of the carotid bifurcation – original study and review",
+    "authors": "Manta Mihaela Daniela, Rusu Mugurel Constantin, Hostiuc Sorin et al.",
+    "year": "2024",
+    "journal": "Surgical and Radiologic Anatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "276_2024_3404_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "a. Carotid bifurcations (CB) with high location - on the left at C2 level and right at C2/C3 level. Three-dimensional volume rendering. Left anterolateral view. (1) right CB; (2) C3 vertebra; (3) hyoid body; (4) anterior arch of atlas; (5) axis; (6) left CB. b. Carotid bifurcations (CBs) with low localisation at the C5 level on the right side and the C5/C6 disc level on the left side. Three-dimensional volume rendering. Anterior view. (1) atlas; (2) axis; (3) C4 vertebra; (4) right CB; (5) C6 vertebra; (6) left CB; (7) C5 vertebra",
+        "specimen": "CT angiography (3-D volume rendering)",
+        "what_it_shows": "High carotid bifurcations (left at C2, right at C2/C3) with vertebrae, hyoid and anterior landmarks numbered.",
+        "labels_visible_in_image": "a, b; numbers 1-7 with leader lines",
+        "pixels": "685x430",
+        "local_path": "basboyun/images/raw/PMC11246274/276_2024_3404_Fig1_HTML.jpg"
+      },
+      {
+        "file": "276_2024_3404_Fig6_HTML.jpg",
+        "label": "Fig. 6",
+        "caption": "(a) Low carotid bifurcations (CBs), bilateral vertical symmetry (arrows). Three-dimensional volume rendering. Anterior view. (b) Normal vertical level (type 1) of the right CB. Three-dimensional volume rendering. Right side, lateral view. (1) styloid process; (2) internal carotid artery; (3) external carotid artery; (4) facial artery; (5) lingual artery; (6) occipital artery; (7) internal jugular vein; (8) linguofacial trunk; (9) CB; (10) common carotid artery; 11. superior thyroid artery",
+        "specimen": "CT angiography (3-D volume rendering)",
+        "what_it_shows": "Low bilateral symmetrical carotid bifurcations (a, arrows) and normal (type 1) right bifurcation with ECA branches (b).",
+        "labels_visible_in_image": "a, b; white arrows; numbers 1-11",
+        "pixels": "685x452",
+        "local_path": "basboyun/images/raw/PMC11246274/276_2024_3404_Fig6_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"The most common locations of CB were at C3 (27.21%), C3/C4 (26.19%) and C4 (25.51%). Bilateral symmetry of CB was found in 51.7%\". Anterior types: \"type 3 occurred in 39.12%, type 2 in 24.49%, type 1 in 13.95%, type 4 in 13.61%, type 5 in 6.12%, and type 6 in 2.72% (294 CBs).\"",
+    "clinical_relevance": "\"Surgeons and interventionists should better document the carotid anatomy on a case-by-case basis\" (carotid endarterectomy/stenting, neck dissection).",
+    "notes": "Licence CC BY (Surg Radiol Anat). Number keys are in the verbatim captions."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_variation",
+    "topic": "Pyramidal lobe of the thyroid on US vs CT: prospective multicentre study, 582 patients (Korea)",
+    "pmcid": "PMC4347276",
+    "version": 1,
+    "doi": "10.3348/kjr.2015.16.2.402",
+    "citation": "Korean J Radiol. 2015 Feb 27;16(2):402–9. doi: 10.3348/kjr.2015.16.2.402",
+    "title": "Comparison between Ultrasonography and Computed Tomography for Detecting the Pyramidal Lobe of the Thyroid Gland: A Prospective Multicenter Study",
+    "authors": "Kim Dong Wook, Jung So Lyung, Kim Jinna et al.",
+    "year": "2015",
+    "journal": "Korean Journal of Radiology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "kjr-16-402-g001.jpg",
+        "label": "Fig. 1",
+        "caption": "Left pyramidal lobe detected on US and CT in 58-year-old woman.Transverse (A) and longitudinal (B) gray-scale sonograms show left pyramidal lobe (arrows). Non-enhanced (C) and contrast-enhanced (D) axial CT images of left pyramidal lobe (arrows) show same attenuation and enhancement as main thyroid gland (arrowheads).",
+        "specimen": "US (transverse + longitudinal) + CT (axial, non-enhanced and enhanced)",
+        "what_it_shows": "Left pyramidal lobe (arrows) on transverse/longitudinal US and on axial CT with the same attenuation/enhancement as the main gland (arrowheads), anterior to the thyroid cartilage.",
+        "labels_visible_in_image": "A-D; white arrows, white arrowheads",
+        "pixels": "792x645",
+        "local_path": "basboyun/images/raw/PMC4347276/kjr-16-402-g001.jpg"
+      }
+    ],
+    "key_findings": "\"The pyramidal lobe of the thyroid glands were detected in 230 cases (39.5%) on US and in 276 cases (47.6%) on CT. The TPL detection rate at the six institutions ranged from 22.0% to 59% for US and from 34.1% to 59% using CT.\" With CT as reference, US sensitivity/specificity were \"72.6%, 91.5%\".",
+    "clinical_relevance": "A pyramidal lobe must be removed in total thyroidectomy (remnant uptake) and can mimic a mass or lymph node.",
+    "notes": "LICENCE CC BY-NC (flag)."
+  },
+  {
+    "section": "boyun",
+    "use": "kesit_variation",
+    "topic": "Non-recurrent right laryngeal nerve predicted from aberrant right subclavian artery on enhanced chest CT: 2,697 oesophageal cancer patients",
+    "pmcid": "PMC5217945",
+    "version": 1,
+    "doi": "10.1111/1759-7714.12409",
+    "citation": "Thorac Cancer. 2016 Dec 2;8(1):46–50. doi: 10.1111/1759-7714.12409",
+    "title": "Preoperative computed tomography diagnosis of non‐recurrent laryngeal nerve in patients with esophageal carcinoma",
+    "authors": "Niu Zhong‐Xi, Zhang Hang, Chen Long‐Qi et al.",
+    "year": "2016",
+    "journal": "Thoracic Cancer",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "TCA-8-46-g001.jpg",
+        "label": "Figure 1",
+        "caption": "An aberrant right subclavian artery (long arrow) is defined as (a) the last branch arising directly from the aortic arch, and (b) crossing the midline, (c) with a retroesophageal (short arrow) course (d) to reach the right axillary area.",
+        "specimen": "CT (axial, contrast-enhanced)",
+        "what_it_shows": "Serial axial CT slices following an ARSA from the distal aortic arch, crossing the midline behind the oesophagus/trachea to the right (long arrow); oesophagus marked (short arrow).",
+        "labels_visible_in_image": "a-d; long white arrows, short white arrows",
+        "pixels": "709x378",
+        "local_path": "basboyun/images/raw/PMC5217945/TCA-8-46-g001.jpg"
+      }
+    ],
+    "key_findings": "\"Twenty‐six patients (0.96%) were identified with ARSA, all of which were cases of NRLN by CT. NRLN was identified during surgery in the 26 patients, and a normal right recurrent laryngeal nerve was observed in 2671 patients.\"",
+    "clinical_relevance": "\"Enhanced CT scanning is a reliable method for predicting NRLN by identifying ARSA\" - relevant to thyroidectomy and oesophagectomy nerve protection.",
+    "notes": "LICENCE CC BY-NC (flag). Surgical (oesophageal cancer) population."
+  }
+]

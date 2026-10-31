@@ -27,7 +27,11 @@ def list_keys(prefix):
 
 def head(key, nbytes=16384):
     for n in (nbytes, nbytes * 8):
-        r = requests.get(f"{BUCKET}/{key}", headers={"Range": f"bytes=0-{n-1}"}, timeout=60)
+        for t in range(5):
+            try:
+                r = requests.get(f"{BUCKET}/{key}", headers={"Range": f"bytes=0-{n-1}"}, timeout=60); break
+            except requests.exceptions.RequestException:
+                import time; time.sleep(2 ** t)
         try:
             ds = pydicom.dcmread(io.BytesIO(r.content), stop_before_pixels=True, force=True)
             ipp = ds.get("ImagePositionPatient")

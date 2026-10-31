@@ -1,4 +1,22 @@
-# Progress report – upper-limb anatomy atlas
+# Progress report – anatomy atlas
+
+## Session 3 (2026-10-31) – readability, narrative text, two new decks
+
+| Deliverable | Path | Slides |
+|---|---|---|
+| Upper limb – topographic (updated) | `topografik/Topografik_Anatomi.pptx` + `.pdf` | 139 |
+| Upper limb – cross-sectional (updated) | `kesitsel/Kesitsel_Anatomi.pptx` + `.pdf` | 77 |
+| **Head & neck – cross-sectional (new)** | `basboyun/Bas_Boyun_Kesitsel.pptx` + `.pdf` | 56 |
+| **Perineum & pelvis – perineum-focused, fasciae in detail (new)** | `perine/Perine_Pelvis.pptx` + `.pdf` | 60 |
+
+* Readability: `scripts/slayt_tipleri.py` rewritten – font size chosen automatically from text amount (body ≥15–16 pt, legends ≥13 pt, tables 13 pt); overflowing text is split into "(devam)" slides instead of shrinking.
+* Narrative ("ANLATIM") prose slides added for every region (`scripts/icerik_anlatim.py`) and in the new decks.
+* Head & neck: VHP-M levels 1060–1260 with same-numbered frozen CT and, for the head (≤1165), same-numbered MRI (m_vm####.t1/.pd/.t2, original NLM names verified from DICOM tag 0009,1001). CT pixel spacing differs by region (0.527 mm head, 0.781 mm neck root) – real spacing now read from each DICOM. Literature: `sources/basboyun.json` (26 OA articles).
+* Perineum & pelvis: VHP male (1878–1934) and female (1860, 1890) sections with same-numbered CT; fascial layer diagram (native shapes), fascia continuity table, dissection/histology figures (perineal membrane, deep pouch, Denonvilliers, Waldeyer), MRI/US, variation review (pudendal nerve/artery, levator avulsion, perineal body). Literature: `sources/perine.json` (28 OA articles).
+* Excluded on purpose: a sinus CT figure showing patient-identifying scanner text (PMC12085865 Fig 3) and a figure carrying an institutional logo (PMC6377693).
+* Gaps: no openly licensed cadaver photo/histology of Colles/Scarpa/Buck fascia or of an opened Alcock canal; no labelled normal larynx CT/MRI. Several figures are CC BY-NC(-SA) – flagged on-slide.
+
+---
 
 ## Session 2 (2026-10-31) – long, sectioned decks
 

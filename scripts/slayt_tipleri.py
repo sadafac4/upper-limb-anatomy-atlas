@@ -73,7 +73,9 @@ def cozumle(ref):
         _, pmc, key = ref[:3]
         f = K.sekil(pmc, key)
         alt = ref[3] if len(ref) > 3 else f"{f['label']} – {K.atif(pmc, kisa=True)}"
-        return ROOT / f["local_path"], alt, K.atif(pmc)
+        yol = ROOT / f["local_path"]
+        if yol.suffix == ".webp" and yol.with_suffix(".png").exists(): yol = yol.with_suffix(".png")
+        return yol, alt, K.atif(pmc)
     if tip == "vhp":
         return VHP / ref[1], ref[2], None
     if tip == "vhp_crop":
@@ -371,3 +373,50 @@ def kaynakca(prs, pmcler, baslik_, sayfa_bas):
         footer(s, "Görseller PMC Open Access AWS deposundan (pmc-oa-opendata); lisans, md5 ve altyazılar sources/*.json içinde.", sayfa); fix_runs(s)
         sayfa += 1
     return sayfa
+
+# ---------------- genel VHP kesit paneli (baş–boyun, pelvis) ----------------
+def kesit_paneli(prs, d, sayfa, bolum=None):
+    """d: baslik, alt, cryo (yol), etiketler [(metin,(x,y),'L'|'R')], paneller [(yol, altyazı)],
+    notlar [..], kaynak (dipnot), konum (ops. yol)."""
+    s = yeni_slayt(prs)
+    baslik(s, d["baslik"], d.get("alt")); bolum_seridi(s, bolum); etiket(s, "KESİT")
+    g = picture_fit(s, d["cryo"], 2.45, 1.35, 4.0, 4.45)
+    text(s, g["x"] - 0.3, g["y"] + g["h"] + 0.02, g["w"] + 0.6, 0.3, d.get("cryo_alt", "Kriyokesit (renkli fotoğraf)"), size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
+    E = d["etiketler"]
+    labels(s, g, [(t, p) for t, p, sd in E if sd == "L"], 0.1, 2.25, "L", 1.35, 5.85, size=13, box_h=0.5)
+    labels(s, g, [(t, p) for t, p, sd in E if sd == "R"], 6.55, 2.35, "R", 1.35, 5.85, size=13, box_h=0.5)
+    P = d.get("paneller") or []
+    if P:
+        n = len(P); h = (4.75 - 0.32 * n) / n
+        y = 1.35
+        for path, cap in P:
+            gp = picture_fit(s, path, 9.05, y, 4.05, h)
+            text(s, 9.0, gp["y"] + gp["h"], 4.15, 0.3, cap, size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
+            y += h + 0.32
+    nt = d.get("notlar") or []
+    if nt:
+        bullets(s, 0.3, 6.15, 12.8, 0.85, nt, size=sigdir(nt, 12.8, 0.85, 15, 12) or 12)
+    footer(s, d.get("kaynak", VHP_ATIF), sayfa); fix_runs(s)
+    return 1
+
+def katman_semasi(prs, d, sayfa, bolum=None):
+    """Üstten alta renkli katman bantları + sağda açıklama. d: baslik, alt, katmanlar [(ad, açıklama, renk_hex)], metin"""
+    s = yeni_slayt(prs)
+    baslik(s, d["baslik"], d.get("alt")); bolum_seridi(s, bolum); etiket(s, "ŞEMA")
+    K = d["katmanlar"]; n = len(K); h = min(0.55, 5.15 / n); y = 1.35
+    for ad, acik, renk in K:
+        r = RGBColor.from_string(renk)
+        b = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.3), Inches(y), Inches(3.4), Inches(h - 0.05))
+        b.fill.solid(); b.fill.fore_color.rgb = r; b.line.fill.background()
+        tf = b.text_frame; tf.text = ad; tf.margin_left = Inches(0.08)
+        for p in tf.paragraphs:
+            for rr in p.runs:
+                rr.font.size = Pt(13); rr.font.bold = True; rr.font.name = FONT
+                lum = (r[0] * 299 + r[1] * 587 + r[2] * 114) / 1000
+                rr.font.color.rgb = NAVY if lum > 140 else WHITE
+        text(s, 3.85, y, 9.2, h - 0.05, acik, size=13 if h >= 0.5 else 12, color=NAVY, anchor=MSO_ANCHOR.MIDDLE)
+        y += h
+    if d.get("dip"):
+        text(s, 0.3, 6.62, 12.7, 0.35, d["dip"], size=12, color=GREY, italic=True)
+    footer(s, d.get("kaynak", "Şema: bu projede standart anatomi bilgisinden hazırlanmıştır (gerçek görüntü değildir)."), sayfa); fix_runs(s)
+    return 1
