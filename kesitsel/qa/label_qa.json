@@ -1,0 +1,767 @@
+{
+ "1320": {
+  "meta": {
+   "slice": 1320,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/9fdf1cd1-4c33-4e35-ae46-081bfd356246.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1320.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/83f9f73f-7f4b-4dd6-93f6-3b3cf53f0c02.dcm",
+   "ct_slice": 1320.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1320.fro",
+   "box_cryo_px": [
+    200,
+    440,
+    1000,
+    1110
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -97,
+    "dy": 0,
+    "dice": 0.8879252799018783
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "M. deltoideus",
+    "given": [
+     91,
+     309
+    ],
+    "used": [
+     91,
+     309
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Caput humeri",
+    "given": [
+     251,
+     259
+    ],
+    "used": [
+     242,
+     255
+    ],
+    "snap_shift_px": 9.848857801796104
+   },
+   {
+    "label": "M. infraspinatus",
+    "given": [
+     331,
+     509
+    ],
+    "used": [
+     331,
+     509
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "M. pectoralis major",
+    "given": [
+     451,
+     99
+    ],
+    "used": [
+     451,
+     99
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Clavicula",
+    "given": [
+     646,
+     129
+    ],
+    "used": [
+     631,
+     152
+    ],
+    "snap_shift_px": 27.459060435491963
+   },
+   {
+    "label": "M. subscapularis",
+    "given": [
+     431,
+     339
+    ],
+    "used": [
+     431,
+     339
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Scapula",
+    "given": [
+     421,
+     452
+    ],
+    "used": [
+     421,
+     452
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Pulmo dexter (apex)",
+    "given": [
+     641,
+     309
+    ],
+    "used": [
+     641,
+     309
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": [
+     {
+      "label": "Caput humeri",
+      "point": [
+       194,
+       264
+      ]
+     },
+     {
+      "label": "Scapula",
+      "point": [
+       423,
+       452
+      ]
+     },
+     {
+      "label": "Clavicula",
+      "point": [
+       631,
+       152
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "1490": {
+  "meta": {
+   "slice": 1490,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/e0359456-be0f-4e44-b6e0-45f9db34c0ef.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1490.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/26be6990-d456-4233-ab91-2c99fb222297.dcm",
+   "ct_slice": 1490.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1490.fro",
+   "box_cryo_px": [
+    150,
+    560,
+    520,
+    990
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -100,
+    "dy": 3,
+    "dice": 0.9012780144471199
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Humerus (corpus)",
+    "given": [
+     161,
+     229
+    ],
+    "used": [
+     159,
+     230
+    ],
+    "snap_shift_px": 2.23606797749979
+   },
+   {
+    "label": "Arka kompartman: M. triceps brachii",
+    "given": [
+     156,
+     349
+    ],
+    "used": [
+     156,
+     349
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Ön kompartman: M. biceps brachii, M. brachialis",
+    "given": [
+     216,
+     110
+    ],
+    "used": [
+     216,
+     110
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Damar–sinir demeti: A. brachialis, Vv. brachiales, N. medianus",
+    "given": [
+     262,
+     259
+    ],
+    "used": [
+     262,
+     259
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": []
+   }
+  ]
+ },
+ "1560": {
+  "meta": {
+   "slice": 1560,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/7a177857-d9a0-4c3c-83c4-9b7c86286c60.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1560.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/c8d52a06-630e-48fe-bda5-c79f97b29539.dcm",
+   "ct_slice": 1560.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1560.fro",
+   "box_cryo_px": [
+    125,
+    574,
+    529,
+    996
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -103,
+    "dy": 3,
+    "dice": 0.8960924855491329
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Humerus (suprakondiler bölge)",
+    "given": [
+     130,
+     250
+    ],
+    "used": [
+     118,
+     255
+    ],
+    "snap_shift_px": 13.0
+   },
+   {
+    "label": "Arka kompartman: M. triceps brachii",
+    "given": [
+     200,
+     320
+    ],
+    "used": [
+     200,
+     320
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Ön kompartman: M. brachialis, M. biceps brachii",
+    "given": [
+     240,
+     180
+    ],
+    "used": [
+     240,
+     180
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Damar–sinir demeti (A. brachialis, N. medianus)",
+    "given": [
+     280,
+     255
+    ],
+    "used": [
+     280,
+     255
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": []
+   }
+  ]
+ },
+ "1615": {
+  "meta": {
+   "slice": 1615,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/7f967279-24d9-4f88-9331-589efa128939.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1615.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/aa4d6404-37ce-42f4-9228-909041432522.dcm",
+   "ct_slice": 1615.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1615.fro",
+   "box_cryo_px": [
+    130,
+    470,
+    560,
+    960
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -101,
+    "dy": 5,
+    "dice": 0.898334871738711
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Eklem aralığı ve eklem kıkırdağı (art. cubiti)",
+    "given": [
+     125,
+     300
+    ],
+    "used": [
+     125,
+     300
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Lateral kas grubu: M. brachioradialis, Mm. extensores carpi radiales",
+    "given": [
+     190,
+     150
+    ],
+    "used": [
+     190,
+     150
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Fossa cubiti: A. brachialis ve N. medianus bölgesi",
+    "given": [
+     255,
+     232
+    ],
+    "used": [
+     255,
+     232
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Ön kas grubu (M. brachialis, fleksör–pronator kaslar)",
+    "given": [
+     300,
+     330
+    ],
+    "used": [
+     300,
+     330
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": []
+   }
+  ]
+ },
+ "1645": {
+  "meta": {
+   "slice": 1645,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/16b8212e-d738-41c8-ba8b-dda759550dc4.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1645.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/12763891-f214-496e-b5a8-bdf328fd16b3.dcm",
+   "ct_slice": 1645.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1645.fro",
+   "box_cryo_px": [
+    140,
+    460,
+    560,
+    960
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -100,
+    "dy": 5,
+    "dice": 0.8990702976567447
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Radius",
+    "given": [
+     145,
+     255
+    ],
+    "used": [
+     146,
+     275
+    ],
+    "snap_shift_px": 20.024984394500787
+   },
+   {
+    "label": "Ulna",
+    "given": [
+     110,
+     330
+    ],
+    "used": [
+     104,
+     319
+    ],
+    "snap_shift_px": 12.529964086141668
+   },
+   {
+    "label": "Arka (ekstensör) kas grubu",
+    "given": [
+     80,
+     365
+    ],
+    "used": [
+     80,
+     365
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Mobil kas grubu: M. brachioradialis, Mm. extensores carpi radiales",
+    "given": [
+     190,
+     130
+    ],
+    "used": [
+     190,
+     130
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Damar–sinir yapıları (a. brachialis dalları, n. medianus)",
+    "given": [
+     255,
+     200
+    ],
+    "used": [
+     255,
+     200
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Fleksör–pronator kas grubu",
+    "given": [
+     265,
+     300
+    ],
+    "used": [
+     265,
+     300
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": []
+   }
+  ]
+ },
+ "1740": {
+  "meta": {
+   "slice": 1740,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/11c339ef-b854-41b1-89a4-cf9309dcb907.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1740.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/172ac5da-6751-4217-88e7-f234e16075a9.dcm",
+   "ct_slice": 1740.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1740.fro",
+   "box_cryo_px": [
+    380,
+    250,
+    720,
+    650
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -105,
+    "dy": 12,
+    "dice": 0.9295312319070418,
+    "local_shift_ctpx": [
+     -1,
+     6
+    ],
+    "local_bone_dice": 0.162,
+    "local_tissue_dice": 0.961
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Radius",
+    "given": [
+     167,
+     157
+    ],
+    "used": [
+     172,
+     162
+    ],
+    "snap_shift_px": 7.0710678118654755
+   },
+   {
+    "label": "Ulna",
+    "given": [
+     62,
+     287
+    ],
+    "used": [
+     68,
+     287
+    ],
+    "snap_shift_px": 6.0
+   },
+   {
+    "label": "Ekstensör (arka) kompartman",
+    "given": [
+     67,
+     197
+    ],
+    "used": [
+     67,
+     197
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Fleksör (ön) kompartman",
+    "given": [
+     200,
+     260
+    ],
+    "used": [
+     200,
+     260
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": [
+     {
+      "label": "Radius",
+      "point": [
+       176,
+       165
+      ]
+     },
+     {
+      "label": "Ulna",
+      "point": [
+       70,
+       291
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "1785": {
+  "meta": {
+   "slice": 1785,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/59581042-def8-4c71-81de-24d204866474.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1785.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/6fc3374d-e60d-49e9-9711-02a007506e99.dcm",
+   "ct_slice": 1785.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1785.fro",
+   "box_cryo_px": [
+    440,
+    120,
+    980,
+    540
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -105,
+    "dy": 11,
+    "dice": 0.928395817588704,
+    "local_shift_ctpx": [
+     -1,
+     4
+    ],
+    "local_bone_dice": 0.251,
+    "local_tissue_dice": 0.946
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Caput ulnae (distal uç)",
+    "given": [
+     120,
+     235
+    ],
+    "used": [
+     118,
+     231
+    ],
+    "snap_shift_px": 4.47213595499958
+   },
+   {
+    "label": "Ossa carpi",
+    "given": [
+     215,
+     185
+    ],
+    "used": [
+     214,
+     194
+    ],
+    "snap_shift_px": 9.055385138137417
+   },
+   {
+    "ct_labels": [
+     {
+      "label": "Caput ulnae",
+      "point": [
+       133,
+       223
+      ]
+     },
+     {
+      "label": "Ossa carpi",
+      "point": [
+       209,
+       194
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "1830": {
+  "meta": {
+   "slice": 1830,
+   "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/9d0723b9-7d12-4dce-89bb-cbb47f07a90f.dcm",
+   "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1830.raw",
+   "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/7e96aef7-763c-4044-bca0-8c0d4614b2d9.dcm",
+   "ct_slice": 1830.0,
+   "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1830.fro",
+   "box_cryo_px": [
+    560,
+    80,
+    980,
+    450
+   ],
+   "reg": {
+    "scale": 0.35200000000000004,
+    "dx": -104,
+    "dy": 13,
+    "dice": 0.9145892600891217,
+    "local_shift_ctpx": [
+     0,
+     5
+    ],
+    "local_bone_dice": 0.17,
+    "local_tissue_dice": 0.942
+   },
+   "mm_per_px_crop": 0.33
+  },
+  "labels": [
+   {
+    "label": "Hipotenar kaslar",
+    "given": [
+     90,
+     270
+    ],
+    "used": [
+     90,
+     270
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Ossa metacarpi",
+    "given": [
+     132,
+     188
+    ],
+    "used": [
+     131,
+     182
+    ],
+    "snap_shift_px": 6.082762530298219
+   },
+   {
+    "label": "Mm. interossei",
+    "given": [
+     155,
+     160
+    ],
+    "used": [
+     155,
+     160
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Başparmak (pollex) kemikleri",
+    "given": [
+     265,
+     82
+    ],
+    "used": [
+     265,
+     82
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Tenar kaslar",
+    "given": [
+     220,
+     120
+    ],
+    "used": [
+     220,
+     120
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "label": "Fleksör tendonlar",
+    "given": [
+     215,
+     180
+    ],
+    "used": [
+     215,
+     180
+    ],
+    "snap_shift_px": null
+   },
+   {
+    "ct_labels": [
+     {
+      "label": "Ossa metacarpi",
+      "point": [
+       131,
+       182
+      ]
+     },
+     {
+      "label": "Başparmak (pollex) kemikleri",
+      "point": [
+       269,
+       82
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+idc-index==0.13.4
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+pandas==3.0.5
+pillow==12.3.0
+pydicom==3.0.2
+python-pptx==1.0.2
+requests==2.34.2
+scipy==1.18.1
