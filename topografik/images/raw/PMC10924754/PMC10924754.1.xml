@@ -1,0 +1,315 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="jeo212014" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Exp Orthop</journal-id><journal-id journal-id-type="iso-abbrev">J Exp Orthop</journal-id><journal-id journal-id-type="pmc-domain-id">2776</journal-id><journal-id journal-id-type="pmc-domain">jexporth</journal-id><journal-id journal-id-type="nlm-id">101653750</journal-id><journal-id journal-id-type="publisher-id">JEO2</journal-id><journal-title-group><journal-title>Journal of Experimental Orthopaedics</journal-title></journal-title-group><issn pub-type="epub">2197-1153</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10924754</article-id><article-id pub-id-type="pmcid-ver">PMC10924754.1</article-id><article-id pub-id-type="pmcaid">10924754</article-id><article-id pub-id-type="pmcaiid">10924754</article-id><article-id pub-id-type="pmid">38464506</article-id><article-id pub-id-type="doi">10.1002/jeo2.12014</article-id><article-id pub-id-type="publisher-id">JEO212014</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Papers</subject></subj-group></article-categories><title-group><article-title>A cadaveric study of the posterior band of the inferior glenohumeral ligament of the shoulder and its dynamic behaviour in different arm positions</article-title></title-group><contrib-group><contrib id="jeo212014-cr-0001" contrib-type="author"><name name-style="western"><surname>Nourissat</surname><given-names initials="G">Geoffroy</given-names></name><xref rid="jeo212014-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jeo212014-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bastard</surname><given-names initials="C">Claire</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6936-8159</contrib-id><xref rid="jeo212014-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>Claire.bastard@aphp.fr</email></address></contrib><contrib id="jeo212014-cr-0003" contrib-type="author"><name name-style="western"><surname>Cammas</surname><given-names initials="C">Claire</given-names></name><xref rid="jeo212014-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jeo212014-cr-0004" contrib-type="author"><name name-style="western"><surname>Salabi</surname><given-names initials="V">Vincent</given-names></name><xref rid="jeo212014-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jeo212014-cr-0005" contrib-type="author"><name name-style="western"><surname>Billaud</surname><given-names initials="A">Anselme</given-names></name><xref rid="jeo212014-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jeo212014-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Clinique de l'Épaule—Paris—Clinique Maussins‐Nollet</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="jeo212014-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Hôpital Saint Antoine</named-content>
+<institution>Service de Chirurgie Orthopédique</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="jeo212014-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>CHU de Fort de France</institution>
+<city>Guadeloupe</city>
+<country country="FR">France</country>
+</aff><aff id="jeo212014-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Clinique Bouchard</named-content>
+<institution>Centre Main Épaule Méditerranée</institution>
+<city>Marseille</city>
+<country country="FR">France</country>
+</aff><aff id="jeo212014-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Clinique du Sport de Bordeaux Mérignac</institution>
+<city>Mérignac</city>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold> Claire Bastard, Hôpital Saint Antoine, Service de Chirurgie Orthopédique, 183 rue du Faubourg Saint Antoine, Paris, France.<break/>
+Email: <email>Claire.bastard@aphp.fr</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>3</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2024</year></pub-date><volume>11</volume><issue seq="20">1</issue><issue-id pub-id-type="pmc-issue-id">455850</issue-id><issue-id pub-id-type="doi">10.1002/jeo2.v11.1</issue-id><elocation-id>e12014</elocation-id><history><date date-type="received"><day>30</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>05</day><month>2</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>09</day><month>03</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>10</day><month>03</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-06 01:25:15.497"><day>06</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Journal of Experimental Orthopaedics</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Sports Traumatology, Knee Surgery and Arthroscopy.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JEO2-11-e12014.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JEO2-11-e12014.pdf"/><abstract><title>Abstract</title><sec id="jeo212014-sec-0010"><title>Purpose</title><p>The inferior glenohumeral ligament (IGHL) is composed of three parts: the anterior branch or band (AB), the axillary pouch and the posterior band (PB). The latter has rarely been studied. We aim to describe the PB of the IGHL and its dynamic behaviour in different arm positions.</p></sec><sec id="jeo212014-sec-0020"><title>Methods</title><p>Twelve fresh cadaveric shoulders were used and the two bands (AB and PB) of the IGHL were dissected and isolated, taking away all muscle, ligaments and capsule. Characteristics of the bands were studied in five positions: maximum external rotation (ER1), abduction (ABD), internal rotation (IR), ABD external rotation (ER2) and anterior elevation–adduction–IR (Hawkins–Kennedy test position). Progressive and randomized sectioning of the bands and capsule with a scalpel was performed to study its impact on mobility and translation of the glenohumeral joint.</p></sec><sec id="jeo212014-sec-0030"><title>Results</title><p>The bands that tensioned first were in ER1, the AB at 97 ± 9° (80–110); in ER2, the AB at 81 ± 19° (30–100); in IR, the PB at 64 ± 9° (50–80); and in ABD, the PB at 87 ± 10° (70–105). Isolated sectioning of the AB had no effect on ABD, whilst isolated sectioning of the PB allowed greater ABD. In ER2, the AB limited anterior translation. After sectioning the AB, anterior translation remained limited by the PB, which wrapped around the humeral head and locked the joint by pressing the two joint surfaces tightly together. In Hawkins–Kennedy position anterior elevation–adduction–IR, the AB is the first constraint and the posterior translation was limited by the PB alone only in four cases.</p></sec><sec id="jeo212014-sec-0040"><title>Conclusions</title><p>When the IGHL is isolated, ligament limitation of glenohumeral ABD seems to be uniquely dependent on the PB. In the Hawkins and Kennedy position, the AB is the first constraint. In the case of an isolated lesion to the AB, the PB participates in anterior stabilization of the shoulder by wrapping around the humeral head that cannot dislocate. These findings confirm the role of the PB in glenohumeral joint stability.</p></sec><sec id="jeo212014-sec-0050"><title>Level of Evidence</title><p>Level IV.</p></sec></abstract><kwd-group><kwd id="jeo212014-kwd-0001">Bankart</kwd><kwd id="jeo212014-kwd-0002">IGHL</kwd><kwd id="jeo212014-kwd-0003">labrum</kwd><kwd id="jeo212014-kwd-0004">posterior band</kwd><kwd id="jeo212014-kwd-0005">shoulder instability</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>None</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="7"/><word-count count="3882"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.9 mode:remove_FC converted:10.03.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jeo212014-cit-0015">
+<string-name name-style="western">
+<surname>Nourissat</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bastard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cammas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salabi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Billaud</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>A cadaveric study of the posterior band of the inferior glenohumeral ligament of the shoulder and its dynamic behaviour in different arm positions</article-title>. <source>J Exp Orthop</source>. <year>2024</year>;<volume>11</volume>:<elocation-id>e12014</elocation-id>. <pub-id pub-id-type="doi">10.1002/jeo2.12014</pub-id>
+<pub-id pub-id-type="pmcid">PMC10924754</pub-id><pub-id pub-id-type="pmid">38464506</pub-id></mixed-citation>
+</p></notes></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>AB</term><def><p>anterior band</p></def></def-item><def-item><term>ABD</term><def><p>abduction</p></def></def-item><def-item><term>ER1</term><def><p>maximum external rotation</p></def></def-item><def-item><term>ER2</term><def><p>abduction external rotation</p></def></def-item><def-item><term>IGHL</term><def><p>inferior glenohumeral ligament</p></def></def-item><def-item><term>IR</term><def><p>internal rotation</p></def></def-item><def-item><term>PB</term><def><p>posterior band</p></def></def-item></def-list><sec sec-type="background" id="jeo212014-sec-0060"><title>INTRODUCTION</title><p>The glenohumeral joint is an extremely mobile joint that is stabilized by muscles and ligaments. Three ligaments cover the capsule: the superior glenohumeral, the middle glenohumeral and the inferior glenohumeral ligament (IGHL) [<xref rid="jeo212014-bib-0001" ref-type="bibr">1</xref>]. The IGHL is composed of three parts: the anterior band or branch (AB), the posterior band (PB) and the junction between the two bands, which forms the axillary pouch. A number of studies have described the insertion of the AB into the IGHL, but no study to date has described the PB [<xref rid="jeo212014-bib-0005" ref-type="bibr">5</xref>, <xref rid="jeo212014-bib-0006" ref-type="bibr">6</xref>, <xref rid="jeo212014-bib-0009" ref-type="bibr">9</xref>, <xref rid="jeo212014-bib-0010" ref-type="bibr">10</xref>, <xref rid="jeo212014-bib-0012" ref-type="bibr">12</xref>] in different shoulder positions. The anatomy of the PB, particularly its humeral and glenoid insertion, its insertion in relation to the inferior margin of the glenoid cavity and the axillary pouch or posterior capsule have been studied, but its dynamic movements during movement of the shoulder, notably in the dislocated position, has not been studied, which limits our knowledge on its functional role in a mild or severe Bankart lesion [<xref rid="jeo212014-bib-0005" ref-type="bibr">5</xref>]. Thus, the benefit of repairing the PB in cases of dislocation is unknown. Therefore, the purpose of our study was to carry out a descriptive anatomical evaluation of the PB of the IGHL. Our hypothesis is that the dynamic behaviour of the PB of the IGHL changes in different shoulder positions effecting glenohumeral stability.</p></sec><sec sec-type="methods" id="jeo212014-sec-0070"><title>METHODS</title><p>Twelve fresh–frozen cadaveric shoulders free from arthritis or previous surgery were used in the evaluation of this study (eight male [67%], six right shoulders [50%], mean age 74 years old [64–78]). Specimens were collected at the fer à Moulin anatomy laboratory of APHP in Paris. The deltoid, clavicle, pectoralis major and complete rotator cuff were removed conserving only the inferior, posterior and superior capsule and the inferior, anterior and posterior GHL and its axillary pouch. The humerus and scapula were conserved in their entirety and were placed on a support jaw allowing reproducible orientation of the glenoid cavity of each shoulder, both perpendicular and horizontal with regard to the surface and profile. The plane of the glenoid cavity was defined as the reference plane for all movements performed. The AB of the IGHL was systematically identified and measured. The length of its proximal and distal insertion zone and the distance of its insertion proximal from the labrum and distal from the humeral head were measured with a caliper with a nominal precision of 1 mm. The localization of its insertions was evaluated using the ‘hours of the clock’ with an insertion between 0 and 6 o'clock for the anterior part of the glenoid cavity and from 0 to 6 o'clock to the humerus. The insertion in the glenoid cavity, which was either direct or medial, was measured in millimetres in relation to the labrum. Its average thickness in the middle part was measured and it was systematically noted whether it was possible to clearly differentiate it from the capsule and in its minimum tension position. As soon as the ligament was fully under tension, measurements were done. They were performed in 0° of abduction (ABD) or rotation, by pulling solely, laterally on the humeral head opening of the glenohumeral joint.</p><p>The same values were measured for the PB, after identifying its proximal insertion in relation to the labrum and distal in relation to the humeral head, using the values from 6 to 12 o'clock.</p><p>The positions of both the AB and the PB of the IGHL were evaluated visually in five different positions:
+<list list-type="simple"><list-item><label>‐</label><p>
+<italic toggle="yes">Maximum external rotation (ER1)</italic>: Axis of the humerus perpendicular to the axis of the glenoid cavity at 0° ABD.</p></list-item><list-item><label>‐</label><p>
+<italic toggle="yes">Maximum internal rotation (IR)</italic>: Axis of the humerus perpendicular to the axis of the glenoid cavity at 0° ABD.</p></list-item><list-item><label>‐</label><p>
+<italic toggle="yes">ABD</italic>: Maximum abduction at 0° external rotation corresponding to the Gagey (hyperabduction) test [<xref rid="jeo212014-bib-0003" ref-type="bibr">3</xref>, <xref rid="jeo212014-bib-0004" ref-type="bibr">4</xref>].</p></list-item><list-item><label>‐</label><p>
+<italic toggle="yes">ABD to 90° and maximum external rotation (ER2)</italic> [<xref rid="jeo212014-bib-0002" ref-type="bibr">2</xref>, <xref rid="jeo212014-bib-0003" ref-type="bibr">3</xref>].</p></list-item><list-item><label>‐</label><p>
+<italic toggle="yes">Anterior elevation to 90°, adduction 30° and IR</italic>: Corresponding to the Hawkins–Kennedy test, as well as the Kim test when clinically diagnosing for posterior glenohumeral instability [<xref rid="jeo212014-bib-0006" ref-type="bibr">6</xref>, <xref rid="jeo212014-bib-0007" ref-type="bibr">7</xref>].</p></list-item></list>
+</p><p>The plane of the glenoid cavity was used as the reference to measure the glenohumeral positions, the superior–inferior vertical axis corresponding to the axis passing through 0 and 6 o' clock position, the horizontal from 3 to 9 o'clock. Translation, adduction–ABD, internal and external rotation were defined as a function of the humeral–epicondyle axis in relation to the plane of the glenoid cavity. The position of the glenohumeral joint to identify the maximum tension for both the AB and PB of the IGHL was recorded. This was defined as the position where the ligament had maximum extension. Beyond this position the GHL bands did not stretch any further. All specimens were mounted on a special designed vice clamp and the forces to the shoulder were applied manually until the ligament was completely taut.</p><p>These same positions of the shoulder were then performed on six shoulders after isolated sectioning of the PB of the IGHL. Shoulder motion and translation were then measured and recorded visually.</p></sec><sec sec-type="results" id="jeo212014-sec-0080"><title>RESULTS</title><sec id="jeo212014-sec-0090"><title>Anatomical description</title><p>The mean (SD) length and width of the AB were 47 ± 6 mm (range: 40–52) and 14 ± 3 mm (10–20), respectively, and its mean thickness was 1.8 ± 0 mm (1.4–2.0). The proximal insertion of the AB was from 3 to 5 o'clock for the right shoulders and from 7 to 9 o'clock for the left shoulders (Figure <xref rid="jeo212014-fig-0001" ref-type="fig">1a,b</xref>). The latter was inserted on the labrum in 1/12 cases, but on average 0.9 ± 0 mm (0.4–1.2) beyond the labrum. The distal insertion was from 7 to 9 o'clock for the right shoulders and 3 to 5 o'clock for the left shoulders. It was always distant from the cartilage.</p><fig position="float" fig-type="Figure" id="jeo212014-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Posterior aspect of the shoulder. ❖, posterior band of the inferior glenohumeral ligament (IGHL); ◆, intermediate capsular zone; ✪, humeral head; ✚, acromion; ★, coracoid process. (a) The posterior band of the IGHL is located under the posterior intermediate capsular zone. (b) The difference between capsule and posterior band is clearly identified. (c) Thickening of the posterior capsule defines the limit between the posterior intermediate capsular zone and the posterior band. (d) Superior view of the IGHL with posterior band. Proximal insertion is located medial to the labrum on each side of the glenoid. Distal insertion is far from the cartilage of the humeral head. (e) Posterior band of the IGHL is located medial to the labrum and distal insertion is far from the cartilage of the humeral head. (f) Superior view of the posterior band of the IGHL after removal of the posterior intermediate capsular zone.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JEO2-11-e12014-g001.jpg"/></fig><p>Concerning the PB, mean length and width were 54 ± 7 (50–60) and 16 ± 5 mm (10–25), respectively. Mean thickness was 1 ± 0 mm (0.2–1) when it could be differentiated from the capsule (<italic toggle="yes">n</italic> = 10/12) (Figure <xref rid="jeo212014-fig-0001" ref-type="fig">1a,b</xref>). The proximal insertion of the PB was from 6 to 9 o'clock for the right shoulders and from 3 to 6 o'clock for the left shoulders, and the distal insertion was from 3 to 6 o'clock for the right shoulders and from 7 to 9 o'clock for the left shoulders. It was inserted on the labrum in 2 of the 12 cases, but on average 1 ± 1 mm (0.5–1.2) past the labrum (Figure <xref rid="jeo212014-fig-0001" ref-type="fig">1c–f</xref>).</p></sec><sec id="jeo212014-sec-0100"><title>Positional description</title><p>In maximal external rotation, the AB is most taut at an average of 97 ± 9° (80–110). After sectioning the AB, the PB did not become taut. In IR, the PB tensioned at 64 ± 9° (50–80) but the AB never became taut.</p><p>In ABD, the PB became tensioned at 87 ± 10° (70–105). If ABD was continued beyond this, the PB forced external rotation to continue ABD without systematically tensioning the AB. The latter was tensioned in 4 of the 12 cases at 97 ± 43° (60–160). Beyond this point, PB tension forced external rotation to ABD external rotation (ER2).</p><p>In ER2, the AB tensioned at 81 ± 19° (30–100) of external rotation (always at 90° ABD). The external rotation necessary to tension AB was specimen‐dependent, and therefore had a large range. Anterior translation was limited by the AB. After sectioning the AB, anterior translation remained limited by the PB, which wrapped around the humeral head and locked the joint after an increase in external rotation. After sectioning the AB, external rotation increased until full tensioning of the PB. The PB wrapped around the humeral head and locked the joint. In this position, anterior translation was limited by the PB (Figure <xref rid="jeo212014-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="jeo212014-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Two aspects of the posterior band of the inferior glenohumeral ligament (IGHL). ❖, posterior band of the IGHL; ✪, humeral head; ✚, acromion; ★, coracoid process. (a) Proximal insertion on the glenoid close to the labrum, from 6 to 9 h, with small and thick distal insertion. (b) Proximal insertion on the glenoid close to the labrum, from 6 to 9 h, with large and thin distal insertion.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JEO2-11-e12014-g002.jpg"/></fig><p>In the Hawkins–Kennedy test position, posterior translation was limited by the PB alone in four cases and by the PB associated with its posterosuperior capsular expansion in eight cases. After resection of this posterosuperior capsular expansion, the PB dislocated under the humeral head and did not stabilize the joint in the last eight cases.</p><p>There was no tensioning of the AB and PB, during forward and backward elevation of the humeral head with respect to the glenoid fossa, except for one case with tension of the PB at 130° forward elevation (FWD).</p><p>Figure <xref rid="jeo212014-fig-0003" ref-type="fig">3</xref> summarizes the data according to the range of motion evaluated in degrees of mobility. It evaluates the tension of intact AB and PB. The AB and PB were both put under tension during abduction, but the PB is systematically in maximum tension before the AB. In ER2, the AB is the only one in tension, as soon as 80° of ER. To obtain a tension of the PB, it is necessary to remove the AB. During FWD elevation, only the AB is under tension, at a mean value of 130° of FWD elevation. In ER, only the AB is under tension, at a mean value of 95° pure ER. In IR, only the PB is put under tension, with maximum tension at 65° of IR.</p><fig position="float" fig-type="Figure" id="jeo212014-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Degree of position of movement in which the anterior or posterior band is under maximum tension. Evaluation was performed for each position tested. ABD, abduction; ER1, external rotation 1; ER2, external rotation 2; FWD, forward elevation; IR, internal rotation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JEO2-11-e12014-g004.jpg"/></fig></sec></sec><sec sec-type="discussion" id="jeo212014-sec-0110"><title>DISCUSSION</title><p>The current study of the PB of the IGHL describes the dynamic positions of the PB, in several positions of the shoulder and after removal of the AB. It could show a potentially high role of the PB in anterior instability and thus stabilization of the shoulder. It also assumes that posterior instability has more complex biomechanics than expected [<xref rid="jeo212014-bib-0014" ref-type="bibr">14</xref>].</p><p>In a cadaveric study, Bigliani et al. [<xref rid="jeo212014-bib-0002" ref-type="bibr">2</xref>] explored the tensile properties of the global inferior glenohumeral ligament. They divided the IGHL in three parts: anterosuperior, inferior and posteroinferior with the last segment probably containing the PB of the IGHL. Uramaya et al. [<xref rid="jeo212014-bib-0013" ref-type="bibr">13</xref>] analysed the position and stabilizing function of AB and PB in the intact shoulder. The AB and axillary pouch showed significant strain increases when the arm was elevated and externally rotated in the coronal and scapular planes but no increase in the sagittal plane. The PB showed no strain in the coronal and scapular planes, but a significant strain increases with the arm elevated and internally rotated in the sagittal plane. Massimini et al. [<xref rid="jeo212014-bib-0008" ref-type="bibr">8</xref>] evaluated the position of AB and PB of the IGHL. Their study was performed on healthy adults, using fluoroscopy, without seeing directly the insertional zone of each band. They found that the AB and axillary pouch showed strain increases when the arm was elevated and externally rotated in the coronal and scapular planes but no increase in the sagittal plane. The PB showed no strain in the coronal and scapular planes, but strain increases with the arm elevated and internally rotated in the sagittal plane. Itoigawa and colleagues presented the limited information we have on the PB of the IGHL and the need to better understand its anatomy and role in shoulder stability [<xref rid="jeo212014-bib-0004" ref-type="bibr">4</xref>, <xref rid="jeo212014-bib-0005" ref-type="bibr">5</xref>]. It undoubtedly has an important role as Pouliard and colleagues [<xref rid="jeo212014-bib-0009" ref-type="bibr">9</xref>, <xref rid="jeo212014-bib-0011" ref-type="bibr">11</xref>] demonstrated that it was not possible to have traumatic anterior instability of the shoulder without having both anterior and posterior lesions during glenohumeral dislocation. These authors found posterior lesions in 30% of cases. This structure is often difficult to identify, and in our study, it was confused with the posterior capsule in 2 of the 12 cases. It has insertions similar to those of the AB but its mean length and width are slightly larger than those of the AB while not being as thick.</p><p>The current study demonstrates that the AB and axillary pouch, which showed the greatest strain in ABD and external rotation, are anterior stabilizers, whereas the posterior band, which showed the greatest strain in flexion and IR, is a posterior stabilizer. It also shows that in a position of pure ABD, the PB may impose external rotation to increase the movement of the shoulder (Figure <xref rid="jeo212014-fig-0004" ref-type="fig">4</xref>). The AB appears not to be involved in this movement.</p><fig position="float" fig-type="Figure" id="jeo212014-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Schematic demonstrating the tensions of the anterior band (AB) and posterior band (PB) of the inferior glenohumeral ligament. (a) Pure abduction showing the AB is not under tension while the PB is under tension. (b) External rotation is needed with further abduction to lessen the tension of the PB.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="JEO2-11-e12014-g003.jpg"/></fig><p>This may play a role while testing for instability or ABD, such as the Gagey test. It is possible that this difference, defined by 20° more mobility by some authors, corresponds to a loss of the anatomical effect of ER2 imposed by the PB, and therefore a lesion to this band. In the case of a positive ABD test, the PB should be examined systematically.</p><p>In the current study, when the AB is sectioned, this increases ER2 in ABD, and the PB appears to potentially play a role in anterior stabilization of the shoulder. The movement necessary to tension AB in ER2 and ABD was specimen‐dependent, and therefore had a large range.</p><p>Conversely, if the PB is intact, it is not possible to dislocate the shoulder in ER1, as it is locked by the band wrapping forward around the head. It is therefore possible that dislocation in ABD external rotation could occur as a result of an isolated lesion to the AB, only if external rotation is not at a maximum. This difference in external rotation could be one of the explanations for the variable localization of the Hill–Sachs lesion. The greater the external rotation, the higher the lesion will be on the humeral head. This idea should be confirmed by other studies.</p><p>This study seems to implicate the PB less as a dominant element in the mechanism of posterior instability. In contrast to the AB in anterior instability, the PB appears insufficient to prevent excessive posterior translation. By contrast, the posterior capsule appears to be a determining element as a suspensory and stabilizing element of the PB. When the posterior capsule was removed, the PB no longer had a stabilizing effect in the majority of cases in the Hawkins–Kennedy or Kim test, because the PB slides under the humeral head. When the posterosuperior capsule keeps the posteroinferior band of the ligament in place it is not possible to dislocate the shoulder backwards. These two structures therefore have a joint role in posterior instability (Figure <xref rid="jeo212014-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="Figure" id="jeo212014-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Schematic showing posterior structures during Hawkins–Kenedy test or Kim position. Forward elevation 90°, adduction, posterior compression: all posterior structures are involved in posterior stability.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="JEO2-11-e12014-g005.jpg"/></fig><p>This study has some limitations. It was an anatomical study with all that involves in terms of age of the patients and aging of the tissues. However, the shoulders were selected for the complete absence of degenerative lesions or previous surgery. The functional analysis was carried out on a dedicated support but without numerical measurements. Measurement of the angles was carried out using goniometers but we multiplied the measurements, as validated in many previous anatomical studies. Tension was visually estimated and not measured, so estimates of biomechanical function need to be confirmed by precision biomechanical testing.</p><p>In the same way, measurement of soft tissue can always be improved as it is influenced by the quality of the dissection. The bands could not always be identified easily. Measurement of the length, width and thickness depends on the glenohumeral position at the time of measurement and varies according to the stretch and laxity of the tissues. The current study is only a gross measurement of passive movements and not dynamic evaluation. Specimens used in this study were all cadavers, which are biomechanically a long way from the populations at risk of instability, patients with ligamentous laxity.</p></sec><sec sec-type="conclusions" id="jeo212014-sec-0120"><title>CONCLUSION</title><p>When the IGHL is isolated, ligament limitation of glenohumeral ABD seems to be uniquely dependent on the PB. In the Hawkins and Kennedy position, the AB is the first constraint. In the case of an isolated lesion to the AB, the PB participates in anterior stabilization of the shoulder by wrapping around the humeral head that cannot dislocate. These findings confirm the role of the PB in glenohumeral joint stability.</p></sec><sec id="jeo212014-sec-0130"><title>AUTHOR CONTRIBUTIONS</title><p>
+<italic toggle="yes">Study conception and design</italic>: Geoffroy Nourissat and Anselme Billaud. <italic toggle="yes">Data collection</italic>: Claire Bastard, Vincent Salabi and Claire Cammas. <italic toggle="yes">Analysis and interpretation of results</italic>: Claire Bastard and Geoffroy Nourissat. <italic toggle="yes">Draft manuscript preparation</italic>: Claire Camas and Geoffroy Nourissat. All authors reviewed the results and approved the final version of the manuscript.</p></sec><sec sec-type="COI-statement" id="jeo212014-sec-0150"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflict of interest.</p></sec><sec id="jeo212014-sec-0160"><title>ETHICS STATEMENT</title><p>The study was approved by the local ethics committee.</p></sec></body><back><ack id="jeo212014-sec-0140"><title>ACKNOWLEDGEMENTS</title><p>The current study was performed with the Autorisation from École de Chirurgie du Fer à moulin de Paris. The authors have no funding report.</p></ack><ref-list content-type="cited-references" id="jeo212014-bibl-0001"><title>REFERENCES</title><ref id="jeo212014-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jeo212014-cit-0001">
+<string-name name-style="western">
+<surname>Bey</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hunter</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kilambi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindenfeld</surname>
+<given-names>TN</given-names>
+</string-name>. <article-title>Structural and mechanical properties of the glenohumeral joint posterior capsule</article-title>. <source>J Shoulder Elbow Surg</source>. <year>2005</year>;<volume>14</volume>(<issue>2</issue>):<fpage>201</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1016/j.jse.2004.06.016</pub-id>
+<pub-id pub-id-type="pmid">15789015</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jeo212014-cit-0002">
+<string-name name-style="western">
+<surname>Bigliani</surname>
+<given-names>LU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pollock</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soslowsky</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flatow</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pawluk</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mow</surname>
+<given-names>VC</given-names>
+</string-name>. <article-title>Tensile properties of the inferior glenohumeral ligament</article-title>. <source>J Orthop Res</source>. <year>1992</year>;<volume>10</volume>(<issue>2</issue>):<fpage>187</fpage>–<lpage>197</lpage>. <pub-id pub-id-type="doi">10.1002/jor.1100100205</pub-id>
+<pub-id pub-id-type="pmid">1740736</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jeo212014-cit-0003">
+<string-name name-style="western">
+<surname>Eshoj</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingwersen</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larsen</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjaer</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juul‐Kristensen</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Intertester reliability of clinical shoulder instability and laxity tests in subjects with and without self‐reported shoulder problems</article-title>. <source>BMJ Open</source>. <year>2018</year>;<volume>8</volume>(<issue>3</issue>):<elocation-id>e018472</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2017-018472</pub-id>
+<pub-id pub-id-type="pmcid">PMC5855406</pub-id><pub-id pub-id-type="pmid">29502086</pub-id></mixed-citation></ref><ref id="jeo212014-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jeo212014-cit-0004">
+<string-name name-style="western">
+<surname>Gagey</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gagey</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The hyperabduction test</article-title>. <source>J Bone Joint Surg Br</source>. <year>2001</year>;<volume>83</volume>(<issue>1</issue>):<fpage>69</fpage>–<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1302/0301-620x.83b1.10628</pub-id>
+<pub-id pub-id-type="pmid">11245541</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jeo212014-cit-0005">
+<string-name name-style="western">
+<surname>Itoigawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Itoi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Anatomy of the capsulolabral complex and rotator interval related to glenohumeral instability</article-title>. <source>Knee Surg Sports Traumatol Arthrosc</source>. <year>2016</year>;<volume>24</volume>(<issue>2</issue>):<fpage>343</fpage>–<lpage>349</lpage>. <pub-id pub-id-type="doi">10.1007/s00167-015-3892-1</pub-id>
+<pub-id pub-id-type="pmid">26704796</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jeo212014-cit-0006">
+<string-name name-style="western">
+<surname>Itoigawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Itoi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakoma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sano</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaneko</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Attachment of the anteroinferior glenohumeral ligament–labrum complex to the glenoid: an anatomic study</article-title>. <source>Arthroscopy</source>. <year>2012</year>;<volume>28</volume>(<issue>11</issue>):<fpage>1628</fpage>–<lpage>1633</lpage>. <pub-id pub-id-type="doi">10.1016/j.arthro.2012.08.016</pub-id>
+<pub-id pub-id-type="pmid">23107249</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jeo212014-cit-0007">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>The Kim test: a novel test for posteroinferior labral lesion of the shoulder—a comparison to the jerk test</article-title>. <source>Am J Sports Med</source>. <year>2005</year>;<volume>33</volume>(<issue>8</issue>):<fpage>1188</fpage>–<lpage>1192</lpage>. <pub-id pub-id-type="doi">10.1177/0363546504272687</pub-id>
+<pub-id pub-id-type="pmid">16000664</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jeo212014-cit-0008">
+<string-name name-style="western">
+<surname>Massimini</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyer</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papannagari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warner</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>In‐vivo glenohumeral translation and ligament elongation during abduction and abduction with internal and external rotation</article-title>. <source>J Orthop Surg Res</source>. <year>2012</year>;<volume>7</volume>:<elocation-id>29</elocation-id>. <pub-id pub-id-type="doi">10.1186/1749-799X-7-29</pub-id>
+<pub-id pub-id-type="pmid">22741601</pub-id>
+<pub-id pub-id-type="pmcid">PMC3403937</pub-id></mixed-citation></ref><ref id="jeo212014-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jeo212014-cit-0009">
+<string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neves</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnoczky</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rozbruck</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dicarlo</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warren</surname>
+<given-names>RF</given-names>
+</string-name>, et al. <article-title>The anatomy and histology of the inferior glenohumeral ligament complex of the shoulder</article-title>. <source>Am J Sports Med</source>. <year>1990</year>;<volume>18</volume>(<issue>5</issue>):<fpage>449</fpage>–<lpage>456</lpage>. <pub-id pub-id-type="doi">10.1177/036354659001800501</pub-id>
+<pub-id pub-id-type="pmid">2252083</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jeo212014-cit-0010">
+<string-name name-style="western">
+<surname>Passanante</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skalski</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schein</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gottsegen</surname>
+<given-names>CJ</given-names>
+</string-name>, et al. <article-title>Inferior glenohumeral ligament (IGHL) complex: anatomy, injuries, imaging features, and treatment options</article-title>. <source>Emerg Radiol</source>. <year>2017</year>;<volume>24</volume>(<issue>1</issue>):<fpage>65</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1007/s10140-016-1431-0</pub-id>
+<pub-id pub-id-type="pmid">27530740</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jeo212014-cit-0011">
+<string-name name-style="western">
+<surname>Pouliart</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marmor</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gagey</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Simulated capsulolabral lesion in cadavers: dislocation does not result from a bankart lesion only</article-title>. <source>Arthroscopy</source>. <year>2006</year>;<volume>22</volume>(<issue>7</issue>):<fpage>748</fpage>–<lpage>754</lpage>. <pub-id pub-id-type="doi">10.1016/j.arthro.2006.04.077</pub-id>
+<pub-id pub-id-type="pmid">16843811</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jeo212014-cit-0012">
+<string-name name-style="western">
+<surname>Tyler</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholas</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roy</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gleim</surname>
+<given-names>GW</given-names>
+</string-name>. <article-title>Quantification of posterior capsule tightness and motion loss in patients with shoulder impingement</article-title>. <source>Am J Sports Med</source>. <year>2000</year>;<volume>28</volume>(<issue>5</issue>):<fpage>668</fpage>–<lpage>673</lpage>. <pub-id pub-id-type="doi">10.1177/03635465000280050801</pub-id>
+<pub-id pub-id-type="pmid">11032222</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jeo212014-cit-0013">
+<string-name name-style="western">
+<surname>Urayama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Itoi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hatakeyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pradhan</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sato</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Function of the 3 portions of the inferior glenohumeral ligament: a cadaveric study</article-title>. <source>J Shoulder Elbow Surg</source>. <year>2001</year>;<volume>10</volume>(<issue>6</issue>):<fpage>589</fpage>–<lpage>594</lpage>. <pub-id pub-id-type="doi">10.1067/mse.2001.119391</pub-id>
+<pub-id pub-id-type="pmid">11743541</pub-id>
+</mixed-citation></ref><ref id="jeo212014-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jeo212014-cit-0014">
+<string-name name-style="western">
+<surname>Yi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>An</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Effect of glenohumeral ligaments on posterior shoulder stabilization: a biomechanical study</article-title>. <source>Am J Transl Res</source>. <year>2023</year>;<volume>15</volume>(<issue>15</issue>):<fpage>1953</fpage>–<lpage>1963</lpage>.<pub-id pub-id-type="pmid">37056804</pub-id>
+<pub-id pub-id-type="pmcid">PMC10086893</pub-id></mixed-citation></ref></ref-list></back></article>

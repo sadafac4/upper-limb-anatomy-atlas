@@ -24,3 +24,13 @@ görsel denetlenmiştir.
 Tek tek karpal kemikler; n. radialis / n. ulnaris'in ayrı ayrı gösterilmesi; yüzeyel venler; 1615'te trochlea/capitulum;
 kol düzeylerinde m. biceps brachii ile m. brachialis'in ayrı sınırları (kompartman düzeyinde gruplanmıştır).
 1360 (fossa axillaris) düzeyi kırpılmış ama kas tanımlaması kesinleşmediği için pilot slaytlara alınmamıştır.
+
+## Oturum 2 – genişletilmiş sunum (18 düzey)
+Yeni düzeyler: 1290, 1340, 1420, 1530, 1596, 1700, 1770, 1800, 1850 (ızgaralı önizleme + BT kemik penceresi ile tanımlandı).
+
+QA sırasında bulunan ve düzeltilen hatalar:
+6. **1700 kayıt hatası:** yerel arama 20 BT pikseli kaydırmış, BT kemikleri kriyokesitten ~17 mm sapmıştı → yerel arama ±12 px ile sınırlandı; yeniden üretildi ve BT kemikleri radius/ulna ile çakıştı.
+7. **1340:** "Caput breve m. bicipitis + m. coracobrachialis" noktası siyah bir damar lümenine düşüyordu → etiket kaldırıldı; aynı nokta "aksiller damar lümeni" olarak etiketlendi.
+8. **1596:** "Damar–sinir yapıları" noktası kas üzerine düşüyordu ve kesin tanımlanamadı → kaldırıldı; cilt altındaki açık yüzeyel ven lümeni etiketlendi.
+9. **1530:** triceps noktası yağ çizgisinin ucundaydı → kas kitlesine taşındı.
+10. Boylamsal reformat: otomatik kemik izleme yolu gövdeye kaydığı için reddedildi; doğrulanmış etiket noktaları çapa alınarak yeniden üretildi.

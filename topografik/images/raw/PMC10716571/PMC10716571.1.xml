@@ -1,0 +1,753 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="ajum12363" xml:lang="en" article-type="other" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Australas J Ultrasound Med</journal-id><journal-id journal-id-type="iso-abbrev">Australas J Ultrasound Med</journal-id><journal-id journal-id-type="pmc-domain-id">2742</journal-id><journal-id journal-id-type="pmc-domain">ajum</journal-id><journal-id journal-id-type="nlm-id">101583539</journal-id><journal-id journal-id-type="publisher-id">AJUM</journal-id><journal-title-group><journal-title>Australasian Journal of Ultrasound in Medicine</journal-title></journal-title-group><issn pub-type="ppub">1836-6864</issn><issn pub-type="epub">2205-0140</issn><publisher><publisher-name>Australasian Society for Ultrasound in Medicine</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10716571</article-id><article-id pub-id-type="pmcid-ver">PMC10716571.1</article-id><article-id pub-id-type="pmcaid">10716571</article-id><article-id pub-id-type="pmcaiid">10716571</article-id><article-id pub-id-type="pmid">38098620</article-id><article-id pub-id-type="doi">10.1002/ajum.12363</article-id><article-id pub-id-type="publisher-id">AJUM12363</article-id><article-id pub-id-type="other">AJUM-2022-129.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Education</subject></subj-group><subj-group subj-group-type="heading"><subject>Education</subject></subj-group></article-categories><title-group><article-title>Boxer's knuckle: Sonographic anatomy and assessment of sagittal band tears of the dorsal hood</article-title><alt-title alt-title-type="right-running-head">Boxer's knuckle</alt-title><alt-title alt-title-type="left-running-head">Fenech</alt-title></title-group><contrib-group><contrib id="ajum12363-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fenech</surname><given-names initials="M">Michelle</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4088-2645</contrib-id><xref rid="ajum12363-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ajum12363-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>m.fenech@cqu.edu.au</email></address></contrib></contrib-group><aff id="ajum12363-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>College of Clinical Sciences, Health, Medical and Applied Sciences, CQUniversity</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="ajum12363-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Imaging</named-content>
+<institution>Royal Brisbane and Women's Hospital</institution>
+<city>Brisbane</city>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to email <email>m.fenech@cqu.edu.au</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>10</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2023</year></pub-date><volume>26</volume><issue seq="30">4</issue><issue-id pub-id-type="pmc-issue-id">450883</issue-id><issue-id pub-id-type="doi">10.1111/ajum.v26.4</issue-id><fpage>216</fpage><lpage>229</lpage><pub-history><event event-type="pmc-release"><date><day>12</day><month>10</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>12</day><month>10</month><year>2024</year></date></event><event event-type="pmc-released-under-embargo"><date><day>14</day><month>12</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-10-12 00:25:15.377"><day>12</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">Australasian Journal of Ultrasound in Medicine</italic> published by John Wiley &amp; Sons Australia, Ltd on behalf of Australasian Society for Ultrasound in Medicine.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="AJUM-26-216.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:AJUM-26-216.pdf"/><kwd-group kwd-group-type="author-generated"><kwd id="ajum12363-kwd-0001">Boxer's knuckle</kwd><kwd id="ajum12363-kwd-0002">dorsal hood</kwd><kwd id="ajum12363-kwd-0003">extensor tendons</kwd><kwd id="ajum12363-kwd-0004">metacarpophalangeal joint</kwd><kwd id="ajum12363-kwd-0005">musculoskeletal ultrasound</kwd><kwd id="ajum12363-kwd-0006">sagittal bands</kwd><kwd id="ajum12363-kwd-0007">sonography</kwd></kwd-group><counts><fig-count count="12"/><table-count count="0"/><page-count count="14"/><word-count count="7959"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.5 mode:remove_FC converted:13.12.2023</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ajum12363-body-0001"><sec id="ajum12363-sec-0001"><title>Introduction</title><p>Hand injuries are common in amateur and professional boxers and result in time lost from training and competition.<xref rid="ajum12363-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ajum12363-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ajum12363-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Injuries to the dorsal hood account for 16% of all hand and wrist injuries in boxers.<xref rid="ajum12363-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ajum12363-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> ‘Boxer's knuckle’ describes a closed injury to the metacarpophalangeal joint (MCPJ) of the hand and is used synonymously to describe tears of the sagittal bands of the dorsal hood and associated extensor tendon instability.<xref rid="ajum12363-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> It can result from a direct blow to the flexed MCPJ, commonly from boxing or punching, or from relatively low‐energy repetitive injuries.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Patients typically present with a painful and swollen dorsal MCPJ, and the space between knuckles, with pain associated with forming a closed fist, loss of full extension and snapping of extensor tendons with MCPJ flexion.<xref rid="ajum12363-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ajum12363-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Boxer's knuckle soft tissue injuries are less appreciated than boxer's fracture that typically involves a fracture of the fifth or fourth metacarpal neck with volar angulation and can occur from a similar mechanism of injury.<xref rid="ajum12363-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Tears of the sagittal bands of the dorsal hood can be clinically overlooked or underappreciated, as the symptoms can often be non‐specific, and the associated tendon subluxation or dislocation may not always be observed.<xref rid="ajum12363-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ajum12363-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> If not diagnosed and treated adequately and in a timely manner, sagittal band tears can result in long‐term persistent pain at the MCPJ and hand function impairment.<xref rid="ajum12363-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ajum12363-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ajum12363-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Diagnostic imaging, including sonography, can play an important role in directly imaging the soft tissue structures surrounding the MCPJ and diagnosing sagittal bands tears and tendon instability; however, an appreciation of the mechanism of injury, sonographic anatomy, sonographic technique, and normal and abnormal sonographic appearances is required.</p></sec><sec id="ajum12363-sec-0002"><title>Sonographic anatomy of the extensor mechanism of the metacarpophalangeal joints of digits 2–5</title><p>The anatomy of the extensor (dorsal) mechanism of digits 2–5 of the hand is complex and often overwhelming. It combines an array of dorsal soft tissue structures including extensor tendons, the dorsal plate and the dorsal hood (extensor expansion).<xref rid="ajum12363-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The dorsal hood is interrelated with intermetacarpal and palmar hand structures which aid in producing finger movement and MCPJ stability.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The intermetacarpal structures include collateral ligaments, lumbrical and interosseous muscles and their associated tendons. Palmar structures of the hand around the MCPJ include the palmar plate, A1 pulley, flexor tendons, the deep transverse metacarpal ligament (DTMCL) and the associated neurovascular structures.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The dorsal, intermetacarpal and palmar structures surrounding the MCPJ all need to be sonographically assessed in cases of suspected sagittal band tears.</p></sec><sec id="ajum12363-sec-0003"><title>Dorsal tendons</title><p>Extension of the proximal interphalangeal joint (PIPJ) and distal interphalangeal joint (DIPJ) is achieved <italic toggle="yes">via</italic> a combination of extensor tendons and intrinsic muscles of the hand (lumbrical and interossei muscles). Extrinsic tendons at the MCPJ are formed by the extensor digitorum (ED) tendon to the fingers, the extensor indicis proprius (EIP) tendon to the second (index) finger and the extensor digiti minimi (EDM) tendon to the fifth (little) finger.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> These tendons arise from the muscles that originate from the lateral elbow (ED and EDM) and forearm (EIP) and pass through dorsal compartments 4 and 5 of the wrist to the hand (Figure <xref rid="ajum12363-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Anatomy of extensor tendons of the fingers. (a) Surface anatomy and relative location of the extensor tendons, which include the ED and the extensor indicis proprius tendon (to the second finger) and extensor digiti minimi tendon (to the fifth finger). (b) Anatomic diagram of the ED tendon with its trifurcation into a central slip and two lateral slips which join with tendons from the lumbrical and interossei muscles to form lateral ED bands. DP, distal phalanx; ED, extensor digitorum; MC, metacarpal; MP, middle phalanx; PP, proximal phalanx.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="AJUM-26-216-g002.jpg"/></fig><sec id="ajum12363-sec-0004"><title>The extensor digitorum tendon</title><p>The ED tendon overlies the dorsal aspect of the MCPJs 2–5 and passes distally along the dorsal aspect of the fingers.<xref rid="ajum12363-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> It is centrally located over the dorsal aspect of the metacarpal (MC) heads (2–5). Sonographically, it appears oval in cross section at the level of the MCPJ and more flattened in cross section distal to the MCPJ. In long axis, the ED tendon sonographically appears as a thin fibrillar structure presenting immediately dorsal to the fibrocartilaginous dorsal plate of the MCPJ (Figure <xref rid="ajum12363-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Anatomy of the ED tendon of the fingers. (a) Diagram demonstrating the tendon dorsal to the MC and MCPJ. It trifurcates into a central slip and two lateral slips distal to the MCPJ. The central slip inserts onto the dorsal aspect of the proximal aspect of the MP. The two lateral slips run dorsolaterally and insert <italic toggle="yes">via</italic> a terminal tendon onto the dorsal aspect of the DP. (b) Sagittal depiction of the MCPJ. The ends of bones of the MC and PP are lined with articular cartilage. The dorsal plate and palmar plates are present on the dorsal and palmar aspects of this joint. (c) Long‐axis sonographic image of the MCPJ demonstrating the ED tendon, dorsal plate and articular cartilage. DP, distal phalanx; ED, extensor digitorum; MC, metacarpal; MCPJ, metacarpophalyngeal joint; MP, middle phalanx; PP, proximal phalanx.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="AJUM-26-216-g006.jpg"/></fig><p>At the level of the dorsal proximal phalanx, at variable distances distal to the MCPJ, the ED tendon trifurcates into a single central slip and two lateral slips.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The central slip of the ED tendon extends along the midline dorsal aspect of the finger to insert onto the dorsal base of the MP.<xref rid="ajum12363-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Complete tears to the central slip of the ED tendon can occur with blunt trauma, forced PIPJ flexion or PIPJ dislocation, and may be associated with an avulsion fracture of the dorsal base of the MP. When the central slip is completely torn in isolation, PIPJ extension will be affected, but lack of active PIPJ extension can be sometimes difficult to appreciate on physical inspection. The patient can present with a ‘Boutonniere deformity’, which occurs due to PIPJ flexion unopposed: the PIPJ appears flexed (as unable to extend the PIPJ due to central slip tendon disruption) and the DIPJ appears extended (Figure <xref rid="ajum12363-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Distal components of the ED tendon. (a) Diagram with red arrow indicating the terminal tendon, and the green arrow indicating the central slip. (b) Long‐axis sonographic image of an intact ED terminal tendon onto the DP. (c) Diagram of torn terminal tendon (red arrow) and associated retraction of the lateral slip, which appears wavy (results in mallet finger deformity). (d) Sonographic demonstration of disrupted terminal tendon of ED with no avulsion. (e) Long‐axis sonographic image of intact central slip of ED (green arrow) onto the MP. (f) Diagram of torn central slip of ED (not extending to the MP) whilst the lateral slips remain intact (results in Boutonniere deformity). (g) Sonographic image of a torn central slip of ED tendon, which has retracted proximally. DP, distal phalanx; ED, extensor digitorum; MC, metacarpal; MCPJ, metacarpophalyngeal joint; MP, middle phalanx; PP, proximal phalanx.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="AJUM-26-216-g010.jpg"/></fig><p>The two lateral (radial and ulnar) slips of the ED tendon blend with lateral bands from the lumbrical and interossei tendons to form conjoint lateral bands (see Figure <xref rid="ajum12363-fig-0001" ref-type="fig">1b</xref>). These lateral bands course distally down the dorso‐lateral aspect of digits 2–5 and converge together to form a single terminal extensor tendon that inserts onto the dorsal base of the distal phalanx.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Disruption to the terminal ED tendon, at the distal insertion onto the dorsal aspect of the distal phalanx base, can occur due to laceration or closed injuries. Forced flexion of the DIPJ when the joint is actively extended or a direct blow to the fingertip (commonly encountered in ball sports) can disrupt the terminal ED tendon. Tears to the terminal ED tendon can be associated with an avulsion fracture of the dorsal base of the distal phalanx. Patients may present with a ‘mallet finger’ deformity when the terminal ED tendon is completely torn, where they can extend their PIPJ, but are unable to extend their DIPJ, as the tendon is no longer attaching to the distal phalanx (Figure <xref rid="ajum12363-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="ajum12363-sec-0005"><title>Extensor indicis proprius and extensor digiti minimi tendons</title><p>There is considerable variability reported in the anatomy of the extensor tendons of the hand, particularly in relation to extra extensor tendons which extend to digits 2 and 5. Generally, at the second and fifth MCPJs, two extensor tendons are usually present overlying the dorsal aspect: the EIP and ED tendons at the second MCPJ, and the EDM and ED tendons at the fifth MCPJ. The EIP and EDM tendons are present at the ulnar aspect of the ED tendons.<xref rid="ajum12363-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Fine fibrous connections or slips exist between the ED and additional tendons to aid in maintaining their position<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> (Figure <xref rid="ajum12363-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Short‐axis diagram (a) and sonographic images (b,c) of the MC head region of the hand. The ulnar relationship of the EIP or EDM tendons when present (on dorsal aspects) in digit 2 or 5 are demonstrated relative to the ED tendon. An interconnecting band between two tendons (in the second or fifth finger) is shown. In digits 3 and 4, a single ED tendon is present. (b) Short‐axis sonographic image of the dorsal MCPJ. Two extensor tendons (ED and EI) are seen within the sagittal bands overlying the second MCPJ. (c) A single ED tendon overlies the dorsal aspect of the third MCPJ (and the fourth MCPJ will have the same appearance). DTMCL, deep transverse metacarpal ligament; ED, extensor digitorum; EDM, extensor digiti minimi; EIP, extensor indicis proprius; EI, extensor indicis; MC, metacarpal; MCPJ, metacarpophalyngeal joint.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="AJUM-26-216-g004.jpg"/></fig><p>The EIP tendon (also referred to as the extensor indicis) runs through the fourth extensor compartment of the dorsal wrist along with the ED tendons. In the dorsal hand, the EIP tendon is present at the ulnar side of the ED tendon and overlies the dorsal aspect of the second MC and MC head, although variants where it has been observed to be present to the radial aspect of the ED have been reported.<xref rid="ajum12363-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Unlike the ED tendon, the EIP tendon does not insert distally onto bone, but rather inserts variably onto the ulnar aspect of the dorsal hood of the second finger, at the proximal phalanx (PP) level.<xref rid="ajum12363-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Sonographically, the EIP tendon can be identified at the level of the second MC head over its dorsal aspect, encapsulated by the sagittal band. Distal to the region of the sagittal band, the EIP tendon can be difficult to sonographically define as it blends with the transverse band of the dorsal hood.</p><p>The EDM tendon is also referred to as the extensor digiti quinti minimi (EDQM). The distal EDM tendon runs through the fifth extensor (dorsal) compartment of the wrist and travels distally over the dorsal aspect of the fifth MCPJ and inserts onto the ulnar aspect of the dorsal hood (transverse band) at the PP level.<xref rid="ajum12363-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Sometimes, an ED tendon cannot be seen extending to the fifth finger, and it may be replaced with two EDM tendons.<xref rid="ajum12363-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> The presence and relative anatomy of the EIP and EDM tendons and their sonographic appearances must be appreciated when imaging the sagittal bands, to avoid confusion with longitudinal splits of the ED tendon.</p></sec><sec id="ajum12363-sec-0006"><title>Juncturae tendini</title><p>Just proximal to the dorsal MCPJ 2–5, ED tendons are interconnected by juncturae tendini (juncturae tendinum = singular). The juncturae tendini consist of bands of connective tissue that extend transversely and obliquely between the extensor tendons in the second, third and fourth dorsal intermetacarpal spaces, linking the motion of ED tendons and contributing to their stability.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The juncturae tendini also redistribute force of the ED tendons, reduce excessive load of the sagittal bands and assist in stabilising the MCPJs.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> As juncturae tendini can be injured in hand injuries, their presence and integrity must be sonographically appreciated.</p></sec></sec><sec id="ajum12363-sec-0007"><title>The dorsal hood</title><p>The dorsal hood (also called the dorsal expansion or dorsal extensor mechanism) is a complex retinacular system over the dorsal or extensor aspect of the hand and fingers which acts to stabilise extensor tendons at the dorsal aspect of the MCPJ, PP and middle phalanx (MP).<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> It is a coalescence of the all the extensor components and contributes to a broad, flat and thin aponeurotic expansion that covers 50% of the dorsal finger. It consists of three principle retinacular and stabilising bands from proximal to distal: sagittal, transverse and oblique bands<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> (Figure <xref rid="ajum12363-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Diagram of relative locations of three retinacular components of the dorsal hood of digits 2–5 of the hand. The sagittal, transverse and oblique bands present in a proximal to distal orientation. The triangular ligament is not considered part of the dorsal hood, but rather is located distal to the dorsal hood. DP, distal phalanx; ED, extensor digitorum; MC, metacarpal.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="AJUM-26-216-g011.jpg"/></fig><sec id="ajum12363-sec-0008"><title>Sagittal bands of the dorsal hood</title><p>The sagittal bands are the proximal and most important component of the dorsal hood. They are located at the level of the MCPJ and surround the dorsal and intermetacarpal components of the MC head.<xref rid="ajum12363-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> They function to maintain the central position of the extensor tendons at the dorsum of the MCPJ during joint flexion and extension and prevent excessive tendon excursion, bowstringing, subluxation or dislocation.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ajum12363-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The sagittal bands are dynamic structures that run perpendicular to the long axis of the ED tendon.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Sagittal band fibres run circumferentially around the MCPJ before inserting onto the palmar plate and the DTMCL on the palmar aspect of the hand.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> They envelop the extensor tendons, forming a tunnel through which the ED tendon travels, and consist of two layers relative to the ED tendon: a thinner superficial layer and a thicker deeper layer.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ajum12363-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="ajum12363-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> There are radial‐ and ulnar‐sided components of a sagittal band, which continue around the MCPJ superficial to the radial and ulnar collateral ligaments<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> (Figure <xref rid="ajum12363-fig-0006" ref-type="fig">6</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Sagittal bands of digits 2–5. (a) Location of the MCPJ and area for short‐axis sonographic imaging of this structure at the third MCPJ. (b) The sagittal bands (black) surround the ED tendon, and other structures surround the dorsal and intermetacarpal aspects of the metacarpal head. The radial and ulnar aspects of the metacarpal head must be appreciated. The CDDA can be sonographically appreciated in the dorsal intermetacarpal spaces. (c) Structures that surround the MC head include palmar‐sided structures. CDDA, common dorsal digital arteries; DP, dorsal plate; DTMCL, deep transverse metacarpal ligament; ED, extensor digitorum; FDP, flexor digitorum profundus tendon; FDS, flexor digitorum superficialis tendon; MC, metacarpal; MCPJ, metacarpophalyngeal joint; PP, palmar plate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="AJUM-26-216-g009.jpg"/></fig></sec><sec id="ajum12363-sec-0009"><title>Transverse and oblique bands of the dorsal hood</title><p>Other fibrous structures of the dorsal hood include the transverse and oblique bands that are present distal to the sagittal bands and also serve to stabilise the extensor tendons.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> There is a paucity of literature reporting the detailed relative anatomy, sonographic appearances and injuries to these structures.<xref rid="ajum12363-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> The transverse band of the dorsal hood is also called the transverse retinacular ligament, and there is lack of consensus regarding the true extent of this ligament. It is variably described as extending distally from the distal edge of the sagittal bands (at the level of the trifurcation of the extensor tendons overlying the PP) to the proximal dorsal aspect of the MP.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> It covers the dorsal aspect of the PIPJ and insertion of the central slip of the ED tendon and envelops and stabilises it during PIPJ movement.<xref rid="ajum12363-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The transverse band also prevents excessive dorsal migration of the lateral bands at the PIPJ.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>The oblique band of the dorsal hood is also called the oblique retinacular ligament or oblique ligament of Landsmeer.<xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> It overlies and assists to stabilise the lateral extensor tendon slips and bands at the MP level.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The fibres of the oblique band are more compact and run at an angle of 30 degrees relative to the extensor tendon.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The oblique band is sonographically inseparable from the transverse band and links the motion between the interphalangeal joints.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Isolated injuries to the transverse and oblique bands, such as in lacerations, have not been associated with extensor tendon instability.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>There is also a distally located triangular ligament, although it is not formally considered part of the dorsal hood.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> It overlies the dorsal DIPJ and connects the distal portions of the lateral bands of the ED tendon before they join to form the terminal tendon.<xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> It prevents the lateral movement of the distal lateral bands of the ED tendon during finger flexion.</p></sec></sec><sec id="ajum12363-sec-0010"><title>Further structures surrounding the metacarpophalangeal joints</title><p>The sagittal bands are inter‐related with palmar structures of the MCPJ, which include the palmar plates, the DTMCL, collateral ligaments and intrinsic muscles (lumbricals and interossei). As concurrent injuries may occur to these structures, they should also be sonographically assessed when sagittal band tears are suspected.</p><sec id="ajum12363-sec-0011"><title>Palmar plates</title><p>The palmar (volar or glenoid) plates are located at the palmar aspect of the MCPJ as well as the interphalangeal joints and act to reinforce the joint capsule and limit joint hyperextension.<xref rid="ajum12363-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> At the second to fifth MCPJs, the palmar plate is fibrocartilaginous at its broader distal insertion onto the palmar PP base and, at its proximal origin onto the MC neck, it becomes thin and membranous. It assists the sagittal band by pulling the ED tendon over the MC head with MCPJ extension.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The palmar plates of digits 2–5 are connected transversely by the DTMCL. The flexor tendons of digits 2–5 (flexor digitorum superficialis and flexor digitorum profundus) pass through the A1 annular pulley, which is connected to the palmar plate (Figure <xref rid="ajum12363-fig-0007" ref-type="fig">7</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0007" orientation="portrait"><label>Figure 7</label><caption><p>Anatomy of the palmar aspect of the metacarpophalangeal joints 2–5. (a) Long‐axis diagram demonstrating the palmar plate. (b) Long‐axis sonographic image demonstrating the mch and its hypoechoic overlying articular cartilage, fourth pp, the palmar plate and overlying FDS and FDP tendons and the overlying A1 pulley. (c) Short‐axis diagram of the palmar aspect of the metacarpal heads of the hand and associated structures including the DTMCL, palmar plates, flexor tendons, A1 pulley, lumbrical muscles and CPDN and CPDA. (d) Associated short‐axis sonographic image of the palmar aspect of the metacarpal heads demonstrating the palmar plates and DTMCL. CPDA, common palmar digital artery; CPDN, common palmar digital nerve; DTMCL, deep transverse metacarpal ligament; FDP, flexor digitorum profundus tendon; FDS, flexor digitorum superficialis tendon; MC, metacarpal; mch, metacarpal head; pp, proximal phalanx.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="AJUM-26-216-g008.jpg"/></fig></sec><sec id="ajum12363-sec-0012"><title>The deep transverse metacarpal ligament</title><p>The DTMCL can be an underappreciated structure. It connects the palmar plates of the MCPJ of digits 2–5 in the transverse plane and maintains the transverse metacarpal arch.<xref rid="ajum12363-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> It prevents the MC heads from splaying apart and aids the grip strength of the hand. It also merges with the accessory collateral ligaments.<xref rid="ajum12363-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Although tears to the DTMCL are reported as rare, they can occur with forceful or blunt trauma, and concurrently with metacarpal fractures, MCPJ collateral ligament tears and sagittal band tears.<xref rid="ajum12363-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p></sec><sec id="ajum12363-sec-0013"><title>Collateral ligaments of the metacarpophalangeal joints</title><p>The collateral ligaments consist of both, proper and accessory ligaments.<xref rid="ajum12363-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The MCPJ ligaments are present deep to the sagittal band and stabilise the joint on the radial and ulnar aspects. Injuries to the collateral ligaments can occur anywhere along their length. They are best referred to as the radial or ulnar collateral ligaments rather than medial and lateral ligaments, as it can be difficult to identify lateral and medial aspects of the hand correctly when rotating the hand from a pronated to supinated position during sonographic assessment. Appreciating their relative anatomic orientation and positioning relative to the sagittal bands is important for sonographic assessment, as partial tears to the collateral ligaments can frequently occur in association with sagittal band tears.<xref rid="ajum12363-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> When partially torn, the collateral ligaments appear to be sonographically thickened and hypoechoic.</p><p>The proper collateral ligament arises from the MC head more dorsally and inserts onto the base of the proximal phalanx, distal to the articular cartilage.<xref rid="ajum12363-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> They become taut when the joint is flexed.<xref rid="ajum12363-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The accessory collateral ligament arises just proximal to the proper collateral ligament on the MC, and fans out at its distal and palmar aspect, to insert broadly onto the palmar plate near its proximal phalanx insertion.<xref rid="ajum12363-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Accessory collateral ligaments become lax as the MCPJ is flexed<xref rid="ajum12363-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> (Figure <xref rid="ajum12363-fig-0008" ref-type="fig">8</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0008" orientation="portrait"><label>Figure 8</label><caption><p>Collateral ligaments of the MCPJ of digits 2–5. (a) When the MCPJ is extended, the accessory collateral ligament is taut, and the proper collateral ligament is lax (appears wavy in diagram). (b) When the MCPJ is flexed, the proper collateral ligament becomes taut, and the accessory collateral ligament becomes lax. (c) The sagittal band (transparent in image) overlies both the accessory and proper collateral ligaments. The accessory collateral ligament is more palmar in location relative to the proper ligament. Acc Co Lig, accessory collateral ligament; Co Lig, collateral ligament; ED, extensor digitorum; MCPJ, metacarpophalyngeal joint.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="AJUM-26-216-g001.jpg"/></fig></sec><sec id="ajum12363-sec-0014"><title>Lumbrical and interossei muscles</title><p>The intrinsic muscles of the hand consist of the lumbrical and interossei muscles, which contribute to the dorsal hood and the ED tendons. The distal tendons of these muscles merge and join the lateral slips of the ED tendons to form the conjoint lateral bands of the distal ED tendons. The interossei muscles consist of dorsal (abductor) and palmar (adductor) interossei muscles, and they make a small contribution to the central slip of the ED tendon. The lumbrical and interossei muscles aid to flex the MCPJs, extend the interphalangeal joints and assist with maintaining MCPJ extension in digits 2–5.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The lumbrical muscles are more palmar in location and are present at the palmar aspect of the DTMCL. The interossei muscles and tendons can be sonographically differentiated from the lumbrical muscles as they are present at the dorsal aspect of the DTMCL.</p></sec></sec><sec id="ajum12363-sec-0015"><title>Sonographic assessment of sagittal bands and normal sonographic appearances</title><p>To sonographically assess the sagittal bands of the dorsal hood, a high‐frequency (≥12 MHz) linear transducer is required. The dorsal aspect of the MCPJs and the sagittal bands should be assessed both with fingers extended, and with the hand in a fist formation with dynamic imaging during flexion and extension required. To allow scanning of the dorsal hand during flexion and extension of the MCJP, the hand can be placed over the edge of a foam pad, rolled up face washer or gel bottle. Due to the bony nature of the dorsal MCPJ, sufficient gel is required to ensure transducer contact is maintained during dynamic imaging with flexion and extension. A hockey stick transducer, with a small footprint can facilitate better transducer contact with dynamic imaging. Transducer pressure must also be light enough to allow extensor tendon subluxation or dislocation to be demonstrated in real time, as greater transducer pressure may prevent or obscure tendon movement.</p><sec id="ajum12363-sec-0016"><title>Short‐axis imaging of the <styled-content style="fixed-case" toggle="no">MCPJ</styled-content> and the sagittal bands</title><p>Short‐axis (transverse) imaging of the MCPJ will allow numbering of the MCPJ of interest, relative to adjacent joints, and the orientation of the radial and ulnar sagittal bands of the joint of interest. When imaging the dorsal aspect of the MCPJ in short axis, uninjured sagittal bands will appear homogenous in echotexture, extending both superficial and deep, and to the radial and ulnar aspects of the extensor tendons.<xref rid="ajum12363-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Multiple degrees of angulation of the transducer are required as the sagittal bands are anisotropic structures and can change in echogenicity with altering angles of insonation (Figure <xref rid="ajum12363-fig-0009" ref-type="fig">9</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0009" orientation="portrait"><label>Figure 9</label><caption><p>Short‐axis sonographic image of the dorsal aspect of the uninjured third MCPJ with (a) and without (b) labels. The ED tendon is demonstrated in short axis. The superficial and deep portions of the sagittal band in midline are seen with the deep portion superficial to the dorsal plate and the articular cartilage of the metacarpal head. The radial and ulnar portions of the sagittal band are demonstrated. ED, extensor digitorum; MCPJ, metacarpophalyngeal joint.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-17" orientation="portrait" xlink:href="AJUM-26-216-g003.jpg"/></fig><p>The thickness (depth) of uninjured sagittal bands, measured from the short‐axis plane of the MCPJ, has been variably reported to measure from 0.42 to 0.72 mm with no thickness difference identified between digits 2 and 5 in dominant and non‐dominant limbs.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ajum12363-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Comparison between adjacent asymptomatic MCPJs and the contralateral limb is important particularly when partial sagittal band tears are suspected, where the sagittal band can become thickened. The degree of MCPJ flexion and extension should be noted when imaging the sagittal bands and extensor tendons and comparing thickness to other MCPJs.</p><p>Using short‐axis imaging of the MCPJ, the sagittal bands should be sonographically assessed throughly: from the proximal dorsal MCPJ to mid‐PP level. Dynamic assessment should be performed to look for real‐time positioning of ED tendon relative to the dorsal aspect of the MC head. This can also allow for the identification of subluxation/dislocation of the extensor tendons to either the radial or ulnar aspects of the MC head associated with a sagittal band tear. The palmar extensions of the sagittal bands should be assessed. The sagittal bands superficial to the collateral ligaments in the intermetacarpal space can be difficult to demonstrate sonographically due to transducer access to this region, where they are oriented parallel to the incident sound.<xref rid="ajum12363-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>The attachment of the sagittal bands to the palmar plates and DTMCL should be identified by scanning the palmar aspect of the hand. The uninjured palmar plates should appear homogenous in echogenicity and echotexture. Hypoechoic gaps or defects of the palmar plate, particularly close to the proximal phalanx insertion can indicate palmar plate degeneration or tears (long‐axis and short‐axis imaging is required for palmar plate assessment). The DTMCL should be assessed sonographically in the transverse plane. When normal in appearance it should demonstrate an even echogenicity and thickness in multiple intermetacarpal spaces of the affected hand and contralateral hand. Dynamic imaging with abduction of the fingers can be used to assess for DTMCL integrity. The lumbrical muscles and common palmar digital nerves and vessels should be identified to the palmar aspect of the DTMCL. From the palmar aspect of the hand at the MCPJ levels, the interossei muscles will be identified dorsal (and deep) to the lumbrical muscles and the DTMCL.</p></sec><sec id="ajum12363-sec-0017"><title>Long‐axis imaging of <styled-content style="fixed-case" toggle="no">MCPJ</styled-content>
+</title><p>Long‐axis sonographic imaging of the dorsal aspect MCPJ is performed to assess the joint capsule, position of the extensor tendons and thickness of the sagittal bands. The triangular‐shaped dorsal plate should be identified as a homogenous structure when uninjured (see Figure <xref rid="ajum12363-fig-0002" ref-type="fig">2c</xref>).<xref rid="ajum12363-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> When a moderate‐sized joint effusion is present, the dorsal plate may be elevated by fluid, relative to the articular cartilage overlying the MC head, and also appear blunted in shape.<xref rid="ajum12363-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The unaffected ED tendon should be seen sonographically as a thin, continuous, fibrillar structure of similar thickness throughout, overlying the midline dorsal aspect of the MCPJ. Its distal extensions to the MP (central slip) and distal phalanx (combined terminal tendon of two lateral bands) should be demonstrated. The normal position of the ED tendon along the mid‐aspect of the joint should be maintained with dynamic imaging incorporating MCPJ extension and flexion when the sagittal bands are intact. The EIP and EDM tendons should also be assessed in long axis when examining the second and fifth MCPJs.</p></sec></sec><sec id="ajum12363-sec-0018"><title>Sonographic imaging of sagittal band tears</title><p>Traumatic tears to the sagittal bands result from direct trauma to the dorsum of the MCPJ or resisted joint extension. Sagittal band tears tend to occur as longitudinal splits, extending in a proximal‐to‐distal orientation, and can result in extensor tendon instability and possibly impaired MCPJ extension.<xref rid="ajum12363-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Tears can involve the proximal and/or distal component of the sagittal band, and the extent of the tear should be defined.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Sagittal band tears usually involve the third or fourth MCPJ.<xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The third (middle) finger is the most affected, followed in decreasing order by the fourth (ring), fifth and then second (index) fingers. The radial or ulnar portion of a sagittal band tends to be torn, rather than in the midline component and most often the superficial fibres are involved.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Sagittal band tears can be defined as partial or complete.</p><p>Partial sagittal band tears sonographically demonstrate a focally thickened and hypoechoic sagittal band on either the radial or ulnar side.<xref rid="ajum12363-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> A partially torn sagittal band does not show a complete gap between band ends, and the extensor tendon/s remains encapsulated by the sagittal band when the MCPJ is flexed and extended. Partial sagittal band tears can result in extensor tendon subluxation. Partial tears through 50% of the depth of the proximal radial sagittal band have been demonstrated to be sufficient to cause extensor subluxation; however, partial tears of the distal sagittal band are most often not associated with extensor tendon subluxation.<xref rid="ajum12363-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> In digits 3 and 4, ED tendon subluxation at the MCPJ occurs when the ED tendon moves to either the ulnar or radial sides of the midline but remains in contact with the dorsal aspect of the MC head during MCPJ flexion. The tendon subluxates to the opposite side of the partial tear, due to force applied to the central tendon by the uninjured sagittal band.<xref rid="ajum12363-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Subluxation is most obvious with MCPJ flexion (forming a fist).<xref rid="ajum12363-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> For example, if there is a radial‐sided sagittal band partial tear, the ED tendon will subluxate to the ulnar side (Figure <xref rid="ajum12363-fig-0010" ref-type="fig">10</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0010" orientation="portrait"><label>Figure 10</label><caption><p>Diagram of a partial tear of a radial sagittal band at the third MCPJ with the MCPJ extended (a) and flexed (b). The ED tendon subluxates to the ulnar dorsal aspect of the metacarpal head with MCPJ flexion. (c) Short‐axis sonographic image of the dorsal aspect of the third MCPJ. The radial sagittal band appears thickened and hypoechoic and irregular in outline. There is ulnar subluxation of the ED tendon with MCPJ flexion, and the ED tendon still maintains contact with the dorsal aspect of the metacarpal head but has moved to the ulnar dorsal aspect of midline. ED, extensor digitorum; MC, metacarpal; MCPJ, metacarpophalyngeal joint; PP, palmar plate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-19" orientation="portrait" xlink:href="AJUM-26-216-g007.jpg"/></fig><p>Complete sagittal band tears (ruptures) demonstrate a gap between radial or ulnar aspects of a sagittal band with short‐axis sonographic imaging. This results in lack of continuity of the sagittal band surrounding the ED tendon at the MCPJ level. Complete sagittal band tears can result in extensor tendon subluxation or dislocation, and the extent of tendon displacement and distinction between tendon subluxation and dislocation must be appreciated. The gap in the sagittal band and subsequent tendon instability may not be obvious with static imaging with the MCPJ in extension, so dynamic sonographic assessment with the MCPJ in multiple degrees of flexion is required.</p><p>Transient subluxation of the extensor tendon with flexion involves maintenance of contact of the tendon with the dorsal metacarpal condyle. Dislocation of extensor tendons involves displacement of the tendon into the groove between adjacent dorsal MC heads (valley between adjacent knuckles) and loss of contact with the dorsal aspect of the metacarpal head.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="ajum12363-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> In complete sagittal band tears of the third and fourth MCPJs, ED tendon dislocation occurs when the tendon moves to the opposite side of the MC head relative to the side of the sagittal band tear. Subluxation or dislocation is best demonstrated when the finger of interest is flexed to touch the palm of the hand (Figure <xref rid="ajum12363-fig-0011" ref-type="fig">11</xref> and Video <xref rid="ajum12363-fig-0012" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="ajum12363-fig-0011" orientation="portrait"><label>Figure 11</label><caption><p>Complete tear of the radial aspect of the sagittal band. (a) Complete tear of the radial sagittal band with ulnar subluxation of the ED tendon. The ED maintains contact with the dorsal aspect of the MC head (but deviates from the ulnar dorsal aspect of midline) during MCPJ flexion. (b) Complete tear of the radial sagittal band with ulnar dislocation of the ED tendon with MCPJ flexion. When dislocated, the tendon moves into the space between MC heads and is no longer in contact with the dorsal aspect of its corresponding MC head. (c,d) Short‐axis sonographic image of the dorsal aspect of the third MCPJ. The EDC tendon is dislocated and is displaced to the ulnar aspect of the metacarpal head due to the complete tear of the radial sagittal band. (d,e) Long‐axis images over the midline dorsal aspect of the MCPJ (d) where the ED tendon is not visualised in the midline. (e) Long‐axis image acquired in the space between dorsal MCPJs where the subluxated ED tendon (subluxated in the MCPJ extension) can be seen in long axis. ED, extensor digitorum; MCPJ, metacarpophalyngeal joint; PP, proximal phalanx; MC, metacarpal; RAD, radial aspect of short‐axis image; ULNA, ulnar aspect of short‐axis image.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-21" orientation="portrait" xlink:href="AJUM-26-216-g005.jpg"/></fig><fig position="float" fig-type="Video" id="ajum12363-fig-0012" orientation="portrait"><label>Video Video 1</label><caption><p>Transcription boxer's knuckle video (29 s). To dynamically assess the sagittal bands, you need to ensure that you perform flexion of the metacarpophalangeal joints (MCPJ), and the fingers must be brought all the way down to the palm. This will allow us to demonstrate some real‐time movement which can demonstrate in this case dislocation of the extensor digitorum tendon, which is dislocating to the ulnar aspect of the dorsal aspect of the MCPJ.</p></caption></fig><p>When complete sagittal band tears occur to the second and fifth MCPJs, due to the presence of multiple tendons, ruptures of the connections between these tendons have been identified to also occur and one of the extensor tendons may displace to the radial side and one to the ulnar side of the MC head relative to midline.<xref rid="ajum12363-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The radial sagittal band is reported to be more susceptible to injury; this theory has been proposed as the radial sagittal band has been identified to be thinner and longer than the ulnar component on cadaveric studies.<xref rid="ajum12363-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="ajum12363-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Ulnar‐sided sagittal band tears although not as common, are still encountered, and traumatic lacerations can be a cause.<xref rid="ajum12363-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ajum12363-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>Radial subluxation of the ED tendon may occur following a traumatic laceration to the ulnar sagittal band.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Complete tearing of the ulnar sagittal band doesn't contribute to the same degree of extensor instability with MCPJ flexion or extension as tears of the radial sagittal band, which has been attributed to the juncturae tendini.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Sagittal bands may also become torn in repetitive injuries and conditions such as rheumatoid arthritis where it is associated with chronic synovitis.<xref rid="ajum12363-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In arthritic patients, the superficial layer of the sagittal bands has been reported to rupture spontaneously from light, normal daily activity such as snapping, crossing a finger or crumpling paper.<xref rid="ajum12363-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>The extensor tendons may be concurrently partially torn in association with a sagittal band tear. Partially torn extensor tendons may sonographically appear increased in thickness and decreased in echogenicity in comparison with the contralateral asymptomatic limb. In addition, disrupttion to the fibrillar echotexture will be identified. Trauma to the sagittal bands may also result in a concurrent structural injury involving the MCPJ capsule, juncturae tendinum, palmar plate, intrinsic muscles of the intermetacarpal spaces and osteochondral fractures.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The dorsum of the MCPJ can also be infected <italic toggle="yes">via</italic> a puncture wound that occurs when the blow occurs to the open mouth with a clenched fist.<xref rid="ajum12363-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> This is known as ‘fight bite’. The bite can cause tears to the sagittal bands and extensor tendons, and the wound can cause infection that can extend deeper to involve the MCPJ and bones.<xref rid="ajum12363-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><p>Plain hand radiographs following trauma to the dorsum of the hand are required to exclude or identify any fractures. Magnetic resonance imaging (MRI) can be utilised to image structures of the hand including the collateral ligaments of the MCPJs of digits 2–5 which, due to their position between the MC heads can be better imaged with MRI. The extensor hood of the hand may require MRI sequences to be obtained with the MCPJ in the maximum flexion and extension to demonstrate any dislocation or subluxation of the extensor tendons. Ultrasound imaging has the advantage of being dynamic and quick and can be performed in an emergency setting. Direct transducer pressure over the torn sagittal bands in the acute setting, however, can cause some patient discomfort. As ultrasound is an operator‐dependent imaging modality, knowledge of the anatomy, mechanisms of injury and sonographic technique is also required to allow the structures of the dorsal hand to be optimally imaged.</p><p>Different methods of treatment of sagittal band tears include conservative management or surgical repair, and optimal management of sagittal band tears remain undefined.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The main aim is to prevent the re‐dislocation of extensor tendons and maintain the MCPJ motion. Conservative management involves the use of extension splinting.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Numerous surgical techniques have been described but mostly involve relocation of the central tendon, and direct repair of the sagittal band defect with sutures.<xref rid="ajum12363-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p></sec><sec sec-type="conclusions" id="ajum12363-sec-0019"><title>Conclusion</title><p>The dorsal hood is a complex retinacular system of the hand. Injuries to the sagittal bands of the dorsal hood should be considered following blunt trauma to the dorsal hand such as boxing or punching, with subsequent pain and swelling to the dorsal knuckles and space between knuckles. The sagittal bands are the most important stabilising component of the extensor tendons and partial or complete sagittal band tears and can result in extensor tendon subluxation or dislocation, which may be clinically underappreciated. Sagittal band tears and the degree of associated tendon instability can be efficiently and effectively imaged with ultrasound; however, familiarity with the detailed relative anatomy, sonographic technique, and normal and abnormal sonographic appearances is essential to allow a timely diagnosis to optimally guide patient management.</p></sec><sec sec-type="COI-statement" id="ajum12363-sec-0021"><title>Conflict of Interest</title><p>No conflicts of interest to declare.</p></sec></body><back><ack id="ajum12363-sec-0020"><title>Acknowledgements</title><p>No grants or funding obtained for this submission. Open access publishing facilitated by Central Queensland University, as part of the Wiley ‐ Central Queensland University agreement via the Council of Australian University Librarians.</p></ack><ref-list id="ajum12363-bibl-0001" content-type="cited-references"><title>References</title><ref id="ajum12363-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ajum12363-cit-0001">
+<string-name name-style="western">
+<surname>Loosemore</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lightfoot</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palmer‐Green</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gatt</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilzon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beardsley</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Boxing injury epidemiology in the Great Britain team: a 5‐year surveillance study of medically diagnosed injury incidence and outcome</article-title>. <source>Br J Sports Med.</source>
+<year>2015</year>; <volume>49</volume>(<issue>17</issue>): <fpage>1100</fpage>–<lpage>1107</lpage>.<pub-id pub-id-type="pmid">26192194</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bjsports-2015-094755</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ajum12363-cit-0002">
+<string-name name-style="western">
+<surname>Loosemore</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ansdell</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charalambous</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>JWK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayton</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Traumatic extensor hood rupture</article-title>. <source>Hand (N Y).</source>
+<year>2009</year>; <volume>4</volume>(<issue>2</issue>): <fpage>177</fpage>–<lpage>179</lpage>.<pub-id pub-id-type="pmid">19096895</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11552-008-9154-7</pub-id><pub-id pub-id-type="pmcid">PMC2686793</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ajum12363-cit-0003">
+<string-name name-style="western">
+<surname>Matharu</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gatt</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delaney</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loosemore</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayton</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Extensor hood injuries in elite boxers: injury characteristics, surgical technique and outcomes</article-title>. <source>J Hand Surg Eur vol</source>
+<year>2022</year>; <volume>47</volume>(<issue>11</issue>): <fpage>1162</fpage>–<lpage>1167</lpage>.<pub-id pub-id-type="pmid">36112963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/17531934221123139</pub-id><pub-id pub-id-type="pmcid">PMC9727113</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ajum12363-cit-0004">
+<string-name name-style="western">
+<surname>Gladden</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Boxer's knuckle: a preliminary report</article-title>. <source>Am J Surg</source>
+<year>1957</year>; <volume>93</volume>(<issue>3</issue>): <fpage>388</fpage>–<lpage>397</lpage>.<pub-id pub-id-type="pmid">13403057</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0002-9610(57)90828-0</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ajum12363-cit-0005">
+<string-name name-style="western">
+<surname>Kleinhenz</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Closed sagittal band injury of the metacarpophalangeal joint</article-title>. <source>J Am Acad Orthop Surg.</source>
+<year>2015</year>; <volume>23</volume>(<issue>7</issue>): <fpage>415</fpage>–<lpage>423</lpage>.<pub-id pub-id-type="pmid">26111875</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5435/JAAOS-D-13-00203</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ajum12363-cit-0006">
+<string-name name-style="western">
+<surname>Farrar</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kundra</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Role of the juncturae tendinum in preventing radial subluxation of the extensor communis tendons after ulnar sagittal band rupture: a cadaveric study</article-title>. <source>ISRN Orthop</source>
+<year>2012</year>; <volume>2012</volume>: <fpage>1</fpage>–<lpage>4</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.5402/2012/597681</pub-id><pub-id pub-id-type="pmcid">PMC4063132</pub-id><pub-id pub-id-type="pmid">24977082</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ajum12363-cit-0007">
+<string-name name-style="western">
+<surname>Gitto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Draghi</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Draghi</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Sonography of non‐neoplastic disorders of the hand and wrist tendons</article-title>. <source>J Ultrasound Med</source>
+<year>2018</year>; <volume>37</volume>(<issue>1</issue>): <fpage>51</fpage>–<lpage>68</lpage>.<pub-id pub-id-type="pmid">28708327</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jum.14313</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ajum12363-cit-0008">
+<string-name name-style="western">
+<surname>Winter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balaguer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bessiere</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carles</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lebreton</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Surgical treatment of the boxer's fracture: transverse pinning versus intramedullary pinning</article-title>. <source>J Hand Surg Eur Vol</source>
+<year>2007</year>; <volume>32</volume>(<issue>6</issue>): <fpage>709</fpage>–<lpage>713</lpage>.<pub-id pub-id-type="pmid">17993437</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/J.JHSE.2007.07.011</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ajum12363-cit-0009">
+<string-name name-style="western">
+<surname>Kichouh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Maeseneer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jager</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcelis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Hedent</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Roy</surname>
+<given-names>P</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Ultrasound findings in injuries of dorsal extensor hood: correlation with MR and follow‐up findings</article-title>. <source>Eur J Radiol</source>
+<year>2010</year>; <volume>77</volume>(<issue>2</issue>): <fpage>249</fpage>–<lpage>253</lpage>.<pub-id pub-id-type="pmid">20566255</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejrad.2010.05.015</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ajum12363-cit-0010">
+<string-name name-style="western">
+<surname>Koniuch</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peimer</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>VanGorder</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moncada</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Closed crush injury of the metacarpophalangeal joint</article-title>. <source>J Hand Surg</source>
+<year>1987</year>; <volume>12</volume>(<issue>5</issue>): <fpage>750</fpage>–<lpage>757</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0363-5023(87)80062-x</pub-id><pub-id pub-id-type="pmid">3655236</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ajum12363-cit-0011">
+<string-name name-style="western">
+<surname>Mok</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Boxer's knuckle of non‐boxer patients</article-title>. <source>Hong Kong J Emerg Med</source>
+<year>2006</year>; <volume>13</volume>(<issue>3</issue>): <fpage>161</fpage>–<lpage>167</lpage>.</mixed-citation></ref><ref id="ajum12363-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ajum12363-cit-0012">
+<string-name name-style="western">
+<surname>Grandizio</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klena</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Sagittal band, boutonniere, and pulley injuries in the athlete</article-title>. <source>Curr Rev Musculoskelet Med</source>
+<year>2017</year>; <volume>10</volume>(<issue>1</issue>): <fpage>17</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">28101826</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12178-017-9379-6</pub-id><pub-id pub-id-type="pmcid">PMC5344850</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0013"><label>13</label><mixed-citation publication-type="book" id="ajum12363-cit-0013">
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hotchkiss</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pederson</surname>
+<given-names>W</given-names>
+</string-name>. <source>Green's operative hand surgery</source>, <edition designator="7">7th edn</edition>. <publisher-loc>Philadelphia, PA</publisher-loc>: <publisher-name>Elsevier</publisher-name>; <year>2017</year>.</mixed-citation></ref><ref id="ajum12363-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ajum12363-cit-0014">
+<string-name name-style="western">
+<surname>Mitsuzawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ando</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takeuchi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noguchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ikeguchi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuda</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Functional anatomy of the sagittal bands and mechanisms of extensor tendon dislocation: a cadaveric study</article-title>. <source>J Hand Surg Eur Vol</source>
+<year>2021</year>; <volume>46</volume>(<issue>8</issue>): <fpage>842</fpage>–<lpage>846</lpage>.<pub-id pub-id-type="pmid">33086929</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1753193420963257</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ajum12363-cit-0015">
+<string-name name-style="western">
+<surname>Kichouh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanhoenacker</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jager</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Roy</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pouders</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcelis</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Functional anatomy of the dorsal hood or the hand: correlation of ultrasound and MR findings with cadaveric dissection</article-title>. <source>Eur Radiol</source>
+<year>2009</year>; <volume>19</volume>(<issue>8</issue>): <fpage>1849</fpage>–<lpage>1856</lpage>.<pub-id pub-id-type="pmid">19308415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00330-009-1383-9</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ajum12363-cit-0016">
+<string-name name-style="western">
+<surname>Chinchalkar</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barker</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owsley</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Relationship between juncturae tendinum and sagittal bands</article-title>. <source>J Hand Microsurg</source>
+<year>2015</year>; <volume>7</volume>(<issue>1</issue>): <fpage>96</fpage>–<lpage>101</lpage>.<pub-id pub-id-type="pmid">26078512</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12593-015-0172-8</pub-id><pub-id pub-id-type="pmcid">PMC4461641</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ajum12363-cit-0017">
+<string-name name-style="western">
+<surname>Willekens</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kichouh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boulet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Maeseneer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarys</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Mey</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Ultrasound follow‐up of posttraumatic injuries of the sagittal band of the dorsal hood treated by a conservative approach</article-title>. <source>Eur J Radiol</source>
+<year>2014</year>; <volume>84</volume>(<issue>2</issue>): <fpage>278</fpage>–<lpage>283</lpage>.<pub-id pub-id-type="pmid">25497102</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejrad.2014.11.001</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ajum12363-cit-0018">
+<string-name name-style="western">
+<surname>Yammine</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The prevalence of the extensor indicis tendon and its variants: a systematic review and meta‐analysis</article-title>. <source>Surg Radiol Anat.</source>
+<year>2015</year>; <volume>37</volume>(<issue>3</issue>): <fpage>247</fpage>–<lpage>254</lpage>.<pub-id pub-id-type="pmid">25096501</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00276-014-1352-0</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ajum12363-cit-0019">
+<string-name name-style="western">
+<surname>De Maeseneer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcelis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jager</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Provyn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shahabpour</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Ultrasound anatomy of the fingers: flexor and extensor system with emphasis on variations and anatomical detail</article-title>. <source>J Ultrason</source>
+<year>2020</year>; <volume>20</volume>(<issue>81</issue>): <fpage>122</fpage>–<lpage>128</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.15557/JoU.2020.0020</pub-id><pub-id pub-id-type="pmcid">PMC7418857</pub-id><pub-id pub-id-type="pmid">32609968</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ajum12363-cit-0020">
+<string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moran</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zobitz</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>An</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amadio</surname>
+<given-names>PC</given-names>
+</string-name>. <article-title>Anatomic variation of the 5th extensor tendon compartment and extensor digiti minimi tendon</article-title>. <source>Clin Anat</source>
+<year>2007</year>; <volume>20</volume>(<issue>6</issue>): <fpage>677</fpage>–<lpage>682</lpage>.<pub-id pub-id-type="pmid">17352412</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ca.20480</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ajum12363-cit-0021">
+<string-name name-style="western">
+<surname>Kichouh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kichouh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Maeseneer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Maeseneer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jager</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jager</surname>
+<given-names>T</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The thickness of the sagittal bands in volunteers: high resolution ultrasound of the fingers</article-title>. <source>Surg Radiol Anat</source>
+<year>2011</year>; <volume>33</volume>(<issue>1</issue>): <fpage>65</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">20632175</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00276-010-0693-6</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ajum12363-cit-0022">
+<string-name name-style="western">
+<surname>Petchprapa</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaswani</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>MRI of the fingers: an update</article-title>. <source>Am J Roentgenol</source>
+<year>2019</year>; <volume>213</volume>(<issue>3</issue>): <fpage>534</fpage>–<lpage>548</lpage>.<pub-id pub-id-type="pmid">31268729</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2214/AJR.19.21217</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ajum12363-cit-0023">
+<string-name name-style="western">
+<surname>Vargas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiapas‐Gasca</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernández‐Díaz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Canoso</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saavedra</surname>
+<given-names>MÁ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navarro‐Zarza</surname>
+<given-names>JE</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinical anatomy of the hand</article-title>. <source>Reumatol Clin</source>
+<year>2012</year>; <volume>8</volume>: <fpage>25</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">23219083</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.reuma.2012.10.004</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ajum12363-cit-0024">
+<string-name name-style="western">
+<surname>Al‐Qattan</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>An anatomical study of the deep transverse metacarpal ligament</article-title>. <source>J Anat</source>
+<year>1993</year>; <volume>182</volume>(<issue>Pt 3</issue>): <fpage>443</fpage>–<lpage>446</lpage>.<pub-id pub-id-type="pmid">8226301</pub-id>
+<pub-id pub-id-type="pmcid">PMC1259819</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ajum12363-cit-0025">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baek</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>The neglected rupture of s</article-title>. <source>Hand Surg</source>
+<year>2003</year>; <volume>8</volume>(<issue>2</issue>): <fpage>277</fpage>–<lpage>281</lpage>.<pub-id pub-id-type="pmid">15002111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1142/s021881040300173x</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ajum12363-cit-0026">
+<string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romano</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinoli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tagliafico</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Wrist and hand ultrasound: reliability of side‐to‐side comparisons of very small (&lt;2‐mm) clinically relevant anatomic structures</article-title>. <source>J Ultrasound Med</source>
+<year>2018</year>; <volume>37</volume>(<issue>12</issue>): <fpage>2785</fpage>–<lpage>2795</lpage>.<pub-id pub-id-type="pmid">29689624</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jum.14635</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ajum12363-cit-0027">
+<string-name name-style="western">
+<surname>Lourie</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaston</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freeland</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Collateral ligament injuries of the metacarpophalangeal joints of the fingers</article-title>. <source>Hand Clin</source>
+<year>2006</year>; <volume>22</volume>(<issue>3</issue>): <fpage>357</fpage>–<lpage>364</lpage>.<pub-id pub-id-type="pmid">16843801</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hcl.2006.03.005</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ajum12363-cit-0028">
+<string-name name-style="western">
+<surname>Dennison</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>A complete radial collateral ligament avulsion of the small finger metacarpophalangeal joint with displacement through the radial sagittal band</article-title>. <source>Hand (N Y)</source>
+<year>2008</year>; <volume>3</volume>(<issue>3</issue>): <fpage>220</fpage>–<lpage>223</lpage>.<pub-id pub-id-type="pmid">18780099</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11552-008-9087-1</pub-id><pub-id pub-id-type="pmcid">PMC2525884</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0029"><label>29</label><mixed-citation publication-type="book" id="ajum12363-cit-0029">
+<string-name name-style="western">
+<surname>Bianchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baert</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdelwahab</surname>
+<given-names>IF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Derchi</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinoli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizzatto</surname>
+<given-names>G</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <source>Ultrasound of the musculoskeletal system</source>. <publisher-loc>Berlin Heidelberg</publisher-loc>: <publisher-name>Springer</publisher-name>; <year>2007</year>.</mixed-citation></ref><ref id="ajum12363-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ajum12363-cit-0030">
+<string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iba</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanaka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozasa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanaya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamashita</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Sagittal band reconstruction in the index finger using a modified Elson technique</article-title>. <source>J Orthop Surg (Hong Kong)</source>
+<year>2018</year>; <volume>26</volume>(<issue>1</issue>): <elocation-id>2309499017749985</elocation-id>.<pub-id pub-id-type="pmid">29415617</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/2309499017749985</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ajum12363-cit-0031">
+<string-name name-style="western">
+<surname>Olubaniyi</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatnagar</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vardhanabhuti</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gafoor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suresh</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Comprehensive musculoskeletal sonographic evaluation of the hand and wrist</article-title>. <source>J Ultrasound Med</source>
+<year>2013</year>; <volume>32</volume>(<issue>6</issue>): <fpage>901</fpage>–<lpage>914</lpage>.<pub-id pub-id-type="pmid">23716510</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7863/ultra.32.6.901</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ajum12363-cit-0032">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masschelein</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suh</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Treatment of sagittal band injuries and extensor tendon subluxation: a systematic review</article-title>. <source>Hand (N Y)</source>
+<year>2021</year>; <volume>16</volume>(<issue>6</issue>): <fpage>854</fpage>–<lpage>860</lpage>.<pub-id pub-id-type="pmid">31965857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1558944719895622</pub-id><pub-id pub-id-type="pmcid">PMC8647316</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ajum12363-cit-0033">
+<string-name name-style="western">
+<surname>Arai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakahara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nishikawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harata</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Treatment of soft tissue injuries to the dorsum of the metacarpophalangeal joint (Boxer's knuckle)</article-title>. <source>J Hand Surg Br Eur Vol</source>
+<year>2002</year>; <volume>27</volume>(<issue>1</issue>): <fpage>90</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1054/jhsb.2001.0656</pub-id><pub-id pub-id-type="pmid">11895354</pub-id></mixed-citation></ref><ref id="ajum12363-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ajum12363-cit-0034">
+<string-name name-style="western">
+<surname>Rayan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohrer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The extensor retinacular system at the metacarpophalangeal joint: anatomical and histological study</article-title>. <source>J Hand Surg Am</source>
+<year>1997</year>; <volume>22</volume>(<issue>5</issue>): <fpage>585</fpage>–<lpage>590</lpage>.<pub-id pub-id-type="pmid">9752909</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0266-7681(97)80351-8</pub-id></mixed-citation></ref></ref-list></back></article>
