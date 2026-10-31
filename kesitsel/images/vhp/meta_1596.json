@@ -1,0 +1,21 @@
+{
+ "slice": 1596,
+ "cryo_key": "4aaf9181-fb6a-4a4c-bf49-d1eb9ed4a385/7ec19d99-07bd-4cfd-83a4-3f8043de340a.dcm",
+ "cryo_file": "Visible-Human/Male-Images/Fullcolor/fullbody/a_vm1596.raw",
+ "ct_key": "f3a311eb-3abb-4b22-a28d-36ede7ddf127/d03e7c35-353a-4e80-a40c-9fad70758764.dcm",
+ "ct_slice": 1596.0,
+ "ct_file": "Visible-Human/Male-Images/radiological/frozenCT/c_vm1596.fro",
+ "box_cryo_px": [
+  126,
+  543,
+  500,
+  987
+ ],
+ "reg": {
+  "scale": 0.35200000000000004,
+  "dx": -102,
+  "dy": 5,
+  "dice": 0.8984812489394196
+ },
+ "mm_per_px_crop": 0.33
+}

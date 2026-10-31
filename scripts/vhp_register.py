@@ -48,7 +48,7 @@ def ct_to_cryo(pt, T):
     x, y = pt
     return ((x - T["dx"]) / T["scale"], (y - T["dy"]) / T["scale"])
 
-def refine_local(cryo_rgb_flipped, ct_hu, T, box, search=25):
+def refine_local(cryo_rgb_flipped, ct_hu, T, box, search=12):
     """Refine translation using only the limb region (box in cryo px): maximise overlap of the
     limb soft-tissue mask, then the bone mask (CT>300 HU vs pale cryo bone). Returns new T + scores."""
     from PIL import Image
