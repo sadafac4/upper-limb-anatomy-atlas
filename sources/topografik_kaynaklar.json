@@ -1,0 +1,605 @@
+[
+  {
+    "topic_no": 1,
+    "topic": "Brachial plexus / axilla (infraclavicular part) dissection",
+    "pmcid": "PMC12578619",
+    "version": 1,
+    "doi": "10.1155/bmri/6650184",
+    "citation": "Biomed Res Int. 2025 Oct 31;2025:6650184. doi: 10.1155/bmri/6650184",
+    "title": "A Cadaveric Study on the Variations in the Infraclavicular Part of Brachial Plexus in Axillary Region and Upper Arm",
+    "authors": "Bozhikova E., Davis J. C., Moon P. H. et al.",
+    "year": "2025",
+    "journal": "BioMed Research International",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.",
+    "figures": [
+      {
+        "file": "BMRI-2025-6650184-g012.jpg",
+        "label": "Figure 1",
+        "caption": "Schematic illustration of the normal infraclavicular brachial plexus anatomy. Abbreviations: AD, anterior division; AN, axillary nerve; IT, inferior trunk; LC, lateral cord; LR, lateral root of the median nerve; LSSN, lower subscapular nerve; MC, medial cord; MCN, musculocutaneous nerve; MN, median nerve; MR, medial root of the median nerve; MT, middle trunk; PC, posterior cord; PD, posterior division; RN, radial nerve; ST, superior trunk; TDN, thoracodorsal nerve; UN, ulnar nerve; USSN, upper subscapular nerve.",
+        "specimen": "diagram",
+        "what_it_shows": "Schematic of the normal infraclavicular brachial plexus: trunks, divisions, lateral/medial/posterior cords and their terminal branches (MCN, MN, UN, RN, AN, TDN, subscapular and pectoral nerves).",
+        "local_path": "topografik/images/raw/PMC12578619/BMRI-2025-6650184-g012.jpg",
+        "pixels": "600x325"
+      },
+      {
+        "file": "BMRI-2025-6650184-g001.jpg",
+        "label": "Figure 12",
+        "caption": "Variation in the PC. (A) Trifurcation of the PC (right axilla): 1, RN; 2, AN; 3, TDN. (B) Quadfurcation of the PC (right axilla): 1, long thoracic nerve; 2, TDN; 3, LSSN; 4, PD of AN; 5, AD of AN; 6, AN; 7, RN. Abbreviations: AD, anterior division; AN, axillary nerve; LSSN, lower subscapular nerve; PC, posterior cord; PD, posterior division; RN, radial nerve; TDN, thoracodorsal nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Two right-axilla dissections of the posterior cord: (A) trifurcation into radial, axillary and thoracodorsal nerves; (B) quadfurcation with the axillary nerve's anterior/posterior divisions.",
+        "local_path": "topografik/images/raw/PMC12578619/BMRI-2025-6650184-g001.jpg",
+        "pixels": "600x394"
+      },
+      {
+        "file": "BMRI-2025-6650184-g011.jpg",
+        "label": "Figure 2",
+        "caption": "Variations of the MN. (A) An accessory LR of the MN (right axilla): 1, LC; 2, LR of MN; 3, accessory LR of MN; 4, MR of MN; 5, main AA; 6, MCN; 7, aberrant AA; 8, UN; 9, MN. (B) Low fusion of the roots of the MN and CB between the MC and LR of MN (right axilla): 1, MN; 2, MR of the MN; 3, CB between the MC and LR of the MN; 4, LR of MN. Abbreviations: AA, axillary artery; CB, communicating branch; LC, lateral cord; LR, lateral root; MC, medial cord; MCN, musculocutaneous nerve; MN, median nerve; MR, medial root; UN, ulnar nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right-axilla dissections of median nerve formation: (A) an accessory lateral root between main and aberrant axillary arteries; (B) low fusion of the roots with a medial cord–lateral root communicating branch.",
+        "local_path": "topografik/images/raw/PMC12578619/BMRI-2025-6650184-g011.jpg",
+        "pixels": "600x480"
+      }
+    ],
+    "key_findings": "36 upper limbs from 18 donors were dissected following Grant's Dissector. \"Variations were found in 16 brachial plexuses (44.4%) from nine donors. In total, 32 variations were identified\"; \"Bilateral variations were more common (77.8%) than unilateral ones (22.2%)\". The authors note that the reported prevalence of brachial plexus variability \"has been reported to range from 13.3% to 90%\".",
+    "notes": "Fig. 1 (schematic) is the clean normal-anatomy reference; Figs. 2 and 12 are numbered real axillary dissections (normal axillary region topography with variant branching). NB: file numbering is reversed relative to figure labels (g012 = Figure 1, g001 = Figure 12). Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 600x325 px; Figure 12: 600x394 px; Figure 2: 600x480 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 2,
+    "topic": "Cubital fossa (fossa cubitalis) dissection",
+    "pmcid": "PMC10823296",
+    "version": 1,
+    "doi": "10.7759/cureus.51350",
+    "citation": "Cureus. 2023 Dec 30;15(12):e51350. doi: 10.7759/cureus.51350",
+    "title": "Bilateral Median Nerve and Brachial Artery Variations in the Arm: A Case Report",
+    "authors": "Rajaram-Gilkes Mathangi, Burwell Julian, Barr Kelly et al.",
+    "year": "2023",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0015-00000051350-i06.jpg",
+        "label": "Figure 6",
+        "caption": "Cadaveric image of the left upper limb focusing on the elbow region.Structures of interest: a) level of brachial A bifurcation, b) ulnar A, c) ulnar N, d) median N, e) pronator teres mm, f) biceps brachii mm, g) bicipital aponeurosis, h) brachioradialis mm. A - artery, N - nerve, mm - muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left elbow region with labelled biceps brachii, bicipital aponeurosis, brachioradialis, pronator teres, brachial/radial/ulnar arteries, median and ulnar nerves (high brachial bifurcation).",
+        "local_path": "topografik/images/raw/PMC10823296/cureus-0015-00000051350-i06.jpg",
+        "pixels": "750x378"
+      },
+      {
+        "file": "cureus-0015-00000051350-i05.jpg",
+        "label": "Figure 5",
+        "caption": "Cadaveric image of the right upper limb focusing on the elbow region.Structures of interest: a) level of brachial A bifurcation, b) ulnar A, c) ulnar N, d) median N, e) pronator teres mm, f) biceps brachii mm. A - artery, N - nerve, mm - muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right elbow region showing the level of brachial artery bifurcation, radial and ulnar arteries, median and ulnar nerves, pronator teres and biceps brachii.",
+        "local_path": "topografik/images/raw/PMC10823296/cureus-0015-00000051350-i05.jpg",
+        "pixels": "750x451"
+      }
+    ],
+    "key_findings": "Bilateral case in which median nerve and brachial artery were absent from the cubital fossa: \"pronator teres originating from the distal third of the humerus, associated with the bifurcation of the brachial artery at the middle third of the humerus into the ulnar and radial arteries. The median nerve ran beneath the pronator teres along with the ulnar artery\". Cited literature: \"an incidence of high divisions in the brachial artery ranging between 5% and 14% of the cadavers\".",
+    "notes": "No CC BY cadaver photo of a NORMAL cubital fossa was found in the PMC OA bucket; this is a variant specimen, but the photos are labelled in plain English and show the cubital-fossa boundaries/contents (bicipital aponeurosis, pronator teres, brachioradialis). Use with a 'variation' caption, or as a contrast to a normal diagram. Also relevant to topic 7 (high division of brachial artery). Resolution (as served by PMC OA bucket; no larger version available there): Figure 6: 750x378 px; Figure 5: 750x451 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 3,
+    "topic": "Carpal tunnel / palm: thenar (recurrent) branch of median nerve",
+    "pmcid": "PMC6834099",
+    "version": 1,
+    "doi": "10.7759/cureus.5859",
+    "citation": "Cureus. 2019 Oct 7;11(10):e5859. doi: 10.7759/cureus.5859",
+    "title": "Double Muscular Thenar Branch and Anatomical Variation of Thenar Muscle Innervation Observed in a Cadaver",
+    "authors": "Natsis Konstantinos, Tzika Maria, Paraskevas George K et al.",
+    "year": "2019",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "http://creativecommons.org/licenses/by/3.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0011-00000005859-i01.jpg",
+        "label": "Figure 1",
+        "caption": "The origin of motor thenar branchesThe MN is divided into a medial and a lateral branch after it passes underneath the TCL. The lateral branch gives off the first common palmar digital nerve for the thumb and the radial side of the index. The TCL is dissected and the origin of the two motor thenar branches (arrowheads) is presented. The course of motor thenar branches is shown by a dotted line, while the loop of the distal motor thenar branch is emphasized.MN, median nerve; TCL, transverse carpal ligament",
+        "specimen": "human cadaver",
+        "what_it_shows": "Opened carpal tunnel with transverse carpal ligament (TCL) and median nerve; two motor thenar branches (arrowheads, dotted course) arise from the lateral division of the median nerve distal to the TCL.",
+        "local_path": "topografik/images/raw/PMC6834099/cureus-0011-00000005859-i01.jpg",
+        "pixels": "800x632"
+      },
+      {
+        "file": "cureus-0011-00000005859-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Terminal muscular branchesAfter further dissection, the five terminal branches of the double motor thenar branches (*), arising from MN, are observed, inserting into the musculature of the thenar. Due to traction, the nerve loop of the distal motor thenar branch was divided.MN, median nerve",
+        "specimen": "human cadaver",
+        "what_it_shows": "Further palmar dissection showing the five terminal muscular branches of the double motor thenar branches entering the thenar muscles.",
+        "local_path": "topografik/images/raw/PMC6834099/cureus-0011-00000005859-i02.jpg",
+        "pixels": "800x466"
+      }
+    ],
+    "key_findings": "Case of double muscular thenar branches arising from the first common palmar digital nerve with five terminal muscular branches. The discussion notes that for the motor thenar branch \"typical anatomy is reported in less than 75% of cases studied in the literature\".",
+    "notes": "Clear, well-lit photographs; labelling is minimal (MN, TCL, arrows/asterisks) so Turkish labels can be added. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 800x632 px; Figure 2: 800x466 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 3,
+    "topic": "Carpal tunnel / palm: recurrent branch and safe zone at the flexor retinaculum",
+    "pmcid": "PMC3931286",
+    "version": 1,
+    "doi": "10.1186/1754-9493-8-8",
+    "citation": "Patient Saf Surg. 2014 Feb 17;8:8. doi: 10.1186/1754-9493-8-8",
+    "title": "Anatomical landmarks for safer carpal tunnel decompression: an experimental cadaveric study",
+    "authors": "Samarakoon Lasitha B, Guruge Malith H, Jayasekara Madusha et al.",
+    "year": "2014",
+    "journal": "Patient Safety in Surgery",
+    "license_code": "CC BY",
+    "license_url_or_text": "http://creativecommons.org/licenses/by/2.0 | This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+    "figures": [
+      {
+        "file": "1754-9493-8-8-1.jpg",
+        "label": "Figure 1",
+        "caption": "Dissected specimen showing an intra ligamentous recurrent branch of the median nerve (pointer).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Palmar dissection with skin flap reflected, showing an intraligamentous recurrent branch of the median nerve (pointer).",
+        "local_path": "topografik/images/raw/PMC3931286/1754-9493-8-8-1.jpg",
+        "pixels": "600x449"
+      },
+      {
+        "file": "1754-9493-8-8-2.jpg",
+        "label": "Figure 2",
+        "caption": "Dissected specimen showing multiple extra ligamentous recurrent branches of the median nerve (pointer).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Palmar dissection showing multiple extraligamentous recurrent branches of the median nerve (pointer).",
+        "local_path": "topografik/images/raw/PMC3931286/1754-9493-8-8-2.jpg",
+        "pixels": "600x449"
+      }
+    ],
+    "key_findings": "Study of 26 hands from thirteen Sri Lankan cadavers: \"In a majority of specimens the recurrent branch was a single trunk (n =20, 76.9%). Similarly 84.6% (n = 22) were extra ligamentous in location. Mean distance from the distal border of the TCL to the recurrent branch was 7.75 mm. Mean distance from the distal border of TCL to the superficial palmar arch was 11.48 mm.\"",
+    "notes": "Secondary source for topic 3. Photos are unlabelled except for a probe/pointer; orientation is less clear than PMC6834099. Figure 4 of this article was NOT downloaded: it is a photograph of a textbook-style drawing (third-party artwork, provenance unclear). Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 600x449 px; Figure 2: 600x449 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 4,
+    "topic": "Shoulder / scapular region: quadrangular space (spatium axillare laterale)",
+    "pmcid": "PMC8958867",
+    "version": 1,
+    "doi": "10.7759/cureus.22619",
+    "citation": "Cureus. 2022 Feb 26;14(2):e22619. doi: 10.7759/cureus.22619",
+    "title": "Revisiting the Surgical Approaches to Decompression in Quadrilateral Space Syndrome: A Cadaveric Study",
+    "authors": "Charmode Sundip, Mehra Simmi, Kushwaha Sudhir",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/3.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0014-00000022619-i03.jpg",
+        "label": "Figure 3",
+        "caption": "The anterior approach showing the quadrangular space between the deltopectoral groove along with the contents (AXN and PHCA) passing through it.AXN: axillary nerve; PHCA: posterior humeral circumflex artery",
+        "specimen": "human cadaver",
+        "what_it_shows": "Anterior (deltopectoral) approach: quadrangular space with axillary nerve (AXN) and posterior humeral circumflex artery (PHCA) on forceps; deltoid, conjoint tendon, cephalic vein and pectoralis major labelled.",
+        "local_path": "topografik/images/raw/PMC8958867/cureus-0014-00000022619-i03.jpg",
+        "pixels": "750x1070"
+      },
+      {
+        "file": "cureus-0014-00000022619-i04.jpg",
+        "label": "Figure 4",
+        "caption": "Posterior approach to the axilla showing the quadrangular space along with the contents (AXN and PHCA) passing through it.AXN: axillary nerve; PHCA: posterior humeral circumflex artery",
+        "specimen": "human cadaver",
+        "what_it_shows": "Posterior approach: quadrangular space bounded by teres minor, teres major, long head of triceps and humerus, with AXN and PHCA passing through it.",
+        "local_path": "topografik/images/raw/PMC8958867/cureus-0014-00000022619-i04.jpg",
+        "pixels": "750x954"
+      }
+    ],
+    "key_findings": "Eight upper limbs from four cadavers were dissected by anatomy and orthopaedic residents using anterior and posterior approaches. \"the posterior approach was recognized as the easier and quicker method ... however, it may result in increased postoperative morbidity. Although the anterior (deltopectoral) approach involves more skill, it reduces postoperative morbidity.\"",
+    "notes": "Figure 4 is an excellent teaching image of the posterior boundaries of the quadrangular space (English text-box labels). Figures 1 (authors' drawing) and 2 (third-party AO Surgery Reference image) were deliberately NOT downloaded. Resolution (as served by PMC OA bucket; no larger version available there): Figure 3: 750x1070 px; Figure 4: 750x954 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 4,
+    "topic": "Shoulder / scapular region: suprascapular notch",
+    "pmcid": "PMC4555201",
+    "version": 1,
+    "doi": "10.1007/s00167-014-2937-1",
+    "citation": "Knee Surg Sports Traumatol Arthrosc. 2014 Mar 18;23(5):1542–8. doi: 10.1007/s00167-014-2937-1",
+    "title": "The variable morphology of suprascapular nerve and vessels at suprascapular notch: a proposal for classification and its potential clinical implications",
+    "authors": "Polguj Michał, Rożniecki Jacek, Sibiński Marcin et al.",
+    "year": "2014",
+    "journal": "Knee Surgery, Sports Traumatology, Arthroscopy",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | Open AccessThis article is distributed under the terms of the Creative Commons Attribution License which permits any use, distribution, and reproduction in any medium, provided the original author(s) and the source are credited.",
+    "figures": [
+      {
+        "file": "167_2014_2937_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Type I arrangement of the suprascapular nerve, artery and vein at the suprascapular notch. a Structures at the cadaver, b schematic arrangements. 1 suprascapular artery, 2 suprascapular vein, 3 suprascapular nerve, 4 superior transverse scapular ligament. La lateral, Me medial",
+        "specimen": "human cadaver + diagram",
+        "what_it_shows": "Type I arrangement at the suprascapular notch: (a) cadaver photo with suprascapular artery above and vein/nerve below the superior transverse scapular ligament; (b) matching schematic.",
+        "local_path": "topografik/images/raw/PMC4555201/167_2014_2937_Fig2_HTML.jpg",
+        "pixels": "774x1040"
+      }
+    ],
+    "key_findings": "106 formalin-fixed cadaveric shoulders: \"type I (61.3 %) (suprascapular artery was running above ligament, while suprascapular vein and nerve below it), type II (17 %) (both vessels pass above ligament, while nerve passes under it), type III (12.3 %) (suprascapular vessels and nerve lie under ligament) and type IV (9.4 %)\". \"Anterior coracoscapular ligaments were present in 55 from 106 shoulders.\"",
+    "notes": "Photo panel is dark (close-up with 1 mm scale bar, numeric labels); the paired schematic (panel b) is very clear and could be used alone for the slide. Resolution (as served by PMC OA bucket; no larger version available there): Fig. 2: 774x1040 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 5,
+    "topic": "Forearm: radial nerve bifurcation, posterior interosseous nerve and arcade of Frohse / supinator",
+    "pmcid": "PMC12500735",
+    "version": 1,
+    "doi": "10.1007/s00276-025-03728-3",
+    "citation": "Surg Radiol Anat. 2025 Oct 6;47(1):223. doi: 10.1007/s00276-025-03728-3",
+    "title": "Anatomical considerations for safe retractor placement in distal biceps repair: a cadaveric study of the posterior interosseous nerve",
+    "authors": "Qawasmi Feras, Goss Mark, Shweiki Fadi et al.",
+    "year": "2025",
+    "journal": "Surgical and Radiologic Anatomy",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "figures": [
+      {
+        "file": "276_2025_3728_Fig4_HTML.jpg",
+        "label": "Fig. 4",
+        "caption": "Cadaveric dissection illustrating the relationship between the radiocapitellar joint and the bifurcation of the radial nerve. The pinkish needle is placed at the level of the radiocapitellar joint. The radial nerve divides into the superficial radial sensory nerve (marked with a star) and the posterior interosseous nerve (PIN, marked with a square). The branch to the extensor carpi radialis brevis (ECRB) is indicated with a circle",
+        "specimen": "human cadaver",
+        "what_it_shows": "Radial nerve dividing at the radiocapitellar joint (needle) into the superficial radial nerve (star) and posterior interosseous nerve (square), with the branch to ECRB (circle).",
+        "local_path": "topografik/images/raw/PMC12500735/276_2025_3728_Fig4_HTML.jpg",
+        "pixels": "644x643"
+      },
+      {
+        "file": "276_2025_3728_Fig6_HTML.jpg",
+        "label": "Fig. 6",
+        "caption": "Cadaveric dissection demonstrates that the posterior interosseous nerve (PIN) is surrounded by muscle layers between the superficial and deep heads of the supinator muscle. When the supinator was elevated from ulnar to radial direction, the PIN remained protected within the supinator muscle between the superficial and deep heads of the muscle",
+        "specimen": "human cadaver",
+        "what_it_shows": "Supinator elevated to show the posterior interosseous nerve running between the superficial and deep heads of the supinator, near the radial tuberosity and biceps tendon.",
+        "local_path": "topografik/images/raw/PMC12500735/276_2025_3728_Fig6_HTML.jpg",
+        "pixels": "644x742"
+      },
+      {
+        "file": "276_2025_3728_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Cadaveric dissection showing the posterior interosseous nerve (PIN) marked with a square, the distal biceps tendon marked with a circle, and the supinator muscle marked with a star",
+        "specimen": "human cadaver",
+        "what_it_shows": "Anterolateral elbow/forearm dissection marking the posterior interosseous nerve (square), distal biceps tendon (circle) and supinator (star).",
+        "local_path": "topografik/images/raw/PMC12500735/276_2025_3728_Fig1_HTML.jpg",
+        "pixels": "644x706"
+      }
+    ],
+    "key_findings": "29 fresh cadaveric upper extremities: \"The radial nerve bifurcated approximately 5 ± 3 mm proximal to the RCJ. The PIN entered the supinator (Arcade of Frohse) at 22 ± 1 mm distal to the RCJ. It was located a mean of 13 ± 2 mm from the radial border of the radial tuberosity in pronation and 19 ± 2 mm in supination.\"",
+    "notes": "Fresh (unembalmed, colourful) specimens on blue background, symbol labels plus directional arrows; good for adding Turkish labels. Resolution (as served by PMC OA bucket; no larger version available there): Fig. 4: 644x643 px; Fig. 6: 644x742 px; Fig. 1: 644x706 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 6,
+    "topic": "Variation: axillary arch muscle (Langer's arch)",
+    "pmcid": "PMC12206543",
+    "version": 1,
+    "doi": "10.7759/cureus.85096",
+    "citation": "Cureus. 2025 May 30;17(5):e85096. doi: 10.7759/cureus.85096",
+    "title": "Rare Bilateral Axillary Arch With Its Novel Insertion Into the Deltoid and Unilateral Supernumerary Head of the Sternocleidomastoid Muscle in a Single Cadaver",
+    "authors": "Ara Hosne, Fakoya Adegbenro O",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0017-00000085096-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Right axillary dissectionThe axillary arch muscle originates from the anterior border of the latissimus dorsi, runs anterior to the axillary artery and brachial plexus branches, and inserts into the short head of the biceps brachii. Then it divides into two accessory slips in a \"T\" shape: the left slip merging with the fibers of the coracobrachialis muscle, while the right slip merges with the fibers of the deltoid muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right axilla: axillary arch from the latissimus dorsi crossing anterior to the axillary neurovascular bundle to the short head of biceps, with slips to coracobrachialis and deltoid.",
+        "local_path": "topografik/images/raw/PMC12206543/cureus-0017-00000085096-i01.jpg",
+        "pixels": "750x976"
+      },
+      {
+        "file": "cureus-0017-00000085096-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Photograph of the left axillary dissection showing the axillary arch muscleThe axillary arch muscle originates from the latissimus dorsi, which runs anterior to the brachial plexus branches as a single thin slip and inserts directly into the fascia between the coracobrachialis and deltoid muscles.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left axilla: a single thin axillary arch slip from latissimus dorsi inserting into the fascia between coracobrachialis and deltoid.",
+        "local_path": "topografik/images/raw/PMC12206543/cureus-0017-00000085096-i02.jpg",
+        "pixels": "750x981"
+      }
+    ],
+    "key_findings": "Bilateral axillary arch in one cadaver: \"On the right side, the muscle originated from the latissimus dorsi and merged with the short head of the biceps brachii, deltoid, and coracobrachialis muscles. On the left, it originated from the latissimus dorsi but was inserted into the fascia between the coracobrachialis and deltoid muscles.\" The article gives no prevalence figure of its own (only that frequency \"varies depending on the diverse groups of populations\").",
+    "notes": "High-quality, clearly labelled photos with orientation compass. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 750x976 px; Figure 2: 750x981 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 7,
+    "topic": "Variation: superficial brachial artery / brachial artery trifurcation",
+    "pmcid": "PMC10599095",
+    "version": 1,
+    "doi": "10.7759/cureus.45903",
+    "citation": "Cureus. 2023 Sep 25;15(9):e45903. doi: 10.7759/cureus.45903",
+    "title": "The Coexistence of the Superficial Brachial Artery With the Common Origin of the Posterior Circumflex Humeral Artery and the Deep Brachial Artery",
+    "authors": "Koutserimpas Christos, Tsakotos George, Piagkou Maria et al.",
+    "year": "2023",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/3.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0015-00000045903-i01.jpg",
+        "label": "Figure 1",
+        "caption": "The brachial artery (BA) trifurcation on the right arm, below the tendon of the latissimus dorsi muscle (LD)A. B. The axillary artery (AA) continuation and its trifurcation below the tendon of the LD into a superficial brachial artery (SBA), and the main BA, B. a common trunk (CT) that gave off an aberrant posterior circumflex humeral artery (1), the deep brachial artery (3) accompanied by the radial nerve (RN), muscular branches, and the nutrient humeral artery (2). A. The median nerve (MN) is formed by two lateral roots (yellow asterisks) and a medial root (white asterisk). C. The anterior circumflex humeral artery (ACHA1, ACHA2) duplication.UN-ulnar nerve, AN-axillary nerve, SSA-subscapular artery high origin from the AA second part",
+        "specimen": "human cadaver (digitally coloured)",
+        "what_it_shows": "Right arm: axillary artery continuing below the latissimus dorsi tendon and trifurcating into a superficial brachial artery, the main brachial artery and a common trunk; median nerve with two lateral roots.",
+        "local_path": "topografik/images/raw/PMC10599095/cureus-0015-00000045903-i01.jpg",
+        "pixels": "750x563"
+      },
+      {
+        "file": "cureus-0015-00000045903-i02.jpg",
+        "label": "Figure 2",
+        "caption": "The brachial artery’s (BA's) termination at the right armA. The BA trifurcation below the tendon of the latissimus dorsi muscle (LD) into a superficial brachial artery (SBA) of a tortuous course (A), the main BA, and the common trunk that gave off the aberrant posterior circumflex humeral artery, deep brachial artery, muscular branches, and nutrient humeral artery. A. The median nerve (MN) is formed by two lateral roots (1,2) and a medial root. B. C. The SBA terminated as the radial artery (RA) and the BA as the ulnar artery (UA) after the anastomosis of SBA and BA (white dotted line). C. RRA-recurrent radial artery, branch of a SBA, CIA-common. interosseous artery, UN-ulnar nerve",
+        "specimen": "human cadaver (digitally coloured)",
+        "what_it_shows": "Course and termination of the superficial brachial artery (ending as radial artery) and the main brachial artery (ending as ulnar artery) at the elbow.",
+        "local_path": "topografik/images/raw/PMC10599095/cureus-0015-00000045903-i02.jpg",
+        "pixels": "750x563"
+      }
+    ],
+    "key_findings": "Findings in one formalin-embalmed donor included \"a BA bilateral trifurcation, below the tendon of the latissimus dorsi muscle\" and \"the coexistence of an SBA with the main BA\". Discussion: \"The SBA has a prevalence ranging from 1.07% to 19.7%\" and \"De Garis and Swartley supported that the SBA is more frequent in African Americans (13.4%) than in Caucasians (4.6%)\".",
+    "notes": "Arteries painted red and nerves yellow on the photograph (digital colouring), abbreviation labels. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 750x563 px; Figure 2: 750x563 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 8,
+    "topic": "Variation: absent musculocutaneous nerve (median nerve supplies arm flexors)",
+    "pmcid": "PMC11026042",
+    "version": 1,
+    "doi": "10.1590/S1516-31802008000500009",
+    "citation": "Sao Paulo Med J. 2008 Sep 4;126(5):288–90. doi: 10.1590/S1516-31802008000500009",
+    "title": "Absence of the musculocutaneous nerve: a rare anatomical variation with possible clinical-surgical implications",
+    "authors": "Fregnani José Humberto Tavares Guerreiro, Macéa Maria Inez Marcondes, Pereira Celina Siqueira Barbosa et al.",
+    "year": "2008",
+    "journal": "São Paulo Medical Journal",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | This is an open access article distributed under the terms of the Creative Commons license.",
+    "figures": [
+      {
+        "file": "1806-9460-spmj-126-05-288-gf1.jpg",
+        "label": "Figure 1",
+        "caption": "Lateral view of the right axilla. The lateral fasciculus of the brachial plexus (2) continues as the lateral root of the median nerve (3) without giving rise to the musculocutaneous nerve. Legend: 1) Pectoralis minor muscle; 2) Lateral fasciculus of the brachial plexus; 3) Lateral root of the median nerve (continuation of the lateral fasciculus); 4) Axillary artery; 5) Median nerve; 6) Medial root of the median nerve; 7) Ulnar nerve; 8) Medial antebrachial cutaneous nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Lateral view of the right axilla: the lateral cord continues as the lateral root of the median nerve without giving off a musculocutaneous nerve (numbered legend).",
+        "local_path": "topografik/images/raw/PMC11026042/1806-9460-spmj-126-05-288-gf1.jpg",
+        "pixels": "652x836"
+      },
+      {
+        "file": "1806-9460-spmj-126-05-288-gf2.jpg",
+        "label": "Figure 2",
+        "caption": "Anterior view of the right arm. Branches emerge from the lateral margin of the median nerve (2 and 3), heading towards the biceps brachii and brachialis muscles. Legend: 1) Coracobrachialis muscle; 2) Branch of the median nerve to the biceps brachii muscle; 3) Branch of the median nerve to the brachialis muscle; 4) Biceps brachii muscle; 5) Brachialis muscle; 6) Median nerve; 7) Brachial artery; 8) Medial antebrachial cutaneous nerve; 9) Ulnar nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Anterior right arm: branches from the lateral margin of the median nerve to biceps brachii and brachialis (numbered legend).",
+        "local_path": "topografik/images/raw/PMC11026042/1806-9460-spmj-126-05-288-gf2.jpg",
+        "pixels": "653x838"
+      }
+    ],
+    "key_findings": "Right arm of a male cadaver with no musculocutaneous nerve; the median nerve gave branches to coracobrachialis, biceps brachii and brachialis, the last continuing as the lateral antebrachial cutaneous nerve. Cited prevalence: \"Beheiry dissected 60 arms and noted absence of the nerve in only one of them (1.7%). Prasada Rao and Chaudhary did not find this nerve in 8% of the 24 arms they dissected.\"",
+    "notes": "Sao Paulo Med J 2008 article deposited to PMC in 2024 (PMC11026042) under CC BY 4.0 per bucket metadata. Numbered arrow labels; clean, sharp photos. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 652x836 px; Figure 2: 653x838 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 9,
+    "topic": "Variation: third (accessory) head of biceps brachii",
+    "pmcid": "PMC5752815",
+    "version": 1,
+    "doi": "10.4103/ijabmr.IJABMR_339_16",
+    "citation": "Int J Appl Basic Med Res. 2017 Oct-Dec;7(4):266–8. doi: 10.4103/ijabmr.IJABMR_339_16",
+    "title": "Bilateral Three-headed Biceps Brachii Muscle and its Clinical Implications",
+    "authors": "Saluja Sandeep, Das Sushant Swaroop, Kumar Dinesh et al.",
+    "year": "2017",
+    "journal": "International Journal of Applied and Basic Medical Research",
+    "license_code": "CC BY-NC-SA",
+    "license_url_or_text": "http://creativecommons.org/licenses/by-nc-sa/3.0 | This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as the author is credited and the new creations are licensed under the identical terms.",
+    "figures": [
+      {
+        "file": "IJABMR-7-266-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Dissection of right arm showing third head of biceps (THB) and musculocutaneous nerve dividing into anterior (AMCN) and posterior (PMCN) branches. AMCN is dividing into three branches (1, 2, 3). (BB: Biceps brachii muscle, CT: Common tendon of biceps brachii, CB: Coracobrachialis muscle, MN: Median nerve, BA: Brachial artery and MCV: Median cubital vein)",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right arm: third head of biceps (THB) and the musculocutaneous nerve dividing into anterior and posterior branches; biceps, coracobrachialis, median nerve and brachial artery labelled.",
+        "local_path": "topografik/images/raw/PMC5752815/IJABMR-7-266-g001.jpg",
+        "pixels": "539x346"
+      },
+      {
+        "file": "IJABMR-7-266-g002.jpg",
+        "label": "Figure 2",
+        "caption": "Dissection of left arm showing third head of biceps (THB) and musculocutaneous nerve (MCN) piercing the coracobrachialis (CB). (BB: Biceps brachii muscle, BAp: Bicipital aponeurosis MN: Median nerve and BA: Brachial artery",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left arm: third head of biceps with the musculocutaneous nerve piercing coracobrachialis; bicipital aponeurosis, median nerve and brachial artery labelled.",
+        "local_path": "topografik/images/raw/PMC5752815/IJABMR-7-266-g002.jpg",
+        "pixels": "539x340"
+      }
+    ],
+    "key_findings": "Bilateral three-headed biceps brachii: \"The third-headed biceps brachii emerged from the deep investing fascia of the brachialis muscle on both the sides. The musculocutaneous nerve (MCN) did not pierce the coracobrachialis muscle on the right side\". The article states that \"the three-headed biceps brachii is described to be the most common variation\" but gives no prevalence number.",
+    "notes": "LICENCE FLAG: CC BY-NC-SA 3.0 (non-commercial, share-alike; derivative slides must carry the same licence). No CC BY alternative with a cadaver photo was found in the OA bucket. Small images (~539 px wide); labels legible but small. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 539x346 px; Figure 2: 539x340 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 10,
+    "topic": "Variation: persistent median artery with bifid median nerve (and reversed palmaris longus)",
+    "pmcid": "PMC10343151",
+    "version": 1,
+    "doi": "10.7759/cureus.40324",
+    "citation": "Cureus. 2023 Jun 12;15(6):e40324. doi: 10.7759/cureus.40324",
+    "title": "Persistent Median Artery, Bifid Median Nerve, and Reversed Palmaris Longus Encountered During Cadaveric Dissection: The First Reported Case",
+    "authors": "Elhossiny Asem H, Bakir Mohamad, Dawalibi Ahmad et al.",
+    "year": "2023",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/3.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0015-00000040324-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Gross image of the left forearm and hand showing the persistent median artery, bifid median nerve, and reversed palmaris longus1. PMA, 2. A branch connecting the PMA to the DPA, 3. Ulnar artery, 4. Superficial palmar arch, 5. Deep palmar arch, 6. Radial artery, 7. The first common palmar metacarpal arteryMN: Median nerve, RBMN: Radial branch of median nerve, MBMN: Medial branch of median nerve, BR: Brachioradialis muscle, FCR: Flexor carpi radialis muscle, FDS: Flexor digitorum superficialis muscle, R-PL: Reversed palmaris longus muscle, CT: Cut tendon belonging to FDS",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left forearm and hand: persistent median artery, bifid median nerve (radial and medial branches) and reversed palmaris longus, with the palmar arches.",
+        "local_path": "topografik/images/raw/PMC10343151/cureus-0015-00000040324-i01.jpg",
+        "pixels": "750x284"
+      },
+      {
+        "file": "cureus-0015-00000040324-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Gross image of the left forearm and hand showing the origin of the persistent median artery1. PMA, 2. A branch connecting the PMA to the DPA, 3. Ulnar artery, 4. Superficial palmar arch, 5. Deep palmar arch, 6. Radial artery, 7. The first common palmar metacarpal arteryMN: Median nerve, RBMN: Radial branch of median nerve, MBMN: Medial branch of median nerve, BR: Brachioradialis muscle, FCR: Flexor carpi radialis muscle, FDS: Flexor digitorum superficialis muscle, R-PL: Reversed palmaris longus muscle, CLARF: Cut lateral attachment of flexor retinaculum",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left forearm and hand showing the origin of the persistent median artery from the radial artery and its course to the superficial palmar arch; flexor retinaculum cut.",
+        "local_path": "topografik/images/raw/PMC10343151/cureus-0015-00000040324-i02.jpg",
+        "pixels": "750x291"
+      }
+    ],
+    "key_findings": "Male cadaver with \"a persistent median artery, reversed palmaris longus muscle, and bifid median nerve\"; the PMA \"branched off the radial artery, anastomosing with the ulnar artery to give rise to the SPA\". Cited data: \"PMA was identified in five of the 125 upper limbs (4% of the total number of limbs)\" and in an Australian sample \"a total of 26 median arteries were discovered, with a prevalence rate of 33.3%\".",
+    "notes": "Wide panoramic images (750 px wide, ~290 px tall): labels small; crop to the wrist region for slides. Also illustrates topic 12 (reversed palmaris longus). Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 750x284 px; Figure 2: 750x291 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 11,
+    "topic": "Variation: Martin-Gruber anastomosis",
+    "pmcid": "PMC11867591",
+    "version": 1,
+    "doi": "10.7759/cureus.78139",
+    "citation": "Cureus. 2025 Jan 28;17(1):e78139. doi: 10.7759/cureus.78139",
+    "title": "A Cadaveric Study of the Martin-Gruber Anastomosis Morphology",
+    "authors": "Tran Paul, Bennett Dallas, Mendoza Mathew et al.",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0017-00000078139-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Cadaveric forearm dissection showcases MGA type I pattern.The arrows within this figure highlight key landmarks involved in identifying MGA pattern type I. MGA is found between both the MN and UN. ME is used as a directional reference indicating the orientation of the forearm (distal toward north of the image). Note that the MN was retracted laterally to better depict the route of MGA.MGA: Martin-Gruber anastomosis; MN: median nerve; ME: medial epicondyle; FDP: flexor digitorum profundus; UN: ulnar nerve",
+        "specimen": "human cadaver",
+        "what_it_shows": "Forearm dissection showing a type I Martin-Gruber anastomosis between median and ulnar nerves over flexor digitorum profundus; medial epicondyle for orientation.",
+        "local_path": "topografik/images/raw/PMC11867591/cureus-0017-00000078139-i01.jpg",
+        "pixels": "750x500"
+      },
+      {
+        "file": "cureus-0017-00000078139-i04.jpg",
+        "label": "Figure 4",
+        "caption": "Diagram depicting MGA pattern types.The arrows within this figure highlight key landmarks that indicate characteristics to distinguish between different MGA patterns. The anastomosis connection (shown in red) is found between the MN and UN. FDP muscle is an important reference muscle that denotes key differences between pattern types.The image is created by the author (Paul Tran) of this study using BioRender.com.MGA: Martin-Gruber anastomosis; MN: median nerve; ME: medial epicondyle; FDP: flexor digitorum profundus; UN: ulnar nerve",
+        "specimen": "diagram",
+        "what_it_shows": "BioRender diagram of the three MGA pattern types relative to FDP.",
+        "local_path": "topografik/images/raw/PMC11867591/cureus-0017-00000078139-i04.jpg",
+        "pixels": "750x396"
+      }
+    ],
+    "key_findings": "101 cadaveric forearms: \"The Martin-Gruber anastomosis prevalence found within the study was 37.6% (n = 38/101), with type I being the most common at 58% (n = 22/38), followed by type III at 32% (n = 12/38), and type II at 11% (n = 4/38).\" \"most patterns were intramuscularly embedded in the flexor digitorum profundus (FDP) muscle.\"",
+    "notes": "Photo is labelled in colour (UN, MN, FDP, ME, 'Anastomosis'). Diagram created by an author in BioRender and published under the article's CC BY licence. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 750x500 px; Figure 4: 750x396 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 12,
+    "topic": "Variation: reversed palmaris longus (bilateral)",
+    "pmcid": "PMC7033050",
+    "version": 1,
+    "doi": "10.1007/s00276-019-02363-z",
+    "citation": "Surg Radiol Anat. 2019 Nov 12;42(3):289–95. doi: 10.1007/s00276-019-02363-z",
+    "title": "Bilateral reversed palmaris longus muscle: a case report and systematic literature review",
+    "authors": "Longhurst Georga, Stone Danya, Mahony Nick",
+    "year": "2019",
+    "journal": "Surgical and Radiologic Anatomy",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/4.0/ | Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+    "figures": [
+      {
+        "file": "276_2019_2363_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Dissection of right (a) and (b) left anterior compartment of the forearm demonstrating bilaterally reversed palmaris longus. PL palmaris longus, PTPL proximal tendon palmaris longus, DTPL distal tendon palmaris longus, AdPL additional slip of palmaris longus, FDS flexor digitorum superficialis, FCR flerox carpi radialis, BR brachioradialis, PT pronator teres, RA radial artery",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right (a) and left (b) anterior forearm compartments with reversed palmaris longus: proximal tendon and distal muscle belly; FDS, FCR, BR, PT and radial artery labelled.",
+        "local_path": "topografik/images/raw/PMC7033050/276_2019_2363_Fig1_HTML.jpg",
+        "pixels": "709x549"
+      }
+    ],
+    "key_findings": "90-year-old male cadaver with bilateral reversed palmaris longus plus systematic review: \"The average length of the muscle belly and tendon of reversed palmaris longus was 135 mm and 126 mm, respectively\"; \"bilateral reversed palmaris longus has only been reported in males\"; \"A high proportion (70.8%) of reversed palmaris longus were discovered in the right upper limb\". Text notes PL \"complete agenesis, which is prevalent in 20.25% of the global population\".",
+    "notes": "Clean whole-forearm photos; abbreviation labels are small. Resolution (as served by PMC OA bucket; no larger version available there): Fig. 1: 709x549 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 13,
+    "topic": "Variation: accessory head of flexor pollicis longus (Gantzer's muscle)",
+    "pmcid": "PMC4636409",
+    "version": 1,
+    "doi": "10.7717/peerj.1255",
+    "citation": "PeerJ. 2015 Oct 1;3:e1255. doi: 10.7717/peerj.1255",
+    "title": "The prevalence and anatomical characteristics of the accessory head of the flexor pollicis longus muscle: a meta-analysis",
+    "authors": "Roy Joyeeta, Henry Brandon M., Pękala Przemysław A. et al.",
+    "year": "2015",
+    "journal": "PeerJ",
+    "license_code": "CC BY",
+    "license_url_or_text": "http://creativecommons.org/licenses/by/4.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.",
+    "figures": [
+      {
+        "file": "peerj-03-1255-g001.jpg",
+        "label": "Figure 1",
+        "caption": "The accessory head of the flexor pollicis longus muscle (AHFPL) originating from the flexoe digitoum profundus.AHFPL, accessory head of flexor pollicis longus; FPL, flexor pollicis longus; FCR, flexor carpi radialis.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Anterior forearm with the accessory head of flexor pollicis longus (AHFPL) arising from flexor digitorum profundus and joining FPL; FCR labelled.",
+        "local_path": "topografik/images/raw/PMC4636409/peerj-03-1255-g001.jpg",
+        "pixels": "751x500"
+      }
+    ],
+    "key_findings": "Meta-analysis of 24 cadaveric studies (n = 2,358 upper limbs): \"The pooled prevalence of an AHFPL was 44.2%\"; it \"inserted into the flexor pollicis longus muscle (94.6%...)\" and \"was innervated by the AIN (97.3%...)\".",
+    "notes": "Single high-contrast photo on black background with large white labels; very suitable for slides. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 751x500 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 13,
+    "topic": "Variation: ligament of Struthers / supracondylar process",
+    "pmcid": "PMC5608727",
+    "version": 1,
+    "doi": "10.1590/1413-785220172504168330",
+    "citation": "Acta Ortop Bras. 2017 Jul-Aug;25(4):137–42. doi: 10.1590/1413-785220172504168330",
+    "title": "STRUTHERS’ LIGAMENT AND SUPRACONDYLAR HUMERAL PROCESS: AN ANATOMICAL STUDY AND CLINICAL IMPLICATIONS",
+    "authors": "Caetano Edie Benedito, Sabongi João José, Vieira Luiz Angelo et al.",
+    "year": "2017",
+    "journal": "Acta Ortopedica Brasileira",
+    "license_code": "CC BY-NC",
+    "license_url_or_text": "http://creativecommons.org/licenses/by-nc/4.0/ | This is an open-access article distributed under the terms of the Creative Commons Attribution License",
+    "figures": [
+      {
+        "file": "1413-7852-aob-25-04-00137-gf1.jpg",
+        "label": "Figure 1",
+        "caption": "A) In the right arm of one corpse, we identified high insertion of the pronator teres muscle (a) from which a cord-shaped ligament originated (b) and was positioned on the median nerve (c) and the brachial artery (d) inserting into the diaphysis of the humerus. B) On the left side, the ligament originated in the same place and was inserted proximally but had no relation to the median nerve or brachial artery. The pronator teres muscle (a); Struthers’ ligament (b); median nerve (c); brachial artery (d).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right and left arms with high insertion of pronator teres and a cord-shaped Struthers' ligament related to the median nerve and brachial artery.",
+        "local_path": "topografik/images/raw/PMC5608727/1413-7852-aob-25-04-00137-gf1.jpg",
+        "pixels": "393x476"
+      },
+      {
+        "file": "1413-7852-aob-25-04-00137-gf4.jpg",
+        "label": "Figure 4",
+        "caption": "We identified two similar cases (A) in the right arm of a recently-deceased cadaver and (B) in the left arm of another cadaver preserved in formaldehyde and glycerin; the Struthers’ ligament was composed of a fibrous lamina (b) originating in the medial epicondyle and adjacent brachial fascia, moving upwards and passing over the median nerve (c) and brachial artery (d) to insert itself into the fascia of the brachial muscle and the humeral shaft. Pronator teres (a).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Two cases of a laminar Struthers' ligament from the medial epicondyle passing over the median nerve and brachial artery (fresh and fixed cadaver).",
+        "local_path": "topografik/images/raw/PMC5608727/1413-7852-aob-25-04-00137-gf4.jpg",
+        "pixels": "389x501"
+      }
+    ],
+    "key_findings": "60 arms from 30 cadavers: \"The supracondylar humeral process was not found in any of the 60 dissected arms. Struthers' ligament was identified in six arms (two bilateral); in all cases high insertion of the pronator teres muscle was observed.\"",
+    "notes": "LICENCE FLAG: CC BY-NC 4.0 (non-commercial). Small images (~390 x 480 px), letter labels (a-d). Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 393x476 px; Figure 4: 389x501 px. md5 of each image verified against bucket JSON media_urls."
+  },
+  {
+    "topic_no": 14,
+    "topic": "Variation: axillary artery course and branching",
+    "pmcid": "PMC10363335",
+    "version": 1,
+    "doi": "10.7759/cureus.40852",
+    "citation": "Cureus. 2023 Jun 23;15(6):e40852. doi: 10.7759/cureus.40852",
+    "title": "Variations in the Branching Pattern and Course of the Left Axillary Artery: A Cadaveric Case Report",
+    "authors": "Oza Palak P, Yung Halley C, Vaz Grace Kiran",
+    "year": "2023",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "license_url_or_text": "https://creativecommons.org/licenses/by/3.0/ | This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+    "figures": [
+      {
+        "file": "cureus-0015-00000040852-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Branching variations and anteromedial course of the left AA in relation to the brachial plexus.Asterisks (*) indicate branches that were severed during the dissection. Nerve structures are painted yellow, arterial structures painted red, muscles labeled in blue font, and dashed blue lines indicate the boundaries of the parts of the AA. Directional indication is provided in the lower left corner. (a) A close-up of MB2, an accessory branch to the subscapularis muscle. (b) A close-up of the CSA.AA: axillary artery; ACHA: anterior circumflex humeral artery; ATA: alar thoracic artery; BA: brachial artery; CSA: circumflex scapular artery; CT1; common trunk 1; CT 2: common trunk 2; LPN: lateral pectoral nerve; LTA: lateral thoracic artery; MB1: muscular branch 1, seen coursing to the clavicular region; MB2: muscular branch 2, seen piercing the subscapularis muscle; MB3: muscular branch 3, an accessory lateral thoracic branch; MB4: muscular branch 4, an accessory pectoral branch; MCN: musculocutaneous nerve; MCNA: medial cutaneous nerve of the arm; MN: median nerve; PBA: profunda brachii artery; PCHA: posterior circumflex humeral artery; RN: radial nerve; SSA: subscapular artery; STA: superior thoracic artery; TAA: thoracoacromial artery; TDA: thoracodorsal artery; UN: ulnar nerve.",
+        "specimen": "human cadaver (painted vessels/nerves)",
+        "what_it_shows": "Left axilla: axillary artery with anteromedial course relative to the brachial plexus and variant branches (common trunks CT1/CT2, accessory branches) with insets.",
+        "local_path": "topografik/images/raw/PMC10363335/cureus-0015-00000040852-i01.jpg",
+        "pixels": "750x591"
+      },
+      {
+        "file": "cureus-0015-00000040852-i02.jpg",
+        "label": "Figure 2",
+        "caption": "A schematic representation of the observed AA variations.Asterisks (*) indicate branches that were severed during the dissection. Nerve structures are in yellow, arterial structures in red, and dashed blue lines indicate the boundaries of the parts of the AA.AA: axillary artery; AB: acromial branch of thoracoacromial artery; ACHA: anterior circumflex humeral artery; ATA: alar thoracic artery; BA: brachial artery; CSA: circumflex scapular artery; CT1: common trunk 1; CT2: common trunk 2; DB: deltoid branch of the thoracoacromial artery; LPN: lateral pectoral nerve; LTA: lateral thoracic artery; MB1: muscular branch 1, seen coursing to the clavicular region; MB2: muscular branch 2, seen piercing the subscapularis muscle; MB3: muscular branch 3, an accessory thoracic branch; MB4: muscular branch 4, an accessory pectoral branch; MCN: musculocutaneous nerve; MCNA: medial cutaneous nerve of the arm; MN: median nerve; PB: pectoral branch of the thoracoacromial artery; PBA: profunda brachii artery; PCHA: posterior circumflex humeral artery; RN: radial nerve; SSA: subscapular artery; STA: superior thoracic artery; TAA: thoracoacromial artery; TDA: thoracodorsal artery; UN: ulnar nerve.",
+        "specimen": "diagram",
+        "what_it_shows": "Schematic of the same axillary artery branching variations and brachial plexus relations.",
+        "local_path": "topografik/images/raw/PMC10363335/cureus-0015-00000040852-i02.jpg",
+        "pixels": "750x609"
+      }
+    ],
+    "key_findings": "88-year-old male donor with unilateral left axillary artery variation: \"an abnormal anteromedial course with respect to the divisions and cords of the brachial plexus\"; \"A total of four branches arose from the second part of the artery\" and \"No branches arose from the third part of the artery.\" Cited: \"an aberrant positional relationship between the AA and the brachial plexus in 2.0% of cases\".",
+    "notes": "Excellent, fully labelled photo + matching schematic; nerves painted yellow and arteries red on the specimen. Resolution (as served by PMC OA bucket; no larger version available there): Figure 1: 750x591 px; Figure 2: 750x609 px. md5 of each image verified against bucket JSON media_urls."
+  }
+]
