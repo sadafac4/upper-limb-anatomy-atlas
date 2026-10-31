@@ -9,6 +9,7 @@ sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from slayt_tipleri import *
 import icerik_topografik as IT
 import icerik_topo_ek as EK
+import icerik_anlatim as AN
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 EKLER = {"omuz": (EK.OMUZ_DIS, EK.OMUZ_LIT, EK.OMUZ_CAL), "kol": (EK.KOL_DIS, EK.KOL_LIT, EK.KOL_CAL),
@@ -19,7 +20,8 @@ KAPAK_GORSEL = {"omuz": [("vhp_crop", 1320, "VHP-M kesit 1320"), ("pmc", "PMC599
                 "el": [("vhp_crop", 1830, "VHP-M kesit 1830"), ("pmc", "PMC12823052", "i02")]}
 
 def tip_ciz(prs, d, sayfa, bolum):
-    t = d["tip"]
+    t = d.get("tip", "duzyazi")
+    if t == "duzyazi": return duzyazi(prs, d, sayfa, bolum)
     if t in ("anlatim", "klinik"): return anlatim(prs, d, sayfa, bolum)
     if t == "tablo": return tablo(prs, d, sayfa, bolum)
     if t == "sema_plexus": return sema_plexus(prs, d, sayfa, bolum)
@@ -45,28 +47,26 @@ def build():
           [("pmc", "PMC8958867", "i04"), ("pmc", "PMC12206543", "i01"), ("pmc", "PMC12500735", "Fig4"), ("pmc", "PMC12823052", "i02")])
     sayfa += 1
     icindekiler(prs, IT.BOLUMLER, "Giriş: bölgeler, plexus brachialis şeması, arteriyel ağaç, venöz ve lenfatik drenaj", sayfa); sayfa += 1
-    for d in IT.GIRIS:
-        tip_ciz(prs, d, sayfa, "GİRİŞ"); sayfa += 1
+    for d in AN.TOPO["giris"] + IT.GIRIS:
+        sayfa += tip_ciz(prs, d, sayfa, "GİRİŞ")
     kullanilan += pmc_topla(IT.GIRIS)
     for no, b in enumerate(IT.BOLUMLER, 1):
         dis, lit, cal = EKLER[b["kod"]]
-        bolum_kapak(prs, no, b, KAPAK_GORSEL[b["kod"]], sayfa); sayfa += 1
+        sayfa += bolum_kapak(prs, no, b, KAPAK_GORSEL[b["kod"]], sayfa)
         etk = f"BÖLÜM {no} · {b['ad']}"
         anl = [d for d in b["slaytlar"] if d["tip"] != "klinik"]
         kli = [d for d in b["slaytlar"] if d["tip"] == "klinik"]
-        for d in anl:
-            tip_ciz(prs, d, sayfa, etk); sayfa += 1
+        for d in AN.TOPO[b["kod"]] + anl:
+            sayfa += tip_ciz(prs, d, sayfa, etk)
         for d in dis:
-            gorsel(prs, dict(d, etiket=d.get("etiket", "DİSEKSİYON")), sayfa, etk); sayfa += 1
-        for d in kli:
-            tip_ciz(prs, d, sayfa, etk); sayfa += 1
+            sayfa += gorsel(prs, dict(d, etiket=d.get("etiket", "DİSEKSİYON")), sayfa, etk)
+        for d in kli + AN.TOPO[b["kod"] + "_var"]:
+            sayfa += tip_ciz(prs, d, sayfa, etk)
         # literatür taraması tablosu (en çok 5 satır/slayt)
-        for i in range(0, len(lit), 5):
-            parca = f" ({i // 5 + 1}/{(len(lit) + 4) // 5})" if len(lit) > 5 else ""
-            lit_tablo(prs, f"{b['ad'].capitalize() if b['kod'] != 'onkol' else 'Önkol'} bölgesi varyasyonları – literatür taraması{parca}",
-                      "Kadavra çalışmaları, seriler ve olgu sunumları (PMC açık erişim)", lit[i:i + 5], sayfa, etk); sayfa += 1
+        sayfa += lit_tablo(prs, f"{b['ad'].capitalize() if b['kod'] != 'onkol' else 'Önkol'} bölgesi varyasyonları – literatür taraması",
+                           "Kadavra çalışmaları, seriler ve olgu sunumları (PMC açık erişim)", lit, sayfa, etk)
         for d in cal:
-            gorsel(prs, d, sayfa, etk); sayfa += 1
+            sayfa += gorsel(prs, d, sayfa, etk)
         kullanilan += pmc_topla(b["slaytlar"]) + pmc_topla(dis) + pmc_topla(cal)
     sayfa = kaynakca(prs, kullanilan, "Kaynakça ve görsel lisansları", sayfa)
     out = ROOT / "topografik" / "Topografik_Anatomi.pptx"; prs.save(out)

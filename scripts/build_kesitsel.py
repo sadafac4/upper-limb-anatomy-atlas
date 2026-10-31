@@ -12,6 +12,7 @@ from scipy import ndimage as ndi
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from slayt_tipleri import *
 import icerik_kesitsel as IK
+import icerik_anlatim as AN
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 IMG = ROOT / "kesitsel" / "images" / "vhp"
@@ -60,24 +61,24 @@ def duzey(prs, n, sayfa, bolum, qa):
     for t, p, side, snap in L["etiketler"]:
         q, sh = snap_bone(cryo, p) if snap == "bone" else (p, None)
         pts.append((t, q, side)); rec.append(dict(label=t, given=p, used=q, snap_shift_px=sh))
-    g = picture_fit(s, IMG / f"cryo_{n}_R.jpg", 2.05, 1.3, 4.4, 4.5)
-    text(s, g["x"], g["y"] + g["h"] + 0.02, g["w"], 0.25, "Kriyokesit (renkli fotoğraf, 0,33 mm/piksel)", size=9.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
-    labels(s, g, [(t, q) for t, q, sd in pts if sd == "L"], 0.15, 1.82, "L", 1.3, 5.8, size=10.5)
-    labels(s, g, [(t, q) for t, q, sd in pts if sd == "R"], 6.55, 2.05, "R", 1.3, 5.8, size=10.5)
-    gc = picture_fit(s, IMG / f"ct_{n}_R.png", 8.7, 1.3, 2.75, 4.5)
-    text(s, gc["x"] - 0.1, gc["y"] + gc["h"] + 0.02, gc["w"] + 0.2, 0.25, "Donmuş BT, aynı kesit no. (P 60/500)", size=9.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
+    g = picture_fit(s, IMG / f"cryo_{n}_R.jpg", 2.4, 1.35, 4.1, 4.45)
+    text(s, g["x"] - 0.2, g["y"] + g["h"] + 0.02, g["w"] + 0.4, 0.3, "Kriyokesit (renkli fotoğraf)", size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
+    labels(s, g, [(t, q) for t, q, sd in pts if sd == "L"], 0.1, 2.2, "L", 1.35, 5.85, size=13, box_h=0.5)
+    labels(s, g, [(t, q) for t, q, sd in pts if sd == "R"], 6.6, 2.3, "R", 1.35, 5.85, size=13, box_h=0.5)
+    gc = picture_fit(s, IMG / f"ct_{n}_R.png", 9.0, 1.35, 2.45, 4.45)
+    text(s, gc["x"] - 0.2, gc["y"] + gc["h"] + 0.02, gc["w"] + 0.4, 0.3, "Donmuş BT, aynı kesit no.", size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
     istek = []
     for name in L["ct"]:
         q = next(q for t, q, sd in pts if t.split(" (")[0] == name.split(" (")[0] or t.startswith(name.split(" (")[0]))
         istek.append((name, q))
     ctp = ct_bone_points(IMG / f"ctbone_{n}_R.png", istek)
-    labels(s, gc, [(t, q) for t, q in ctp if q is not None], 11.55, 1.6, "R", 2.55, 5.8, size=10.5)
+    labels(s, gc, [(t, q) for t, q in ctp if q is not None], 11.55, 1.6, "R", 2.6, 5.85, size=12.5, box_h=0.5)
     rec.append(dict(ct_labels=[dict(label=t, point=q) for t, q in ctp]))
     if L.get("ct_not"):
-        text(s, gc["x"] - 0.15, gc["y"] + gc["h"] + 0.3, gc["w"] + 0.3, 0.6, L["ct_not"], size=9, color=ACCENT, italic=True)
-    picture_fit(s, IMG / f"loc_{n}.jpg", 11.5, 1.3, 1.7, 1.0)
-    text(s, 11.5, 2.3, 1.7, 0.35, "Konum: tüm kesit (kırmızı = büyütülen alan)", size=8, color=GREY, italic=True)
-    bullets(s, 0.3, 6.12, 12.8, 0.85, L["notlar"], size=11)
+        text(s, gc["x"] - 0.3, gc["y"] + gc["h"] + 0.32, gc["w"] + 0.6, 0.7, L["ct_not"], size=11, color=ACCENT, italic=True)
+    picture_fit(s, IMG / f"loc_{n}.jpg", 11.5, 1.35, 1.7, 1.0)
+    text(s, 11.45, 2.35, 1.8, 0.3, "Konum (kırmızı kutu)", size=10, color=GREY, italic=True)
+    bullets(s, 0.3, 6.15, 12.8, 0.85, L["notlar"], size=sigdir(L["notlar"], 12.8, 0.85, 15, 12) or 12)
     footer(s, SRC_VHP.format(n=n), sayfa); fix_runs(s)
     notes(s, f"Kriyokesit: {meta['cryo_file']}\nBT: {meta['ct_file']} (kesit no. {meta['ct_slice']})\nKırpma kutusu: {meta['box_cryo_px']}\nKayıt: {meta['reg']}")
     qa[str(n)] = dict(meta=meta, labels=rec)
@@ -98,22 +99,24 @@ def build():
           [("vhp_crop", 1320), ("vhp", "cpr_coronal_levels.jpg", ""), ("vhp_crop", 1740), ("vhp_crop", 1830)])
     sayfa += 1
     icindekiler(prs, IK.BOLUMLER, "Giriş: düzlemler ve yönelim, dokuların görüntüleme özellikleri, veri kaynağı, boylamsal reformat", sayfa); sayfa += 1
-    for d in IK.GIRIS:
-        {"anlatim": anlatim, "tablo": tablo, "gorsel": gorsel}[d["tip"] if "tip" in d else "gorsel"](prs, d, sayfa, "GİRİŞ"); sayfa += 1
+    for d in AN.KESIT["giris"] + IK.GIRIS:
+        sayfa += {"anlatim": anlatim, "tablo": tablo, "gorsel": gorsel, "duzyazi": duzyazi}[d.get("tip", "duzyazi")](prs, d, sayfa, "GİRİŞ")
     for no, b in enumerate(IK.BOLUMLER, 1):
         v = b["veri"]; etk = f"BÖLÜM {no} · {b['ad']}"
         refs = [("vhp_crop", v["duzeyler"][len(v["duzeyler"]) // 2])] + [v["lit"][0]["figs"][0]]
-        bolum_kapak(prs, no, b, refs, sayfa); sayfa += 1
+        sayfa += bolum_kapak(prs, no, b, refs, sayfa)
+        for d in AN.KESIT[b["kod"]]:
+            sayfa += duzyazi(prs, d, sayfa, etk)
         for d in v["anlatim"]:
-            anlatim(prs, d, sayfa, etk); sayfa += 1; kullanilan += [r[1] for r in d.get("figs", []) if r[0] == "pmc"]
+            sayfa += anlatim(prs, d, sayfa, etk); kullanilan += [r[1] for r in d.get("figs", []) if r[0] == "pmc"]
         for n in v["duzeyler"]:
             duzey(prs, n, sayfa, etk, qa); sayfa += 1
         for d in v["lit"]:
-            gorsel(prs, d, sayfa, etk); sayfa += 1; kullanilan += [r[1] for r in d["figs"] if r[0] == "pmc"]
-        lit_tablo(prs, f"{b['ad'].capitalize() if b['kod'] != 'onkol' else 'Önkol'} – görüntüleme tabanlı varyasyonlar: literatür taraması",
-                  "MR, BT, ultrason ve grafi çalışmaları (PMC açık erişim)", v["var_tablo"], sayfa, etk); sayfa += 1
+            sayfa += gorsel(prs, d, sayfa, etk); kullanilan += [r[1] for r in d["figs"] if r[0] == "pmc"]
+        sayfa += lit_tablo(prs, f"{b['ad'].capitalize() if b['kod'] != 'onkol' else 'Önkol'} – görüntüleme tabanlı varyasyonlar: literatür taraması",
+                           "MR, BT, ultrason ve grafi çalışmaları (PMC açık erişim)", v["var_tablo"], sayfa, etk)
         for d in v["var_cal"]:
-            gorsel(prs, d, sayfa, etk); sayfa += 1; kullanilan += [r[1] for r in d["figs"] if r[0] == "pmc"]
+            sayfa += gorsel(prs, d, sayfa, etk); kullanilan += [r[1] for r in d["figs"] if r[0] == "pmc"]
     s = yeni_slayt(prs); title_bar(s, "Sınırlılıklar ve kalite kontrol")
     bullets(s, 0.4, 1.2, 12.5, 5.6, [
         "**Düzey eşleştirme** NLM kesit numarasına dayanır (Ackerman 1995; Spitzer ve ark. 1996); yalnız düzlem içi hizalama hesaplanmıştır.",
@@ -122,7 +125,7 @@ def build():
         "**Etiketler:** kaynak piksel koordinatında tanımlanmış, kemik etiketleri kemik maskesine yapıştırılmış, slaytlar PNG'ye dönüştürülüp görsel olarak denetlenmiştir (kesitsel/qa/). Tek tek karpal kemikler, ayrı sinirler ve yüzeyel venler bilinçli olarak etiketlenmemiştir.",
         "**Önkol ve el kesitleri** kadavranın pozisyonu (pronasyon, el uyluğa yaslı) nedeniyle eğiktir.",
         "**Boylamsal reformat** doğrulanmış kemik merkezleri arasında enterpolasyonla çizilmiş bir yol boyunca örneklenmiştir; blok sınırlarında süreksizlik vardır.",
-        "Tüm etiketler ve özetler eğitim amaçlıdır; bir anatomi öğretim üyesince gözden geçirilmesi önerilir."], size=13.5)
+        "Tüm etiketler ve özetler eğitim amaçlıdır; bir anatomi öğretim üyesince gözden geçirilmesi önerilir."], size=15)
     footer(s, "Spitzer V, et al. J Am Med Inform Assoc 1996;3(2):118–130 • Ackerman MJ. D-Lib Magazine 1995 • Fedorov A, et al. RadioGraphics 2023;43(12):e230180.", sayfa); fix_runs(s); sayfa += 1
     sayfa = kaynakca(prs, kullanilan, "Kaynakça ve görsel lisansları", sayfa)
     out = ROOT / "kesitsel" / "Kesitsel_Anatomi.pptx"; prs.save(out)

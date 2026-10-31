@@ -86,7 +86,7 @@ def title_bar(slide, title, subtitle=None):
 def footer(slide, s, page=None):
     line = slide.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Inches(0.3), Inches(7.0), Inches(13.03), Inches(7.0))
     line.line.color.rgb = RGBColor(0xBB, 0xBB, 0xBB); line.line.width = Pt(0.75)
-    text(slide, 0.3, 7.02, 12.0, 0.45, s, size=8.5, color=GREY)
+    text(slide, 0.3, 7.02, 12.0, 0.45, s, size=9, color=GREY)
     if page is not None:
         text(slide, 12.4, 7.05, 0.65, 0.3, str(page), size=10, color=GREY, align=PP_ALIGN.RIGHT)
 
