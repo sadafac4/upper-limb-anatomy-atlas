@@ -1,0 +1,807 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Anat</journal-id><journal-id journal-id-type="iso-abbrev">Clin Anat</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">8809128</journal-id><journal-id journal-id-type="publisher-id">CA</journal-id><journal-title-group><journal-title>Clinical Anatomy (New York, N.y.)</journal-title></journal-title-group><issn pub-type="ppub">0897-3806</issn><issn pub-type="epub">1098-2353</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6850211</article-id><article-id pub-id-type="pmcid-ver">PMC6850211.1</article-id><article-id pub-id-type="pmcaid">6850211</article-id><article-id pub-id-type="pmcaiid">6850211</article-id><article-id pub-id-type="pmid">30521139</article-id><article-id pub-id-type="doi">10.1002/ca.23322</article-id><article-id pub-id-type="publisher-id">CA23322</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Communications</subject></subj-group></article-categories><title-group><article-title>Medial elbow anatomy: A paradigm shift for UCL injury prevention and management</article-title><alt-title alt-title-type="right-running-head">Anatomy of the Medial Side of the Elbow Joint</alt-title><alt-title alt-title-type="left-running-head">Hoshika et al.</alt-title></title-group><contrib-group><contrib id="ca23322-cr-0001" contrib-type="author"><name name-style="western"><surname>Hoshika</surname><given-names initials="S">Shota</given-names></name><xref ref-type="aff" rid="ca23322-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ca23322-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ca23322-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Nimura</surname><given-names initials="A">Akimoto</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3054-0273</contrib-id><xref ref-type="aff" rid="ca23322-aff-0003">
+<sup>3</sup>
+</xref><address><email>nimura.orj@tmd.ac.jp</email></address></contrib><contrib id="ca23322-cr-0003" contrib-type="author"><name name-style="western"><surname>Yamaguchi</surname><given-names initials="R">Reiko</given-names></name><xref ref-type="aff" rid="ca23322-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ca23322-cr-0004" contrib-type="author"><name name-style="western"><surname>Nasu</surname><given-names initials="H">Hisayo</given-names></name><xref ref-type="aff" rid="ca23322-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ca23322-cr-0005" contrib-type="author"><name name-style="western"><surname>Yamaguchi</surname><given-names initials="K">Kumiko</given-names></name><xref ref-type="aff" rid="ca23322-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ca23322-cr-0006" contrib-type="author"><name name-style="western"><surname>Sugaya</surname><given-names initials="H">Hiroyuki</given-names></name><xref ref-type="aff" rid="ca23322-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ca23322-cr-0007" contrib-type="author"><name name-style="western"><surname>Akita</surname><given-names initials="K">Keiichi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2927-2937</contrib-id><xref ref-type="aff" rid="ca23322-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ca23322-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Anatomy, Graduate School of Medical and Dental Science</named-content>
+<institution>Tokyo Medical and Dental University</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="ca23322-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Shoulder &amp; Elbow Service</named-content>
+<institution>Funabashi Orthopaedic Sports Medicine &amp; Joint Center</institution>
+<city>Funabashi</city>
+<named-content content-type="country-part">Chiba</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="ca23322-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Functional Joint Anatomy, Graduate School of Medical and Dental Sciences</named-content>
+<institution>Tokyo Medical and Dental University</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to: Akimoto Nimura, MD, PhD, Department of Functional Joint Anatomy, Graduate School of Medical and Dental Sciences, Tokyo Medical and Dental University, 1‐5‐45 Yushima, Bunkyo‐ku, Tokyo 113‐8519 Japan.<break/>
+E‐mail: <email>nimura.orj@tmd.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2019</year></pub-date><volume>32</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">345513</issue-id><issue-id pub-id-type="doi">10.1002/ca.v32.3</issue-id><fpage>379</fpage><lpage>389</lpage><history><date date-type="received"><day>07</day><month>10</month><year>2018</year></date><date date-type="rev-recd"><day>29</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>02</day><month>12</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>12</day><month>11</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>18</day><month>11</month><year>2019</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2019-11-19 00:20:12.793"><day>19</day><month>11</month><year>2019</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2018 The Authors. <italic toggle="yes">Clinical Anatomy</italic> published by Wiley Periodicals, Inc. on behalf of American Association of Clinical Anatomists.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CA-32-379.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CA-32-379.pdf"/><abstract><p>To improve the management outcomes and diagnostic accuracy of the ulnar collateral ligament (UCL) injury, the anatomy of the medial side of the elbow joint is necessary to be understood in terms of the periarticular surroundings rather than the specific ligaments. The aim of this study was to anatomically clarify the medial side of the elbow joint in terms of the tendinous structures and joint capsule. We conducted a descriptive anatomical study of 23 embalmed cadaveric elbows. We macroscopically analyzed the relationship between the flexor pronator muscles (FPMs) and the joint capsule in 10 elbows, histologically analyzed in 6 elbows, and observed the bone morphology through micro computed tomography in 7 elbows. The two tendinous septa (TS) were found: between the pronator teres (PT) and flexor digitorum superficial (FDS) muscles, and between the FDS and flexor carpi ulnaris (FCU) muscles. These two TS are connected to the medial part of the brachialis tendon, deep aponeurosis of the FDS, and FCU to form the tendinous complex, which linked the humeroulnar joint and could not be histologically separated from each other. Moreover, the capsule of the humeroulnar joint under the tendinous complex had attachment on the ST of 7 mm width. The two TS, the brachialis tendon, the deep FDS and FCU aponeuroses, and the joint capsule linked the humeroulnar joint. These anatomical findings could lead to a paradigm shift in the prevention, diagnosis, and treatment of UCL injuries in baseball players. Clin. Anat. 32:379–389, 2019. © 2018 The Authors. <italic toggle="yes">Clinical Anatomy</italic> published by Wiley Periodicals, Inc. on behalf of American Association of Clinical Anatomists.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ca23322-kwd-0001">elbow</kwd><kwd id="ca23322-kwd-0002">collateral ligament</kwd><kwd id="ca23322-kwd-0003">ulnar</kwd><kwd id="ca23322-kwd-0004">anatomy and histology</kwd><kwd id="ca23322-kwd-0005">baseball</kwd><kwd id="ca23322-kwd-0006">rehabilitation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>JA Kyosai Research Institute (Agricultural Cooperative Insurance Research Institute)</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="11"/><word-count count="7612"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.1 mode:remove_FC converted:12.11.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="ca23322-ntgp-0001"><fn id="ca23322-note-0001"><p>The authors declare that they have no conflicts of interest.</p></fn></fn-group></notes></front><body id="ca23322-body-0001"><sec id="ca23322-sec-0001"><title>INTRODUCTION</title><p>Ulnar collateral ligament (UCL) injuries of the elbow joint have become common among overhead throwing athletes, particularly baseball pitchers (Fleisig and Andrews, <xref rid="ca23322-bib-0012" ref-type="ref">2012</xref>). Recent studies reported the failure of nonoperative management of UCL injury in overhead athletes (Rettig et al., <xref rid="ca23322-bib-0035" ref-type="ref">2001</xref>; Ford et al., <xref rid="ca23322-bib-0014" ref-type="ref">2016</xref>; Frangiamore et al., <xref rid="ca23322-bib-0015" ref-type="ref">2017</xref>). On the contrary, UCL reconstructions in baseball players have been proven to be an effective procedure for return to play and performance (Erickson et al., <xref rid="ca23322-bib-0011" ref-type="ref">2014</xref>; Osbahr et al., <xref rid="ca23322-bib-0029" ref-type="ref">2014</xref>; Hodgins et al., <xref rid="ca23322-bib-0020" ref-type="ref">2016</xref>). However, the rapidly increasing number of reconstructions is reported in the amateur and adolescent athletes (Jones et al., <xref rid="ca23322-bib-0021" ref-type="ref">2014</xref>; Hodgins et al., <xref rid="ca23322-bib-0020" ref-type="ref">2016</xref>). The avoidance of unnecessary surgeries associated with long recovery period should be beneficial in specific clinical scenarios (Rebolledo et al., <xref rid="ca23322-bib-0034" ref-type="ref">2017</xref>). Therefore, improvement of nonoperative management outcomes and diagnostic accuracy for UCL injury are necessary to avoid surgery.</p><p>For the nonoperative management for the UCL injuries, such as the rehabilitation, the anatomic and biomechanical understanding of the medial elbow joint is necessary. The anterior bundle of the UCL has been thought as the primary static stabilizer against valgus stress during throwing motion (Morrey and An, <xref rid="ca23322-bib-0025" ref-type="ref">1985</xref>). In addition, the flexor‐pronator muscles (FPMs), including the flexor carpi radialis (FCR), pronator teres (PT), flexor digitorum superficial (FDS), and flexor carpi ulnaris (FCU) muscles, have also been assumed to contribute to dynamic stabilization (An et al., <xref rid="ca23322-bib-0001" ref-type="ref">1981</xref>; Sisto et al., <xref rid="ca23322-bib-0039" ref-type="ref">1987</xref>; Morrey et al., <xref rid="ca23322-bib-0026" ref-type="ref">1991</xref>; Digiovine et al., <xref rid="ca23322-bib-0008" ref-type="ref">1992</xref>; Glousman et al., <xref rid="ca23322-bib-0016" ref-type="ref">1992</xref>; Davidson et al., <xref rid="ca23322-bib-0007" ref-type="ref">1995</xref>; Hamilton et al., <xref rid="ca23322-bib-0019" ref-type="ref">1996</xref>; Lin et al., <xref rid="ca23322-bib-0022" ref-type="ref">2007</xref>; Udall et al., <xref rid="ca23322-bib-0044" ref-type="ref">2009</xref>; Frangiamore et al., <xref rid="ca23322-bib-0015" ref-type="ref">2017</xref>). However, the anatomical relationship between static and dynamic stabilizers, or how the FPMs are connected to the anterior bundle, has been rarely discussed (Davidson et al., <xref rid="ca23322-bib-0007" ref-type="ref">1995</xref>; Munshi et al., <xref rid="ca23322-bib-0027" ref-type="ref">2004</xref>; Frangiamore et al., <xref rid="ca23322-bib-0015" ref-type="ref">2017</xref>). Because the word “ligament” anatomically means a simple band connecting bones to bone, and is not the absolute definition, the conventional anatomical analysis based on the specific ligaments might have its limits to understand the anatomical structures for the joint stabilization.</p><p>Furthermore, for precise evaluation of UCL injuries in throwing athletes, the magnetic resonance arthrogram is conventionally used to detect undersurface tears of the anterior bundle of the UCL, which has been referred as the T‐sign (Timmerman et al., <xref rid="ca23322-bib-0042" ref-type="ref">1994</xref>; Timmerman and Andrews, <xref rid="ca23322-bib-0040" ref-type="ref">1994a</xref>). However, the location of the attachment area of the anterior bundle of the UCL on the sublime tubercle (ST) remains controversial (Timmerman and Andrews, <xref rid="ca23322-bib-0040" ref-type="ref">1994a</xref>; Cage et al., <xref rid="ca23322-bib-0004" ref-type="ref">1995</xref>; Munshi et al., <xref rid="ca23322-bib-0027" ref-type="ref">2004</xref>; Dugas et al., <xref rid="ca23322-bib-0009" ref-type="ref">2007</xref>). Meanwhile, a previous study reported that the capsule of the anterior elbow joint had substantial attachment width in the sagittal direction, and the cartilage surface did not have the capsular attachment at the tip of the coronoid process (Shimura et al., <xref rid="ca23322-bib-0038" ref-type="ref">2016</xref>). However, in the medial elbow joint, the attachment of the underlying capsule and the layered relationship between the UCL and the joint capsule have been rarely analyzed. Therefore, the actual dimension of the anterior bundle, particularly in reference to the capsular attachment on the ST, is still unclear.</p><p>Based on the above description, we hypothesized that the anatomical findings based on the surroundings including the tendinous structures and joint capsule, which constantly existed around the joint, could give some clues for the improvement of UCL injury management. The aim of the present study was to anatomically analyze the medial side of the elbow joint in terms of the tendinous structures and joint capsule rather than the specific ligaments.</p></sec><sec id="ca23322-sec-0002"><title>MATERIALS AND METHODS</title><sec id="ca23322-sec-0003"><title>Donors</title><p>We used a total of 24 elbows (11 right and 13 left) from 16 Japanese cadavers (eight male and eight female cadavers; average age at death, 83 years old, range, 49–99 years old) in this study. All cadavers were donated to the department of anatomy of the Tokyo Medical and Dental University. In eight cadavers, both elbows were assigned for the current study. In the remaining eight cadavers, elbows on only one side were assigned. All donors had voluntarily declared that their remains were to be donated as materials for education and study. This voluntary donor system of cadavers is in place throughout Japan, and our study completely complies with the current laws of Japan. We fixed all cadavers in 8% formalin and preserved them in 30% ethanol. The arm was obtained by sectioning the middle of the humerus. The skin and subcutaneous tissues were removed from the arm. In 24 elbows, we excluded one specimen with severe osteophytes from the analyses. A total of 17 elbows were used for macroscopic observations and measurements, including 6 elbows from the same three individuals. A total of 6 elbows were used for histological analysis.</p></sec><sec id="ca23322-sec-0004"><title>Macroscopic Observation and Measurements of Capsular Attachments</title><p>In 17 elbows, we firstly observed the outer appearance of the FPMs and then removed the superficial fascia of the medial side of the elbow joint. To identify the muscular and tendinous structures of FPMs and nerves, we removed all muscular parts of the palmaris longus (PL), FCR, PT, FDS, and FCU muscles. Then, to reveal the relationship between the tendinous part of the FPMs and surrounding structures, we removed all muscular parts of the FPMs and brachialis tendon. In addition, we detached the tendinous structures and the joint capsule together from the lateral to medial to identify the capsular attachment on the ulna. We measured the dimensions of the capsular attachment and footprints of tendinous structures of the FPMs using a caliper.</p></sec><sec id="ca23322-sec-0005"><title>Histological Investigation</title><p>We analyzed six elbows histologically. We removed the medial part of the humeroulnar joint, including the medial epicondyle (MEC) and the ST, en bloc using a diamond band pathology saw (EXAKT 312, EXAKT Advanced Technologies GmbH, Norderstedt, Germany). We decalcified the specimen for one week in a solution containing aluminum chloride, hydrochloric acid, and formic acid, as described by Plank and Rychlo (<xref rid="ca23322-bib-0033" ref-type="ref">1952</xref>). After decalcification, we sectioned the blocks in the axial plane at the level of the ST just distal to the joint (three elbows) and in the oblique coronal plane at the level of the anterior slope of the MEC (three elbows). We dehydrated the blocks with a graded ethanol series. After dehydration, we embedded the tissue blocks in paraffin and serially sectioned them (5 μm thickness) parallel to the sectioned plane. We stained the sections with Masson trichrome.</p></sec><sec id="ca23322-sec-0006"><title>Bony Morphology with Micro CT</title><p>In 17 elbows for macroscopic observations, we randomly selected seven elbows for observation of the bone morphology. We took three‐dimensional (3D) images using a micro‐computed tomography (CT) scanner (inspeXio SMX‐100CT, Shimadzu, Kyoto, Japan) with application software (VGStudio Max 2.0, Heidelberg, Germany). To identify the relationship between the ST and the tendinous structures of the FPMs, radiopaque markers (1 mm<sup>2</sup>) were placed at 5 mm intervals along the corner of the anterior bases of the tendinous septa (TS), which were described below.</p></sec><sec id="ca23322-sec-0007"><title>Statistical Analysis</title><p>Statistical analyses were performed with IBM SPSS Statistics 18 software for Windows (IBM Japan Inc.). Analysis of interobserver reliability yielded an interclass correlation coefficient of 0.89–0.96.</p></sec></sec><sec id="ca23322-sec-0008"><title>RESULTS</title><sec id="ca23322-sec-0009"><title>Identification of Muscular and Tendinous Structures of FPMs in the Elbow Joint</title><p>Before observing the muscular parts of FPMs, we removed the superficial fascia of the medial side of the elbow joint. FPMs formed a common muscular origin on the medial supracondylar ridge and the MEC of the humerus (Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>A). After removal of the PL and FCR muscles, the FDS muscle was exposed (Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>B). Between the PT and FDS muscles (red dotted line in Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>B), and the FDS and FCU muscles (blue dotted line in Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>B), two TS could be identified. To understand the deep parts of the TS and nerves, we removed the muscular parts of the PT, FDS, and FCU muscles. The median nerve penetrated the TS between the PT and FDS muscles (red dotted area in Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>C). The ulnar nerve passed posterior to the TS between the FDS and FCU muscles (blue dotted area in Fig. <xref rid="ca23322-fig-0001" ref-type="fig">1</xref>C). To reveal the relationship between the TS and surrounding structures, all remaining muscular parts and the median and ulnar nerves were removed. The brachialis tendon is mainly inserted into the coronoid process and partially connected to the base of the TS between the PT and FDS muscles at the ST of the ulna (Fig. <xref rid="ca23322-fig-0002" ref-type="fig">2</xref>A). The TS between the PT and FDS muscles originated from the anterior slope of the MEC, distally extended to the anterior part of the ST, reflected to posterior, and transitioned into the deep aponeurosis of the FDS muscle over the humeroulnar joint (Fig. <xref rid="ca23322-fig-0002" ref-type="fig">2</xref>B). The TS between the FDS and FCU muscles originated from the posterior slope of the MEC, distally extended to the posterior part of the ST, and posteriorly transitioned into the deep aponeurosis of the FCU muscle over the humeroulnar joint (Fig. <xref rid="ca23322-fig-0002" ref-type="fig">2</xref>C). The medial part of the brachialis tendon, the two TS, and the deep FDS and FCU aponeuroses formed the tendinous complex, which could not be separated from each other.</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Muscular and tendinous structures of the flexor‐pronator muscles (FPMs). The medial aspect of the left elbow is shown. (<bold>A</bold>) After removal of the superficial fascia, FPMs were shown to form a common muscular origin on the medial supracondylar ridge and the medial epicondyle of the humerus (MEC). (<bold>B</bold>) The palmaris longus (PL) and flexor carpi radialis (FCR) muscles were removed, and the flexor digitorum superficialis (FDS) muscle was exposed. Between the pronator teres (PT) and FDS muscles (red dotted line), and the FDS and flexor carpi ulnaris (FCU) muscles (blue dotted line), the tendinous septa (TS) could be identified. (<bold>C</bold>) After removal of muscular parts of the PT, FDS, and FCU muscles, the median nerve (MN) was shown to penetrate the TS between the PT and FDS muscles (red dotted area), and the ulnar nerve (UN) passed posterior to the TS between the FDS and FCU muscles (blue dotted area). FDP, flexor digitorum profundus; <italic toggle="yes">Dist</italic>, distal; <italic toggle="yes">Prox</italic>, proximal. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="CA-32-379-g001.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Relationship between the TS and its surrounding structures. All muscular parts of the FPMs and nerves were removed. (<bold>A</bold>) The tendinous part of the brachialis muscle (black dotted area) and the anteromedial aspect of the TS between the PT and FDS muscles (red dotted area) of the left elbow are shown in the extended position. The brachialis tendon was mainly inserted into the coronoid process and partially connected to the base of the TS between the PT and FDS muscles at the sublime tubercle (ST) of the ulna. (<bold>B</bold>) In the flexion position of the elbow, the TS between the PT and FDS muscles was reflected anteriorly. It originated from the anterior slope of the medial epicondyle (MEC), distally extended to the anterior part of the ST, and transitioned into the deep aponeurosis of the FDS muscle over the humeroulnar joint. In addition, the TS between the FDS and FCU muscles was reflected posteriorly (blue dotted area). (<bold>C</bold>) The TS between the FDS and FCU muscles was reflected anteriorly. It originated from the posterior slope of the MEC, distally extended to the posterior part of the ST, and posteriorly transitioned into the deep aponeurosis of the FCU muscle over the humeroulnar joint. <italic toggle="yes">Dist</italic>, distal; <italic toggle="yes">Prox</italic>, proximal. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="CA-32-379-g002.jpg"/></fig></sec><sec id="ca23322-sec-0010"><title>Ulnar Attachments of the Joint Capsule Under the Tendinous Complex</title><p>To analyze the ulnar attachments of the joint capsule under the tendinous complex, the ulnar insertion of the brachialis tendon was detached from the coronoid process (black dotted area in Fig. <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>A), and the medial part connecting to the TS was cut. Then, the TS and the joint capsule were detached and reflected together from the lateral to medial direction (Fig. <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>B, C). While the joint capsule of the elbow adjoined with the overlying tendinous complex, the attachment width could be identified at the medial margin of the brachialis insertion and the anterior margin of the ulnar attachments of the TS. At the anterior border of the TS, the width of the capsular attachment was 6.4 ± 0.5 mm (average ± standard deviation, Ca in Fig. <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>D). At the tip of the ST, the maximum width of the capsular attachment (7.3 ± 0.6 mm, Cm in Fig. <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>D) was found, which was located 3.6 ± 0.5 mm posterior to the anterior border of the TS (Da in Fig. <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>D). Based on the macroscopic observation, the widths of the cartilage surface without the capsular attachment were too small to measure (~0–1 mm). The average attachment widths of the tendinous complex and the joint capsule are shown in Table <xref rid="ca23322-tbl-0001" ref-type="table">1</xref>.</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Ulnar attachments of the tendinous complex and the capsule of the elbow joint. (<bold>A</bold>) The appearance after removing the brachialis tendon from Fig. <xref rid="ca23322-fig-0002" ref-type="fig">2</xref> is shown. The ulnar insertion of the brachialis tendon (black dotted area) and the TS between the PT and FDS muscles (red dotted area) are shown. (<bold>B</bold>) The joint capsule was detached from the lateral to the medial margin of the brachialis insertion and medially reflected. The capsular attachments on the bones are shown as white dotted area. (<bold>C</bold>) Furthermore, we detached posteriorly the joint capsule and the tendinous complex containing the two TS and the deep FDS aponeurosis. The ulnar insertion of the tendinous complex is shown as the open star. The widths of the cartilage surface without the capsular attachment were too small to measure (black arrows). (<bold>D</bold>) Finally, the joint capsule and the tendinous complex were detached together from the ulna. The picture indicates measurements of the insertion of the tendinous complex and the attachment of the joint capsule on the ulna. Measured locations and data are shown in Table <xref rid="ca23322-tbl-0001" ref-type="table">1</xref>. <italic toggle="yes">Dist</italic>, distal; <italic toggle="yes">Prox</italic>, proximal. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="CA-32-379-g003.jpg"/></fig><table-wrap id="ca23322-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Measurement of the Attachments of the Tendinous Complex and Joint Capsule on the Sublime Tubercle</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th style="border-right:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">Locations of the measurement</th><th style="border-right:solid 1px #000000" align="center" valign="bottom" rowspan="1" colspan="1">Average and standard deviation (mm)</th></tr></thead><tbody valign="top"><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Capsular attachment on the sublime tubercle</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Width at the anterior border of the tendinous complex (Ca)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">6.4 ± 0.5</td></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Width at the posterior border of the tendinous complex (Cp)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">6.2 ± 0.4</td></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Maximum width of capsular attachment (Cm)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">7.3 ± 0.6</td></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Distance from anterior border of the tendinous complex to the point of maximum width of capsular attachment (Da)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">3.6 ± 0.5</td></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Distance from posterior border of the tendinous complex to the point of maximum width of capsular attachment (Dp)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">2.8 ± 0.4</td></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Ulnar attachments of the tendinous complex</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Length at the anterior border of the tendinous complex (La)</td><td style="border-right:solid 1px #000000" align="center" valign="top" rowspan="1" colspan="1">26.4 ± 1.3</td></tr></tbody></table><table-wrap-foot id="ca23322-ntgp-0002"><fn id="ca23322-note-0002"><p>Locations of measurements are demonstrated in Figure <xref rid="ca23322-fig-0003" ref-type="fig">3</xref>D.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ca23322-sec-0011"><title>Histological Analysis of the Tendinous Complex and Joint Capsule</title><p>To reveal the relationship between the tendinous complex and its surrounding structures, we histologically analyzed the axial and oblique coronal sections of the medial side of the humeroulnar joint. In the axial section at the level of the ST just distal to the joint, we could identify the TS between the PT and FDS muscles as a densely stained structure (red dotted area in Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>B, C). The TS between the PT and FDS muscles was connected to the intramuscular tendon of the brachialis muscle (black dotted line in Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>B) and transitioned into the deep aponeurosis of the FDS muscle. We also identified the TS between the FDS and FCU muscles (blue dotted area in Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>B, C), which was less developed than the TS between the PT and FDS muscles, and continued into the deep aponeurosis of the FCU muscle (Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>B,C).</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Histological analysis of the axial section at the sublime tubercle. (<bold>A</bold>) Locations of the histological section in Figs. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref> and <xref rid="ca23322-fig-0005" ref-type="fig">5</xref> are indicated as white lines on the bony scheme of the medial aspect of the left elbow. (<bold>B</bold>) The macroscopic view of the axial section at the level of the ST is shown as the white line in <bold>A</bold>. (<bold>C</bold>) Masson's trichrome staining of the section is shown in (<bold>B</bold>). The TS between the PT and FDS muscles was densely stained (red dotted area), connected to the intramuscular tendon of the brachialis muscle (black dotted line), and transitioned into the deep FDS aponeurosis (red arrow). The TS between the FDS and FCU muscles was also identified (blue dotted area) and continued into the deep FCU aponeurosis (blue arrow). These two TS, the intramuscular tendon of the brachialis muscle, and the deep aponeuroses of the FDS and FCU muscles were connected and formed the tendinous complex. FCR, flexor carpi radialis; FCU, flexor carpi ulnaris; FDP, flexor digitrum profundus; FDS, flexor digitrum superficialis; MEC, medial epicondyle; PT, pronator teres; PL, palmaris longs; UN, Ulnar nerve; <italic toggle="yes">Dist</italic>, distal; <italic toggle="yes">Prox</italic>, proximal; <italic toggle="yes">Med,</italic> medial; <italic toggle="yes">Post</italic>, posterior, Scale bar, 5 mm [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="CA-32-379-g004.jpg"/></fig><p>In the oblique coronal section at the level of the anterior slope of the MEC of the humerus (Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>A), the joint capsule (black arrowheads in Fig. <xref rid="ca23322-fig-0005" ref-type="fig">5</xref>B) was found under the TS. Proximal to the humeroulnar joint, the capsule reflected to form a synovial cavity with a distinct margin from the TS (black cross in Fig. <xref rid="ca23322-fig-0005" ref-type="fig">5</xref>C). However, distal to the joint, the capsule intermingled with the TS and attached together to the ST with a fibrocartilage (red arrows in Fig. <xref rid="ca23322-fig-0005" ref-type="fig">5</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Histological analysis of the oblique coronal section at the TS between the PT and FDS muscles. (<bold>A</bold>) The macroscopic view of the oblique coronal section at the level of the TS between the PT and FDS muscles is shown in Fig. <xref rid="ca23322-fig-0004" ref-type="fig">4</xref>A. (<bold>B</bold>) Masson's trichrome staining of the section is shown in <bold>A</bold>. The joint capsule (black arrowheads) was identified under the TS (asterisk). (<bold>C</bold>) Magnified image of the part is shown as black square in (<bold>B</bold>). Proximal to the humeroulnar joint, the capsule reflected to form a synovial cavity (black cross) with a distinct margin from the TS. Distal to the humeroulnar joint, the capsule intermingled with the TS and attached together to the sublime tubercle (ST) with a fibrocartilage (red arrows). <italic toggle="yes">Lat</italic>, lateral; <italic toggle="yes">Prox</italic>, proximal. Scale bar, 5 mm in <bold>B</bold>, 1 mm in <bold>C</bold>. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="CA-32-379-g005.jpg"/></fig></sec><sec id="ca23322-sec-0012"><title>Micro‐CT Evaluation of the Relationship Between the Bone Morphology and TS</title><p>To observe the relationship between the morphology of the bones and the location of the TS, we took 3D images of the elbows, in which we put radiopaque markers on the anterior margin of the two TS (Fig. <xref rid="ca23322-fig-0006" ref-type="fig">6</xref>A, B). The anterior border of the TS between the PT and FDS muscles corresponded to the anterodistal slope of the MEC and the anterior base of the ST (Fig. <xref rid="ca23322-fig-0006" ref-type="fig">6</xref>C). The anterior border of the TS between the FDS and FCU muscles corresponded to the posterodistal slope of the MEC and the posterior base of the ST. These anterior borders of the two TS mingled with each other at the distal base of the ST.</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Relationship between the TS and the bone morphology, showing the cadaveric sample of the elbow with the tendinous complex of the left elbow. (<bold>A</bold>) The radiopaque markers were set along the anterior base of the TS between the PT and FDS muscles (red dotted area). (<bold>B</bold>) The radiopaque markers were set along the anterior base of the TS between the FDS and FCU muscles (blue dotted area). (<bold>C</bold>) 3D imaging using micro‐CT of the sample with the radiopaque markers. The markers for the TS between the PT and FDS muscles are indicated as red arrowheads and those for the TS between the FDS and FCU muscles are indicated as blue arrowheads. MEC, medial epicondyle; ST, sublime tubercle; <italic toggle="yes">Dist</italic>, distal; <italic toggle="yes">Prox</italic>, proximal. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="CA-32-379-g006.jpg"/></fig></sec></sec><sec id="ca23322-sec-0013"><title>DISCUSSION</title><p>The present study revealed two TS found between the PT and FDS muscles and between the FDS and FCU muscles. Moreover, these two TS were connected to the medial part of the brachialis tendon and the deep aponeuroses of the FDS and FCU muscles, forming the tendinous complex. This complex linked the humeroulnar joint, and histological separation was not possible. Furthermore, the present study showed that the capsule of the humeroulnar joint under the tendinous complex had attachment on the ST just distal to the joint with approximately 7 mm width.</p><p>Previously, anatomical studies reported that the FPMs had tendinous fibers merging in close proximity to the anterior bundle of the UCL (Davidson et al., <xref rid="ca23322-bib-0007" ref-type="ref">1995</xref>; Munshi et al., <xref rid="ca23322-bib-0027" ref-type="ref">2004</xref>; Frangiamore et al., <xref rid="ca23322-bib-0015" ref-type="ref">2017</xref>). Meanwhile, Otoshi et al. (<xref rid="ca23322-bib-0030" ref-type="ref">2014</xref>) described that the PT, FCR, PL, and FDS muscles were combined together to form the common tendon at the proximal origin, and the common tendon was attached to the anterior bundle of the UCL. Otoshi et al. (<xref rid="ca23322-bib-0030" ref-type="ref">2014</xref>) additionally indicated the discrepancy as follows: the common tendon and the anterior bundle of the UCL could be macroscopically clearly distinguished, but their histological morphologies were quite similar.</p><p>Originally, the word “ligament” has been thought to consist of fibers, which are arranged in parallel like tendons, were less regularly arranged than those of tendons, and more regularly arranged than those of aponeuroses (Pawlina and Ross, <xref rid="ca23322-bib-0032" ref-type="ref">2016</xref>). In other words, the “ligament” anatomically means a simple band connecting bones to bones, and is not the absolute definition, because the differences between the aponeuroses, ligaments, and tendons are not clear. As a result, there have been possibilities that any periarticular structures connecting bones to bones could be referred as the “ligament” regardless of histological definitions. Therefore, the conventional anatomical analysis based on the specific ligaments might have its limits to understand the anatomical structures for the joint stabilization. Thus, we conducted anatomical observations based on the periarticular surrounding, including the tendinous structures and joint capsule, which constantly existed around the joint. At the medial side of the elbow joint, we identified the tendinous complex, which consisted of two TS, the medial part of the brachialis tendon, and the deep FDS and FCU aponeuroses. This complex linked the humeroulnar joint. The thick, collagenous part of the tendinous complex, which corresponded to the base of the TS between the PT and FDS muscles, and the deep FDS aponeurosis could be considered as the anterior bundle of the UCL, as previously understood. In other words, if the collagenous parts were to be artificially removed from the tendinous complex, the anterior bundle of the UCL could be identified as described in previous textbooks and articles.</p><p>Ulnar neuropathy is a common elbow injury in throwing athletes (Cain Jr et al., <xref rid="ca23322-bib-0005" ref-type="ref">2003</xref>) and is often caused by compression of the ulnar nerve at the elbow (Bozentka, <xref rid="ca23322-bib-0003" ref-type="ref">1998</xref>). Therefore, identifying the correlation between the tendinous structures of the medial elbow and the ulnar nerve is important. Previous anatomical studies have reported that the ulnar nerve traversed the upper arm from the anterior to the posterior compartment at the arcade of Struthers to enter the cubital tunnel, the floor of which consisted of the olecranon, medial joint capsule, posterior bundle of the UCL, and the transverse ligament (e.g., Cooper's ligament) (Morrey and An, <xref rid="ca23322-bib-0025" ref-type="ref">1985</xref>; Granger et al., <xref rid="ca23322-bib-0017" ref-type="ref">2017</xref>). Previous reports have also described that the compression of the ulnar nerve may occur at several sites along this path, such as Osborne's ligament (Bozentka, <xref rid="ca23322-bib-0003" ref-type="ref">1998</xref>; Granger et al., <xref rid="ca23322-bib-0017" ref-type="ref">2017</xref>), the brachial ligament (Wehrli and Oberlin, <xref rid="ca23322-bib-0045" ref-type="ref">2005</xref>), the anconeus epitrochlearis (Grewal et al., <xref rid="ca23322-bib-0018" ref-type="ref">2018</xref>), and the subanconeus muscle, of which the highest concentration of fibers was in the joint capsule near the groove of the ulnar nerve (Tubbs et al., <xref rid="ca23322-bib-0043" ref-type="ref">2006</xref>). In the current study, we identified the TS between the FDS and FCU, in addition to the TS between the PT and FDS muscles. Given that the TS between the FDS and FCU posteriorly transitioned into the deep aponeurosis of the FCU muscle, this might be related to the pathology of ulnar nerve compression.</p><p>With regard to the joint capsule at the medial side of the elbow, Munshi et al. (<xref rid="ca23322-bib-0027" ref-type="ref">2004</xref>) reported that the anterior bundle of the UCL was distinct from the surrounding synovium and subsynovial fibrous tissues. On the contrary, Timmerman and Andrews (<xref rid="ca23322-bib-0041" ref-type="ref">1994b</xref>) described that the distinct ligamentous bundles within the joint capsule corresponded to the anterior and posterior bundles of the UCL, which was similar to the inferior glenohumeral ligament complex of the shoulder (O'Brien SJ et al., <xref rid="ca23322-bib-0028" ref-type="ref">1990</xref>). Although these appeared controversial, the findings in the current study could explain the discrepancy between claims. Proximal to the humeroulnar joint, the joint capsule was histologically separated from the tendinous complex and reflected to form a synovial cavity. Conversely, distal to the joint, the capsule merged with the tendinous complex and attached together. Thus, the layered relationship between the tendinous complex and the humeroulnar joint capsule was not consistent, but rather varied according to locations.</p><p>There have been inconsistencies in the anatomical knowledge of the distal attachment of the anterior bundle of the UCL. Previous studies have variously described that the anterior bundle insertion was 1–4 mm distal to the ulnar articular margin (Timmerman et al., <xref rid="ca23322-bib-0042" ref-type="ref">1994</xref>; Cage et al., <xref rid="ca23322-bib-0004" ref-type="ref">1995</xref>; Munshi et al., <xref rid="ca23322-bib-0027" ref-type="ref">2004</xref>; Dugas et al., <xref rid="ca23322-bib-0009" ref-type="ref">2007</xref>). However, previous studies had not identified the width of the capsular attachment, which should underlie the anterior bundle. Meanwhile, at the lateral side of the proximal ulna, Shimura et al. (<xref rid="ca23322-bib-0038" ref-type="ref">2016</xref>) previously showed that there were no 6‐mm attachment on the cartilage surface of the coronoid tip and 12 mm length attachment of the joint capsule at the lateral side of the coronoid process. In the current study, we found the capsular attachment on the ST with approximately 7 mm width, which was wider than previously thought. The tendinous complex also inserted into the ST more distal to the capsular attachment. In addition, the widths of the cartilage surface without the capsular attachment could not be measured. Based on the current study, prior studies might have measured the mixed construct of the joint capsule and the tendinous complex as the attachment of the anterior bundle.</p><p>Differently from the specific ligaments, the tendinous structures and joint capsule of the medial side of the elbow joint can be interpreted as follows. The medial side of the elbow joint was superficially linked by the tendinous complex, which consisted of the two TS, the medial part of the brachialis tendon, and the deep FDS and FCU aponeuroses. In addition, the joint was deeply linked by the joint capsule, which is underlying and distally intermingled with the tendinous complex. What was previously known as the anterior bundle of the UCL could be interpreted as the part of the tendinous complex and joint capsule that would remain if such collagenous parts were grossly cut out of the tendinous complex<underline underline-style="single">.</underline>
+</p><p>The results of the current study have three clinical implications. First, we were able to improve the understanding of the contribution of the FPMs as dynamic stabilizer in the medial elbow. Some studies using electromyography demonstrated that the PT muscle was activated during the late cocking and acceleration phases (Sisto et al., <xref rid="ca23322-bib-0039" ref-type="ref">1987</xref>; Digiovine et al., <xref rid="ca23322-bib-0008" ref-type="ref">1992</xref>). Other biomechanical studies demonstrated that the FCU and FDS muscles were the biggest contributor among the FPMs (An et al., <xref rid="ca23322-bib-0001" ref-type="ref">1981</xref>; Park and Ahmad, <xref rid="ca23322-bib-0031" ref-type="ref">2004</xref>; Lin et al., <xref rid="ca23322-bib-0022" ref-type="ref">2007</xref>; Udall et al., <xref rid="ca23322-bib-0044" ref-type="ref">2009</xref>). Moreover, other studies showed that the brachialis muscle as well as the FPMs contributed to valgus stability (An et al., <xref rid="ca23322-bib-0001" ref-type="ref">1981</xref>; Morrey et al., <xref rid="ca23322-bib-0026" ref-type="ref">1991</xref>; Seiber et al., <xref rid="ca23322-bib-0037" ref-type="ref">2009</xref>). Based on the current study, the controversy on the contribution of the muscles to stabilize the medial elbow could be explained as follows: The PT, FDS, FCU, and brachialis muscles are speculated not to independently work, but to work together and transmit the muscular power to the humeroulnar joint via the tendinous complex, as if the sail transmitted the wind power to the ship (Fig. <xref rid="ca23322-fig-0007" ref-type="fig">7</xref>). The Thrower's Ten, a popular preventive arm care program, incorporates multiple strengthening exercises for the shoulder, elbow, and wrist, but fails to address the finger flexors (Wilk et al., <xref rid="ca23322-bib-0046" ref-type="ref">2002</xref>; Fleisig et al., <xref rid="ca23322-bib-0013" ref-type="ref">2015</xref>). Taking these anatomical concepts into consideration, the arm care programs for throwing athletes should be reconsidered by adding exercises for the fingers, particularly the FDS muscle.</p><fig fig-type="Figure" xml:lang="en" id="ca23322-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Schematic illustration for the interpretation of the tendinous complex in the medial elbow. The pronator teres (PT), flexor digitorum superficial (FDS), flexor carpi ulnaris (FCU), and brachialis muscles are speculated to work together and transmit the muscular power to the humeroulnar joint via the tendinous complex, which consists of the tendinous septa (TS) between the PT and FDS muscles and the deep FDS aponeurosis (red dotted area), the TS between the FDS and FCU muscles and the deep FCU aponeurosis (blue dotted area), and the joint capsule (black dotted area). The tendinous complex can be assumed to link the medial elbow joint as if the sail transmitted the wind power to the ship. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://wileyonlinelibrary.com">https://wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="CA-32-379-g007.jpg"/></fig><p>Second, the “T‐sign,” which indicated the contrast leakage around the detachment of the UCL from the ST (Timmerman et al., <xref rid="ca23322-bib-0042" ref-type="ref">1994</xref>), has been important to facilitate magnetic resonance imaging (MRI) diagnosis of partial undersurface tears. In terms of the attachment widths of the tendinous complex and capsule at ST, we could classify the “T‐sign” into three types: type 1 involving less than 1 mm as normal variant, type 2 involving 1–7 mm as capsular detachment, and type 3 involving greater than 7 mm as detachment of the tendinous complex. Thus, based on the anatomical knowledge in the current study, the “T‐sign” could be qualitatively understood according to the detaching locations and structures including the cartilage surface, joint capsule, and the tendinous complex.</p><p>Finally, the findings of this study may be useful for improving the outcomes of UCL surgery. Although UCL reconstruction remains the gold standard for treating UCL injuries, there is growing interest in UCL repair with and without augmentation, which has the potential of reducing the time to recovery and the athlete's return to sport performance (Rebolledo et al., <xref rid="ca23322-bib-0034" ref-type="ref">2017</xref>; Clark et al., <xref rid="ca23322-bib-0006" ref-type="ref">2018</xref>). Historically, UCL repair has obtained good results for selected younger patients (Azar et al., <xref rid="ca23322-bib-0002" ref-type="ref">2000</xref>). In addition, recent reports have shown favorable results for repair with augmentation, such as ligament plication, suture repair with bone anchors, or tape augmentation (Savoie et al., <xref rid="ca23322-bib-0036" ref-type="ref">2008</xref>; Mackay et al., <xref rid="ca23322-bib-0023" ref-type="ref">2015</xref>). Several reports showed that UCL repair with suture tape augmentation had the advantage of a quicker recovery time, decreased soft tissue damage, and better stability, compared with the repair and reconstruction technique (Dugas et al., <xref rid="ca23322-bib-0010" ref-type="ref">2016</xref>; Clark et al., <xref rid="ca23322-bib-0006" ref-type="ref">2018</xref>). However, a treatment decision for patients should include a consideration of the tissue quality of the UCL (Dugas et al., <xref rid="ca23322-bib-0010" ref-type="ref">2016</xref>). Therefore, a precise diagnosis is necessary to select the appropriate patients and improve the outcomes. The results of the present study could be used to diagnose UCL injury precisely and to select patients for non‐reconstructive management. Moreover, our anatomical findings could help to decrease soft tissue disruption, including the tendinous complex and joint capsule, and facilitate a more steady recovery after UCL surgery.</p><p>The current study has several limitations. First, this was a purely anatomical study limited to healthy samples. Second, all investigated cadavers were from elderly patients, and this generation was not matched to a peak age of throwing athletes. Given these limitations, the anatomical findings in the current study could serve as a starting point for future research on the muscular contribution of the dynamic stabilizer in the medial elbow against valgus stress during throwing motion using the biomechanical study, and the pathology of UCL injuries using the clinical study. Third, six elbows used in the macroscopic observations and measurements were harvested from the same individuals.</p><p>In this study, we found that the tendinous complex, which consisted of the two TS, the medial part of the brachialis tendon, and the deep FDS and FCU aponeuroses, linked the humeroulnar joint. In addition, the capsule of the humeroulnar joint under the tendinous complex had attachment on the ST just distal to the joint with approximately 7 mm width. Our findings suggest that the anterior bundle of the UCL should be reconsidered based on the tendinous complex and joint capsule.</p><sec id="ca23322-sec-0014"><title>ACKOWLEDGEMENTS</title><p>We would like to acknowledge and thank the anonymous individuals who generously donated their bodies so that this study could be performed. We would like to thank Editage (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.editage.jp">http://www.editage.jp</ext-link>) for English language editing. This study was partly supported by a grant from JA Kyosai Research Institute (Agricultural Cooperative Insurance Research Institute).</p></sec></sec><sec sec-type="COI-statement" id="ca23322-sec-0015"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no conflicts of interest.</p></sec></body><back><ref-list id="ca23322-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="ca23322-bib-0001"><mixed-citation publication-type="journal" id="ca23322-cit-0001">
+<string-name name-style="western">
+<surname>An</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hui</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrey</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linscheid</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>EY</given-names>
+</string-name>. <year>1981</year>
+<article-title>Muscles across the elbow joint. a biomechanical analysis</article-title>. <source xml:lang="en">J Biomech</source>
+<volume>14</volume>:<fpage>659</fpage>–<lpage>669</lpage>.<pub-id pub-id-type="pmid">7334026</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0021-9290(81)90048-8</pub-id></mixed-citation></ref><ref id="ca23322-bib-0002"><mixed-citation publication-type="journal" id="ca23322-cit-0002">
+<string-name name-style="western">
+<surname>Azar</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilk</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groh</surname>
+<given-names>D</given-names>
+</string-name>. <year>2000</year>
+<article-title>Operative treatment of ulnar collateral ligament injuries of the elbow in athletes</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>28</volume>:<fpage>16</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">10653538</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/03635465000280011401</pub-id></mixed-citation></ref><ref id="ca23322-bib-0003"><mixed-citation publication-type="journal" id="ca23322-cit-0003">
+<string-name name-style="western">
+<surname>Bozentka</surname>
+<given-names>DJ</given-names>
+</string-name>. <year>1998</year>
+<article-title>Cubital tunnel syndrome pathophysiology</article-title>. <source xml:lang="en">Clin Orthop Relat Res</source>
+<volume>351</volume>:<fpage>90</fpage>–<lpage>94</lpage>.<pub-id pub-id-type="pmid">9646751</pub-id></mixed-citation></ref><ref id="ca23322-bib-0004"><mixed-citation publication-type="journal" id="ca23322-cit-0004">
+<string-name name-style="western">
+<surname>Cage</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abrams</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Callahan</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botte</surname>
+<given-names>MJ</given-names>
+</string-name>. <year>1995</year>
+<article-title>Soft tissue attachments of the ulnar coronoid process. An anatomic study with radiographic correlation</article-title>. <source xml:lang="en">Clin Orthop Relat Res</source>
+<volume>320</volume>:<fpage>154</fpage>–<lpage>158</lpage>.<pub-id pub-id-type="pmid">7586820</pub-id></mixed-citation></ref><ref id="ca23322-bib-0005"><mixed-citation publication-type="journal" id="ca23322-cit-0005">
+<string-name name-style="western">
+<surname>Cain</surname>
+<given-names>EL</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2003</year>
+<article-title>Elbow injuries in throwing athletes: a current concepts review</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>31</volume>:<fpage>621</fpage>–<lpage>635</lpage>.<pub-id pub-id-type="pmid">12860556</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/03635465030310042601</pub-id></mixed-citation></ref><ref id="ca23322-bib-0006"><mixed-citation publication-type="journal" id="ca23322-cit-0006">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dines</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrey</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camp</surname>
+<given-names>CL</given-names>
+</string-name>. <year>2018</year>
+<article-title>Nonreconstruction options for treating medial ulnar collateral ligament injuries of the elbow in overhead athletes</article-title>. <source xml:lang="en">Curr Rev Musculoskelet Med</source>
+<volume>11</volume>:<fpage>48</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">29335854</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12178-018-9458-3</pub-id><pub-id pub-id-type="pmcid">PMC5825339</pub-id></mixed-citation></ref><ref id="ca23322-bib-0007"><mixed-citation publication-type="journal" id="ca23322-cit-0007">
+<string-name name-style="western">
+<surname>Davidson</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pink</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobe</surname>
+<given-names>FW</given-names>
+</string-name>. <year>1995</year>
+<article-title>Functional anatomy of the flexor pronator muscle group in relation to the medial collateral ligament of the elbow</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>23</volume>:<fpage>245</fpage>–<lpage>250</lpage>.<pub-id pub-id-type="pmid">7778713</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659502300220</pub-id></mixed-citation></ref><ref id="ca23322-bib-0008"><mixed-citation publication-type="journal" id="ca23322-cit-0008">
+<string-name name-style="western">
+<surname>Digiovine</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobe</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pink</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>J</given-names>
+</string-name>. <year>1992</year>
+<article-title>An electromyographic analysis of the upper extremity in pitching</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>1</volume>:<fpage>15</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">22958966</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1058-2746(09)80011-6</pub-id></mixed-citation></ref><ref id="ca23322-bib-0009"><mixed-citation publication-type="journal" id="ca23322-cit-0009">
+<string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ostrander</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cain</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kingsley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2007</year>
+<article-title>Anatomy of the anterior bundle of the ulnar collateral ligament</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>16</volume>:<fpage>657</fpage>–<lpage>660</lpage>.<pub-id pub-id-type="pmid">17583541</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2006.11.009</pub-id></mixed-citation></ref><ref id="ca23322-bib-0010"><mixed-citation publication-type="journal" id="ca23322-cit-0010">
+<string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walters</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beason</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fleisig</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chronister</surname>
+<given-names>JE</given-names>
+</string-name>. <year>2016</year>
+<article-title>Biomechanical comparison of ulnar collateral ligament repair with internal bracing versus modified Jobe reconstruction</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>44</volume>:<fpage>735</fpage>–<lpage>741</lpage>.<pub-id pub-id-type="pmid">26717972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546515620390</pub-id></mixed-citation></ref><ref id="ca23322-bib-0011"><mixed-citation publication-type="journal" id="ca23322-cit-0011">
+<string-name name-style="western">
+<surname>Erickson</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nwachukwu</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schairer</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCormick</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bach</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bush‐Joseph</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romeo</surname>
+<given-names>AA</given-names>
+</string-name>. <year>2014</year>
+<article-title>Trends in medial ulnar collateral ligament reconstruction in the United States: A retrospective review of a large private‐payer database From 2007 to 2011</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>43</volume>:<fpage>1770</fpage>–<lpage>1774</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546515580304</pub-id><pub-id pub-id-type="pmid">26129959</pub-id></mixed-citation></ref><ref id="ca23322-bib-0012"><mixed-citation publication-type="journal" id="ca23322-cit-0012">
+<string-name name-style="western">
+<surname>Fleisig</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2012</year>
+<article-title>Prevention of elbow injuries in youth baseball pitchers</article-title>. <source xml:lang="en">Sports Health</source>
+<volume>4</volume>:<fpage>419</fpage>–<lpage>424</lpage>.<pub-id pub-id-type="pmid">23016115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1941738112454828</pub-id><pub-id pub-id-type="pmcid">PMC3435945</pub-id></mixed-citation></ref><ref id="ca23322-bib-0013"><mixed-citation publication-type="journal" id="ca23322-cit-0013">
+<string-name name-style="western">
+<surname>Fleisig</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leddon</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laughlin</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciccotti</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mandelbaum</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aune</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escamilla</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MacLeod</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2015</year>
+<article-title>Biomechanical performance of baseball pitchers with a history of ulnar collateral ligament reconstruction</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>43</volume>:<fpage>1045</fpage>–<lpage>1050</lpage>.<pub-id pub-id-type="pmid">25690625</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546515570464</pub-id></mixed-citation></ref><ref id="ca23322-bib-0014"><mixed-citation publication-type="journal" id="ca23322-cit-0014">
+<string-name name-style="western">
+<surname>Ford</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genuario</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinkartz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Githens</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noonan</surname>
+<given-names>T</given-names>
+</string-name>. <year>2016</year>
+<article-title>Return‐to‐play outcomes in professional baseball players after medial ulnar collateral ligament injuries: Comparison of operative versus nonoperative treatment based on magnetic resonance imaging findings</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>44</volume>:<fpage>723</fpage>–<lpage>728</lpage>.<pub-id pub-id-type="pmid">26764237</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546515621756</pub-id></mixed-citation></ref><ref id="ca23322-bib-0015"><mixed-citation publication-type="journal" id="ca23322-cit-0015">
+<string-name name-style="western">
+<surname>Frangiamore</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lynch</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaughn</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soloff</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forney</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Styron</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schickendantz</surname>
+<given-names>MS</given-names>
+</string-name>. <year>2017</year>
+<article-title>Magnetic resonance imaging predictors of failure in the nonoperative management of ulnar collateral ligament injuries in professional baseball pitchers</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>45</volume>:<fpage>1783</fpage>–<lpage>1789</lpage>.<pub-id pub-id-type="pmid">28398820</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546517699832</pub-id></mixed-citation></ref><ref id="ca23322-bib-0016"><mixed-citation publication-type="journal" id="ca23322-cit-0016">
+<string-name name-style="western">
+<surname>Glousman</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobe</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pink</surname>
+<given-names>M</given-names>
+</string-name>. <year>1992</year>
+<article-title>An electromyographic analysis of the elbow in normal and injured pitchers with medial collateral ligament insufficiency</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>20</volume>:<fpage>311</fpage>–<lpage>317</lpage>.<pub-id pub-id-type="pmid">1636862</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659202000313</pub-id></mixed-citation></ref><ref id="ca23322-bib-0017"><mixed-citation publication-type="journal" id="ca23322-cit-0017">
+<string-name name-style="western">
+<surname>Granger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sardi</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwanaga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loukas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oskouian</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tubbs</surname>
+<given-names>RS</given-names>
+</string-name>. <year>2017</year>
+<article-title>Osborne's ligament: a review of its history, anatomy, and surgical importance</article-title>. <source xml:lang="en">Cureus</source>
+<volume>9</volume>:<fpage>e1080</fpage>.<pub-id pub-id-type="pmid">28405530</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.1080</pub-id><pub-id pub-id-type="pmcid">PMC5383373</pub-id></mixed-citation></ref><ref id="ca23322-bib-0018"><mixed-citation publication-type="journal" id="ca23322-cit-0018">
+<string-name name-style="western">
+<surname>Grewal</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishak</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwanaga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amrami</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ringler</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Ruiter</surname>
+<given-names>GCW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spinner</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tubbs</surname>
+<given-names>RS</given-names>
+</string-name>. <year>2018</year>
+<article-title>Innervation of the anconeus epitrochlearis muscle: MRI and cadaveric studies</article-title>. <source xml:lang="en">Clin Anat</source>. Epub ahead of print.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ca.23285</pub-id><pub-id pub-id-type="pmid">30267439</pub-id></mixed-citation></ref><ref id="ca23322-bib-0019"><mixed-citation publication-type="journal" id="ca23322-cit-0019">
+<string-name name-style="western">
+<surname>Hamilton</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glousman</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobe</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pink</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>J</given-names>
+</string-name>. <year>1996</year>
+<article-title>Dynamic stability of the elbow: electromyographic analysis of the flexor pronator group and the extensor group in pitchers with valgus instability</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>5</volume>:<fpage>347</fpage>–<lpage>354</lpage>.<pub-id pub-id-type="pmid">8933456</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1058-2746(96)80065-6</pub-id></mixed-citation></ref><ref id="ca23322-bib-0020"><mixed-citation publication-type="journal" id="ca23322-cit-0020">
+<string-name name-style="western">
+<surname>Hodgins</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vitale</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arons</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>CS</given-names>
+</string-name>. <year>2016</year>
+<article-title>Epidemiology of medial ulnar collateral ligament reconstruction: A 10‐year study in New York State</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>44</volume>:<fpage>729</fpage>–<lpage>734</lpage>.<pub-id pub-id-type="pmid">26797699</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546515622407</pub-id></mixed-citation></ref><ref id="ca23322-bib-0021"><mixed-citation publication-type="journal" id="ca23322-cit-0021">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dines</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rebolledo</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weeks</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dines</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altcheck</surname>
+<given-names>DW</given-names>
+</string-name>. <year>2014</year>
+<article-title>Operative management of ulnar collateral ligament insufficiency in adolescent athletes</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>42</volume>:<fpage>117</fpage>–<lpage>121</lpage>.<pub-id pub-id-type="pmid">24145949</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546513507695</pub-id></mixed-citation></ref><ref id="ca23322-bib-0022"><mixed-citation publication-type="journal" id="ca23322-cit-0022">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kohli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perlmutter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nuber</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makhsous</surname>
+<given-names>M</given-names>
+</string-name>. <year>2007</year>
+<article-title>Muscle contribution to elbow joint valgus stability</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>16</volume>:<fpage>795</fpage>–<lpage>802</lpage>.<pub-id pub-id-type="pmid">17936028</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2007.03.024</pub-id></mixed-citation></ref><ref id="ca23322-bib-0023"><mixed-citation publication-type="journal" id="ca23322-cit-0023">
+<string-name name-style="western">
+<surname>Mackay</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blyth</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anthony</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hopper</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>RIbbans</surname>
+<given-names>WJ</given-names>
+</string-name>. <year>2015</year>
+<article-title>A review of ligament augmentation with the Internal Brace™: the surgical principle is described for the lateral ankle ligament and ACL repair in particular, and a comprehensive review of other surgical applications and techniques is presented</article-title>. <source xml:lang="en">Surg Technol Int</source>
+<volume>26</volume>:<fpage>239</fpage>–<lpage>255</lpage>.<pub-id pub-id-type="pmid">26055016</pub-id></mixed-citation></ref><ref id="ca23322-bib-0025"><mixed-citation publication-type="journal" id="ca23322-cit-0025">
+<string-name name-style="western">
+<surname>Morrey</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>An</surname>
+<given-names>KN</given-names>
+</string-name>. <year>1985</year>
+<article-title>Functional anatomy of the ligaments of the elbow</article-title>. <source xml:lang="en">Clin Orthop Relat Res</source>
+<volume>201</volume>:<fpage>84</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">4064425</pub-id></mixed-citation></ref><ref id="ca23322-bib-0026"><mixed-citation publication-type="journal" id="ca23322-cit-0026">
+<string-name name-style="western">
+<surname>Morrey</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanaka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>An</surname>
+<given-names>KN</given-names>
+</string-name>. <year>1991</year>
+<article-title>Valgus stability of the elbow. A definition of primary and secondary constraints</article-title>. <source xml:lang="en">Clin Orthop Relat Res</source>
+<volume>265</volume>:<fpage>187</fpage>–<lpage>195</lpage>.<pub-id pub-id-type="pmid">2009657</pub-id></mixed-citation></ref><ref id="ca23322-bib-0027"><mixed-citation publication-type="journal" id="ca23322-cit-0027">
+<string-name name-style="western">
+<surname>Munshi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pretterklieber</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haghighi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trudell</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Resnick</surname>
+<given-names>D</given-names>
+</string-name>. <year>2004</year>
+<article-title>Anterior bundle of ulnar collateral ligament: evaluation of anatomic relationships by using MR imaging, MR arthrography, and gross anatomic and histologic analysis</article-title>. <source xml:lang="en">Radiology</source>
+<volume>231</volume>:<fpage>797</fpage>–<lpage>803</lpage>.<pub-id pub-id-type="pmid">15105452</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1148/radiol.2313030560</pub-id></mixed-citation></ref><ref id="ca23322-bib-0028"><mixed-citation publication-type="journal" id="ca23322-cit-0028">
+<string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neves</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnoczky</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rozbruck</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dicarlo</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warren</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wickiewicz</surname>
+</string-name>. <year>1990</year>
+<article-title>The anatomy and histology of the inferior glenohumeral ligament complex of the shoulder</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>18</volume>:<fpage>449</fpage>–<lpage>445</lpage>.<pub-id pub-id-type="pmid">2252083</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659001800501</pub-id></mixed-citation></ref><ref id="ca23322-bib-0029"><mixed-citation publication-type="journal" id="ca23322-cit-0029">
+<string-name name-style="western">
+<surname>Osbahr</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cain</surname>
+<given-names>EL</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Raines</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortenbaugh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2014</year>
+<article-title>Long‐term outcomes after ulnar collateral ligament reconstruction in competitive baseball players: Minimum 10‐year follow‐up</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>42</volume>:<fpage>1333</fpage>–<lpage>1342</lpage>.<pub-id pub-id-type="pmid">24705899</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546514528870</pub-id></mixed-citation></ref><ref id="ca23322-bib-0030"><mixed-citation publication-type="journal" id="ca23322-cit-0030">
+<string-name name-style="western">
+<surname>Otoshi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kikuchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shishido</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konno</surname>
+<given-names>S</given-names>
+</string-name>. <year>2014</year>
+<article-title>The proximal origins of the flexor‐pronator muscles and their role in the dynamic stabilization of the elbow joint: an anatomical study</article-title>. <source xml:lang="en">Surg Radiol Anat</source>
+<volume>36</volume>:<fpage>289</fpage>–<lpage>294</lpage>.<pub-id pub-id-type="pmid">23884470</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00276-013-1168-3</pub-id></mixed-citation></ref><ref id="ca23322-bib-0031"><mixed-citation publication-type="journal" id="ca23322-cit-0031">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>CS</given-names>
+</string-name>. <year>2004</year>
+<article-title>Dynamic contributions of the flexor‐pronator mass to elbow valgus stability</article-title>. <source xml:lang="en">J Bone Joint Surg Am</source>
+<volume>86</volume>:<fpage>2268</fpage>–<lpage>2274</lpage>.<pub-id pub-id-type="pmid">15466738</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2106/00004623-200410000-00020</pub-id></mixed-citation></ref><ref id="ca23322-bib-0032"><mixed-citation publication-type="book" id="ca23322-cit-0032">
+<string-name name-style="western">
+<surname>Pawlina</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>MH</given-names>
+</string-name>. <year>2016</year>
+<source xml:lang="en">Histology: A Text and Atlas With Correlated Cell and Molecular Biology</source>. <edition designator="7">7th</edition> Ed. <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Wolters Kluwer</publisher-name> p <fpage>160</fpage>.</mixed-citation></ref><ref id="ca23322-bib-0033"><mixed-citation publication-type="journal" id="ca23322-cit-0033">
+<string-name name-style="western">
+<surname>Plank</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rychlo</surname>
+<given-names>A</given-names>
+</string-name>. <year>1952</year>
+<article-title>A method for quick decalcification</article-title>. <source xml:lang="en">Zentralbl Allg Pathol</source>
+<volume>89</volume>:<fpage>252</fpage>–<lpage>254</lpage>.<pub-id pub-id-type="pmid">13039461</pub-id></mixed-citation></ref><ref id="ca23322-bib-0034"><mixed-citation publication-type="journal" id="ca23322-cit-0034">
+<string-name name-style="western">
+<surname>Rebolledo</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dugas</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bedi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciccotti</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altchek</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dines</surname>
+<given-names>JS</given-names>
+</string-name>. <year>2017</year>
+<article-title>Avoiding tommy john surgery: what are the alternatives?</article-title>
+<source xml:lang="en">Am J Sports Med</source>
+<volume>45</volume>:<fpage>3143</fpage>–<lpage>3148</lpage>.<pub-id pub-id-type="pmid">28278401</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546517692548</pub-id></mixed-citation></ref><ref id="ca23322-bib-0035"><mixed-citation publication-type="journal" id="ca23322-cit-0035">
+<string-name name-style="western">
+<surname>Rettig</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sherrill</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snead</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mendler</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mieling</surname>
+<given-names>P</given-names>
+</string-name>. <year>2001</year>
+<article-title>Nonoperative treatment of ulnar collateral ligament injuries in throwing athletes</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>29</volume>:<fpage>15</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="pmid">11206249</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/03635465010290010601</pub-id></mixed-citation></ref><ref id="ca23322-bib-0036"><mixed-citation publication-type="journal" id="ca23322-cit-0036">
+<string-name name-style="western">
+<surname>Savoie</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trenhaile</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Field</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramsey</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2008</year>
+<article-title>Primary repair of ulnar collateral ligament injuries of the elbow in young athletes: a case series of injuries to the proximal and distal ends of the ligament</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>36</volume>:<fpage>1066</fpage>–<lpage>1672</lpage>.<pub-id pub-id-type="pmid">18443280</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0363546508315201</pub-id></mixed-citation></ref><ref id="ca23322-bib-0037"><mixed-citation publication-type="journal" id="ca23322-cit-0037">
+<string-name name-style="western">
+<surname>Seiber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGarry</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Safran</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>TQ</given-names>
+</string-name>. <year>2009</year>
+<article-title>The role of the elbow musculature, forearm rotation, and elbow flexion in elbow stability: an in vitro study</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>18</volume>:<fpage>260</fpage>–<lpage>268</lpage>.<pub-id pub-id-type="pmid">19046641</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2008.08.004</pub-id></mixed-citation></ref><ref id="ca23322-bib-0038"><mixed-citation publication-type="journal" id="ca23322-cit-0038">
+<string-name name-style="western">
+<surname>Shimura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nimura</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nasu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fujishiro</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Imatani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akita</surname>
+<given-names>K</given-names>
+</string-name>. <year>2016</year>
+<article-title>Joint capsule attachment to the coronoid process of the ulna: an anatomic study with implications regarding the type 1 fractures of the coronoid process of the O'Driscoll classification</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>25</volume>:<fpage>1517</fpage>–<lpage>1522</lpage>.<pub-id pub-id-type="pmid">27039672</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2016.01.024</pub-id></mixed-citation></ref><ref id="ca23322-bib-0039"><mixed-citation publication-type="journal" id="ca23322-cit-0039">
+<string-name name-style="western">
+<surname>Sisto</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jobe</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moynes</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antonelli</surname>
+<given-names>DJ</given-names>
+</string-name>. <year>1987</year>
+<article-title>An electromyographic analysis of the elbow in pitching</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>15</volume>:<fpage>260</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="pmid">3618877</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354658701500314</pub-id></mixed-citation></ref><ref id="ca23322-bib-0040"><mixed-citation publication-type="journal" id="ca23322-cit-0040">
+<string-name name-style="western">
+<surname>Timmerman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>1994a</year>
+<article-title>Undersurface tear of the ulnar collateral ligament in baseball players. A newly recognized lesion</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>22</volume>:<fpage>33</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">8129107</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659402200106</pub-id></mixed-citation></ref><ref id="ca23322-bib-0041"><mixed-citation publication-type="journal" id="ca23322-cit-0041">
+<string-name name-style="western">
+<surname>Timmerman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>1994b</year>
+<article-title>Histology and arthroscopic anatomy of the ulnar collateral ligament of the elbow</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>22</volume>:<fpage>667</fpage>–<lpage>673</lpage>.<pub-id pub-id-type="pmid">7810791</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659402200515</pub-id></mixed-citation></ref><ref id="ca23322-bib-0042"><mixed-citation publication-type="journal" id="ca23322-cit-0042">
+<string-name name-style="western">
+<surname>Timmerman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>1994</year>
+<article-title>Preoperative evaluation of the ulnar collateral ligament by magnetic resonance imaging and computed tomography arthrography. Evaluation in 25 baseball players with surgical confirmation</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>22</volume>:<fpage>26</fpage>–<lpage>31</lpage>.<pub-id pub-id-type="pmid">8129106</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/036354659402200105</pub-id></mixed-citation></ref><ref id="ca23322-bib-0043"><mixed-citation publication-type="journal" id="ca23322-cit-0043">
+<string-name name-style="western">
+<surname>Tubbs</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oakes</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salter</surname>
+<given-names>EG</given-names>
+</string-name>. <year>2006</year>
+<article-title>The subanconeus muscle</article-title>. <source xml:lang="en">Folia Morphol</source>
+<volume>65</volume>:<fpage>22</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">16783731</pub-id></mixed-citation></ref><ref id="ca23322-bib-0044"><mixed-citation publication-type="journal" id="ca23322-cit-0044">
+<string-name name-style="western">
+<surname>Udall</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitzpatrick</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGarry</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leba</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>TQ</given-names>
+</string-name>. <year>2009</year>
+<article-title>Effects of flexor‐pronator muscle loading on valgus stability of the elbow with an intact, stretched, and resected medial ulnar collateral ligament</article-title>. <source xml:lang="en">J Shoulder Elbow Surg</source>
+<volume>18</volume>:<fpage>773</fpage>–<lpage>778</lpage>.<pub-id pub-id-type="pmid">19487136</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jse.2009.03.008</pub-id></mixed-citation></ref><ref id="ca23322-bib-0045"><mixed-citation publication-type="journal" id="ca23322-cit-0045">
+<string-name name-style="western">
+<surname>Wehrli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oberlin</surname>
+<given-names>C</given-names>
+</string-name>. <year>2005</year>
+<article-title>The internal brachial ligament versus the arcade of Struthers: an anatomical study</article-title>. <source xml:lang="en">Plast Reconstr Surg</source>
+<volume>115</volume>:<fpage>471</fpage>–<lpage>477</lpage>.<pub-id pub-id-type="pmid">15692352</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.prs.0000150144.73603.24</pub-id></mixed-citation></ref><ref id="ca23322-bib-0046"><mixed-citation publication-type="journal" id="ca23322-cit-0046">
+<string-name name-style="western">
+<surname>Wilk</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meister</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2002</year>
+<article-title>Current concepts in the rehabilitation of the overhead throwing athlete</article-title>. <source xml:lang="en">Am J Sports Med</source>
+<volume>30</volume>:<fpage>136</fpage>–<lpage>151</lpage>.<pub-id pub-id-type="pmid">11799012</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/03635465020300011201</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,220 @@
+#!/usr/bin/env python3
+"""Build sources/bolge_kol.json (KOL / arm region) from hand-curated entries.
+Citation, DOI, licence, version, title, journal, year, authors, verbatim captions and pixel sizes are read
+from the downloaded bucket JSON/XML and image files in topografik/images/raw/PMC<id>/ (never typed by hand).
+Run: python3 -I scripts/build_bolge_kol.py
+"""
+import json, pathlib, re, xml.etree.ElementTree as ET
+from PIL import Image
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+RAW = ROOT / "topografik/images/raw"
+XL = "{http://www.w3.org/1999/xlink}href"
+t = lambda e: " ".join("".join(e.itertext()).split()) if e is not None else ""
+
+# (use, topic, pmcid, [(file, specimen, what_it_shows, labels_visible)], key_findings, clinical_relevance, notes)
+E = [
+ ("topo_lecture", "Anterior arm: coracobrachialis, musculocutaneous nerve piercing CB, brachial artery, median & ulnar nerves",
+  "PMC10514118",
+  [("276_2023_3207_Fig1_HTML.jpg", "human cadaver",
+    "Left arm, anterior/medial view: musculocutaneous nerve giving three proximal branches to coracobrachialis before piercing it; median nerve, ulnar nerve and brachial artery run together in the medial bicipital groove.",
+    "MCN, MN, UN, BA, CB, three yellow stars, L"),
+   ("276_2023_3207_Fig4_HTML.jpg", "human cadaver",
+    "Right arm: three-headed coracobrachialis (CB1-CB3) from the coracoid process with the MCN passing between superficial and deep heads; brachial artery and median nerve medially.",
+    "CP, CB1, CB2, CB3, MCN, BA, MN, BBsh, two white stars, R"),
+   ("276_2023_3207_Fig3_HTML.jpg", "human cadaver",
+    "Long-axis view of the anterior arm: MCN branching to biceps short/long heads and brachialis, MCN-median nerve interconnection in the middle third of the arm (A); three-headed CB with MCN (B).",
+    "A: CB, MCN, LR, MR, MN, 1, 2, 3, BBsh, BBlh, BT, white star; B: BBsh, BBlh, CB1, CB2, CB3, MCN, MN")],
+  "27 cadaveric arms (24 paired, 3 unpaired). Coracobrachialis was \"two-headed muscle in 62.96% (17/27 arms), a three-headed in 22.2% (6/27), a one-headed in 11.1% (3/27), and a four-headed in 3.7% (1 arm)\"; MCN coursed between CB superficial and deep heads in 100% (24/24) of multi-headed CB. Interconnections: lateral cord-medial root of MN 18.52%, \"musculocutaneous with the median nerve in 7.41%\", radial-ulnar 3.71%; lateral root of MN duplicated in 11.1%.",
+  "\"Careful dissection and knowledge of relatively common variants play a significant role in reducing iatrogenic injury.\"",
+  "Doubles as topo_variation (CB morphology, MCN-MN interconnection). Same author group (Piagkou) as PMC12619963."),
+ ("topo_lecture", "Medial bicipital groove neurovascular bundle and cubital fossa (brachial artery, median nerve, biceps, brachialis, bicipital aponeurosis)",
+  "PMC8210643",
+  [("jvb-20-e20210008-g03.jpg", "human cadaver",
+    "Anterior view of the distal arm and cubital fossa: biceps brachii and brachialis, median nerve medially, bicipital aponeurosis, and a high division of the brachial artery into radial and ulnar arteries above the cubital fossa.",
+    "BRACHIAL ARTERY, RADIAL ARTERY, ULNAR ARTERY, BICEPS BRACHII, BRACHIALIS, MEDIAN NERVE, BICIPITAL APONEUROSIS, BRACHIORADIALIS, PRONATOR TERES, CUBITAL FOSSA, PROXIMAL/DISTAL/LATERAL/MEDIAL orientation cross")],
+  "42 formalin-fixed adult upper limbs. \"High division of the brachial artery into ulnar and radial arteries, in 3 cases (7.1%)\"; pentafurcation of the brachial artery \"in 1/42 cases (2.4%)\"; incomplete superficial palmar arch 3/42 (7.1%); median artery 2/42 (4.8%).",
+  "Authors state familiarity with these patterns helps \"prevent complications or failures of reconstructive surgeries, bypass angiography, and many similar procedures.\"",
+  "Excellent, heavily labelled teaching photo; also usable as topo_variation (high division of brachial artery, series prevalence)."),
+ ("topo_lecture", "Posterior compartment: radial nerve in the spiral groove relative to triceps aponeurosis and deltoid tuberosity",
+  "PMC11401578",
+  [("gr2.jpg", "schematic",
+    "Author drawing of the posterior humerus showing the radial nerve (yellow) crossing the posterior humerus at the level of the distal deltoid tuberosity (star/arrows).",
+    "Deltoid, posterior humerus, red star, two black arrows, orientation cross (Proximal, Lateral, Distal)"),
+   ("gr1.jpg", "human cadaver",
+    "Posterior arm (triceps): triceps aponeurosis with a dashed line joining its medial and lateral edges and the midpoint reference marked.",
+    "Proximal, Medial, green star, black dashed line, black arrow"),
+   ("gr3.jpg", "human cadaver",
+    "Triceps-splitting exposure: radial nerve in its fibrous sheath (A) and sheath contents after dissection (B) - accompanying vein/artery (profunda brachii vessels), radial nerve proper, posterior antebrachial cutaneous nerve and branch to medial head of triceps.",
+    "A, B, green star, red star, blue, yellow and green dots (no text labels)")],
+  "32 fresh-frozen cadaver specimens, posterior triceps-splitting approach. \"The average distance between the aponeurosis apex and the radial nerve was 40.3 mm (range: 28-60).\" The radial nerve was \"consistently found in all specimens, situated posteriorly at the humerus's mid-axial level at the distal part of the deltoid tuberosity.\"",
+  "\"The triceps aponeurosis and distal deltoid tuberosity serve as reliable and practical landmarks for dissecting and exploring the radial nerve during posterior humeral approaches.\"",
+  "Caption symbols are inline graphics lost in the XML (captions read \"The () denotes...\"); the marker legend must be inferred from the article body - write slide labels in Turkish yourself. Specimens are fresh (red) tissue."),
+ ("topo_lecture", "Superficial veins & cutaneous nerves of the arm: basilic vein, brachial veins, medial brachial cutaneous nerve",
+  "PMC12619963",
+  [("cureus-0017-00000094802-i01.jpg", "human cadaver + schematic",
+    "Medial upper arm: basilic vein (fenestrated, medial and lateral limbs), brachial veins, brachial artery, median and ulnar nerves and medial brachial cutaneous nerve; panel B is an author schematic of the same region.",
+    "A: MN, UN, BA, BaV, BaV-ml, BaV-ll, BrV, MBCN-UN*, MBCN, PMi; B: BA, BaV, UN, BaV-ml, BaV-ll, MBCN-UN*, BrV, MBCN, *")],
+  "Single case (68-year-old male). Fenestrated basilic vein \"approximately 12.7 mm distal to the inferior border of the pectoralis minor muscle\"; fenestration \"measured 17.6 mm in length\"; a variant MBCN-ulnar communicating branch traversed the fenestration. Contralateral arm normal.",
+  "\"Such variants are of clinical importance due to their potential impact on venous catheterization, axillary block anesthesia, and vascular access surgery.\"",
+  "Case report (variant), but the photo is one of the few CC BY labelled views of the basilic vein / brachial veins / MBCN relationship in the medial arm."),
+ ("topo_variation", "Supernumerary (third) head of biceps brachii: prevalence and effect on arm topography (CC BY replacement for PMC5752815)",
+  "PMC11596292",
+  [("medicina-60-01726-g001.jpg", "human cadaver",
+    "Anterior arm dissection: biceps long and short heads, musculocutaneous nerve, median nerve, coracobrachialis, brachial artery and deep brachial (profunda brachii) artery origin, teres major.",
+    "A: MCN, MN, TM, LH, SH, (A); B: CBM, DBA, BA, MN, (B)"),
+   ("medicina-60-01726-g002.jpg", "human cadaver (annotated)",
+    "Annotated photo giving mean positions as % of upper-limb length from the coracoid process: median nerve roots 5.95%, MCN piercing point 9.88%, deep brachial artery 15.77%, coracobrachialis insertion 22.38-30.31%, biceps insertion 57.82%.",
+    "Coracoid process 0, MNR 5.95 %, Piercing point 9.88 %, Deep brachial artery 15.77 %, 22.38 %, Coracobrachialis insertion, 30.31 %, 57.82 %, Biceps brachii insertion")],
+  "103 cadaveric upper extremities. \"a supernumerary head of the BBM was found in 12/103 (11.65%) of upper extremities and was associated with a longer upper limb (506.25 ± 32.55 mm vs. 484.27 ± 30.41 mm, p = 0.022)\"; with the accessory head, CBM distal insertion 28.18 ± 3.54% vs 30.59 ± 2.94% (p = 0.011) and BBM length 55.11 ± 2.17% vs 58.18 ± 3.72% (p = 0.006).",
+  "\"BBM variations may affect the topography of other structures, such as the length of the upper extremities, insertion of the CBM, and length of the BBM.\"",
+  "Neither figure visibly labels the supernumerary head itself; Fig. 1 is better used as a normal anterior-arm topography photo (topo_lecture). Fig. 2 percentages are the paper's own measurements."),
+ ("topo_variation", "Coracobrachialis morphology types and musculocutaneous nerve formation/innervation patterns (100 limbs)",
+  "PMC11184416",
+  [("acb-57-2-194-f1.jpg", "human cadaver",
+    "Four morphological types of coracobrachialis (one- to four-headed) with the course of the MCN superficial to or between its heads; B also shows an MCN-MN communicating branch and third/fourth biceps heads.",
+    "Biceps, Brachialis, LCF, MN, BA, CBM, MCN, LR, MR, AX, UN, MC, LC, LH, SH, CP, Cb, 3rd, 4th, (1)-(4), Pectoralis Major/Minor, Subscapularis, Lat. Dorsi, Serratus Anterior, MCF, A-D"),
+   ("acb-57-2-194-f4.jpg", "human cadaver",
+    "MCN formation and branching patterns (I-IV): MCN piercing CBM and giving branches to biceps (1), brachialis (2) and lateral cutaneous nerve of forearm (3); pattern IV shows absent MCN with the median nerve supplying the flexors.",
+    "Pattern (I)-(IV), SH, LH, MCN, CBM, BA, MN, UN, MR, R1, R2, LC, AX, MC, MCF, (1), (2), (3), arrows, ****, Biceps, Brachialis, Lat. Dorsi, Subscapularis")],
+  "100 upper limbs of 50 cadavers. CBM \"two-headed (63.0%) followed by the single belly (22.0%), three-headed (12.0%) and lastly four-headed (3.0%)\"; abnormal insertion 4.0%. CBM innervation: \"MCN (80.0%), lateral cord (14.0%), lateral root of median nerve (4.0%), and median nerve itself (2.0%)\". MCN superficial to single-belly CBM 19.0%, between heads 71.0%.",
+  "\"Awareness of the anatomic variations, innervation patterns, and MCN relation of CBM is imperative in recent diagnostic and surgical procedures.\"",
+  "LICENCE CC BY-NC (acceptable, flagged). Labels are small but legible at 700 px; also usable for topo_lecture (MCN branches to biceps/brachialis)."),
+ ("topo_variation", "High origin of the radial artery (brachioradial artery) and cubital crossover (120 limbs)",
+  "PMC6016218",
+  [("BMRI2018-1520929.002.jpg", "human cadaver",
+    "Two brachioradial arteries arising in the arm, running superficial to the median nerve in the medial bicipital groove beside the 'normal' brachial artery; superficial veins and medial cutaneous nerve of forearm visible.",
+    "(a): MN, BA, BV, BRA, CV, MCV, MCNF, white arrowhead; (b): UN, MN, BRA, BA, white arrowhead"),
+   ("BMRI2018-1520929.008.jpg", "schematic",
+    "Author schematic of six patterns (a-f) of the cubital crossover between brachioradial and brachial arteries.",
+    "BA, RA, UA, RRA, URA, CIA, hBRA, BRA, MB, aRRA, black arrowheads, (a)-(f)")],
+  "120 formalin-fixed upper limbs. \"Among the 120 examined upper limbs, the radial artery was found to have a high origin in 11 specimens (11/120; 9.2% of the total number of limbs)\": two from the axillary and nine from the brachial artery. Cubital anastomosis \"frequently observed (6/11 = 54.55%)\". Literature range \"varies from 4.67% to 15.6%\".",
+  "Abstract: \"A complete radioulnar arch was found more often when the brachioradial artery was present as a variant.\"",
+  "Fig. 8 is an original author schematic (unlike Fig. 7, which is a CC BY modification of Wysiadecki et al. 2017 - not downloaded). Fig. 3 of this article also exists in the folder (downloaded by another agent, not part of this entry)."),
+ ("topo_variation", "Musculocutaneous-median nerve communications (fetal series, types I/II)",
+  "PMC5035692",
+  [("1413-7852-aob-24-04-00200-gf5.jpg", "human fetal cadaver",
+    "Fetal left arm: musculocutaneous nerve sending an anastomotic branch to the median nerve in the middle third of the arm (A) with magnified detail (B).",
+    "A, B, Anastomosis, Musculocutaneous nerve, Median nerve, yellow box/arrows"),
+   ("1413-7852-aob-24-04-00200-gf1.jpg", "human fetal cadaver",
+    "Fetal left arm: musculocutaneous-median anastomotic branch (type I).",
+    "Musculocutaneous nerve, Median nerve, Anastomosis, yellow arrows")],
+  "40 limbs of 20 fetal cadavers. \"A communicating branch was found in 10 upper limbs. In nine limbs there was a musculocutaneous-median anastomosis (type I); and in one limb there was a median-musculocutaneous anastomosis (type II).\" i.e. \"25% of anastomosis between the median and musculocutaneous nerve and 75% of anastomosis absence\".",
+  "\"It is very important to know these anatomical variations, especially when considering clinical examination, diagnostic, prognostic and surgical treatment.\"",
+  "Low resolution (386 and 393 px wide) - legible but use at small size. Fetal material. Adult prevalence comparators available in PMC10514118 (7.41%)."),
+ ("topo_variation", "High bifurcation of the brachial artery (case, painted dissection)",
+  "PMC10997832",
+  [("cureus-0016-00000055681-i01.jpg", "human cadaver",
+    "Painted dissection (arteries red, nerves yellow) of the arm: brachial artery bifurcating high into radial and ulnar arteries, with MCN, median and ulnar nerves and medial cutaneous nerve of forearm.",
+    "MN, MCN, BA, BB, UN, UA, MCNF, RA")],
+  "Single case, 40-year-old male cadaver; \"The BA bifurcation is 7.5 cm from the lower border of the teres major muscle\". Prevalence cited from literature: \"estimated to occur in 1% to 5% of the population\".",
+  "Authors note vascular injuries \"occur in about 15% of pediatric patients with fully displaced supracondylar fractures, primarily affecting the BA\" and that HBBA \"may complicate surgical procedures such as distal biceps tendon replacement\".",
+  "Case report (no own prevalence). Image 750x293 (wide strip) - labels legible. Prefer PMC8210643/PMC6016218 for series data."),
+ ("kesit_lecture", "Ultrasound of the arm nerves at mid-arm: radial & musculocutaneous (low-middle third) and median & ulnar (upper-middle third)",
+  "PMC6195720",
+  [("12871_2018_584_Fig1_HTML.jpg", "US + schematic + clinical photo",
+    "Probe positions, schematic nerve topography and transverse US at two arm levels: RN between brachialis and humerus, MCN between biceps and brachialis (C); MN and UN around the brachial artery and basilic vein (G).",
+    "A: p1; B: MCN, RN, p1; C: T, B, M, MCN, RN, HB; E: p2; F: MN, UN, p2; G: MN, V, A, UN, HB, 3.5 cm")],
+  "RCT of 24 patients (Arm Group n = 12, Axillary Group n = 12). Selective arm block: MN, UN and MACN at upper-median 1/3 of the arm; RN and MCN at low-median 1/3. \"the incidence of motor block at the elbow in the Arm Group was lower than in the Axillary Group.\"",
+  "Selective ultrasound-guided arm-level block allows \"improved retention of motor function at the elbow compared to axillary block\" (from abstract conclusions).",
+  "Panel B/F nerve schematics appear to be rendered from 3D anatomy software (no reproduction notice in caption) - prefer the US panels C and G for slides; crop if needed."),
+ ("kesit_lecture", "Ultrasound reference sites of radial nerve (above spiral groove, spiral groove, antecubital fossa), MCN and MACN",
+  "PMC8104199",
+  [("medi-100-e25812-g002.jpg", "US + schematic",
+    "Arm outline with probe positions and transverse US images: radial nerve outlined above the spiral groove (A, TR/H) and in the spiral groove (B, TR/Br), MCN in the axilla (F, BB/H), MACN beside the basilic vein (G), LACN with cephalic vein (H).",
+    "A: TR, H; B: TR, Br; C: BR, Br; D: ECRL, Su; E: BR, ECRL; F: BB, H; G: BV; H: CV; panel letters A-H")],
+  "107 healthy adults (mean age 46). Radial nerve CSA (mm2): above SG 7.02 ± 1.87, SG 6.81 ± 1.75, antecubital fossa 7.26 ± 1.70; median nerve mid-arm 9.34 ± 2.38; ulnar mid-arm 6.37 ± 1.56; MACN mid-arm 3.30 ± 1.13; MC axilla 3.81 ± 1.28 (Table 1). \"The CSA significantly correlated with gender, height, weight, and body mass index.\"",
+  "Provides site-specific CSA reference values for diagnosing upper-extremity neuropathies on high-resolution US.",
+  "LICENCE CC BY-NC (acceptable, flagged). Panels C-E are forearm/elbow (Önkol region)."),
+ ("kesit_lecture", "Ultrasound of the radial nerve in the spiral groove and distal arm (probe position + normal appearance)",
+  "PMC6269333",
+  [("13244_2018_662_Fig2_HTML.jpg", "US + clinical photo",
+    "Probe placement on the posterolateral arm and normal honeycomb radial nerve in the spiral groove between lateral and medial heads of triceps (b); distal arm view between brachialis and brachioradialis (d).",
+    "a, b, c, d, white stars (triceps heads), crossheads, B, Br, red arrowheads")],
+  "Pictorial review. The radial nerve \"winds around the spiral groove accompanied by the profunda brachii artery\" and \"is easily identified on ultrasound in its short axis overlying the humerus between the lateral and medial heads of the triceps.\"",
+  "\"Fracture of the humerus shaft can result in wrist drop as injury to the nerve usually occurs in the spiral groove or in the mid-arm.\"",
+  "Fig. 1 (green nerve schematic) REJECTED and deleted: caption cites ref [13] = Rigoard P, Atlas of anatomy of nerves of the upper limb (Springer) - likely adapted from a copyrighted atlas."),
+ ("kesit_lecture", "Ultrasound of the radial nerve in the spiral groove (transverse, labelled humerus/brachialis)",
+  "PMC6423902",
+  [("fneur-10-00216-g0002.jpg", "US + clinical photo",
+    "Transducer just above the elbow on the lateral arm; transverse US showing the radial nerve (arrow) on the convex humeral cortex in the spiral groove, brachialis medially.",
+    "Lateral, Medial, Humerus, Brachialis, white arrow")],
+  "Narrative review. \"The radial nerve travels over the shallow groove of the humerus (spiral groove) with the deep brachial artery\"; on US \"the radial nerve can be identified adjacent to the humerus, coursing through the spiral groove\" and \"the deep brachial artery can be identified adjacent to the radial nerve.\"",
+  "Review provides a systematic ultrasonographic approach for suspected radial neuropathy at the elbow.",
+  "Image 708x268; text labels legible."),
+ ("kesit_lecture", "Axial MRI of the mid-arm compartments (T1w with muscle ROIs)",
+  "PMC9911574",
+  [("13244_2023_1374_Fig1_HTML.jpg", "MRI",
+    "Axial T1-weighted images at mid-thigh (a), mid-leg (b) and mid-arm (c); panel c outlines medial, lateral and long heads of triceps, biceps brachii and coracobrachialis.",
+    "a, b, c and coloured numbered boxes 1-9 (c: 1-5); numbers are tiny")],
+  "6 healthy volunteers scanned bilaterally at mid-arm, mid-leg and mid-thigh on 3 vendors' 3T scanners. \"No statistically significant inter-vendor differences were observed\"; ICC for MD, FA and RD ranged 0.88-0.95, 0.85-0.95 and 0.89-0.92.",
+  "Supports multi-centre quantitative DTI of skeletal muscle (arm included).",
+  "Only panel c (~170 px wide within a 784x261 composite) is arm; numbered labels are very small - crop and relabel. Best available CC BY normal axial arm MRI found; consider VHP cross-sections instead (already in repo)."),
+ ("kesit_variation", "Supracondylar process of the humerus on X-ray, CT and US",
+  "PMC11780019",
+  [("13244_2025_1901_Fig8_HTML.jpg", "radiograph + CT + US",
+    "Supracondylar process (arrow) on oblique radiograph of the distal humerus (a), axial CT through the distal arm (b) and ultrasound (c).",
+    "a., b., c., white arrows")],
+  "Narrative review: \"A supracondylar process is a bony spur arising from the anteromedial humerus, approximately 3-6 cm proximal to the medial epicondyle, and is present in 1-2% of individuals.\" It \"can be easily detected on X-ray images obtained in oblique views but may not be identified in anteroposterior or lateral views alone.\" On US it \"appears as a thick echogenic line with distal acoustic shadowing, while the Struthers' ligament appears as a thin, hypoechoic linear structure.\"",
+  "\"Supracondylar process syndrome refers to the compression of the MN under this bony process or ligament.\"",
+  "Figure is small (790x212 composite) but the spur is clear. Prevalence is cited, not original."),
+ ("kesit_variation", "Supracondylar spur on lateral elbow radiograph (median nerve / ligament of Struthers)",
+  "PMC9556688",
+  [("13244_2022_1305_Fig11_HTML.jpg", "radiograph + MRI",
+    "Panel a: lateral elbow radiograph of a 56-year-old man with a supracondylar spur (arrow). Panels b-c are carpal tunnel MRI (bifid median nerve/persistent median artery; ganglion) - El region.",
+    "a, L, white outlined arrow; b, c: white and blue arrows")],
+  "Pictorial review: ligament of Struthers is \"a fibrous band connecting the congenital supracondylar spur, present in 1% of individuals, with the medial epicondyle of the humerus.\"",
+  "Spur \"is a known risk factor for median nerve impingement at the ligament of Struthers.\"",
+  "Crop panel a for KOL; panel b could serve the El (hand) region."),
+ ("kesit_variation", "Accessory brachial artery on Doppler ultrasound: prevalence in 500 limbs of volunteers",
+  "PMC11042541",
+  [("jvb-23-e20230117-g07-en.jpg", "US (colour Doppler)",
+    "Transverse colour Doppler of the arm showing an accessory brachial artery superficial to the principal brachial artery.",
+    "Accessory brachial artery, Principal brachial artery, UPPER LIMB ARTERIAL (scanner text), 3.0cm"),
+   ("jvb-23-e20230117-g02-en.jpg", "US (colour Doppler)",
+    "Transverse colour Doppler of the arm showing a single principal brachial artery (normal pattern).",
+    "Principal brachial artery, UPPER LIMB ARTERIAL (scanner text), 3.0cm")],
+  "500 upper limbs of 250 volunteers. \"15.6% of the participants in our study had the accessory brachial artery anatomical variation\" (39 participants: bilateral 6 = 2.4%, right only 20 = 8%, left only 13 = 5.2%); no sex difference (p = 0.401). Cadaveric literature range \"from 0.2% to 22%\".",
+  "\"Being aware of this variation is fundamental in procedures such as peripheral venipuncture, arteriovenous fistula creation, catheterization, forearm flaps, emergency surgeries on the limb and even correction of fractures by cast.\"",
+  "The article reports prevalence per participant (39/250) although the text says '39 limbs' - quote carefully. Portuguese-language duplicate figures (no -en suffix) not downloaded."),
+ ("kesit_variation", "Bifid distal biceps tendon at the radial tuberosity on 3T MRI (with partial-tear classification)",
+  "PMC10698130",
+  [("cise-2023-00458f1.jpg", "MRI",
+    "Sagittal (A) and axial (B) 3T MRI of an isolated long-head partial tear of the distal biceps tendon; white arrows intact tendon, yellow arrow torn tendon.",
+    "A, B, white arrows, yellow arrow")],
+  "44 3T MRI scans of 44 elbows with partial DBT tears: 9 isolated long-head (20%), 13 isolated short-head (30%), 2 complete long + partial short (5%), 5 complete short + partial long (11%), 15 peel-off (34%); \"13 of the 44 DBTs were bifid tendons at the insertion (30%)\".",
+  "\"Classification of tears may have implications for operative and non-operative management.\"",
+  "LICENCE CC BY-NC (flagged). Pathology population, not a normal-prevalence study; figure shows a tear, not a labelled normal tendon. Use only if no better distal biceps imaging found (gap)."),
+]
+
+out = []
+for use, topic, pmcid, figs, kf, cr, notes in E:
+    d = RAW / pmcid
+    js = sorted(d.glob(f"{pmcid}.*.json"))[-1]
+    j = json.loads(js.read_text())
+    ver = int(js.stem.rsplit(".", 1)[1])
+    root = ET.parse(d / f"{pmcid}.{ver}.xml").getroot()
+    meta = root.find(".//article-meta")
+    au = [f"{t(c.find('name/surname'))} {t(c.find('name/given-names'))}" for c in meta.findall(".//contrib[@contrib-type='author']") if c.find("name") is not None]
+    year = re.search(r"\b(19|20)\d{2}\b", j.get("citation", "")).group(0)
+    capmap = {}
+    for f in root.iter("fig"):
+        for g in f.iter("graphic"):
+            capmap[g.get(XL)] = (t(f.find("label")), t(f.find("caption")))
+    fl = []
+    for fn, spec, what, labs in figs:
+        p = d / fn
+        assert p.exists(), p
+        lab, cap = capmap[fn.rsplit(".", 1)[0]] if fn.rsplit(".", 1)[0] in capmap else capmap[fn]
+        w, h = Image.open(p).size
+        fl.append({"file": fn, "label": lab, "caption": cap, "specimen": spec, "what_it_shows": what,
+                   "labels_visible_in_image": labs, "pixels": f"{w}x{h}",
+                   "local_path": str(p.relative_to(ROOT))})
+    out.append({"use": use, "topic": topic, "pmcid": pmcid, "version": ver, "doi": j.get("doi"),
+                "citation": j.get("citation"), "title": t(meta.find(".//article-title")),
+                "authors": ", ".join(au[:3]) + (" et al." if len(au) > 3 else ""), "year": year,
+                "journal": t(root.find(".//journal-title")), "license_code": j.get("license_code"),
+                "figures": fl, "key_findings": kf, "clinical_relevance": cr, "notes": notes})
+
+(ROOT / "sources/bolge_kol.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n")
+print(len(out), "entries;", sum(len(e["figures"]) for e in out), "figures")

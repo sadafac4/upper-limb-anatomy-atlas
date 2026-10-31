@@ -1,0 +1,914 @@
+[
+  {
+    "use": "topo_lecture",
+    "topic": "Carpal tunnel opened: flexor retinaculum, median nerve, FPL; FCR outside the tunnel",
+    "pmcid": "PMC8569728",
+    "version": 1,
+    "doi": "10.3906/sag-2012-31",
+    "citation": "Turk J Med Sci. 2021 Aug 30;51(4):1912–6. doi: 10.3906/sag-2012-31",
+    "title": "Tendon of Flexor Carpi Radialis in carpal tunnel: a radiologic and cadaveric study",
+    "authors": "ERÇAKMAK GÜNEŞ B., VATANSEVER A., DEMİRYÜREK D. et al.",
+    "year": "2021",
+    "journal": "Turkish Journal of Medical Sciences",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "turkjmedsci-51-1912-fig002.jpg",
+        "label": "Figure 2",
+        "caption": "Dissection of the wrist joint. Black asterix; flexor retinaculum. Red asterix; tendon of flexor carpi radialis. Blue asterix; tendon of palmaris longus. Yellow asterix; median nerve. Green asterix; tendon of flexor pollicis longus muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Fresh-frozen wrist dissection: flexor retinaculum (black *) with median nerve (yellow *) and FPL tendon (green *) passing deep to it, while the FCR tendon (red *, lifted on a probe) and palmaris longus (blue *) lie superficial to the retinaculum.",
+        "labels_visible_in_image": "colour-coded asterisks only (black, red, blue, yellow, green *); no text labels",
+        "pixels": "720x540",
+        "local_path": "topografik/images/raw/PMC8569728/turkjmedsci-51-1912-fig002.jpg"
+      }
+    ],
+    "key_findings": "MRI part: 118 wrists (74 female, 44 male) without pathology on axial T1 at the pisiform level; 'the tendon of the flexor carpi radialis was found above the flexor retinaculum within its own septal compartment in all patients.' Cadaveric part: 3 fresh-frozen upper limbs dissected.",
+    "clinical_relevance": "Authors conclude FCR crosses the wrist superficial to the carpal tunnel and 'doesn't have any effect on the carpal tunnel syndrome'.",
+    "notes": "Turkish authors (Turk J Med Sci). Fig 1 (axial MRI) of the same article is used under kesit_lecture as well (see next entry). Labels are colour asterisks only: the slide needs a Turkish legend."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Axial MRI at pisiform level: carpal tunnel contents, flexor retinaculum, FCR compartment",
+    "pmcid": "PMC8569728",
+    "version": 1,
+    "doi": "10.3906/sag-2012-31",
+    "citation": "Turk J Med Sci. 2021 Aug 30;51(4):1912–6. doi: 10.3906/sag-2012-31",
+    "title": "Tendon of Flexor Carpi Radialis in carpal tunnel: a radiologic and cadaveric study",
+    "authors": "ERÇAKMAK GÜNEŞ B., VATANSEVER A., DEMİRYÜREK D. et al.",
+    "year": "2021",
+    "journal": "Turkish Journal of Medical Sciences",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "turkjmedsci-51-1912-fig001.jpg",
+        "label": "Figure 1",
+        "caption": "An MRI section demonstrating flexor carpi radialis tendon’s relation with the carpal tunnel. Red arrow; the tendon of flexor carpi radialis. Yellow arrow; flexor retinaculum. Green asterix; tendons of flexor dig",
+        "specimen": "MRI",
+        "what_it_shows": "Axial T1 MRI of a normal wrist at the pisiform level: flexor retinaculum (yellow arrow) roofing the carpal tunnel full of flexor tendons (green *), and the FCR tendon (red arrow) in its own compartment radial/superficial to the retinaculum.",
+        "labels_visible_in_image": "red arrow, yellow arrow, green asterisk; no text",
+        "pixels": "782x674",
+        "local_path": "topografik/images/raw/PMC8569728/turkjmedsci-51-1912-fig001.jpg"
+      }
+    ],
+    "key_findings": "Same study: 118 normal wrists on MRI; FCR tendon above the flexor retinaculum in its own septal compartment in all patients.",
+    "clinical_relevance": "Useful for defining carpal tunnel boundaries/contents on cross-sectional imaging.",
+    "notes": "XML caption is itself truncated ('Green asterix; tendons of flexor dig') - reproduced verbatim; meaning: tendons of flexor digitorum. Bones (scaphoid, lunate/capitate, pisiform/triquetrum) visible but unlabelled."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Ulnar nerve in Guyon's canal: superficial/deep branches, palmaris brevis branches (normal pattern)",
+    "pmcid": "PMC5250657",
+    "version": 1,
+    "doi": "10.1007/s00402-016-2616-4",
+    "citation": "Arch Orthop Trauma Surg. 2016 Dec 23;137(2):277–83. doi: 10.1007/s00402-016-2616-4",
+    "title": "Anatomical variability and histological structure of the ulnar nerve in the Guyon’s canal",
+    "authors": "Depukat P., Henry B. M., Popieluszko P. et al.",
+    "year": "2016",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "402_2016_2616_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Classic division of ulnar nerve into deep and superficial branches",
+        "specimen": "human cadaver",
+        "what_it_shows": "Fresh cadaver dissection of Guyon's canal showing the classic bifurcation of the ulnar nerve into deep (motor) and superficial branches, the superficial branch giving a cutaneous branch, nerves to palmaris brevis, the common palmar digital nerve to digits 4-5 and the medial palmar digital nerve.",
+        "labels_visible_in_image": "Ulnar nerve; Superficial branch; Deep branch; Cutaneus branch; Common palmar digital nerve to 4th and 5th fingers; Nerves to palmaris brevis; Medial palmar digital nerve",
+        "pixels": "646x431",
+        "local_path": "topografik/images/raw/PMC5250657/402_2016_2616_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "50 fresh cadavers dissected bilaterally (100 hands). 'Three major branching patterns were found, with division into deep and superficial UN being the most common (85%).' Cutaneous branch within the canal in 70%; UN-MN anastomosis in 57%.",
+    "clinical_relevance": "'additional branches and anastomoses are common and should be taken into careful consideration when approached during surgery in the area, particularly during decompression procedures of Guyon's canal.'",
+    "notes": "Same article supplies the variation figures (Fig 2-3) in the topo_variation entry below. Image text is English and spells 'Cutaneus'."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Superficial palmar arch (complete) with common palmar digital arteries/nerves and Berrettini anastomosis",
+    "pmcid": "PMC12823052",
+    "version": 1,
+    "doi": "10.7759/cureus.99862",
+    "citation": "Cureus. 2025 Dec 22;17(12):e99862. doi: 10.7759/cureus.99862",
+    "title": "Anatomical Variations of the Neurovascular Structures of the Hand and the Clinical Significance",
+    "authors": "Kapor S., Bjelogrlic P., Simic V. et al.",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0017-00000099862-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Dissection view of superficial palmar arch (complete type), as well as common palmar digital arteries and common digital palmar nerves with Berrettini anastomosis (type III)UA: ulnar artery; MN: median nerve; UN: ulnar nerve; spa: superficial palmar arch; cb: common bidirectional branch; 1-4: common digital palmar arteries ; I-IV: common digital palmar nervesDissection done by: Dr. Slobodan Kapor.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Embalmed palm dissection showing a complete superficial palmar arch from the ulnar artery, common palmar digital arteries 1-4 and common palmar digital nerves I-IV from the median and ulnar nerves, with a bidirectional (type III) Berrettini communicating branch (cb).",
+        "labels_visible_in_image": "UA, UN, MN, spa, cb, 1, 2, 3, 4, I, II, III, IV, 1/2; handwritten tags '5K 1' and '5K 2'",
+        "pixels": "750x1042",
+        "local_path": "topografik/images/raw/PMC12823052/cureus-0017-00000099862-i02.jpg"
+      }
+    ],
+    "key_findings": "36 embalmed upper limbs (18 right, 18 left). 'Complete SPAs were observed in 55.6% (n=20) of specimens ... while 44.4% (n=16) showed incomplete patterns'. 'The Berrettini anastomosis was present in 33.3% (n=12) of hands, with Type III being most common (66.7%, n=8/12), and no Type I anastomoses were identified.'",
+    "clinical_relevance": "'The frequent occurrence of complex Berrettini anastomoses underscores the importance of detailed anatomical awareness to avoid complications in hand surgery and to enhance diagnostic procedures.'",
+    "notes": "Doubles as a variation source (SPA completeness + Berrettini prevalence). Pink specimen tags ('5K') are visible in the photo - consider cropping or leave as authentic."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Deep palmar arch and palmar metacarpal arteries",
+    "pmcid": "PMC8808664",
+    "version": 1,
+    "doi": "10.7759/cureus.20873",
+    "citation": "Cureus. 2022 Jan 2;14(1):e20873. doi: 10.7759/cureus.20873",
+    "title": "Variations in the Pattern of the Deep Palmar Arch of the Hand and Its Surgical Importance",
+    "authors": "Dawani P., Mahajan A., Vasudeva N. et al.",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0014-00000020873-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Deep palmar arch formed by the continuation of the radial artery and the superior deep palmar branch of the ulnar artery.PMAs: palmar metacarpal arteries; SDPBUA: superior deep palmar branch of the ulnar artery; P: proximal; D: distal; R: radial; U: ulnar",
+        "specimen": "human cadaver",
+        "what_it_shows": "Deep palm dissection: deep palmar arch formed by the radial artery and the superior deep palmar branch of the ulnar artery, giving palmar metacarpal arteries; orientation cross (D/P/R/U).",
+        "labels_visible_in_image": "PMAs; SDPBUA; D, P, U, R (orientation)",
+        "pixels": "750x730",
+        "local_path": "topografik/images/raw/PMC8808664/cureus-0014-00000020873-i01.jpg"
+      },
+      {
+        "file": "cureus-0014-00000020873-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Deep palmar arch formed by the radial artery and the inferior deep branch of the ulnar artery.PMAs: palmar metacarpal arteries; IDPBUA: inferior deep palmar branch of the ulnar artery; P: proximal; D: distal; R: radial; U: ulnar",
+        "specimen": "human cadaver",
+        "what_it_shows": "Deep palmar arch completed by the inferior deep palmar branch of the ulnar artery (alternative type), with palmar metacarpal arteries.",
+        "labels_visible_in_image": "PMAs; IDPBUA; D, P, R, U (orientation)",
+        "pixels": "750x628",
+        "local_path": "topografik/images/raw/PMC8808664/cureus-0014-00000020873-i02.jpg"
+      }
+    ],
+    "key_findings": "30 formalin-fixed hands (16 right, 14 left). 'All deep palmar arches were complete.' Arch length '4.2 ± 0.47 cm on the right side and 4.0 ± 0.6 cm on the left side'; deep palmar branch diameters of radial and ulnar arteries '4.02 ± 0.48 mm and 1.90 ± 0.36 mm, respectively'.",
+    "clinical_relevance": "'it can be safe to sacrifice the radial artery in procedures such as radial artery harvesting and radial artery flap transfer.'",
+    "notes": "Two arch types (superior vs inferior deep branch of ulnar artery) can be shown side by side."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Lumbricals 1-4 arising from FDP tendons distal to the carpal tunnel; thenar/hypothenar eminences",
+    "pmcid": "PMC2527548",
+    "version": 1,
+    "doi": "10.1186/1757-1626-1-103",
+    "citation": "Cases J. 2008 Aug 18;1:103. doi: 10.1186/1757-1626-1-103",
+    "title": "An additional muscle belly of the first lumbrical muscle",
+    "authors": "Nayak S. R., Rathan R., Chauhan R. et al.",
+    "year": "2008",
+    "journal": "Cases Journal",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "1757-1626-1-103-1.jpg",
+        "label": "Figure 1",
+        "caption": "Right side palmar surface of the hand. 1, first lumbrical; 2, second lumbrical; 3, third lumbrical; 4, fourth lumbrical; CT, carpal tunnel; FDS, flexor digitorum superficialis tendon to the index finger; FR, flexor retinaculum; HE, hypothenar eminence; TE, thenar eminence. Note the 4-point star indicates the additional muscle belly of the first lumbrical muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Palmar dissection after removal of the palmar aponeurosis: four lumbricals (1-4) on the FDP tendons, FDS tendon to the index, flexor retinaculum over the carpal tunnel, thenar and hypothenar eminences; a star marks an extra belly of the first lumbrical from the FDS tendon.",
+        "labels_visible_in_image": "1, 2, 3, 4, FDS, TE, HE, FR, FR, CT; 4-point star; small arrows along FDS",
+        "pixels": "511x621",
+        "local_path": "topografik/images/raw/PMC2527548/1757-1626-1-103-1.jpg"
+      }
+    ],
+    "key_findings": "Single case (adult male cadaver): additional belly of the first lumbrical arising from the FDS tendon to the index 'close to the proximal margin of the flexor retinaculum'.",
+    "clinical_relevance": "'The presence of such an additional muscle in the carpal tunnel should be considered in the aetiology of carpal tunnel syndrome (CTS).'",
+    "notes": "Case report, but the figure is a clear labelled overview of all four lumbricals, so it serves the lecture; the star can also illustrate lumbrical-origin variation."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Digital flexor pulleys A1/A2 on four fingers (cadaver)",
+    "pmcid": "PMC13047401",
+    "version": 1,
+    "doi": "10.4055/cios25123",
+    "citation": "Clin Orthop Surg. 2026 Mar 12;18(2):329–36. doi: 10.4055/cios25123",
+    "title": "An Anatomical Study to Ensure Precise Percutaneous Release of the Annular Pulley in the Trigger Finger",
+    "authors": "So Y. I., Lee H. I., Song W. C. et al.",
+    "year": "2026",
+    "journal": "Clinics in Orthopedic Surgery",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "cios-18-329-g002.jpg",
+        "label": "Fig. 2",
+        "caption": "Anatomical finding of the pulleys of 4 fingers. Arrows: gap between A1 and A2 pulleys.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Dissected palmar fingers 2-5 with skin and fat removed showing the annular pulleys over the flexor tendons; arrows mark the gap between A1 and A2 pulleys on each finger.",
+        "labels_visible_in_image": "white arrows only; no text labels",
+        "pixels": "608x552",
+        "local_path": "topografik/images/raw/PMC13047401/cios-18-329-g002.jpg"
+      }
+    ],
+    "key_findings": "156 fingers from 39 Korean adult cadavers. 'the A1 pulley averaging 7.2 mm (range, 6.9-7.4 mm) and the A2 pulley averaging 17.1 mm (range, 15.5-18.6 mm) in fingers 2 to 4. The gap between the A1 and A2 pulleys was relatively narrow (average, 3.4 mm). The A1 pulley was located distal to the PC in all cases.'",
+    "clinical_relevance": "Provides skin-crease references for percutaneous A1 release 'while minimizing the risk of A2 pulley injury.'",
+    "notes": "LICENCE CC BY-NC (acceptable but flagged). No CC BY cadaver photo of the full pulley system was found in the OA bucket; the slide needs A1/A2 labels added by us."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Dorsal branch of ulnar nerve and dorsal branch of ulnar artery in the dorsomedial triangle (6R/6U portals)",
+    "pmcid": "PMC10427770",
+    "version": 1,
+    "doi": "10.7759/cureus.41981",
+    "citation": "Cureus. 2023 Jul 16;15(7):e41981. doi: 10.7759/cureus.41981",
+    "title": "Subcutaneous Dorsomedial Triangle of Forearm: Surgical Anatomy and Clinical Implication",
+    "authors": "Kotgirwar S., Athavale S. A., Lalwani R. et al.",
+    "year": "2023",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0015-00000041981-i03.jpg",
+        "label": "Figure 3",
+        "caption": "a-d showing the contents of the subcutaneous dorsomedial triangle. 3a shows the DBUN ('star') running in the triangle dividing into three branches just proximal to the styloid process, and DBUA ('arrowheads') is seen. 3b line diagram showing the same. 3c shows the DBUN dividing into two branches. 3d line diagram of the photograph in 3c.a=proximal border of pisiform bone; b=tip of styloid process; c=apex of the triangle; ECU=extensor carpi ulnaris; FCU=flexor carpi ulnaris; DB=dorsal branch; UA=ulnar artery; UN=ulnar nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Two dissections of the distal medial forearm/wrist with matching line diagrams: the dorsal branch of the ulnar nerve (star) dividing into three (3a-b) or two (3c-d) branches proximal to the ulnar styloid between ECU and FCU, with the dorsal branch of the ulnar artery (arrowheads).",
+        "labels_visible_in_image": "ECU, FCU, U N, U A, a, b, c, star, P, 3a, 3b, 3c, 3d",
+        "pixels": "750x345",
+        "local_path": "topografik/images/raw/PMC10427770/cureus-0015-00000041981-i03.jpg"
+      }
+    ],
+    "key_findings": "40 adult cadaveric upper limbs (20 right, 20 left). 'Four branching patterns have been mapped, with one dominant pattern in 67.5% of limbs. In three-fourths of cases, one branch of the dorsal branch of the ulnar nerve consistently overlies the 6U portal'.",
+    "clinical_relevance": "Proposes the subcutaneous dorsomedial triangle as a landmark for 'reconstructive microsurgery for distal hand defects' and to avoid nerve injury at wrist arthroscopy portals.",
+    "notes": "Panel letters/labels are small at 750 px wide; acceptable on a half-slide. Overlaps the forearm region (distal forearm), but its content is wrist level."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Superficial branch of the radial nerve and cephalic vein at the radial styloid (snuffbox region)",
+    "pmcid": "PMC3269985",
+    "version": 1,
+    "doi": "10.1186/1754-9493-5-28",
+    "citation": "Patient Saf Surg. 2011 Nov 4;5:28. doi: 10.1186/1754-9493-5-28",
+    "title": "Anatomical relations of the superficial sensory branches of the radial nerve: a cadaveric study with clinical implications",
+    "authors": "Samarakoon L. B., Lakmal K. C., Thillainathan S. et al.",
+    "year": "2011",
+    "journal": "Patient Safety in Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "1754-9493-5-28-1.jpg",
+        "label": "Figure 1",
+        "caption": "A dissected specimen showing superficial branch of the radial nerve (SB), Cephalic vein (V), And the reference point-Radial styloid (O).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Dissected distal radial forearm and wrist with a ruler: superficial branch of the radial nerve (SB) running toward the radial styloid (O) beside the cephalic vein (V).",
+        "labels_visible_in_image": "SB, V, O (yellow letters); ruler scale",
+        "pixels": "600x450",
+        "local_path": "topografik/images/raw/PMC3269985/1754-9493-5-28-1.jpg"
+      }
+    ],
+    "key_findings": "25 forearms. 'The mean distance to the point of emergence of the nerve from the radial styloid was 8.54 cm (SD = 1.32). The nerve branched at a mean distance of 5.57 cm (SD = 1.43)'. 'In 17 specimens(68%) cephalic vein crossed the SBRN superficially once.'",
+    "clinical_relevance": "'We recommend avoiding transverse incisions in the snuffbox region between 2.51 cm and 3.90 cm from the Listers tubercle. We also recommend avoiding cannulation of the cephalic vein in the distal forearm.'",
+    "notes": "Labels are few and small; best used as a supporting image. No CC BY labelled cadaver photo of the snuffbox floor (scaphoid + radial artery) was found - see gaps."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Extensor mechanism of the finger: central slip, lateral slips, terminal tendon; sagittal bands (schematic + US)",
+    "pmcid": "PMC10716571",
+    "version": 1,
+    "doi": "10.1002/ajum.12363",
+    "citation": "Australas J Ultrasound Med. 2023 Oct 12;26(4):216–29. doi: 10.1002/ajum.12363",
+    "title": "Boxer's knuckle: Sonographic anatomy and assessment of sagittal band tears of the dorsal hood",
+    "authors": "Fenech M.",
+    "year": "2023",
+    "journal": "Australasian Journal of Ultrasound in Medicine",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "AJUM-26-216-g006.jpg",
+        "label": "Figure 2",
+        "caption": "Anatomy of the ED tendon of the fingers. (a) Diagram demonstrating the tendon dorsal to the MC and MCPJ. It trifurcates into a central slip and two lateral slips distal to the MCPJ. The central slip inserts onto the dorsal aspect of the proximal aspect of the MP. The two lateral slips run dorsolaterally and insert via a terminal tendon onto the dorsal aspect of the DP. (b) Sagittal depiction of the MCPJ. The ends of bones of the MC and PP are lined with articular cartilage. The dorsal plate and palmar plates are present on the dorsal and palmar aspects of this joint. (c) Long‐axis sonographic image of the MCPJ demonstrating the ED tendon, dorsal plate and articular cartilage. DP, distal phalanx; ED, extensor digitorum; MC, metacarpal; MCPJ, metacarpophalyngeal joint; MP, middle phalanx; PP, proximal phalanx.",
+        "specimen": "schematic",
+        "what_it_shows": "Author diagram of the ED tendon trifurcating into the central slip (to the base of the middle phalanx) and lateral slips (to the distal phalanx via the terminal tendon), plus a sagittal MCP joint diagram and long-axis ultrasound of the ED tendon, dorsal plate and cartilage.",
+        "labels_visible_in_image": "(a) Central slip ED tendon, Lateral slip, DP, MP, PP, MC; (b) Dorsal plate, Palmar plate, PP, MC; (c) Central slip ED tendon, Dorsal plate, Articular cartilage, PP, MC",
+        "pixels": "709x306",
+        "local_path": "topografik/images/raw/PMC10716571/AJUM-26-216-g006.jpg"
+      }
+    ],
+    "key_findings": "Review (single author). 'Injuries to the dorsal hood account for 16% of all hand and wrist injuries in boxers.' Describes the ED tendon trifurcation and the sagittal, transverse and oblique bands of the dorsal hood.",
+    "clinical_relevance": "Sagittal band tears ('boxer's knuckle') cause extensor tendon instability/subluxation at the MCP joint that ultrasound can assess dynamically.",
+    "notes": "Fig 9 (US sagittal bands) of the same article is listed under kesit_lecture. The schematic is simplified (no intrinsic contribution drawn)."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Ultrasound of the sagittal bands over the 3rd MCP joint",
+    "pmcid": "PMC10716571",
+    "version": 1,
+    "doi": "10.1002/ajum.12363",
+    "citation": "Australas J Ultrasound Med. 2023 Oct 12;26(4):216–29. doi: 10.1002/ajum.12363",
+    "title": "Boxer's knuckle: Sonographic anatomy and assessment of sagittal band tears of the dorsal hood",
+    "authors": "Fenech M.",
+    "year": "2023",
+    "journal": "Australasian Journal of Ultrasound in Medicine",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "AJUM-26-216-g003.jpg",
+        "label": "Figure 9",
+        "caption": "Short‐axis sonographic image of the dorsal aspect of the uninjured third MCPJ with (a) and without (b) labels. The ED tendon is demonstrated in short axis. The superficial and deep portions of the sagittal band in midline are seen with the deep portion superficial to the dorsal plate and the articular cartilage of the metacarpal head. The radial and ulnar portions of the sagittal band are demonstrated. ED, extensor digitorum; MCPJ, metacarpophalyngeal joint.",
+        "specimen": "US",
+        "what_it_shows": "Short-axis ultrasound over the uninjured 3rd MCP joint: ED tendon centred by the radial and ulnar sagittal bands, superficial and deep portions of the band, dorsal plate and metacarpal head cartilage; panel b is the unlabelled image.",
+        "labels_visible_in_image": "Ulnar sagittal band; Superficial midline portion sagittal band; Radial sagittal band; ED; Dorsal plate; Deep portion sagittal band; Metacarpal head; Articular cartilage Metacarpal head; (a), (b)",
+        "pixels": "709x396",
+        "local_path": "topografik/images/raw/PMC10716571/AJUM-26-216-g003.jpg"
+      }
+    ],
+    "key_findings": "Same review; normal sonographic anatomy of the dorsal hood.",
+    "clinical_relevance": "Baseline for recognising sagittal band tears and extensor tendon subluxation.",
+    "notes": ""
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Ulnar nerve branching variations in Guyon's canal (trifurcation; radial/ulnar trunks)",
+    "pmcid": "PMC5250657",
+    "version": 1,
+    "doi": "10.1007/s00402-016-2616-4",
+    "citation": "Arch Orthop Trauma Surg. 2016 Dec 23;137(2):277–83. doi: 10.1007/s00402-016-2616-4",
+    "title": "Anatomical variability and histological structure of the ulnar nerve in the Guyon’s canal",
+    "authors": "Depukat P., Henry B. M., Popieluszko P. et al.",
+    "year": "2016",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "402_2016_2616_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Trifurcation pattern of ulnar nerve",
+        "specimen": "human cadaver",
+        "what_it_shows": "Trifurcation of the ulnar nerve in Guyon's canal into a deep branch, a common palmar digital nerve to digits 4-5 and a medial palmar digital nerve to digit 5.",
+        "labels_visible_in_image": "Common palmar digital nerve to 4th and 5th fingers; Ulnar nerve; Medial palmar digital nerve to 5th finger; Deep branch of ulnar nerve",
+        "pixels": "646x430",
+        "local_path": "topografik/images/raw/PMC5250657/402_2016_2616_Fig2_HTML.jpg"
+      },
+      {
+        "file": "402_2016_2616_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Division into a radial trunk and ulnar trunk",
+        "specimen": "human cadaver",
+        "what_it_shows": "Rare pattern: the ulnar nerve divides into a radial trunk and an ulnar trunk, the deep branch arising from the radial trunk.",
+        "labels_visible_in_image": "Radial trunk; Ulnar nerve; Deep branch; Ulnar trunk; Medial palmar digital nerve to 5th digit",
+        "pixels": "646x430",
+        "local_path": "topografik/images/raw/PMC5250657/402_2016_2616_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "50 fresh cadavers, bilateral. Bifurcation 85%; 'Trifurcation of the UN into a deep branch, a common palmar digital nerve (to digits 4 and 5), and a medial palmar digital nerve (digit 5) was seen in 13% of cases'; 'a division of the UN into a radial trunk and ulnar trunk was seen in only 2% of cases'. Cutaneous branch in canal 70%; UN-MN anastomosis 57%; '78% of all the cadavers studied showed symmetry in their branching patterns.'",
+    "clinical_relevance": "Variable branching and anastomoses must be anticipated during Guyon's canal decompression.",
+    "notes": "Original series; CC BY 4.0."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Superficial palmar arch types and communicating branch (corrosion casts) and persistent median artery",
+    "pmcid": "PMC10762056",
+    "version": 1,
+    "doi": "10.1038/s41598-023-50935-2",
+    "citation": "Sci Rep. 2024 Jan 2;14:222. doi: 10.1038/s41598-023-50935-2",
+    "title": "Persistent median artery and communicating branch related to the superficial palmar arch",
+    "authors": "Simić M., Bumbaširević M., Jović D. et al.",
+    "year": "2024",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2023_50935_Fig2_HTML.jpg",
+        "label": "Figure 2",
+        "caption": "Corrosion casts of four hands with the medium length SPA, type 2, giving off three CPDAs. (A) and (B) right hand palmar arteries. (C) and (D) left hand palmar arteries. 1—ulnar artery; 2—superficial palmar arch (SPA); yellow arrows—communicating branch (CB); red arrows—doubled CB; 3—first CPDA; 4—second CPDA; 5—third CPDA; 6—ulnaris digiti minimi palmar artery; 7—radialis indicis artery; 8—radialis pollicis palmar artery; 9—ulnaris pollicis palmar artery; 10—radial artery; 11—prominent superficial palmar branch of the radial artery (SPB).",
+        "specimen": "human cadaver",
+        "what_it_shows": "Corrosion casts (four hands) of medium-length complete SPA (type 2) giving three common palmar digital arteries, with the communicating branch (yellow arrows) to the superficial palmar branch of the radial artery, doubled CB in one (red arrows).",
+        "labels_visible_in_image": "1, 2, 3, 4, 5, 6, 8, 9, 10, 11 (numbers with leader lines); A, B, C, D; yellow/green and red arrows",
+        "pixels": "748x564",
+        "local_path": "topografik/images/raw/PMC10762056/41598_2023_50935_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "20 dissected hands plus 40 corrosion casts. 'The mean diameter of the SPA, between the second and third common palmar digital arteries, was 1.86 ± 0.08 mm. We identified the persistent median artery (PMA) in 5% of hands.' 'Type 2 Medium-length SPA was present in 14 (35%) casts'; 'The short SPA was found in 11 (27.5%) specimens'.",
+    "clinical_relevance": "'That short SPA is potentially inadequate for restoring circulation after occlusion or radial artery harvesting for coronary artery bypass.'",
+    "notes": "Fig 1 NOT downloaded: panel A is a drawing 'modified from Radojević and Bošković' (reproduced third-party material). Fig 2 is the authors' own casts. Note the caption says yellow arrows = CB; in the image the CB arrows in panels B/C are yellow-green."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Riché-Cannieu anastomosis in the thenar region relative to Kaplan's cardinal line",
+    "pmcid": "PMC11193595",
+    "version": 1,
+    "doi": "10.1055/s-0044-1785512",
+    "citation": "Rev Bras Ortop (Sao Paulo). 2024 Jun 22;59(3):e409–14. doi: 10.1055/s-0044-1785512",
+    "title": "Anatomical Study of the Relationship between the Riché-Cannieu Anastomosis and the Kaplan Cardinal Line",
+    "authors": "Caetano E. B., Vieira L. A., Bueno V. S. et al.",
+    "year": "2024",
+    "journal": "Revista Brasileira de Ortopedia",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "10-1055-s-0044-1785512-i2300184en-1.jpg",
+        "label": "Fig. 1",
+        "caption": "The Y line was positioned on the radial side in relation to the most distal point of the ARC in 14 limbs. In one hand, the intersection between the Kaplan cardinal line (KCL) and the Y line was positioned exactly on the Riché-Cannieu anastomosis (RCA). Abbreviations: MN, median nerve; UN, ulnar nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Deep palm dissection showing the Riché-Cannieu communication between the recurrent/thenar branches of the median nerve and the deep branch of the ulnar nerve, with Kaplan's cardinal line (white) and the Y line (yellow, axis of 3rd metacarpal) superimposed.",
+        "labels_visible_in_image": "KCL (x2), Y (x2), MN, UN; double-headed measurement arrows",
+        "pixels": "800x507",
+        "local_path": "topografik/images/raw/PMC11193595/10-1055-s-0044-1785512-i2300184en-1.jpg"
+      },
+      {
+        "file": "10-1055-s-0044-1785512-i2300184en-5.jpg",
+        "label": "Fig. 5",
+        "caption": "The intersection of the KCL and the Y line was positioned proximal to the RCA. The anastomotic fascicles originated from the main trunk of the median nerve. Abbreviations: MN, median nerve. UN, ulnar nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Another hand: anastomotic fascicles from the main trunk of the median nerve joining the deep ulnar branch in the thenar muscles; KCL/Y intersection proximal to the anastomosis.",
+        "labels_visible_in_image": "Y (x2), KCL (x2), MN, UN",
+        "pixels": "800x542",
+        "local_path": "topografik/images/raw/PMC11193595/10-1055-s-0044-1785512-i2300184en-5.jpg"
+      }
+    ],
+    "key_findings": "20 hands of 10 fresh adult male cadavers. 'In the present study, we identified the RCA in all dissected hands.' 'The crossing between the KCL and the Y line occurred proximal to the RCA in 18 limbs'; the Y line lay radial to the most distal RCA point in 14 limbs and ulnar in 6.",
+    "clinical_relevance": "'Knowledge of these anatomical relationships can prevent damage to nerve branches and thus also prevent paralysis of intrinsic muscles in surgical procedures in the palm of the hand.'",
+    "notes": "Small series (20 hands, all male). 100% prevalence here contrasts with wider literature ranges; present as 'frequent communication'. PMC6855928 (larger RCA review, Rev Bras Ortop 2019) rejected: CC BY-NC-ND."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Berrettini anastomosis: prevalence, types and 'probable zone'",
+    "pmcid": "PMC11910384",
+    "version": 1,
+    "doi": "10.7759/cureus.78967",
+    "citation": "Cureus. 2025 Feb 13;17(2):e78967. doi: 10.7759/cureus.78967",
+    "title": "The Berrettini Anastomosis’ Morphology and “Probable Zone”: A Cadaveric Study",
+    "authors": "Mendoza M., Sarpong A., Bennett D. et al.",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0017-00000078967-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Cadaveric dissection reveals the BA’s type I variation, characterized by a single origin from the UN’s CDN4, which anastomoses onto the MN’s CDN3.BA, Berrettini anastomosis; CDN3, common palmar digital nerve 3; CDN4, common palmar digital nerve 4; MN, median nerve; UN, ulnar nerve",
+        "specimen": "human cadaver",
+        "what_it_shows": "Fresh hand dissection: type I Berrettini anastomosis - a single communicating branch from the ulnar nerve's 4th common palmar digital nerve to the median nerve's 3rd common palmar digital nerve.",
+        "labels_visible_in_image": "CDN3, CDN4, BA",
+        "pixels": "750x750",
+        "local_path": "topografik/images/raw/PMC11910384/cureus-0017-00000078967-i02.jpg"
+      }
+    ],
+    "key_findings": "104 fresh cadaveric hands (52 donors). 'The BA was identified in 80% (83/104) of hands. Type I, with a single connection from the UN to the MN, was the most common (38%).' 'The average BA length was 22.03 ± 7.68 mm, with its \"probable zone\" spanning 26.11-44.21% of hand width and 36.63-50.21% of hand length.'",
+    "clinical_relevance": "'Identifying its \"probable zone\" provides valuable guidance for surgical procedures, minimizing the risk of sensory deficits in the hand.'",
+    "notes": "Fig 1 (type diagrams) and Fig 7 (zone diagram) NOT used: captions state 'Image created in BioRender'. Contrast with PMC12823052 (33.3%, 36 embalmed limbs) - prevalence depends on method/definition."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "First dorsal (extensor) compartment: separate EPB subcompartment and multiple APL slips",
+    "pmcid": "PMC2586286",
+    "version": 1,
+    "doi": null,
+    "citation": "Eplasty. 2009 Jun 2;8:e53.",
+    "title": "Anatomic Landmarks for the First Dorsal Compartment",
+    "authors": "Hazani R., Engineer N. J., Cooney D. et al.",
+    "year": "2009",
+    "journal": "Eplasty",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "eplasty08e53_fig1.jpg",
+        "label": "Figure 1",
+        "caption": "Anatomic landmarks for the first dorsal compartment. APL, abductor pollicis longus; ALS, APL-Lister's-Scaphoid; EPB, extensor pollicis brevis.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Radial wrist dissection marking the first dorsal compartment and its landmarks: Lister's tubercle, radial styloid and scaphoid tubercle, with the APL-Lister's-Scaphoid (ALS) juncture; EPB and APL tendons distal to the retinaculum.",
+        "labels_visible_in_image": "Lister's tubercle; First dorsal compartment; Radial syloid [sic]; ALS juncture; EPB; APL; Scaphoid tubercle; dotted line",
+        "pixels": "450x419",
+        "local_path": "topografik/images/raw/PMC2586286/eplasty08e53_fig1.jpg"
+      },
+      {
+        "file": "eplasty08e53_fig2.jpg",
+        "label": "Figure 2",
+        "caption": "Intracompartmental septation within the first dorsal compartment for the extensor pollicis brevis tendon.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Opened first dorsal compartment showing a longitudinal septum creating a separate subcompartment for the EPB tendon.",
+        "labels_visible_in_image": "Septation within the compartment",
+        "pixels": "450x423",
+        "local_path": "topografik/images/raw/PMC2586286/eplasty08e53_fig2.jpg"
+      },
+      {
+        "file": "eplasty08e53_fig3.jpg",
+        "label": "Figure 3",
+        "caption": "Slip multiplicity of the abductor pollicis longus tendon. APL, abductor pollicis longus; EPB, extensor pollicis brevis.",
+        "specimen": "human cadaver",
+        "what_it_shows": "APL with three separate tendon slips beside the single EPB tendon, separated over a white card.",
+        "labels_visible_in_image": "APL; EPB; Slip 3; Slip 2; Slip 1",
+        "pixels": "450x315",
+        "local_path": "topografik/images/raw/PMC2586286/eplasty08e53_fig3.jpg"
+      }
+    ],
+    "key_findings": "32 cadaveric wrists. 'The average length of the extensor retinaculum from its proximal to distal extent measured approximately 2.2 cm.' 'A separate compartment for the extensor pollicis brevis was noted in 35% of the specimens. The abductor pollicis longus tendon demonstrated great variability with 1, 2, 3, or 4 slips in 9%, 30%, 43%, or 26% of the specimens, respectively.'",
+    "clinical_relevance": "Landmarks 'can assist clinicians with management of de Quervain's disease' (septation relevant to failed injection/release).",
+    "notes": "Fig 1 also usable in topo_lecture for the extensor retinaculum/1st compartment. Images are 450 px wide (above the 350 px floor) and carry an 'ePlasty' watermark. 'Radial syloid' is a typo printed on the image."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Extensor digitorum brevis manus on the dorsum of the hand",
+    "pmcid": "PMC6449591",
+    "version": 1,
+    "doi": "10.5115/acb.2019.52.1.97",
+    "citation": "Anat Cell Biol. 2019 Mar 29;52(1):97–9. doi: 10.5115/acb.2019.52.1.97",
+    "title": "A rare bilateral variation on the dorsum of the hand: extensor digitorum brevis manus and extensor medii proprius",
+    "authors": "Lee D. H., Lee J. H., Woo R. S. et al.",
+    "year": "2019",
+    "journal": "Anatomy & Cell Biology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "acb-52-97-g001.jpg",
+        "label": "Fig. 1",
+        "caption": "(A, B) Digital photograph and a sketch show the origin and insertion of the extensor digitorum minimi (EDBM) on the dorsum of the right hand. APL, abductor pollicis longus; DBUN, dorsal branch of the ulnar nerve; ED, extensor digitorum; EDM, extensor digitorum minimi; EIP, extensor indicis proprius; EPB, extensor pollicis brevis; EPL, extensor pollicis longus.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Dorsum of the right hand: an extensor digitorum brevis manus muscle belly (on black card) lying between the extensor tendons, with photograph (A) and tracing (B); dorsal branch of the ulnar nerve also visible.",
+        "labels_visible_in_image": "ED, APL, EPB, EPL, EIP, EDBM, ED, EDM, DBUN; A, B",
+        "pixels": "633x708",
+        "local_path": "topografik/images/raw/PMC6449591/acb-52-97-g001.jpg"
+      }
+    ],
+    "key_findings": "Single 78-year-old male cadaver among 22 cadavers ('bilateral extensor variations were found in one of 22 cadavers (4.5%)'). Literature cited: 'EDBM has 4% of crude cadaveric prevalence ... and has 2.5% of true cadaveric prevalence'; EMP frequency '0.8% to 10.4%'.",
+    "clinical_relevance": "'Awareness of these combined muscular variation would be helpful in understanding the identification of digital extensors and in requiring careful consideration for the reconstruction surgery of the hand.'",
+    "notes": "LICENCE CC BY-NC (Anat Cell Biol; flagged). Case report - prevalence numbers are literature-derived (Yammine meta-analysis, not OA in bucket). Caption calls it 'extensor digitorum minimi (EDBM)' - text error in the original caption."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Accessory head from FPL to the first lumbrical with FPL tendinous interconnection (Linburg-Comstock-related)",
+    "pmcid": "PMC9981488",
+    "version": 1,
+    "doi": "10.1007/s00276-023-03084-0",
+    "citation": "Surg Radiol Anat. 2023 Jan 25;45(3):271–5. doi: 10.1007/s00276-023-03084-0",
+    "title": "An accessory muscle belly or an accessory muscle head? An unusual arrangement of muscles in the anterior compartment of the forearm",
+    "authors": "Gabríková K., Kachlík D., Belbl M. et al.",
+    "year": "2023",
+    "journal": "Surgical and Radiologic Anatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "276_2023_3084_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "A The accessory muscle head derived from the FPL muscle joining the regular muscle belly of the L1 muscle. B Scheme of the anomalous muscle head of the L1 muscle. L1 first lumbrical muscle, tAMHL1 tendon of the accessory muscle head of the first lumbrical muscle, AMHL1 accessory muscle head of the first lumbrical muscle, FPL flexor pollicis longus muscle, Asterisk tendinous interconnection between the FPL muscle tendon and the aberrant tendon",
+        "specimen": "human cadaver",
+        "what_it_shows": "Palmar dissection (A) and scheme (B): an accessory muscle head from FPL whose tendon (tAMHL1) passes through the carpal tunnel to join the first lumbrical; asterisk/star marks the tendinous interconnection with the FPL tendon.",
+        "labels_visible_in_image": "L1, tAMHL1, AMHL1, FPL, four-point star; A, B",
+        "pixels": "708x488",
+        "local_path": "topografik/images/raw/PMC9981488/276_2023_3084_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "Case report (formalin-embalmed Central European cadaver). Literature cited in text: 'The prevalence of the Linburg-Comstock variation is moving around 21% as reported by Yammine'; first-lumbrical variations 'occur in 17.3%' (Mehta and Gardner).",
+    "clinical_relevance": "'Such variation has a clinical significance ranging from the functional limitation of the thumb and index finger movement to the potential median nerve compression.'",
+    "notes": "Surg Radiol Anat article that IS CC BY 4.0 (bucket licence_code CC BY). Only a case, but no OA original series on Linburg-Comstock was found (Thai 130-limb series and PMC8590423 reverse-LCV not usable: PMC8590423 has no licence)."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Flexor digiti minimi longus through Guyon's canal; anomalous lumbrical; dorsal ulnar nerve aberrant branch",
+    "pmcid": "PMC6920165",
+    "version": 1,
+    "doi": "10.1016/j.ijscr.2019.10.062",
+    "citation": "Int J Surg Case Rep. 2019 Oct 31;65:119–23. doi: 10.1016/j.ijscr.2019.10.062",
+    "title": "Anomalous muscles and nerves in the hand of a 94-year-old cadaver—A case report",
+    "authors": "Nation H., Jeong S., Jeong S. et al.",
+    "year": "2019",
+    "journal": "International Journal of Surgery Case Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "gr1.jpg",
+        "label": "Fig. 1",
+        "caption": "(A) FDML: Flexor Digiti Minimi Longus; PB: Palmaris Brevis; PL: Palmaris Longus; PCL: Palmar Carpal Ligament; FCU: Flexor Carpi Ulnaris; FCR: Flexor Carpi Radialis; FDS: Flexor Digitorum Superficialis; (B) FDMB: Flexor Digiti Minimi Brevis and ADM: Abductor Digiti Minimi muscles are visualized. PCL and PB are reflected to visualize the FDML muscle belly passing through Guyon’s canal.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Anterior wrist/palm of a 94-year-old cadaver: an extra muscle (FDML) arising in the forearm and passing through Guyon's canal deep to the palmar carpal ligament and palmaris brevis; (B) hypothenar muscles ADM and FDMB visible after reflection.",
+        "labels_visible_in_image": "A: PB, PCL, PL, FCU, FDML, PL, FCR, FCR, FDS; B: ADM, FDMB, PB, PCL, FCU, FDML",
+        "pixels": "716x713",
+        "local_path": "topografik/images/raw/PMC6920165/gr1.jpg"
+      },
+      {
+        "file": "gr3.jpg",
+        "label": "Fig. 3",
+        "caption": "(A) FDML: Flexor Digiti Minimi Longus (reflected); FDMB: Flexor Digiti Minimi Brevis; MN: Median Nerve; UA: Ulnar Artery; UN: Ulnar Nerve; SUN: Superficial branch of the Ulnar Nerve; DUN: Dorsal branch of the Ulnar Nerve; Black Arrow: Aberrant branch of the dorsal branch of the ulnar nerve; Black Arrowheads: branches of the aberrant branch of the dorsal branch of the ulnar nerve on palmar surface of hand and anastomosing with the SUN; White Arrowhead: branch of the superficial ulnar nerve innervating FDMB; (B) White Arrows: Connection between SUN and MN, Red dashed lines: hourglass constriction of the MN.",
+        "specimen": "human cadaver",
+        "what_it_shows": "(A) Ulnar side of palm: superficial branch of ulnar nerve, ulnar artery, FDMB and an aberrant palmar branch of the dorsal ulnar nerve (arrow/arrowheads); (B) isolated median and ulnar nerves with ulnar-median communication and an hourglass constriction of the median nerve.",
+        "labels_visible_in_image": "A: FDML, FDMB, SUN, PB, SPA, DUN, UN, UA, MN; black arrow and arrowheads; B: DUN, SUN, MN; white arrows; red dashed lines",
+        "pixels": "716x522",
+        "local_path": "topografik/images/raw/PMC6920165/gr3.jpg"
+      }
+    ],
+    "key_findings": "Single case. Highlights: 'The additional flexor muscle (Flexor Digiti Minimi Longus m.) passing through Guyon's canal is the first to be described.' 'The anomalous first lumbrical muscle with three origins is the first to be described.' 'Berretini's and Kaplan's anastomosis was also noted.'",
+    "clinical_relevance": "Accessory muscles in Guyon's canal are a potential cause of ulnar nerve compression (discussed in the article).",
+    "notes": "Case report (no prevalence). Fig 1B is also a good labelled hypothenar view (ADM, FDMB) for the lecture."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Ultrasound of the median nerve at carpal tunnel inlet/outlet; ulnar nerve branches in Guyon's canal",
+    "pmcid": "PMC10253229",
+    "version": 1,
+    "doi": "10.3390/diagnostics13111928",
+    "citation": "Diagnostics (Basel). 2023 May 31;13(11):1928. doi: 10.3390/diagnostics13111928",
+    "title": "Ultrasound Imaging and Guidance for Distal Peripheral Nerve Pathologies at the Wrist/Hand",
+    "authors": "Wu W. T., Chang K. V., Hsu Y. C. et al.",
+    "year": "2023",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-13-01928-g002.jpg",
+        "label": "Figure 2",
+        "caption": "Sonographic/normal imaging of the median nerve from the inlet (A) to the outlet (B) of the carpal tunnel. Hypertrophy of the flexor retinaculum at both the inlet (C) and outlet (D) of the carpal tunnel. Asterisk: median nerve; small white arrowheads: normal flexor retinaculum; large arrowheads: hypertrophy of the flexor retinaculum. FCR: flexor carpi radialis; S: scaphoid; P: pisiform; T: trapezium; H: hook of the hamate.",
+        "specimen": "US",
+        "what_it_shows": "Short-axis ultrasound of the median nerve (*) under the flexor retinaculum at the tunnel inlet (scaphoid-pisiform) and outlet (trapezium-hook of hamate); lower panels show retinaculum hypertrophy for comparison; small hand icons show probe position.",
+        "labels_visible_in_image": "A, B, C, D; FCR; S; P; T; H; *; arrowheads; Radial; Ulnar",
+        "pixels": "791x306",
+        "local_path": "topografik/images/raw/PMC10253229/diagnostics-13-01928-g002.jpg"
+      },
+      {
+        "file": "diagnostics-13-01928-g013.jpg",
+        "label": "Figure 13",
+        "caption": "Sonographic imaging (short-axis view) shows the ulnar nerve within the Guyon’s canal (A), separation of branches beside the pisohamate hiatus (B), deep branch of the ulnar nerve located between the hypothenar muscles distal to the hook of the hamate (C). Long-axis view (through pivoting the transducer) shows the segment of the deep branch within the adductor pollicis muscle (D). Arrowhead: ulnar nerve; white arrows: superficial branch of the ulnar nerve; black arrows: deep branch of the ulnar nerve; orange arrow: branch of the ulnar nerve to the abductor digiti minimi; *: pisohamate ligment MN: median nerve; UA: ulnar artery; P: pisiform; H: hook of hamate; A: artery; L: lumbrical muscle; FDM: flexor digiti minimi brevis muscle; Opp DM: opponens digiti minimi muscle; AbDM: abductor digiti minimi muscle; AdP: adductor pollicis muscle.",
+        "specimen": "US",
+        "what_it_shows": "Short-axis ultrasound of the ulnar nerve in Guyon's canal (A), branching at the pisohamate hiatus (B), deep branch between the hypothenar muscles distal to the hook of hamate (C) and within adductor pollicis (D).",
+        "labels_visible_in_image": "A: MN, UA, P, arrowhead; B: MN, A, A, A, H, *, white/black/orange arrows; C: A, FDM, Opp DM, AbDM, L; D: AdP, AdP, black arrows; Radial, Ulnar",
+        "pixels": "745x360",
+        "local_path": "topografik/images/raw/PMC10253229/diagnostics-13-01928-g013.jpg"
+      }
+    ],
+    "key_findings": "Pictorial review (no cohort). Covers median nerve trunk, palmar cutaneous and recurrent motor branches, ulnar nerve branches (superficial, deep, palmar and dorsal cutaneous), superficial radial nerve and digital nerves.",
+    "clinical_relevance": "'sonographic findings complement electrodiagnostic studies ... while ultrasound-guided interventions are safe and effective for treating relevant nerve pathologies.'",
+    "notes": "Panels C/D of Fig 2 show pathology (retinaculum hypertrophy) - crop to A/B for normal anatomy. Fig 4 of the same review is listed under kesit_variation. Other normal-anatomy figures available but not downloaded: Fig 7 (palmar cutaneous branch), Fig 10 (recurrent motor branch), Fig 19 (dorsal ulnar cutaneous nerve), Fig 21 (superficial radial nerve)."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Guyon's canal: zonal illustration and ultrasound anatomy",
+    "pmcid": "PMC11899079",
+    "version": 1,
+    "doi": "10.3390/diagnostics15050592",
+    "citation": "Diagnostics (Basel). 2025 Feb 28;15(5):592. doi: 10.3390/diagnostics15050592",
+    "title": "Unveiling Guyon’s Canal: Insights into Clinical Anatomy, Pathology, and Imaging",
+    "authors": "Saran S., Reddy P. S., Shirodkar K. et al.",
+    "year": "2025",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-15-00592-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Illustration showing the anatomy of Guyon’s canal: (A) presents a frontal view in the coronal plane; (B,C) display axial sections at the proximal and distal levels, respectively. TM = thenar muscle; FR = flexor retinaculum; VCL = volar carpal ligament; MN = median nerve; PL = palmaris longus; UN = ulnar nerve; UA = ulnar artery; FCR = flexor carpi radialis; PHL = pisohamate ligament; HoH = hook of hamate; ODM = opponens digiti minimi; ADMB = abductor digiti minimi brevis; FDMB = flexor digiti minimi brevis; sUN = superficial branches of ulnar nerve; dUN = deep branches of ulnar nerve; dUA = deep branches of ulnar artery; FTA-HM = fibro-tendinous arch of hypothenar muscle; GC = Guyon’s canal; PB = pisiform bone; TB = triquetral bone; SB = scaphoid bone; HM = hypothenar muscles; ScF = subcutaneous fat; FR = flexor retinaculum; and, CT = carpal tunnel.",
+        "specimen": "schematic",
+        "what_it_shows": "Author illustration of Guyon's canal in coronal view (A) and axial sections at proximal (B, pisiform) and distal (C, hook of hamate) levels: roof (volar carpal ligament), floor (flexor retinaculum), ulnar nerve/artery and their superficial/deep branches, fibrotendinous arch of hypothenar muscles, and the adjacent carpal tunnel.",
+        "labels_visible_in_image": "A: dUN, dUA, FDMB, TM, FR, PL, HoH, PHL, UA, UN, FTA-HM, VCL, MN, ODM, sUN, ADMB, FCR; B: PB, UN, GC, UA, VCL, CT, FR, MN, SB, TB; C: dUN, dUA, FTA-HM, sUN, sUA, ScF, CT, FR, PHL, HoH, HM",
+        "pixels": "762x431",
+        "local_path": "topografik/images/raw/PMC11899079/diagnostics-15-00592-g001.jpg"
+      },
+      {
+        "file": "diagnostics-15-00592-g003.jpg",
+        "label": "Figure 3",
+        "caption": "Ultrasound anatomy of Guyon’s canal with probe positioning: (A) the Axial Gray-scale Ultrasound image at the level of the proximal Guyon’s canal, at the level of the pisiform bone, containing the ulnar artery (UA) and ulnar nerve (UN), with its floor formed by the flexor retinaculum (open triangles); (B) probe positioning for (A); (C) Axial Gray-scale Ultrasound image at the level of the distal Guyon’s canal, at the level of the hook of the hamate, shows the ulnar nerve dividing into the sensory branch (open triangles) and deep motor branch (open arrow), with the deep motor branch travelling beneath the tendinous arch of the hypothenar muscles; (D) probe positioning for (C); (E) Longitudinal Gray-scale Ultrasound image of the Guyon’s canal shows the ulnar nerve (open arrows) and the underlying flexor retinaculum (an open triangle); and (F) probe positioning for (E).",
+        "specimen": "US",
+        "what_it_shows": "Axial ultrasound at proximal Guyon's canal (pisiform) with ulnar artery and nerve, at the distal canal (hook of hamate) where the nerve divides, and longitudinal view over the retinaculum; with probe-position photos.",
+        "labels_visible_in_image": "A: UA, UN, Pisiform, open triangles; C: Hypothenar, Hook Of Hamate, open triangles/arrow; E: Ulnar Nerve, Flexor Retinaculum, Flexor Tendons In Carpal Tunnel, Hook Of Hamate; B, D, F",
+        "pixels": "736x338",
+        "local_path": "topografik/images/raw/PMC11899079/diagnostics-15-00592-g003.jpg"
+      }
+    ],
+    "key_findings": "Narrative review. 'The canal's intricate anatomy is defined by surrounding ligaments and bones, divided into three zones, each containing distinct neural structures.'",
+    "clinical_relevance": "'ultrasound provides real-time, dynamic assessments, while magnetic resonance imaging (MRI) offers detailed visualisation of soft tissues and bony structures, aiding in pre-surgical documentation and pathology evaluation.'",
+    "notes": "Fig 1 is an original author illustration (caption gives no external source / BioRender attribution). Fig 4 (accessory ADM) is listed under kesit_variation."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "TFCC and ulnocarpal ligaments on 3T MRI",
+    "pmcid": "PMC5600038",
+    "version": 1,
+    "doi": "10.2463/mrms.rev.2016-0011",
+    "citation": "Magn Reson Med Sci. 2016 Aug 16;16(1):3–15. doi: 10.2463/mrms.rev.2016-0011",
+    "title": "High-Resolution 3T MR Imaging of the Triangular Fibrocartilage Complex",
+    "authors": "von Borstel D., Wang M., Small K. et al.",
+    "year": "2016",
+    "journal": "Magnetic Resonance in Medical Sciences",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "mrms-16-003-g6.jpg",
+        "label": "Fig 6.",
+        "caption": "Triangular fibrocartilage (TFC) and radioulnar ligaments on isotropic 3-dimensional (3D) coronal fat suppressed (FS) proton density (PD)-weighted images. (a) The dorsal radioulnar ligament (arrowhead), (b) The central disc (red arrow), and (c) The volar radioulnar ligament (dotted arrow). The ulnomeniscus homologue (yellow arrow) merges from the tip of the ulnar styloid process, and inserts to the ulnar side of the triquetrum and lunate. L, lunate; T, triquetrum; R, radius; U, ulna.",
+        "specimen": "MRI",
+        "what_it_shows": "Three isotropic 3D coronal fat-suppressed PD slices (dorsal to volar) showing the dorsal radioulnar ligament, the central disc of the TFC, the volar radioulnar ligament and the ulnomeniscal homologue.",
+        "labels_visible_in_image": "L, T, R, U on each panel; white arrowhead; red arrow; yellow arrow; white dotted arrow",
+        "pixels": "667x221",
+        "local_path": "topografik/images/raw/PMC5600038/mrms-16-003-g6.jpg"
+      },
+      {
+        "file": "mrms-16-003-g9.jpg",
+        "label": "Fig 9.",
+        "caption": "The ulnotriquetral ligament on isotropic 3-dimensional (3D) coronal fat suppressed (FS) proton density (PD)-weighted image (a), and on 2D sagittal PD-weighted image (b). The ulnotriquetral ligament shows low intensity (dotted arrow). T, triquetrum; L, lunate; R, radius; P, pisiform.",
+        "specimen": "MRI",
+        "what_it_shows": "Ulnotriquetral ligament (dotted arrow) on 3D coronal FS PD (a) and 2D sagittal PD (b) images.",
+        "labels_visible_in_image": "a: T, L, R, dotted arrow; b: 'Volar side', P, T, dotted arrow",
+        "pixels": "674x353",
+        "local_path": "topografik/images/raw/PMC5600038/mrms-16-003-g9.jpg"
+      }
+    ],
+    "key_findings": "Review. 'The TFCC is composed of the articular disc (disc proper), the triangular ligament, the dorsal and volar radioulnar ligaments, the meniscus homologue, the ulnar collateral ligament (UCL), the extensor carpi ulnaris (ECU) tendon sheath, and the ulnolunate and ulnotriquetral ligaments.'",
+    "clinical_relevance": "High-resolution 3T imaging enables classification of TFCC lesions (Palmer type 1 traumatic / type 2 degenerative).",
+    "notes": "Panel letters a/b/c are cropped at the top of Fig 6. Images are small (667 and 674 px wide) but legible."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Ultrasound of digital annular pulleys A1/A2 and their entheses",
+    "pmcid": "PMC11534144",
+    "version": 1,
+    "doi": "10.1093/rheumatology/kead614",
+    "citation": "Rheumatology (Oxford). 2023 Nov 23;63(11):3050–5. doi: 10.1093/rheumatology/kead614",
+    "title": "Characterization of digital annular pulleys and their entheses: an ultrasonographic study with anatomical and histological correlations",
+    "authors": "Coronel L., Mandl P., Miguel-Pérez M. et al.",
+    "year": "2023",
+    "journal": "Rheumatology (Oxford, England)",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "kead614f3.jpg",
+        "label": "Figure 3.",
+        "caption": "Transverse US scan of the second finger showing a longitudinal image of A1 and A2 DAP entheses (white box). (A) A1 pulley enthesis at the volar plate. (B) A1 pulley entheseal expansion to the sesamoid bone. (C) A2 enthesis at the bony ridge of the proximal phalanx. FT: flexor tendon; MCH: metacarpal head; PP: proximal phalanx; SB: sesamoid bone; VP: volar plate",
+        "specimen": "US",
+        "what_it_shows": "High-frequency ultrasound of the 2nd finger: A1 pulley over the flexor tendons with its enthesis at the volar plate (A) and sesamoid (B), and A2 pulley enthesis at the proximal phalanx ridge (C).",
+        "labels_visible_in_image": "A: A1, FT, VP, MCH; B: A1, SB, FT, MCH; C: A2, FT, PP; white boxes",
+        "pixels": "768x1160",
+        "local_path": "topografik/images/raw/PMC11534144/kead614f3.jpg"
+      }
+    ],
+    "key_findings": "20 cadaveric hands + 20 healthy controls. 'A total of 1200 DAPs (400 cadaveric, 800 HCs) were analysed. The cadaveric study demonstrated strong correlation between anatomical and US measurement of DAPs (r = 0.96).' 'US assessment of A1, A2 and A4 DAPs in HCs allowed the identification of 718/720 (99.73%) entheses.'",
+    "clinical_relevance": "'US is an effective tool to detect and study DAPs.'",
+    "notes": "Fig 2 (dissection + histology) dropped: 769x211 composite with tiny panels."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Bifid median nerve and persistent median artery on ultrasound (prevalence)",
+    "pmcid": "PMC5463256",
+    "version": 1,
+    "doi": "10.6061/clinics/2017(06)05",
+    "citation": "Clinics (Sao Paulo). 2017 Jun;72(6):358–62. doi: 10.6061/clinics/2017(06)05",
+    "title": "Sonographic Findings of the Bifid Median Nerve and Persistent Median Artery in Carpal Tunnel: A Preliminary Study in Chinese Individuals",
+    "authors": "Chen L., Chen J., Hu B. et al.",
+    "year": "2017",
+    "journal": "Clinics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cln-72-06-358-g001.jpg",
+        "label": "Figure 1 and Figure 2",
+        "caption": "Transverse ultrasonographic image (left side) and corresponding outline-marked image (right side) of a bifid median nerve (thin arrow) and PMA (thick arrow) at the level of the proximal carpal tunnel. Different PMA positions in relation to the median anatomy and a bifid median nerve with an intermediate position in relation to the PMA were most frequently observed.",
+        "specimen": "US",
+        "what_it_shows": "Paired transverse ultrasound images (raw and outlined) at the proximal carpal tunnel showing bifid median nerve trunks (arrowheads/outlines) with a persistent median artery (thick arrow) in different positions, including colour Doppler.",
+        "labels_visible_in_image": "white outlines, thick arrows, triangular arrowheads; red Doppler signal; no text",
+        "pixels": "800x286",
+        "local_path": "topografik/images/raw/PMC5463256/cln-72-06-358-g001.jpg"
+      }
+    ],
+    "key_findings": "160 wrists. 'a bifid median nerve was observed in 15 (9.4%) wrists, and a persistent median artery was observed in 12 (7.5%) wrists.' 'the probability of coexistence (6.3%) was higher than the probability of existing independently (bifid median nerve only 3.1%, persistent median artery only 1.3%).' 'Persistent median vein was observed in 9 wrists (5.6%).'",
+    "clinical_relevance": "'Their positional relationship in carpal tunnel is uncertain, and thus, preoperative ultrasound is necessary. These three variations do not present any additional risk for the development of carpal tunnel syndrome.'",
+    "notes": "Complements repo entry PMC10343151 (persistent median artery). XML label is 'Figure 1 and Figure 2' (two figures in one image)."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Ultrasound of median nerve variants and accessory muscles: bifid MN, PMA, accessory FDS",
+    "pmcid": "PMC10253229",
+    "version": 1,
+    "doi": "10.3390/diagnostics13111928",
+    "citation": "Diagnostics (Basel). 2023 May 31;13(11):1928. doi: 10.3390/diagnostics13111928",
+    "title": "Ultrasound Imaging and Guidance for Distal Peripheral Nerve Pathologies at the Wrist/Hand",
+    "authors": "Wu W. T., Chang K. V., Hsu Y. C. et al.",
+    "year": "2023",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-13-01928-g004.jpg",
+        "label": "Figure 4",
+        "caption": "Sonographic images show a bifid median nerve (A), a persistent median artery with a bifid median nerve (B), accessory flexor digitorum superficialis muscle (C), and laceration of the palmaris longus (PL) tendon with the compression of the median nerve (D). White arrowheads: median nerve; white arrow: persistent median artery; asterisk: accessory flexor digitorum superficialis muscle. FCR: flexor carpi radialis tendon; S: scaphoid.",
+        "specimen": "US",
+        "what_it_shows": "Short-axis ultrasound at the wrist: bifid median nerve (A), bifid median nerve with persistent median artery on Doppler (B), accessory FDS muscle belly (*) beside the nerve (C), and a PL tendon laceration compressing the nerve in long axis (D).",
+        "labels_visible_in_image": "A: PL, arrowheads; B: PL, red Doppler, white arrow, arrowheads; C: FCR, S, PL, *, arrowhead; D: PL, arrowhead, Distal, Proximal; Radial, Ulnar",
+        "pixels": "751x327",
+        "local_path": "topografik/images/raw/PMC10253229/diagnostics-13-01928-g004.jpg"
+      }
+    ],
+    "key_findings": "Review figure (no prevalence in this article).",
+    "clinical_relevance": "Recognising these variants avoids misdiagnosis and iatrogenic injury in carpal tunnel procedures.",
+    "notes": "Panel D shows pathology (laceration) - crop to A-C. Prevalence for the slide should come from PMC5463256 and PMC5635084."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Accessory abductor digiti minimi overlying Guyon's canal on ultrasound",
+    "pmcid": "PMC11899079",
+    "version": 1,
+    "doi": "10.3390/diagnostics15050592",
+    "citation": "Diagnostics (Basel). 2025 Feb 28;15(5):592. doi: 10.3390/diagnostics15050592",
+    "title": "Unveiling Guyon’s Canal: Insights into Clinical Anatomy, Pathology, and Imaging",
+    "authors": "Saran S., Reddy P. S., Shirodkar K. et al.",
+    "year": "2025",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-15-00592-g004.jpg",
+        "label": "Figure 4",
+        "caption": "Axial Gray-scale Ultrasound image at the level of the proximal Guyon’s canal, at the level of the pisiform bone, demonstrates an anatomical variant where an accessory abductor digiti minimi muscle (aADM) overlies the canal. The ulnar nerve (UN) is present within the canal, while the ulnar artery (UA) is positioned volar to the accessory muscle.",
+        "specimen": "US",
+        "what_it_shows": "Axial ultrasound at the pisiform: an accessory abductor digiti minimi muscle belly lying superficial to the ulnar nerve within Guyon's canal, with the ulnar artery volar to it.",
+        "labels_visible_in_image": "UA, aADM, UN, Pisiform",
+        "pixels": "734x423",
+        "local_path": "topografik/images/raw/PMC11899079/diagnostics-15-00592-g004.jpg"
+      }
+    ],
+    "key_findings": "Review: describes the aADM as 'an anatomical variant in the hand, where an extra muscle lies adjacent to the ulnar nerve as it passes through Guyon's canal'; dynamic US during little-finger abduction distinguishes asymptomatic from compressive variants. No prevalence given in this article.",
+    "clinical_relevance": "'This dynamic evaluation is crucial for distinguishing between the asymptomatic presence of the accessory muscle and its pathological variant'.",
+    "notes": "Prevalence figures (e.g. 22-35% in older cadaver/US series, Harvie 2004, Dodds 1990) are NOT in an OA article we could verify - do not cite numbers from this entry."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Ultrasound vs dissection for median nerve / thenar motor branch variants (Lanz types)",
+    "pmcid": "PMC5635084",
+    "version": 1,
+    "doi": "10.1007/s00330-017-4882-0",
+    "citation": "Eur Radiol. 2017 Jun 7;27(11):4883–8. doi: 10.1007/s00330-017-4882-0",
+    "title": "Ultrasound imaging of the thenar motor branch of the median nerve: a cadaveric study",
+    "authors": "Petrover D., Bellity J., Vigan M. et al.",
+    "year": "2017",
+    "journal": "European Radiology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "330_2017_4882_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Type 1 anatomic variations of the median nerve and extraligamentous thenar motor branch. A) Type 1 Lanz median nerve with an extraligamentous radial thenar motor branch in an un-embalmed cadaveric specimen (anatomic view). The flexor retinaculum was dissected on its radial side. FR = flexor retinaculum; MB = thenar motor branch; MN = median nerve gives rise to the palmar digital nerves (dotted lines). B) Type 1 Lanz median nerve with an extraligamentous radial thenar motor branch (ultrasound image). Correlative ultrasound view of the median nerve in the same cadaveric specimen. Median nerve is scanned distally along its long axis (MN); the dorsal to palmar course of the MB (star) around the FR (double arrow) may be detectable as a region of vertically oriented hypoechogenicity (arrow). The thenar motor branch arises distal to the flexor retinaculum and then runs a retrograde course to reach the thenar muscles",
+        "specimen": "US",
+        "what_it_shows": "Cadaver dissection (a) and matching long-axis ultrasound (b) of a Lanz type 1 median nerve with an extraligamentous thenar motor branch curling around the distal flexor retinaculum.",
+        "labels_visible_in_image": "a: FR, MN, MB, dashed lines; b: Prox, Dist, FR (double arrow), BM, MN, star, yellow outline/arrows",
+        "pixels": "788x1191",
+        "local_path": "topografik/images/raw/PMC5635084/330_2017_4882_Fig2_HTML.jpg"
+      },
+      {
+        "file": "330_2017_4882_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Type 3 anatomic variation of the median nerve. A) Lanz type 3 median nerve with a high division (bifid median nerve) in an un-embalmed cadaveric specimen (anatomic view). The flexor retinaculum was dissected on its radial side. FR = flexor retinaculum (double arrow); MB = motor branch (star); MN = median nerve gives rise to the palmar digital nerves (dotted lines). B) Lanz type 3 median nerve with a high division (bifid median nerve) in an un-embalmed cadaveric specimen. Ultrasound (US) short axis image of the corresponding cadaveric specimen demonstrating the division into two branches (white arrows) of the MN",
+        "specimen": "US",
+        "what_it_shows": "Cadaver dissection (a) and short-axis ultrasound (b) of a Lanz type 3 (bifid/high-division) median nerve; arrows mark the two trunks.",
+        "labels_visible_in_image": "a: FR, BM, star, 'High division of the MN', MN, dashed lines; b: two white arrows",
+        "pixels": "788x1191",
+        "local_path": "topografik/images/raw/PMC5635084/330_2017_4882_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "30 wrists (15 fresh cadavers). 'By dissection, type 1, 2 and 3 variants were found in 84%, 3%, and 13% of wrists'. 'extra-, sub-, and transligamentous courses were recorded in 65%, 31%, and 4% of cases'. Ultrasound vs dissection agreement 'kappa =0.9' for variant type and 'kappa =1' for MBMN course; 'the bifid nerve, hypertrophic muscles, and bilateral symmetry ... 13.3%, 13.3%, and 86.7%'.",
+    "clinical_relevance": "'Ultrasound can be used reliably to identify anatomic variations of the MN and MBMN. It could be a useful tool before carpal tunnel release surgery.'",
+    "notes": "Image labels write 'BM' where caption says 'MB' (motor branch). Each figure combines a cadaver photo (also usable in topo slides) with US."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Lunotriquetral coalition on radiograph (Minnaar type II)",
+    "pmcid": "PMC2893531",
+    "version": 1,
+    "doi": null,
+    "citation": "Eplasty. 2010 Jun 23;10:e47.",
+    "title": "CASE REPORT Bilateral Paradoxically Symptomatic Luno-triquetral Coalition: A Case Report",
+    "authors": "Lotter O., Stahl S., Luz O. et al.",
+    "year": "2010",
+    "journal": "Eplasty",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "eplasty10e47_fig1.jpg",
+        "label": "Figure 1",
+        "caption": "Anteroposterior radiograph of the right painful wrist showing a luno-triquetral coalition Minaar type II.",
+        "specimen": "radiograph",
+        "what_it_shows": "AP radiograph of the right wrist: incomplete osseous fusion of lunate and triquetrum with a distal notch (Minnaar type II).",
+        "labels_visible_in_image": "no labels (ePlasty watermark only)",
+        "pixels": "425x450",
+        "local_path": "topografik/images/raw/PMC2893531/eplasty10e47_fig1.jpg"
+      }
+    ],
+    "key_findings": "Case report (21-year-old woman, bilateral). Background cited: 'the most common coalition representing nearly 90% of all carpal fusions ... The prevalence in the general population averages 0.1% but is thought to be 100 times higher in Africans.' 'This anomaly is found more often in females with a ratio of 2:1'. Complete form (Minnaar III) 46.8%, distal notch type 28.1% (literature).",
+    "clinical_relevance": "'not only incomplete but also complete luno-triquetral coalitions can cause wrist pain.'",
+    "notes": "Image 425x450, unlabelled - we must add an arrow. MRI Fig 3 dropped (unlabelled, adds little). Prevalence numbers are literature citations, not original data."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Os styloideum (carpal boss) on radiograph, CT and MRI",
+    "pmcid": "PMC5487237",
+    "version": 1,
+    "doi": "10.1590/0100-3984.2015.0160",
+    "citation": "Radiol Bras. 2017 May-Jun;50(3):200–1. doi: 10.1590/0100-3984.2015.0160",
+    "title": "Carpal boss syndrome: os styloideum fused to the trapezoid",
+    "authors": "Nicolodi G. C., Trippia C. R., Caboclo M. F. F. S. et al.",
+    "year": "2017",
+    "journal": "Radiologia Brasileira",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "rb-50-03-0200-g01.jpg",
+        "label": "Figure 1",
+        "caption": "A: Digital X-ray showing a lack of definition of the joint space between the trapezoid and the capitate. B,C: Three-dimensional computed tomography reconstruction and axial computed tomography slice showing an os styloideum fused to the trapezoid and in neoarticulation with the capitate. D: Magnetic resonance imaging in a T1-weighted sequence, showing os styloideum with bone edema adjacent to the neoarticulation (apophysitis).",
+        "specimen": "CT",
+        "what_it_shows": "Four-panel case: PA radiograph (A), 3D CT (B) and axial CT (C) showing an os styloideum fused to the trapezoid at the dorsal 2nd/3rd CMC region, and axial T1 MRI (D) with adjacent bone oedema.",
+        "labels_visible_in_image": "A, B, C, D; TRAPEZOID; OS STYLOIDEUM (x2 each); yellow arrows",
+        "pixels": "771x488",
+        "local_path": "topografik/images/raw/PMC5487237/rb-50-03-0200-g01.jpg"
+      }
+    ],
+    "key_findings": "Case report. 'the os styloideum is fused to the trapezoid, which occurs in only 0.5% of cases. More commonly (in 94.0% of cases), it is fused to the base of the second and third metacarpal, merged with the capitate (in 3.5%) or (in 2.0%) isolated'.",
+    "clinical_relevance": "Carpal boss is often confused clinically with a dorsal ganglion; 'The true incidence of carpal boss syndrome is unknown'.",
+    "notes": "Panels include radiograph + CT + MRI, so one figure covers three modalities."
+  }
+]

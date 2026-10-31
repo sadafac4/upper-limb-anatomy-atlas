@@ -1,0 +1,1169 @@
+[
+  {
+    "use": "topo_lecture",
+    "topic": "Rotator cuff muscles and glenohumeral joint capsule with cuff footprints (cadaver)",
+    "pmcid": "PMC5992113",
+    "version": 1,
+    "doi": "10.1186/s40634-018-0134-8",
+    "citation": "J Exp Orthop. 2018 Jun 7;5:16. doi: 10.1186/s40634-018-0134-8",
+    "title": "Anatomic analysis of the whole articular capsule of the shoulder joint, with reference to the capsular attachment and thickness",
+    "authors": "Momma Daisuke, Nimura Akimoto, Muro Satoru et al.",
+    "year": "2018",
+    "journal": "Journal of Experimental Orthopaedics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "40634_2018_134_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Muscular and tendinous structures of the subscapularis, supraspinatus, infraspinatus, and teres minor near their insertions into the humerus (right shoulder, the acromion and coracoid process has been removed). a Anterior aspect of the shoulder. b Posterior aspect of the shoulder. CP, coracoid process; SS, scapula spine; Lat, lateral; Sup, superior",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right shoulder, acromion and coracoid removed: (A) anterior view of subscapularis; (B) posterior view of supraspinatus, infraspinatus and teres minor near their humeral insertions.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "CP",
+          "Subscapularis",
+          "SS",
+          "Supraspinatus",
+          "Infraspinatus",
+          "Teres minor",
+          "Sup",
+          "Lat"
+        ],
+        "pixels": "787x329",
+        "local_path": "topografik/images/raw/PMC5992113/40634_2018_134_Fig1_HTML.jpg"
+      },
+      {
+        "file": "40634_2018_134_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Outward appearance of the shoulder joint. Areas outlined by black dotted lines indicate insertions of the subscapularis (SSC), supraspinatus (SSP), infraspinatus (ISP), teres minor (TMi), and the origin of long head of triceps brachii (TRI). a Anterior aspect of the shoulder. The superior-most part of the subscapularis was left intact because it was tightly connected to the capsule and the coracohumeral ligament (red arrow). b Posterior aspect. c Superior aspect. d Inferior aspect. CP, coracoid process; SS, scapula spine; TRI, triceps; Ant, anterior; Med, medial; Lat, lateral; Sup, superior; Post, posterior",
+        "specimen": "human cadaver",
+        "what_it_shows": "Glenohumeral joint capsule after removal of the cuff muscles, with dotted outlines of the insertions of SSC, SSP, ISP, TMi and origin of long head of triceps (TRI) in anterior, posterior, superior and inferior views.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "CP",
+          "SSC",
+          "Capsule",
+          "SSP",
+          "ISP",
+          "TMi",
+          "Humerus",
+          "TRI",
+          "Sup",
+          "Med",
+          "Lat",
+          "Ant",
+          "Post",
+          "red arrow"
+        ],
+        "pixels": "787x657",
+        "local_path": "topografik/images/raw/PMC5992113/40634_2018_134_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Anatomical study of 13 shoulders (9 macroscopic, 4 Thiel-embalmed for micro-CT). \"On the humerus, the articular capsule was widely attached to areas without overlying rotator cuffs, with the widest width (17.3 ± 0.9 mm) attached to the axillary pouch.\" The inferior capsule was consistently thicker than the superior part.",
+    "clinical_relevance": "The authors state that anatomical knowledge of the whole capsule is necessary to treat capsular disorders such as humeral avulsion of the glenohumeral ligament or capsular elongation after Bankart-type instability.",
+    "notes": "Excellent clean labelled photos for rotator cuff / capsule slides. Fig 4 (glenoid capsular attachment widths G1–G5) also available in the bucket if needed."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Glenohumeral capsule: posterior band of the inferior glenohumeral ligament (cadaver)",
+    "pmcid": "PMC10924754",
+    "version": 1,
+    "doi": "10.1002/jeo2.12014",
+    "citation": "J Exp Orthop. 2024 Mar 9;11(1):e12014. doi: 10.1002/jeo2.12014",
+    "title": "A cadaveric study of the posterior band of the inferior glenohumeral ligament of the shoulder and its dynamic behaviour in different arm positions",
+    "authors": "Nourissat Geoffroy, Bastard Claire, Cammas Claire et al.",
+    "year": "2024",
+    "journal": "Journal of Experimental Orthopaedics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "JEO2-11-e12014-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Posterior aspect of the shoulder. ❖, posterior band of the inferior glenohumeral ligament (IGHL); ◆, intermediate capsular zone; ✪, humeral head; ✚, acromion; ★, coracoid process. (a) The posterior band of the IGHL is located under the posterior intermediate capsular zone. (b) The difference between capsule and posterior band is clearly identified. (c) Thickening of the posterior capsule defines the limit between the posterior intermediate capsular zone and the posterior band. (d) Superior view of the IGHL with posterior band. Proximal insertion is located medial to the labrum on each side of the glenoid. Distal insertion is far from the cartilage of the humeral head. (e) Posterior band of the IGHL is located medial to the labrum and distal insertion is far from the cartilage of the humeral head. (f) Superior view of the posterior band of the IGHL after removal of the posterior intermediate capsular zone.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Six-panel posterior view of the shoulder capsule showing the posterior band of the IGHL lying under the posterior intermediate capsular zone, the axillary pouch and humeral head, with acromion/coracoid as landmarks.",
+        "labels_visible_in_image": [
+          "(a)",
+          "(b)",
+          "(c)",
+          "(d)",
+          "(e)",
+          "(f)",
+          "symbols only: ❖ (PB of IGHL)",
+          "◆ (intermediate capsular zone)",
+          "✪ (humeral head)",
+          "✚ (acromion)",
+          "★ (coracoid process)"
+        ],
+        "pixels": "600x572",
+        "local_path": "topografik/images/raw/PMC10924754/JEO2-11-e12014-g001.jpg"
+      }
+    ],
+    "key_findings": "Twelve fresh cadaveric shoulders. \"Concerning the PB, mean length and width were 54 ± 7 (50–60) and 16 ± 5 mm (10–25), respectively.\" Bands tensioned first: \"in ER1, the AB at 97 ± 9° ... in IR, the PB at 64 ± 9° ... and in ABD, the PB at 87 ± 10°\".",
+    "clinical_relevance": "\"In the case of an isolated lesion to the AB, the PB participates in anterior stabilization of the shoulder by wrapping around the humeral head\" — relevant to Bankart/instability surgery.",
+    "notes": "Image uses symbols instead of text labels; slide needs a legend. Only 600 px wide but sharp."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Suprascapular nerve at the suprascapular notch (incisura scapulae) — dissection",
+    "pmcid": "PMC9223225",
+    "version": 1,
+    "doi": "10.3390/ijerph19127065",
+    "citation": "Int J Environ Res Public Health. 2022 Jun 9;19(12):7065. doi: 10.3390/ijerph19127065",
+    "title": "Variations in the Course and Diameter of the Suprascapular Nerve: Anatomical Study",
+    "authors": "Montané-Blanchart Marta, Miguel-Pérez Maribel, Rodero-de-Lamo Lourdes et al.",
+    "year": "2022",
+    "journal": "International Journal of Environmental Research and Public Health",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "ijerph-19-07065-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Anatomical variation on left shoulder from specimen C: different anatomical structures could be observed as follows: (1) superior transverse scapular ligament; (2) inferior belly of omohyoid muscle; (3) suprascapular nerve; (4) acromioclavicular sensitive branch; (5) supraspinatus motor branch; (6) infraspinatus motor branch; note that the division into supraspinatus and infraspinatus motor branches is proximal to superior transverse scapular ligament.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left shoulder (specimen C) showing the suprascapular nerve passing under the superior transverse scapular ligament, with its acromioclavicular sensory branch and supraspinatus/infraspinatus motor branches (here dividing proximal to the ligament).",
+        "labels_visible_in_image": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "pixels": "745x504",
+        "local_path": "topografik/images/raw/PMC9223225/ijerph-19-07065-g001.jpg"
+      }
+    ],
+    "key_findings": "Twelve shoulders (six subjects) dissected. \"In two of the six subjects, the suprascapular nerve was divided into two motor branches proximal to the superior transverse scapular ligament.\" Estimated diameter increase \"of 2.008 mm at the suprascapular notch level and 2.047 mm at the spinoglenoid notch level\".",
+    "clinical_relevance": "Division of the motor branches proximal to the notch \"may be relevant in the diagnosis and treatment of suprascapular neuropathy and arthroscopic procedures\" (suprascapular block, notch decompression).",
+    "notes": "Numbers only (1–6) in image; legend from caption. Specimen shows an anatomical variant (proximal division), so caption must say so if used as a 'normal' slide. Complements PMC4555201 already in repo."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Brachial plexus trunks in the interscalene triangle / posterior triangle (cadaver)",
+    "pmcid": "PMC5617940",
+    "version": 1,
+    "doi": "10.3390/diagnostics7030040",
+    "citation": "Diagnostics (Basel). 2017 Jul 4;7(3):40. doi: 10.3390/diagnostics7030040",
+    "title": "Ultrasonographic Diagnosis of Thoracic Outlet Syndrome Secondary to Brachial Plexus Piercing Variation",
+    "authors": "Leonhard Vanessa, Caldwell Gregory, Goh Mei et al.",
+    "year": "2017",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-07-00040-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Cadaveric photo illustrating the classic anatomical relationship between the scalene musculature and the trunks of the brachial plexus. In this arrangement, the superior, middle, and inferior trunks of the brachial plexus all course between the anterior and middle scalene muscle, through the interscalene gap. AS = anterior scalene; IT = inferior trunk; MS = middle scalene; MT = middle trunk; SA = subclavian artery; ST = superior trunk.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Classic arrangement: superior, middle and inferior trunks with the subclavian artery passing between anterior and middle scalene muscles.",
+        "labels_visible_in_image": [
+          "AS",
+          "ST",
+          "MS",
+          "MT",
+          "IT",
+          "SA"
+        ],
+        "pixels": "672x665",
+        "local_path": "topografik/images/raw/PMC5617940/diagnostics-07-00040-g001.jpg"
+      }
+    ],
+    "key_findings": "Eighty-two cadaveric necks dissected: \"In 62.1%, C5, superior trunk, or superior + middle trunks pierced the anterior scalene.\"",
+    "clinical_relevance": "Piercing variants predispose to neurogenic thoracic outlet syndrome; ultrasonography can identify them (see kesit entries for the same article).",
+    "notes": "Same article also used under kesit_lecture (Fig 3) and kesit_variation (Fig 4)."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Long thoracic nerve on serratus anterior (lateral chest wall / medial axillary wall)",
+    "pmcid": "PMC5790210",
+    "version": 1,
+    "doi": "10.7759/cureus.1898",
+    "citation": "Cureus. 2017 Nov 30;9(11):e1898. doi: 10.7759/cureus.1898",
+    "title": "Intercostal Nerve to Long Thoracic Nerve Transfer for the Treatment of Winged Scapula: A Cadaveric Feasibility Study",
+    "authors": "Louis Jr Robert G, Whitesides Joshua D, Kollias Theofanis F et al.",
+    "year": "2017",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0009-00000001898-i02.jpg",
+        "label": "Figure 2",
+        "caption": "The long thoracic nerve is seen following skin retraction and superficial dissection of the lateral chest wall",
+        "specimen": "human cadaver",
+        "what_it_shows": "Lateral chest wall after skin flap retraction: long thoracic nerve running on the serratus anterior, posterior to the pectoralis major edge.",
+        "labels_visible_in_image": [
+          "Pectoral Fascia",
+          "Pectoralis Major",
+          "Serratus Anterior",
+          "Long Thoracic Nerve"
+        ],
+        "pixels": "743x587",
+        "local_path": "topografik/images/raw/PMC5790210/cureus-0009-00000001898-i02.jpg"
+      },
+      {
+        "file": "cureus-0009-00000001898-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Additional dissection highlights the underlying serratus anterior muscle",
+        "specimen": "human cadaver",
+        "what_it_shows": "Deeper dissection exposing the digitations of serratus anterior with the long thoracic nerve along its lateral surface.",
+        "labels_visible_in_image": [
+          "Pectoralis Major",
+          "Serratus Anterior",
+          "Long Thoracic Nerve"
+        ],
+        "pixels": "705x706",
+        "local_path": "topografik/images/raw/PMC5790210/cureus-0009-00000001898-i03.jpg"
+      }
+    ],
+    "key_findings": "Ten embalmed cadavers (20 sides). \"Within the operative site, the mean proximal and distal diameters of the LTN were 1.6 and 1.1 mm, respectively. The adjacent ICN had a mean diameter of 1.3 mm.\"",
+    "clinical_relevance": "Feasibility of intercostal-to-long-thoracic nerve transfer \"might offer a new technique for restoring protraction following an LTN injury\" (winged scapula).",
+    "notes": "Clear English text labels; good for 'fossa axillaris medial wall' slide."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Deltopectoral groove: cephalic vein and deltoid branches of thoracoacromial vessels (schematic)",
+    "pmcid": "PMC4603045",
+    "version": 1,
+    "doi": "10.1097/MD.0000000000000728",
+    "citation": "Medicine (Baltimore). 2015 May 1;94(17):e728. doi: 10.1097/MD.0000000000000728",
+    "title": "Deltoid Branch of Thoracoacromial Vein",
+    "authors": "Su Ta-Wei, Wu Ching-Feng, Fu Jui-Ying et al.",
+    "year": "2015",
+    "journal": "Medicine",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "medi-94-e728-g002.jpg",
+        "label": "FIGURE 2",
+        "caption": "Schematic of the position of cephalic and deltoid branch of thoracoacromial vein.",
+        "specimen": "schematic",
+        "what_it_shows": "Author line drawing of the deltopectoral groove with pectoralis major cut, showing the cephalic vein and the deltoid branches of the thoracoacromial artery and vein.",
+        "labels_visible_in_image": [
+          "Deltoid br. of thoracoacromial artery",
+          "Deltoid br. of thoracoacromial vein",
+          "Cephalic vein",
+          "Deltoid muscle",
+          "Pectoralis major muscle ( cut)"
+        ],
+        "pixels": "800x601",
+        "local_path": "topografik/images/raw/PMC4603045/medi-94-e728-g002.jpg"
+      }
+    ],
+    "key_findings": "Clinical series of 802 consecutive oncology patients (intravenous port implantation). \"The majority of patients (93.6%) could be identified as thoracoacromial vessel. The deltoid branch of the thoracoacromial vein is located on the medial aspect of the deltopectoral groove beneath the pectoralis major muscle (85.8%) and in the deep part of the deltopectoral groove (14.2%).\"",
+    "clinical_relevance": "\"It is a safe alternative entry vessel for intravenous port implantation\" when the cephalic vein is not usable.",
+    "notes": "Not a cadaver study (intra-operative clinical series); Fig 1 is an intra-operative photo and was not taken. Schematic is the authors' own (no reproduction note)."
+  },
+  {
+    "use": "topo_lecture",
+    "topic": "Axillary nerve under the deltoid: acromio-axillary distance and safe zone (regio deltoidea)",
+    "pmcid": "PMC6026816",
+    "version": 1,
+    "doi": "10.5115/acb.2018.51.2.93",
+    "citation": "Anat Cell Biol. 2018 Jun 27;51(2):93–7. doi: 10.5115/acb.2018.51.2.93",
+    "title": "Re-definition of position and calculation of safe area for axillary nerve in deltoid muscle with its clinical relevance: a cadaveric study",
+    "authors": "Patra Apurba, Singh Manjit, Kaur Harsimarjit et al.",
+    "year": "2018",
+    "journal": "Anatomy & Cell Biology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "acb-51-93-g002.jpg",
+        "label": "Fig. 2",
+        "caption": "The deltoid muscle was replaced in its original anatomical position. The course of axillary nerve is shown with the help of needles, and the anterior acromio-axillary distance (AD) and posterior acromioaxillary distance (PD) were measured. AEA, anterior edge of acromion; PEA, posterior edge of acromion.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Deltoid replaced in position; course of the axillary nerve marked with pins and the anterior/posterior acromio-axillary distances drawn from the acromial edges.",
+        "labels_visible_in_image": [
+          "AEA",
+          "PEA",
+          "AD",
+          "PD",
+          "AXILLARY NERVE"
+        ],
+        "pixels": "630x834",
+        "local_path": "topografik/images/raw/PMC6026816/acb-51-93-g002.jpg"
+      }
+    ],
+    "key_findings": "Sixty shoulders of thirty cadavers. \"The mean of anterior and posterior AA distance was 5.22 cm and 4.17 cm, respectively.\" \"The minimum AA distance was found to be 3.50 cm. So this should be considered as the maximum permissible length of the deltoid split.\"",
+    "clinical_relevance": "Defines a safe area for deltoid-splitting approaches; the axillary nerve's anterior branch is at particular risk of iatrogenic injury.",
+    "notes": "LICENCE CC BY-NC (flag). Fig 1 (inner deltoid surface) had no labels and was not kept."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Dorsal scapular artery origin and its relation to the brachial plexus (scapular anastomosis)",
+    "pmcid": "PMC10183034",
+    "version": 1,
+    "doi": "10.1038/s41598-023-35054-2",
+    "citation": "Sci Rep. 2023 May 13;13:7803. doi: 10.1038/s41598-023-35054-2",
+    "title": "Origin variations and brachial plexus relationship of the dorsal scapular artery",
+    "authors": "Lai Kuen-Cherng, Ho Han-Chen",
+    "year": "2023",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2023_35054_Fig1_HTML.jpg",
+        "label": "Figure 1",
+        "caption": "Representative images showing the relationships of the brachial plexus and arteries. (a) Dorsal scapular artery (*) is a branch of the transverse cervical artery (TCA), which arises from the thyrocervical trunk (T). The above arteries pass over the brachial plexus towards the back. The suprascapular artery (●) passing through the brachial plexus is a branch of the axillary artery. AS: anterior scalene muscle; I: inferior trunk; M: middle trunk; S: superior trunk of brachial plexus; SA: subclavian artery. (b) Dorsal scapular artery (*) passing through the middle (M) and inferior (I) trunks of the brachial plexus is a direct branch from the second part of the subclavian artery (SA).",
+        "specimen": "human cadaver",
+        "what_it_shows": "(a) Dorsal scapular artery (*) from the transverse cervical artery passing over the trunks; (b) DSA (*) passing between the plexus trunks when arising directly from the subclavian artery.",
+        "labels_visible_in_image": [
+          "a",
+          "b",
+          "AS",
+          "TCA",
+          "T",
+          "S",
+          "M",
+          "I",
+          "SA",
+          "*",
+          "●"
+        ],
+        "pixels": "707x940",
+        "local_path": "topografik/images/raw/PMC10183034/41598_2023_35054_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "79 sides of 41 cadavers. \"the dorsal scapular artery originated most frequently from the transverse cervical artery (48%), followed by the direct branch from the third part (25%) and the second part (22%) of the subclavian artery and from the axillary artery (5%).\" \"Only 3% of the dorsal scapular artery passed through the brachial plexus if its origin was the transverse cervical artery\" vs \"100% and 75%\" for second/third-part origins.",
+    "clinical_relevance": "Variations matter for \"supraclavicular brachial plexus block and head and neck reconstruction with pedicled or free flaps.\"",
+    "notes": "Original series with prevalence; good for scapular anastomosis lecture."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Axillary artery branching variations: common trunks of circumflex/subscapular/profunda arteries (423 limbs)",
+    "pmcid": "PMC7664784",
+    "version": 1,
+    "doi": "10.17305/bjbms.2020.4643",
+    "citation": "Bosn J Basic Med Sci. 2020 Nov;20(4):502–13. doi: 10.17305/bjbms.2020.4643",
+    "title": "Upper limb principal arteries variations: A cadaveric study with terminological implication",
+    "authors": "Konarik Marek, Musil Vladimir, Baca Vaclav et al.",
+    "year": "2020",
+    "journal": "Bosnian Journal of Basic Medical Sciences",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "BJBMS-20-502-g001.jpg",
+        "label": "FIGURE 1",
+        "caption": "Textbook (usual) pattern of the arteria axillaris branching.",
+        "specimen": "schematic",
+        "what_it_shows": "Diagram of the usual (textbook) branching of the axillary artery with Latin labels.",
+        "labels_visible_in_image": [
+          "a. subclavia",
+          "a. thoracoacromialis",
+          "a. thoracica superior",
+          "a. thoracica lateralis",
+          "a. circumflexa humeri anterior",
+          "a. circumflexa humeri posterior",
+          "a. subscapularis",
+          "a. circumflexa scapulae",
+          "a. thoraco dorsalis",
+          "a. brachialis"
+        ],
+        "pixels": "553x362",
+        "local_path": "topografik/images/raw/PMC7664784/BJBMS-20-502-g001.jpg"
+      },
+      {
+        "file": "BJBMS-20-502-g008.jpg",
+        "label": "FIGURE 3",
+        "caption": "Truncus profundocircumflexus. AA – arteria ­axillaris; ACHA – arteria circumflexa humeri anterior; ACHP – arteria circumflexa humeri posterior; APB – arteria profunda brachii; FT – fused tendons of musculus teres major and musculus latissimus dorsi; MCB – musculus coracobrachialis; NM – nervus medianus; TPC – truncus profundocircumflexus.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Truncus profundocircumflexus: posterior circumflex humeral artery and profunda brachii arising by a common trunk from the axillary artery below the fused teres major/latissimus tendons.",
+        "labels_visible_in_image": [
+          "superior",
+          "lateral",
+          "ACHA",
+          "MCB",
+          "NM",
+          "AA",
+          "FT",
+          "ACHP",
+          "TPC",
+          "APB"
+        ],
+        "pixels": "497x846",
+        "local_path": "topografik/images/raw/PMC7664784/BJBMS-20-502-g008.jpg"
+      },
+      {
+        "file": "BJBMS-20-502-g010.jpg",
+        "label": "FIGURE 4",
+        "caption": "Arteria brachialis superficialis and truncus profundosubscapulocircumflexus. Legend: AA – arteria axillaris; ABS – arteria brachialis superficialis; ACHP – arteria circumflexa humeri posterior; APB – arteria profunda brachii; ASS – arteria subscapularis; T – truncus profundosubscapulocircumflexus.",
+        "specimen": "human cadaver (latex-injected)",
+        "what_it_shows": "Arteria brachialis superficialis together with a truncus profundosubscapulocircumflexus (T) giving ACHP, ASS and APB.",
+        "labels_visible_in_image": [
+          "AA",
+          "ACHP",
+          "T",
+          "ABS",
+          "ASS",
+          "APB",
+          "superior",
+          "medial"
+        ],
+        "pixels": "497x546",
+        "local_path": "topografik/images/raw/PMC7664784/BJBMS-20-502-g010.jpg"
+      }
+    ],
+    "key_findings": "423 embalmed upper limbs (Central European). \"Truncus subscapulocircumflexus (22.9%), truncus profundocircumflexus (13.75%), and truncus bicircumflexus (13.95%).\" \"Arteria thoracodorsalis aberrans We found this unusually originating artery in 5.91% (25/423) of cases.\" Superficial brachial artery 9.5%.",
+    "clinical_relevance": "Prevalence data are needed for \"safe performance\" of catheterization and flap procedures and proposes a standard terminology.",
+    "notes": "Fig 1 is an unattributed diagram (presumably authors'); Fig 2 of the paper is a reproduced terminology scheme (Rodríguez-Niedenführ) and was NOT taken. Figure 4 (file g010) also relevant to KOL (superficial brachial artery)."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Ectopic insertion of pectoralis minor tendon over the coracoid (pectoralis minor variants)",
+    "pmcid": "PMC6588231",
+    "version": 1,
+    "doi": "10.1371/journal.pone.0218715",
+    "citation": "PLoS One. 2019 Jun 21;14(6):e0218715. doi: 10.1371/journal.pone.0218715",
+    "title": "Ectopic tendons of the pectoralis minor muscle as cause for shoulder pain and motion inhibition—Explaining clinically important variabilities through phylogenesis",
+    "authors": "Schwarz Gilbert M., Hirtler Lena",
+    "year": "2019",
+    "journal": "PLoS ONE",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "pone.0218715.g002.jpg",
+        "label": "Fig 2",
+        "caption": "Exemplary photograph of a right shoulder seen from superior.The ectopic pectoralis minor tendon (*) runs over the coracoid process and through the branches of the coracoacromial ligament (CAL). A = acromion, CAL = coracoacromial ligament, CP = coracoid process, H = humerus, PMM = pectoralis minor muscle.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right shoulder from superior: ectopic pectoralis minor tendon (*) crossing the coracoid and passing through the coracoacromial ligament towards the humerus.",
+        "labels_visible_in_image": [
+          "A",
+          "SSM",
+          "H",
+          "CAL",
+          "CP",
+          "PMM",
+          "*"
+        ],
+        "pixels": "710x740",
+        "local_path": "topografik/images/raw/PMC6588231/pone.0218715.g002.jpg"
+      },
+      {
+        "file": "pone.0218715.g003.jpg",
+        "label": "Fig 3",
+        "caption": "Right EIPMT (A and A’) and normal (B and B’) type shoulder from cranial (A and B) and lateral (A’ and B’).Insertion areas are marked on the coracoid process. Red = PMM, black = CAL, blue = CHL, * medial CHL fibers, violet = CGL, green = coracobrachialis muscle/short head of biceps. Insertion areas of the PMM in EIPMT type shoulders are significantly bigger (red) and coracopectoral distances (yellow line) to the lateral border significantly smaller. In EIPMT type shoulders with tendons blending into the CHL the CGL insertion area must move more proximal and the CAL must be divided into two branches to give space to the CHL.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Coracoid insertion areas colour-marked in a shoulder with ectopic tendon (A, A') vs normal (B, B'), cranial and lateral views.",
+        "labels_visible_in_image": [
+          "A",
+          "A'",
+          "B",
+          "B'",
+          "*",
+          "colour-coded areas (red PMM, black CAL, blue CHL, violet CGL, green CB/SHB), yellow line"
+        ],
+        "pixels": "742x789",
+        "local_path": "topografik/images/raw/PMC6588231/pone.0218715.g003.jpg"
+      }
+    ],
+    "key_findings": "45 shoulders dissected. \"The prevalence of PMM variations was 37.84%.\" \"Shoulders with variations showed a statistically significant smaller coracopectoral distance (p<0.001) and larger insertion areas (p<0.003)\".",
+    "clinical_relevance": "\"Especially in patients experiencing shoulder pain and stiffness in whom the commoner pathologies have been ruled out the possibility of ectopic PMT should be kept in mind\"; imaging is insufficiently sensitive.",
+    "notes": "Fig 1 of this paper is 'Modified from Lee 2014' and was NOT taken. Fig 3 has no text labels (colour code only)."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Posterior cord of brachial plexus and its branches: variations (axilla)",
+    "pmcid": "PMC4392958",
+    "version": 1,
+    "doi": "10.5402/2013/501813",
+    "citation": "ISRN Anat. 2013 Sep 26;2013:501813. doi: 10.5402/2013/501813",
+    "title": "Posterior Cord of Brachial Plexus and Its Branches: Anatomical Variations and Clinical Implication",
+    "authors": "Rastogi Rakhi, Budhiraja Virendra, Bansal Kshitij",
+    "year": "2013",
+    "journal": "ISRN Anatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "ISRN.ANATOMY2013-501813.002.jpg",
+        "label": "Figure 2",
+        "caption": "Axillary nerve originates from posterior division of upper trunk and posterior cord in lateral relation of second part of axillary artery. C5, C6, C7, C8, T1-ventral rami of spinal nerve, UT-upper trunk, MD-middle trunk, LT-lower trunk, 1,2,3,-Posterior division of upper, middle and lower trunk, 4,5,6-anterior division of upper, middle and lower trunk, LC-lateral cord, PC-posterior cord, MCN-musculocutaneous nerve, MN-median nerve, RN-radial nerve, AN-axillary nerve, AA-axillary artery.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Infraclavicular plexus dissection: axillary nerve arising from the posterior division of the upper trunk and posterior cord lateral to the second part of the axillary artery; roots C5–T1, trunks, cords and terminal branches visible.",
+        "labels_visible_in_image": [
+          "AN",
+          "RN",
+          "PC",
+          "MCN",
+          "AA",
+          "LC",
+          "MN",
+          "UT",
+          "MT",
+          "LT",
+          "C5",
+          "C6",
+          "C7",
+          "T1",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
+        "pixels": "658x433",
+        "local_path": "topografik/images/raw/PMC4392958/ISRN.ANATOMY2013-501813.002.jpg"
+      },
+      {
+        "file": "ISRN.ANATOMY2013-501813.003.jpg",
+        "label": "Figure 3",
+        "caption": "Thoracodorsal nerve originates from axillary nerve. AN-axillary nerve, TDN-thoracodorsal nerve, AA-axillary artery, RN-radial nerve.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Thoracodorsal nerve arising from the axillary nerve.",
+        "labels_visible_in_image": [
+          "AA",
+          "AN",
+          "TDN",
+          "RN"
+        ],
+        "pixels": "658x464",
+        "local_path": "topografik/images/raw/PMC4392958/ISRN.ANATOMY2013-501813.003.jpg"
+      }
+    ],
+    "key_findings": "37 cadavers (74 upper extremities). Posterior cord formed without an upper trunk \"in 16.2%\"; \"Posterior cord of brachial plexus was present lateral to the second part of axillary artery in 18.9%\"; \"Axillary nerve was taking origin from posterior division of upper trunk in 10.8% upper extremities and thoracodorsal nerve arising from axillary nerve in 22.9% upper extremities.\"",
+    "clinical_relevance": "\"It is important to be aware of such variations while planning a surgery in the region of axilla as these nerves are more liable to be injured during surgical procedures.\"",
+    "notes": "Images ~658 px wide, somewhat JPEG-soft; labels legible."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Accessory subscapular nerves (subscapularis innervation variants)",
+    "pmcid": "PMC7601857",
+    "version": 1,
+    "doi": "10.3390/medicina56100532",
+    "citation": "Medicina (Kaunas). 2020 Oct 12;56(10):532. doi: 10.3390/medicina56100532",
+    "title": "Variations in Subscapularis Muscle Innervation—A Report on Case Series",
+    "authors": "Siwetz Martin, Hammer Niels, Ondruschka Benjamin et al.",
+    "year": "2020",
+    "journal": "Medicina",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "medicina-56-00532-g001.jpg",
+        "label": "Figure 1",
+        "caption": "Left shoulder area of a 79-year-old male. The pectoralis major is removed. The brachial plexus is everted to view the full expansion of the subscapular nerves. The three subscapular nerves (U1, U2, L) are highlighted in yellow. U1, first upper subscapular nerve; U2, second upper subscapular nerve; L, lower subscapular nerve; PC, posterior cord of the brachial plexus; SSC, subscapularis muscle; **, clavicle; cd, caudal; cr, cranial; l, lateral; m, medial.",
+        "specimen": "human cadaver",
+        "what_it_shows": "Left axilla with pectoralis major removed and plexus everted: three subscapular nerves (U1, U2, L) to subscapularis highlighted in yellow from the posterior cord.",
+        "labels_visible_in_image": [
+          "PC",
+          "U1",
+          "U2",
+          "L",
+          "SSC",
+          "m",
+          "cd",
+          "cr",
+          "l",
+          "**"
+        ],
+        "pixels": "774x585",
+        "local_path": "topografik/images/raw/PMC7601857/medicina-56-00532-g001.jpg"
+      }
+    ],
+    "key_findings": "31 cadaveric specimens. \"Accessory subscapular nerves were found in three cases (9.7%).\" All three were accessory upper subscapular nerves; \"No accessory lower subscapular nerves were found.\"",
+    "clinical_relevance": "\"Accessory nerves occur rather commonly and need to be considered during surgery, nerve blocks, and imaging procedures.\"",
+    "notes": "Labels partly red on dark background; legible at 774 px."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Suprascapular notch types and ossified superior transverse scapular ligament (dry scapulae)",
+    "pmcid": "PMC7656716",
+    "version": 1,
+    "doi": "10.1186/s12891-020-03769-2",
+    "citation": "BMC Musculoskelet Disord. 2020 Nov 10;21:733. doi: 10.1186/s12891-020-03769-2",
+    "title": "Morphometric study of suprascapular notch and scapular dimensions in Ugandan dry scapulae with specific reference to the incidence of completely ossified superior transverse scapular ligament",
+    "authors": "Adewale Adesanya Olamide, Segun Okeniran Olatayo, Usman Ibe Michael et al.",
+    "year": "2020",
+    "journal": "BMC Musculoskeletal Disorders",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12891_2020_3769_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Photographs of the scapulae representing the suprascapular notch types of the study",
+        "specimen": "dry bone",
+        "what_it_shows": "Six dry scapulae illustrating Rengachary types 1–6 of the suprascapular notch, from absent notch to completely ossified ligament with bony foramen, with an on-image key.",
+        "labels_visible_in_image": [
+          "Type 1",
+          "Type 2",
+          "Type 3",
+          "Type 4",
+          "Type 5",
+          "Type 6",
+          "Key (type descriptions)"
+        ],
+        "pixels": "778x442",
+        "local_path": "topografik/images/raw/PMC7656716/12891_2020_3769_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "50 Ugandan dry scapulae. \"Superior transverse scapular ligament (STSL) was completely ossified in 8% of cases.\"",
+    "clinical_relevance": "SSN anatomy is \"vital in diagnosis, prevention, and assessment of suprascapular nerve entrapment syndrome\".",
+    "notes": "Complements PMC4555201 (already in repo) with a full six-type photographic key."
+  },
+  {
+    "use": "topo_variation",
+    "topic": "Suprascapular artery arising from the axillary artery; dorsal scapular artery supplying supraspinatus (case)",
+    "pmcid": "PMC12206475",
+    "version": 1,
+    "doi": "10.7759/cureus.85095",
+    "citation": "Cureus. 2025 May 30;17(5):e85095. doi: 10.7759/cureus.85095",
+    "title": "Unilateral Anatomical Variation of the Suprascapular and Dorsal Scapular Arteries: A Cadaveric Case Report",
+    "authors": "Huston Lila, Bhattacharya Arunabh",
+    "year": "2025",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0017-00000085095-i02.jpg",
+        "label": "Figure 2",
+        "caption": "Direct origin of the SSA from the first part of AA on the right side of the bodySSA emerged directly from the AA, passed over the LT, and continued obliquely between the contributions of the UT and MT to the lateral cord.The dashed line shows the path of the first rib.AA: axillary artery; CCA: common carotid artery; DSA: dorsal scapular artery; LT: lower trunk; MT: middle trunk; SA: subclavian artery; SSA: suprascapular artery; TCA: transverse cervical artery; UT: upper trunk",
+        "specimen": "human cadaver",
+        "what_it_shows": "Right root of neck/axilla: SSA arising from the first part of the axillary artery and passing between plexus trunk contributions; DSA, TCA and subclavian artery (3rd part) shown; dashed line = first rib.",
+        "labels_visible_in_image": [
+          "Cephalad",
+          "Caudad",
+          "Lateral",
+          "Medial",
+          "DSA",
+          "UT",
+          "MT",
+          "LT",
+          "SSA",
+          "AA",
+          "TCA",
+          "CCA",
+          "SA (3rd part)"
+        ],
+        "pixels": "750x766",
+        "local_path": "topografik/images/raw/PMC12206475/cureus-0017-00000085095-i02.jpg"
+      },
+      {
+        "file": "cureus-0017-00000085095-i03.jpg",
+        "label": "Figure 3",
+        "caption": "SSA provides blood supply to the subscapularis musclePosterior view of the right scapular region showing the course of the SSA and DSA. SSA is divided into two branches, one of which is divided further into three smaller branches to supply the subscapularis muscle.DSA: dorsal scapular artery; LSM: levator scapulae muscle; RMM: rhomboid major muscle; RmM: rhomboid minor muscle; SSA: suprascapular artery; SSM: subscapularis muscle",
+        "specimen": "human cadaver",
+        "what_it_shows": "Posterior scapular region with rhomboids reflected: dorsal scapular artery and suprascapular artery branches (scapular anastomosis territory).",
+        "labels_visible_in_image": [
+          "Cephalad",
+          "Caudad",
+          "Medial",
+          "Lateral",
+          "LSM",
+          "RMM and RmM (reflected)",
+          "DSA",
+          "SSA",
+          "SSA branches to SSM"
+        ],
+        "pixels": "750x747",
+        "local_path": "topografik/images/raw/PMC12206475/cureus-0017-00000085095-i03.jpg"
+      }
+    ],
+    "key_findings": "Single 75-year-old male donor (case report). \"The SSA arose directly from the first part of the axillary artery instead of the thyrocervical trunk\"; the DSA \"provided branches to the supraspinatus muscle in addition to its normal blood supply to the rhomboid and levator scapulae muscles.\"",
+    "clinical_relevance": "\"Awareness and prior identification of variations such as those presented in this report can help avoid potential complications in surgical procedures.\"",
+    "notes": "Case report, no prevalence. Very clear labelled photos; Fig 3 also usable to illustrate the scapular anastomosis vessels (state that the specimen is variant)."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Brachial plexus MRI (roots, trunks, cords) with cadaver/plastinate correlation",
+    "pmcid": "PMC8695258",
+    "version": 1,
+    "doi": "10.1016/j.ejro.2021.100392",
+    "citation": "Eur J Radiol Open. 2021 Dec 20;9:100392. doi: 10.1016/j.ejro.2021.100392",
+    "title": "Magnetic resonance imaging of the brachial plexus. Part 1: Anatomical considerations, magnetic resonance techniques, and non-traumatic lesions",
+    "authors": "Szaro Pawel, McGrath Alexandra, Ciszek Bogdan et al.",
+    "year": "2021",
+    "journal": "European Journal of Radiology Open",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "gr5.jpg",
+        "label": "Fig. 5",
+        "caption": "MRI of the brachial plexus, right side. (a and b) T2-weighted DIXON sequence with fat suppression. (b) MPR of the C8 root. (c and d) Neurography. 1 – the C5 root, 2 – the C6 root, 3 – the middle trunk, 4 – the C8 root, 5 – the Th1 root, 6 – the upper trunk, 7 – the lower trunk, 8 – the lateral cord, 9 – the medial cord, and 10 – the posterior cord.",
+        "specimen": "MRI",
+        "what_it_shows": "Right brachial plexus on coronal T2 DIXON fat-suppressed images, MPR of C8 root and MR neurography; numbered roots C5–Th1, trunks and cords.",
+        "labels_visible_in_image": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "1",
+          "2",
+          "3",
+          "3a",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "pixels": "727x622",
+        "local_path": "topografik/images/raw/PMC8695258/gr5.jpg"
+      },
+      {
+        "file": "gr7.jpg",
+        "label": "Fig. 7",
+        "caption": "The cords and nerves of the left brachial plexus. (a-d) Magnetic resonance imaging of the left brachial plexus (MRI-neurography) with anatomical correlation. (e) A plastinated specimen of the left brachial plexus, anterior view, where the left hemithorax and cervical spine are dissected. 1 – the C6 root, 2 – the C7 root, 3 – the C8 root, 4 – the Th1 root, 5 – the medial cord, 6 – the lateral cord, 7 – the musculocutaneous nerve, 8 – the median nerve, 8a – the medial root, 8b – the lateral root, 9 – the ulnar nerve, 10 – the radial nerve, 11 – the posterior cord, 12 – the C5 root, 13 – the upper trunk, 14 – the middle trunk, 15 – the lower trunk, and 16 – the clavicula.",
+        "specimen": "MRI + plastinated specimen",
+        "what_it_shows": "Cords and terminal nerves of left brachial plexus on MR neurography (a–d) correlated with a plastinated anterior dissection (e).",
+        "labels_visible_in_image": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "8a",
+          "8b",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ],
+        "pixels": "739x287",
+        "local_path": "topografik/images/raw/PMC8695258/gr7.jpg"
+      },
+      {
+        "file": "gr4.jpg",
+        "label": "Fig. 4",
+        "caption": "(a-c) The roots and trunks of the normal brachial plexus (BP) on magnetic resonance imaging. (d) cadaver specimen, anterolateral view. 1 – the C4 spinal nerve (not contributing to the BP), 2 – the C5 root, 3 – the C6 root, 3a- the anterior division of the middle trunk, 4 – the C7 root, 5 – the upper trunk, 6 – the middle trunk, 7 – the C8 root, 8 – the Th1 root, 9 – the ganglia of the spinal nerves C5-C8, 10 – the phrenic nerve, 11 – the suprascapular artery, 12 – the ascending cervical artery, 13 – the subclavian vein, 14 – the internal jugular vein, and 15 – the nerve point of the neck. Ant.; anterior, post.; posterior, sup.; superior, inf.; inferior.",
+        "specimen": "MRI + human cadaver",
+        "what_it_shows": "Roots and trunks of the normal plexus on MRI (a–c) and cadaver specimen anterolateral view (d).",
+        "labels_visible_in_image": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "1–15",
+          "sup.",
+          "inf.",
+          "post.",
+          "ant."
+        ],
+        "pixels": "739x302",
+        "local_path": "topografik/images/raw/PMC8695258/gr4.jpg"
+      }
+    ],
+    "key_findings": "Review (Part 1) of BP MRI: anatomy, technique and non-traumatic lesions. \"Some nerves show a relatively high variation rate, like the long thoracic nerve or medial antebrachial cutaneous nerve\".",
+    "clinical_relevance": "\"MRI allows narrowing the list of differential diagnoses of brachial plexus lesions\" and distinguishes neoplastic infiltration from radiation neuropathy on T2-weighted images.",
+    "notes": "Images are ~730 px wide with small multi-panel frames (gr4, gr7 especially small: 739x302 / 739x287) — usable at half-slide width; gr5 is best. Numbered labels only; legend from caption."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Glenohumeral ligaments on MR/CT arthrography (normal anatomy)",
+    "pmcid": "PMC6251069",
+    "version": 1,
+    "doi": "10.5334/jbr-btr.1467",
+    "citation": "J Belg Soc Radiol. 2017 Dec 16;101(Suppl 2):3. doi: 10.5334/jbr-btr.1467",
+    "title": "Shoulder Anatomy and Normal Variants",
+    "authors": "Kadi Redouane, Milants Annemieke, Shahabpour Maryam",
+    "year": "2017",
+    "journal": "Journal of the Belgian Society of Radiology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "jbsr-101-2-1467-g16.jpg",
+        "label": "Figure 16",
+        "caption": "Glenohumeral ligaments and spiral glenohumeral ligament (fasciculus obliquus). (A) Schematic illustration of the anterior ligaments of the shoulder. SGHL: superior glenohumeral ligament, MGHL: middle glenohumeral ligament, IGHL: anterior band of the inferior glenohumeral ligament, spiral GHL: spiral glenohumeral ligament or fasciculus obliquus. (B) Sagittal oblique PD-weighted MR arthrogram image shows the fasciculus obliquus (thick white arrows, B), the frenula capsulae (synovial bands) (thin white arrows, B) and the middle glenohumeral ligament (black arrows, B) can be identified on this sagittal section.",
+        "specimen": "schematic + MRI arthrography",
+        "what_it_shows": "(A) Drawing of anterior glenohumeral ligaments (SGHL, MGHL, IGHL, spiral GHL); (B) sagittal MR arthrogram showing the ligaments (arrows).",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "coracoid",
+          "SGHL",
+          "MGHL",
+          "spiral GHL",
+          "IGHL",
+          "humerus",
+          "scapula",
+          "arrows"
+        ],
+        "pixels": "640x275",
+        "local_path": "topografik/images/raw/PMC6251069/jbsr-101-2-1467-g16.jpg"
+      },
+      {
+        "file": "jbsr-101-2-1467-g22.jpg",
+        "label": "Figure 22",
+        "caption": "Inferior glenohumeral ligament. On fat-saturated T1-weighted MRA images obtained in (A) Coronal oblique and (B) Axial planes, the ligament appears as a thin hypointense band delimited by the distended axillary pouch or recess with a U-shaped appearance (arrow, A). The anterior (white arrow, B) and posterior (black arrow, B) bands are demonstrated on the axial section.",
+        "specimen": "MRI arthrography",
+        "what_it_shows": "Inferior glenohumeral ligament and axillary recess on coronal oblique (A) and axial (B) fat-sat T1 MR arthrograms.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "arrows (white/black)"
+        ],
+        "pixels": "640x333",
+        "local_path": "topografik/images/raw/PMC6251069/jbsr-101-2-1467-g22.jpg"
+      }
+    ],
+    "key_findings": "Review of shoulder anatomy and normal variants on radiography, MRI, MR/CT arthrography. Labrum \"may appear thickened and cordlike ... as in the Buford complex ... or completely absent in 30% of healthy subjects\" (MGHL).",
+    "clinical_relevance": "Normal variants must be recognised to avoid misdiagnosis as pathology (labral tear, fracture, osteophyte).",
+    "notes": "Arrow-based labels; anatomical names only on schematic (A of g16). Same article used in kesit_variation."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Rotator cuff ultrasound: supraspinatus/infraspinatus longitudinal view with labelled line drawing",
+    "pmcid": "PMC3097811",
+    "version": 1,
+    "doi": "10.2349/biij.2.4.e58",
+    "citation": "Biomed Imaging Interv J. 2006 Oct 1;2(4):e58. doi: 10.2349/biij.2.4.e58",
+    "title": "Shoulder ultrasound",
+    "authors": "Tan SP, Fairbairn KJ, Kirk JE et al.",
+    "year": "2006",
+    "journal": "Biomedical Imaging and Intervention Journal",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "biij-02-e58-g13.jpg",
+        "label": "Figure 13",
+        "caption": "Frozen US image depicting a longitudinal view of the SST and IST.",
+        "specimen": "US",
+        "what_it_shows": "Frozen US image of the supraspinatus (anterior) and infraspinatus (posterior) tendons over the humeral head.",
+        "labels_visible_in_image": [
+          "LT COR ANT",
+          "POST",
+          "depth scale"
+        ],
+        "pixels": "450x314",
+        "local_path": "topografik/images/raw/PMC3097811/biij-02-e58-g13.jpg"
+      },
+      {
+        "file": "biij-02-e58-g14.jpg",
+        "label": "Figure 14",
+        "caption": "Labelled line drawing depicting a longitudinal view of the SST and IST.",
+        "specimen": "schematic",
+        "what_it_shows": "Labelled line drawing matching the US image: BT, SST, IST over the humeral head.",
+        "labels_visible_in_image": [
+          "ANTERIOR",
+          "POSTERIOR",
+          "BT",
+          "SST",
+          "IST",
+          "HUMERAL HEAD"
+        ],
+        "pixels": "628x437",
+        "local_path": "topografik/images/raw/PMC3097811/biij-02-e58-g14.jpg"
+      }
+    ],
+    "key_findings": "Technical pictorial (no study population): standard technique for imaging SUBSCAP, BT, SST, IST and ACJ; \"Frozen US images with labelled line drawings are given to explain the structures seen.\"",
+    "clinical_relevance": "Standardised technique for learning normal appearance \"will later assist in the recognition of pathology.\"",
+    "notes": "LOW RESOLUTION: US image 450x314 (below ideal); drawing 628x437. Use only if nothing better; licence CC BY 2.5."
+  },
+  {
+    "use": "kesit_lecture",
+    "topic": "Brachial plexus trunks in the interscalene groove on ultrasound (normal)",
+    "pmcid": "PMC5617940",
+    "version": 1,
+    "doi": "10.3390/diagnostics7030040",
+    "citation": "Diagnostics (Basel). 2017 Jul 4;7(3):40. doi: 10.3390/diagnostics7030040",
+    "title": "Ultrasonographic Diagnosis of Thoracic Outlet Syndrome Secondary to Brachial Plexus Piercing Variation",
+    "authors": "Leonhard Vanessa, Caldwell Gregory, Goh Mei et al.",
+    "year": "2017",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-07-00040-g003.jpg",
+        "label": "Figure 3",
+        "caption": "The classic brachial plexus anatomy identified on ultrasound: (A) unlabeled; and (B) labeled. Note that the superior, middle, and inferior trunks are clearly separated from the anterior and middle scalene muscles by hyperechoic fascial planes. AS = anterior scalene; IT = inferior trunk; MS = middle scalene; MT = middle trunk; SCM = sternocleidomastoid; ST = superior trunk. The green outlines demarcate the trunks of the brachial plexus.",
+        "specimen": "US",
+        "what_it_shows": "Transverse US of the interscalene region, unlabeled (A) and labelled (B): ST, MT, IT between anterior and middle scalene, SCM superficial.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "MS",
+          "ST",
+          "MT",
+          "IT",
+          "AS",
+          "SCM"
+        ],
+        "pixels": "713x234",
+        "local_path": "topografik/images/raw/PMC5617940/diagnostics-07-00040-g003.jpg"
+      }
+    ],
+    "key_findings": "Ultrasound screening of 22 subjects (see kesit_variation entry).",
+    "clinical_relevance": "Ultrasound visualises the trunks and their fascial separation from the anterior scalene.",
+    "notes": "Width 713 px, two panels (each ~350 px) — small but legible."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Normal variants on imaging: os acromiale (CT) and anterosuperior labral variants incl. Buford complex (MR arthrography)",
+    "pmcid": "PMC6251069",
+    "version": 1,
+    "doi": "10.5334/jbr-btr.1467",
+    "citation": "J Belg Soc Radiol. 2017 Dec 16;101(Suppl 2):3. doi: 10.5334/jbr-btr.1467",
+    "title": "Shoulder Anatomy and Normal Variants",
+    "authors": "Kadi Redouane, Milants Annemieke, Shahabpour Maryam",
+    "year": "2017",
+    "journal": "Journal of the Belgian Society of Radiology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "jbsr-101-2-1467-g9.jpg",
+        "label": "Figure 9",
+        "caption": "Os acromiale. Axial CT arthrography through the acromioclavicular joint demonstrates an os acromiale (arrow) with synchondrosis (arrowhead). An os acromiale should not be confused with a fracture fragment and the synchondrosis with a pseudarthrosis. In this case, there is a communication between the synchondrosis and the glenohumeral joint (with high-density contrast penetration), which is not normal. Subchondral cystic changes are also seen in the zone of pseudarthrosis.",
+        "specimen": "CT (arthrography)",
+        "what_it_shows": "Axial CT arthrogram through the AC joint: os acromiale (arrow) with synchondrosis (arrowhead).",
+        "labels_visible_in_image": [
+          "arrow",
+          "arrowhead"
+        ],
+        "pixels": "400x319",
+        "local_path": "topografik/images/raw/PMC6251069/jbsr-101-2-1467-g9.jpg"
+      },
+      {
+        "file": "jbsr-101-2-1467-g12.jpg",
+        "label": "Figure 12",
+        "caption": "Schematic illustration of the normal capsulolabral complex and anatomical variations. They are shown on a lateral view onto the glenoid. (a) Normal anatomy; (b) Sublabral recess (sublabral sulcus); (c) Sublabral foramen (sublabral hole); (d) Buford complex. LHBT: long head of biceps tendon, SGHL: superior glenohumeral ligament, MGHL: middle glenohumeral ligament, IGHL: inferior glenohumeral ligament.",
+        "specimen": "schematic",
+        "what_it_shows": "Lateral view of the glenoid: (a) normal capsulolabral complex; (b) sublabral recess; (c) sublabral foramen; (d) Buford complex.",
+        "labels_visible_in_image": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "LHBT",
+          "SGHL",
+          "MGHL",
+          "ant IGHL",
+          "post IGHL",
+          "11",
+          "1",
+          "3"
+        ],
+        "pixels": "640x231",
+        "local_path": "topografik/images/raw/PMC6251069/jbsr-101-2-1467-g12.jpg"
+      },
+      {
+        "file": "jbsr-101-2-1467-g15.jpg",
+        "label": "Figure 15",
+        "caption": "Buford complex. (A) Axial PD-weighted and (B) Sagittal fat-suppressed T1-weighted MR arthrographic images show a cord-like middle glenohumeral ligament (white arrow) associated with an absent anterior superior labrum (black arrow) mimicking a labral tear with normal posterior labrum. Subscapularis tendon (arrowhead). (Courtesy of Dr Henri Guerini).",
+        "specimen": "MRI arthrography",
+        "what_it_shows": "Buford complex: cord-like MGHL (white arrow) with absent anterosuperior labrum (black arrow) on axial and sagittal MR arthrograms.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "white arrow",
+          "black arrow",
+          "arrowhead"
+        ],
+        "pixels": "640x321",
+        "local_path": "topografik/images/raw/PMC6251069/jbsr-101-2-1467-g15.jpg"
+      }
+    ],
+    "key_findings": "\"The incidence of this variant [os acromiale] can reach up to 15% of the population\"; the anterosuperior labrum/MGHL may be cord-like as in the Buford complex.",
+    "clinical_relevance": "\"An os acromiale should not be confused with a fracture fragment and the synchondrosis with a pseudarthrosis\"; Buford complex mimics a labral tear.",
+    "notes": "Review article without original prevalence. Fig 15 caption ends '(Courtesy of Dr Henri Guerini)' — published under the article's CC BY, but flag third-party image origin; prefer g12 + g9 if in doubt. Fig 14 (sublabral foramen) is also 'Courtesy of' and was not taken."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Os acromiale prevalence on MRI (3697 shoulder MRIs) and coexistence with rotator cuff tears",
+    "pmcid": "PMC13051579",
+    "version": 1,
+    "doi": "10.5152/j.aott.2026.25714",
+    "citation": "Acta Orthop Traumatol Turc. 2026 Feb 19;60:e25714. doi: 10.5152/j.aott.2026.25714",
+    "title": "Prevalence of os acromiale and concomitant rotator cuff tears: a focused assessment of 3697 shoulder magnetic resonance imagings",
+    "authors": "Birsel Olgar, Yığman Gizem Timoçin, Günerbüyük Caner et al.",
+    "year": "2026",
+    "journal": "Acta Orthopaedica et Traumatologica Turcica",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "aott-60-1-25714_f001.jpg",
+        "label": "Figure 1.",
+        "caption": "Os acromiale visualized on T2-weighted axial (A) and T1-weighted sagittal oblique (B) MR images. The unfused ossification center (white arrow) creates a double acromioclavicular joint appearance characteristic of os acromiale.",
+        "specimen": "MRI",
+        "what_it_shows": "Os acromiale on T2 axial (A) and T1 sagittal oblique (B): unfused ossification centre producing a 'double AC joint' appearance (arrow).",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "white arrows"
+        ],
+        "pixels": "761x428",
+        "local_path": "topografik/images/raw/PMC13051579/aott-60-1-25714_f001.jpg"
+      }
+    ],
+    "key_findings": "3697 shoulder MRIs. \"Os acromiale was identified in 26 cases, corresponding to a prevalence of 0.7%. Only 11 cases were mentioned in the original radiology reports.\" \"Subtypes included 12 preacromion, 13 mesoacromion, and 1 metaacromion.\" Rotator cuff tears in \"20 of 26 patients with os acromiale (77%)\".",
+    "clinical_relevance": "Focused evaluation \"documented more cases than routine radiology reports, underscoring the added value of targeted assessment.\"",
+    "notes": "LICENCE CC BY-NC (flag). Panel A is very dark; panel B is the useful one."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Os acromiale in a general population MRI cohort (SHIP, 3050 participants) — type scheme",
+    "pmcid": "PMC9166870",
+    "version": 1,
+    "doi": "10.1007/s00264-022-05406-0",
+    "citation": "Int Orthop. 2022 May 5;46(7):1583–90. doi: 10.1007/s00264-022-05406-0",
+    "title": "Os acromiale: prevalence and associated patient-related factors—a population-based study of three thousand and fifty participants",
+    "authors": "Fischer Cornelius Sebastian, Floß Matthias, Ittermann Till et al.",
+    "year": "2022",
+    "journal": "International Orthopaedics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "264_2022_5406_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Scheme showing the types of os acromiale: pre-acromion, meso-acromion, meta-acromion, and basi-acromion",
+        "specimen": "schematic",
+        "what_it_shows": "Outline scheme of the acromion ossification centres: pre-, meso-, meta- and basi-acromion.",
+        "labels_visible_in_image": [
+          "Pre",
+          "Meso",
+          "Meta",
+          "Basi"
+        ],
+        "pixels": "644x850",
+        "local_path": "topografik/images/raw/PMC9166870/264_2022_5406_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "\"In total, 1.9% (58/3050) had an os acromiale, while 21 were unilateral left, 23 were unilateral right, and 14 were bilateral. Sixty-eight meso-acromions, three pre-acromions, and one meta-acromion were detected.\" More frequent in men.",
+    "clinical_relevance": "\"it is important to be aware of possible os acromiale before surgery\"; prevalence lower than worldwide range \"(1.9 to 7%)\", supporting a genetic aetiology.",
+    "notes": "CC BY. Article has no MR image figure (only scheme + flowchart); pair the scheme with PMC13051579 or PMC6251069 images."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Suprascapular notch types on 3D-volume-rendered MDCT (311 patients, 622 scapulae)",
+    "pmcid": "PMC4044447",
+    "version": 1,
+    "doi": "10.1155/2014/196896",
+    "citation": "Biomed Res Int. 2014 May 12;2014:196896. doi: 10.1155/2014/196896",
+    "title": "Suprascapular Notch Asymmetry: A Study on 311 Patients",
+    "authors": "Polguj Michał, Sibiński Marcin, Grzegorzewski Andrzej et al.",
+    "year": "2014",
+    "journal": "BioMed Research International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "BMRI2014-196896.002.jpg",
+        "label": "Figure 2",
+        "caption": "Types I–III of the suprascapular notch (three-dimensional volume rendering MDCT). (a) Type I, (b) type II, and (c) type III. MD: maximal depth; STD: superior transverse diameter.",
+        "specimen": "CT (3D VR) + schematic",
+        "what_it_shows": "Types I–III of the suprascapular notch on 3D VR MDCT with matching schematic of maximal depth (MD) vs superior transverse diameter (STD).",
+        "labels_visible_in_image": [
+          "Type I",
+          "Type II",
+          "Type III",
+          "(a)",
+          "(b)",
+          "(c)",
+          "STD",
+          "MD",
+          "MD > STD",
+          "MD = STD",
+          "MD < STD"
+        ],
+        "pixels": "600x810",
+        "local_path": "topografik/images/raw/PMC4044447/BMRI2014-196896.002.jpg"
+      },
+      {
+        "file": "BMRI2014-196896.003.jpg",
+        "label": "Figure 3",
+        "caption": "Types IV-V of the suprascapular notch (three-dimensional volume rendering MDCT). (a) Type IV; (b) type V.",
+        "specimen": "CT (3D VR)",
+        "what_it_shows": "Type IV (bony foramen) and type V (discrete notch) on 3D VR MDCT.",
+        "labels_visible_in_image": [
+          "Type IV",
+          "Type V",
+          "(a)",
+          "(b)"
+        ],
+        "pixels": "600x1440",
+        "local_path": "topografik/images/raw/PMC4044447/BMRI2014-196896.003.jpg"
+      }
+    ],
+    "key_findings": "311 patients / 622 CT scapulae. \"Suprascapular notch was recognized as a symmetrical feature in 53.45% of the patients.\" Symmetric type III \"(111/166, 66.9%)\", type I \"15.6% (26/166)\", type IV \"5 of the 166 patients (3.0%)\", type V \"13.9%\".",
+    "clinical_relevance": "\"The most important risk factor of suprascapular nerve entrapment is probably the shape of the suprascapular notch\"; bilateral symmetry cannot be assumed.",
+    "notes": "Uses Polguj 5-type classification (not Rengachary)."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Anterosuperior labral variants (sublabral recess, sublabral foramen, Buford complex): meta-analysis",
+    "pmcid": "PMC10491707",
+    "version": 1,
+    "doi": "10.1007/s00402-023-04932-9",
+    "citation": "Arch Orthop Trauma Surg. 2023 Jun 23;143(10):6295–303. doi: 10.1007/s00402-023-04932-9",
+    "title": "Prevalence of the anterosuperior capsulolabral anatomical variations and their association with pathologies of the glenoid labrum: a systematic review and meta-analysis",
+    "authors": "Benes Michal, Kachlik David, Kopp Lubomir et al.",
+    "year": "2023",
+    "journal": "Archives of Orthopaedic and Trauma Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "402_2023_4932_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Schematic drawings of the sublabral recess (A), the sublabral foramen (B), and the Buford complex (C). CLMGHL cord-like middle glenohumeral ligament, GL glenoid labrum, LHBBM long head of the biceps brachii muscle, SSM subscapularis muscle",
+        "specimen": "schematic",
+        "what_it_shows": "Three drawings of the glenoid showing (A) sublabral recess, (B) sublabral foramen, (C) Buford complex with cord-like MGHL.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "C",
+          "LHBBM",
+          "GL",
+          "SSM",
+          "CLMGHL"
+        ],
+        "pixels": "669x193",
+        "local_path": "topografik/images/raw/PMC10491707/402_2023_4932_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "20 studies, 7601 upper limbs. Pooled prevalence: sublabral recess \"57.2% (95% CI 30.0–84.4%)\", sublabral foramen \"13.5% (95% CI 8.2–18.9%)\", Buford complex \"3.0% (95% CI 1.5–4.5)\"; \"individuals with Buford complex have RR 2.4 (95% CI 1.3–4.7) of developing SLAP lesions\".",
+    "clinical_relevance": "Differentiating these variants from pathology avoids unnecessary iatrogenic complications; Buford complex \"may be a predisposing factor for sustaining a SLAP lesion.\"",
+    "notes": "Schematic only 669x193 (three panels ~220 px each) — small; usable as a strip. Pooled data mix arthroscopy, MRI and cadaver studies."
+  },
+  {
+    "use": "kesit_variation",
+    "topic": "Brachial plexus piercing variants of the anterior scalene on ultrasound (and cadaver prevalence)",
+    "pmcid": "PMC5617940",
+    "version": 1,
+    "doi": "10.3390/diagnostics7030040",
+    "citation": "Diagnostics (Basel). 2017 Jul 4;7(3):40. doi: 10.3390/diagnostics7030040",
+    "title": "Ultrasonographic Diagnosis of Thoracic Outlet Syndrome Secondary to Brachial Plexus Piercing Variation",
+    "authors": "Leonhard Vanessa, Caldwell Gregory, Goh Mei et al.",
+    "year": "2017",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-07-00040-g004.jpg",
+        "label": "Figure 4",
+        "caption": "The superior piercing variant, the most common brachial plexus variant, identified using ultrasonography in the present study: (A) unlabeled; and (B) labeled. Note that the superior trunk is not separated from the anterior scalene in this condition, visible as a lack of hyperechoic fascia. AS = anterior scalene; IT = inferior trunk; MS = middle scalene; MT = middle trunk; SCM = sternocleidomastoid; ST = superior trunk. The green outlines demarcate the trunks of the brachial plexus.",
+        "specimen": "US",
+        "what_it_shows": "Superior piercing variant on US, unlabeled (A) and labelled (B): superior trunk not separated from the anterior scalene.",
+        "labels_visible_in_image": [
+          "A",
+          "B",
+          "MS",
+          "AS",
+          "ST",
+          "MT",
+          "IT",
+          "SCM"
+        ],
+        "pixels": "716x231",
+        "local_path": "topografik/images/raw/PMC5617940/diagnostics-07-00040-g004.jpg"
+      }
+    ],
+    "key_findings": "Cadaver part: 82 necks, \"In 62.1%, C5, superior trunk, or superior + middle trunks pierced the anterior scalene.\" US screening of 22 subjects (44 plexuses): \"Eight of these were classified as piercing variants ... (18.2%)\"; superior piercing \"n = 4; 9.1%\", multiple piercing \"n = 3; 6.8%\", C5 piercing \"n = 1; 2.3%\". nTOS symptoms in 50% of piercing variants vs 13.9% of normal plexuses.",
+    "clinical_relevance": "\"The addition of ultrasonography to nTOS diagnosis, especially for patients with BP branching variation, would allow clinicians to visualize and identify atypical patient anatomy.\"",
+    "notes": "Two-panel US image 716 px wide; labels small but legible. Fig 2 (cadaver variants A–C) is also in the bucket if a topo slide is wanted."
+  }
+]
