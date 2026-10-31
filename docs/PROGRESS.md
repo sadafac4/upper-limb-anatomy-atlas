@@ -1,4 +1,28 @@
-# Progress report – upper-limb anatomy atlas (session 1, 2026-10-31)
+# Progress report – upper-limb anatomy atlas
+
+## Session 2 (2026-10-31) – long, sectioned decks
+
+User request: lecture-style, region-by-region decks (Omuz → Kol → Önkol → El), more teaching text, more visuals, and at the end of each region a variation literature review with the studies' own figures and short summaries.
+
+| Deliverable | Path | Slides |
+|---|---|---|
+| Topographic deck | `topografik/Topografik_Anatomi.pptx` + `.pdf` | 128 |
+| Cross-sectional deck | `kesitsel/Kesitsel_Anatomi.pptx` + `.pdf` | 71 |
+
+What was added:
+* Regional literature search by 4 parallel agents → `sources/bolge_{omuz,kol,onkol,el}.json` (95 entries, ~87 new PMC OA articles; licence/caption/visible labels verified, every figure inspected) + search logs.
+* Content modules: `scripts/icerik_topografik.py` (lecture text, muscle tables, clinical correlations), `scripts/icerik_topo_ek.py` (dissection slides, variation tables + study slides), `scripts/icerik_kesitsel.py` (reading guides, 18 VHP levels, imaging literature, imaging variations).
+* Shared slide types `scripts/slayt_tipleri.py`, source registry `scripts/kaynak_kayit.py`, terminology dictionary `scripts/terimler.py` (legends translate only labels actually printed on each figure).
+* VHP: 10 new levels (1290–1850), bulk cryosection download (`vhp_bulk_slices.py`) and a straightened curved-planar longitudinal reformat of the whole right upper limb (`vhp_cpr.py`).
+* Native diagrams: brachial plexus wiring, arterial tree.
+* Visual QA: all slides rendered to PNG contact sheets; label errors found and fixed are logged in `kesitsel/qa/QA_NOTLARI.md`.
+* Pilot decks removed (available in git history, PR #1).
+
+Open items: the Turkish master specification is still not in the README; figures with CC BY-NC licences are flagged on-slide (non-commercial teaching only); anatomist review of labels recommended.
+
+---
+
+# Session 1 (2026-10-31)
 
 ## Deliverables in this session
 | Item | Path | Status |

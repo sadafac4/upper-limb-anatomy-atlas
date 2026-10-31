@@ -99,7 +99,8 @@ OMUZ = [
         "**1. bölüm** (kosta I – m. pectoralis minor'ün medial kenarı): **a. thoracica superior**.",
         "**2. bölüm** (m. pectoralis minor arkasında): **a. thoracoacromialis** (pectoral, deltoid, acromial, clavicular dallar) ve **a. thoracica lateralis**.",
         "**3. bölüm** (m. pectoralis minor – m. teres major alt kenarı): **a. subscapularis** (a. circumflexa scapulae + a. thoracodorsalis), **a. circumflexa humeri anterior** ve **posterior**.",
-        "A. circumflexa humeri posterior, n. axillaris ile birlikte spatium axillare laterale'den geçer. Dal dizilimi sık değişkenlik gösterir – bölüm sonundaki varyasyon literatürüne bakınız."]),
+        "A. circumflexa humeri posterior, n. axillaris ile birlikte spatium axillare laterale'den geçer. Dal dizilimi sık değişkenlik gösterir – bölüm sonundaki varyasyon literatürüne bakınız."],
+      figs=[("pmc", "PMC7664784", "g001")]),
  dict(id="o_plexus_dallar", tip="anlatim", baslik="Plexus brachialis'in dalları",
       alt="Supraklavikular ve infraklavikular dallar",
       metin=[
@@ -116,7 +117,7 @@ OMUZ = [
         "**Spatium axillare mediale (üçgen boşluk):** m. teres minor, m. teres major ve caput longum m. tricipitis arasında; içerik **a. circumflexa scapulae**.",
         "**Triangular aralık (trigonum / 'interval'):** m. teres major (yukarı), caput longum (medial) ve humerus (lateral) arasında; içerik **n. radialis** ve **a. profunda brachii**.",
         "Klinik: dörtgen boşluk sendromu (n. axillaris sıkışması), collum chirurgicum kırığı ve ön omuz çıkığında n. axillaris hasarı."],
-      figs=[("pmc", "PMC8958867", "i04")]),
+      figs=[("pmc", "PMC6026816", "g002")]),
  dict(id="o_suprascap", tip="anlatim", baslik="N. suprascapularis'in seyri: incisura scapulae ve incisura spinoglenoidalis",
       alt="Lig. transversum scapulae superius ile ilişki",
       metin=[
