@@ -119,6 +119,14 @@ def etiketler(s, geo, items, sol_x, sol_w, sag_x, sag_w, y0, y1, size=13.5, renk
             dot.fill.solid(); dot.fill.fore_color.rgb = renk; dot.line.color.rgb = NAVY; dot.line.width = Pt(0.75)
 
 
+def _icinde(pts, kirp):
+    """Kırpma kutusu dışındaki noktaları atar, kalanları kırpma orijinine kaydırır."""
+    if not kirp:
+        return pts
+    x0, y0, x1, y1 = kirp
+    return [(t, (x - x0, y - y0)) for t, (x, y) in pts if x0 + 3 <= x <= x1 - 3 and y0 + 3 <= y <= y1 - 3]
+
+
 def _noktalar(f, d):
     """Slayt etiketleri: d['etiket'] varsa [(latince, xy)], yoksa JSON label_points'in tamamı."""
     if d.get("etiketler") is not None:
@@ -200,7 +208,7 @@ def kadavra(prs, d, sayfa):
     sol_w = d.get("sol_w", 2.9); sag_w = d.get("sag_w", 2.9)
     ix = 0.3 + sol_w + 0.25; iw = SW - ix - sag_w - 0.55
     g = picture_fit(s, p2, ix, y0, iw, y1 - y0 - 0.28)
-    pts = [(t, (xy[0] - off[0], xy[1] - off[1])) for t, xy in _noktalar(f, d)]
+    pts = _icinde(_noktalar(f, d), d.get("kirp"))
     etiketler(s, g, pts, 0.3, sol_w, SW - 0.3 - sag_w, sag_w, y0, y1 - 0.28, size=d.get("eboyut", 13.5))
     text(s, ix, g["y"] + g["h"] + 0.02, iw, 0.28, d.get("altyazi") or f"{f['label']} – {kisa_atif(d['fig'][1])}",
          size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
@@ -228,7 +236,7 @@ def iki_gorsel(prs, d, sayfa):
         p, f = sekil(fd["fig"]); p2, off = _kirp(p, fd.get("kirp"))
         lw = fd.get("lw", 1.75)
         g = picture_fit(s, p2, bx + lw + 0.12, y0, bw - 2 * lw - 0.24, y1 - y0 - 0.3)
-        pts = [(t, (xy[0] - off[0], xy[1] - off[1])) for t, xy in (fd.get("etiketler") if fd.get("etiketler") is not None else _noktalar(f, {}))]
+        pts = _icinde(_noktalar(f, fd), fd.get("kirp"))
         etiketler(s, g, pts, bx, lw, bx + bw - lw, lw, y0, y1 - 0.3, size=fd.get("eboyut", 12))
         text(s, bx, g["y"] + g["h"] + 0.02, bw, 0.28, fd.get("altyazi") or f"{f['label']} – {kisa_atif(fd['fig'][1])}",
              size=10.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
@@ -280,9 +288,9 @@ def calisma(prs, d, sayfa):
     s = yeni(prs)
     baslik(s, d["baslik"], d.get("alt"), d.get("etiket", "VARYASYON"), d.get("bolum"))
     p, f = sekil(d["fig"]); p2, off = _kirp(p, d.get("kirp"))
-    lw = d.get("lw", 0.0)
+    pts = _icinde(_noktalar(f, d), d.get("kirp")) if d.get("etiketli", True) else []
+    lw = d.get("lw", 1.75 if pts else 0.0)
     g = picture_fit(s, p2, 0.3 + lw, 1.25, 6.9 - 2 * lw, 5.1)
-    pts = [(t, (xy[0] - off[0], xy[1] - off[1])) for t, xy in (d.get("etiketler") or [])]
     if pts:
         etiketler(s, g, pts, 0.25, lw - 0.05, 0.3 + 6.9 - lw + 0.05, lw - 0.05, 1.25, 6.35, size=12)
     text(s, 0.3, g["y"] + g["h"] + 0.02, 6.9, 0.3, d.get("altyazi") or f"{f['label']} – {kisa_atif(d['fig'][1])}",
