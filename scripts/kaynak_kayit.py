@@ -12,6 +12,7 @@ def kayit():
     for p in sorted((ROOT / "sources").glob("*.json")):
         if p.name.startswith("kesitsel"): continue
         for e in json.load(open(p)):
+            if "pmcid" not in e: continue
             r = reg.setdefault(e["pmcid"], dict(e, figures=[]))
             have = {f["file"] for f in r["figures"]}
             for f in e["figures"]:

@@ -24,7 +24,7 @@ ETIKET_RENK = {"KONU ANLATIMI": RGBColor(0x1F, 0x5F, 0x9E), "KLİNİK BAĞLANTI"
                "KADAVRA": RGBColor(0x2E, 0x7D, 0x32), "ŞEMA": RGBColor(0x45, 0x5A, 0x64),
                "TABLO": RGBColor(0x45, 0x5A, 0x64), "VARYASYON": ACCENT, "LİTERATÜR": ACCENT,
                "İLLÜSTRASYON": RGBColor(0x5E, 0x35, 0xB1), "GÖRÜNTÜLEME": RGBColor(0x5E, 0x35, 0xB1),
-               "KEMİK": RGBColor(0x79, 0x55, 0x48), "ÖZET": NAVY}
+               "KEMİK": RGBColor(0x79, 0x55, 0x48), "ÖZET": NAVY, "ATLAS": RGBColor(0x00, 0x69, 0x7C), "SORU": RGBColor(0xC2, 0x6A, 0x00)}
 
 
 def yeni(prs):
@@ -70,14 +70,34 @@ def maddeler(s, x, y, w, h, items, size=18, color=NAVY, aralik=6):
 
 
 # ---------- görsel çözümleme ----------
+import json as _json, functools as _ft
+
+
+@_ft.lru_cache(None)
+def _atlas():
+    return {e["ad"]: e for e in _json.load(open(ROOT / "sources/perine_atlas.json"))}
+
+
+def atif(anahtar, kisa=False):
+    """PMC makalesi veya 'atlas:<ad>' (OpenStax atlas çizimi) için atıf."""
+    if anahtar.startswith("atlas:"):
+        e = _atlas()[anahtar[6:]]
+        return f"OpenStax A&P, {e['sekil']} (CC BY; etiketler Latinceleştirildi)" if kisa else e["atif"]
+    return K.atif(anahtar, kisa=kisa)
+
+
 def sekil(ref):
+    if ref[0] == "atlas":
+        e = _atlas()[ref[1][6:] if ref[1].startswith("atlas:") else ref[1]]
+        return ROOT / e["local_path"], dict(label=e["sekil"], caption="OpenStax A&P atlas çizimi; Latince etiketler: " + ", ".join(e["etiketler"]),
+                                            labels_visible_in_image=", ".join(e["etiketler"]), label_points=[])
     _, pmc, key = ref[:3]
     f = K.sekil(pmc, key)
     return ROOT / f["local_path"], f
 
 
 def kisa_atif(pmc):
-    return K.atif(pmc, kisa=True)
+    return atif(pmc, kisa=True)
 
 
 def _kirp(path, crop):
@@ -166,6 +186,8 @@ def _noktalar(f, d):
 
 
 def _lisans_notu(s, pmc, x, y, w):
+    if pmc.startswith("atlas:"):
+        return
     lc = K.makale(pmc)["license_code"]
     if "NC" in lc or "ND" in lc:
         ek = "görsel değiştirilmeden (kırpılmadan) kullanılmıştır" if "ND" in lc else "uyarlama: yalnızca kırpma, aynı lisansla"
@@ -216,7 +238,7 @@ def anlatim(prs, d, sayfa):
         g = picture_fit(s, p2, 7.15, 1.25, 5.9, 5.25)
         text(s, 7.15, g["y"] + g["h"] + 0.02, 5.9, 0.3, d.get("altyazi") or f"{f['label']} – {kisa_atif(d['fig'][1])}",
              size=11, color=GREY, italic=True, align=PP_ALIGN.CENTER)
-        atif = (atif + "  •  " if atif else "") + K.atif(d["fig"][1])
+        atif = (atif + "  •  " if atif else "") + atif(d["fig"][1])
         _lisans_notu(s, d["fig"][1], 7.15, 6.68, 5.9)
         notes(s, (d.get("not", "") + "\n\nŞekil altyazısı (özgün): " + f["caption"]).strip())
     else:
@@ -246,7 +268,7 @@ def kadavra(prs, d, sayfa):
         kutu.fill.solid(); kutu.fill.fore_color.rgb = LIGHT; kutu.line.fill.background()
         maddeler(s, 0.4, y1 + 0.08, SW - 0.8, alt_h, d["metin"], size=d.get("boyut", 15), aralik=2)
     _lisans_notu(s, d["fig"][1], 0.3, 6.68, 8.0)
-    dipnot(s, K.atif(d["fig"][1]), sayfa)
+    dipnot(s, atif(d["fig"][1]), sayfa)
     notes(s, (d.get("not", "") + "\n\nŞekil altyazısı (özgün, " + f["label"] + "): " + f["caption"] +
               "\nGörüntüdeki özgün etiketler: " + str(f.get("labels_visible_in_image", ""))).strip())
     fix_runs(s)
@@ -274,7 +296,7 @@ def iki_gorsel(prs, d, sayfa):
         etiketler(s, g, pts, lx, lw, lx, lw, y0, y1 - 0.3, size=fd.get("eboyut", 12.5), taraf="L" if i == 0 else "R")
         text(s, bx, g["y"] + g["h"] + 0.02, bw, 0.28, fd.get("altyazi") or f"{f['label']} – {kisa_atif(fd['fig'][1])}",
              size=10.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
-        atiflar.append(K.atif(fd["fig"][1]))
+        atiflar.append(atif(fd["fig"][1]))
     if d.get("metin"):
         kutu = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.3), Inches(y1 + 0.05), Inches(SW - 0.6), Inches(alt_h))
         kutu.fill.solid(); kutu.fill.fore_color.rgb = LIGHT; kutu.line.fill.background()
@@ -340,7 +362,7 @@ def calisma(prs, d, sayfa):
         satir = sum(max(1, len(t) // 48 + 1) for t in (icerik if isinstance(icerik, list) else [icerik]))
         y += 0.12 + satir * 0.27
     _lisans_notu(s, d["fig"][1], 0.3, 6.68, 8.0)
-    dipnot(s, K.atif(d["fig"][1]), sayfa)
+    dipnot(s, atif(d["fig"][1]), sayfa)
     notes(s, "Şekil altyazısı (özgün): " + f["caption"])
     fix_runs(s)
     return s
@@ -348,7 +370,11 @@ def calisma(prs, d, sayfa):
 
 def kaynakca(prs, pmcler, ek, sayfa):
     pmcler = list(dict.fromkeys(pmcler))
+    atlaslar = [p for p in pmcler if p.startswith("atlas:")]; pmcler = [p for p in pmcler if not p.startswith("atlas:")]
     items = []
+    if atlaslar:
+        items.append("OpenStax College. ~Anatomy & Physiology~. OpenStax CNX 2013 (1. baskı), **CC BY** – atlas çizimleri: "
+                     + "; ".join(_atlas()[a[6:]]["sekil"] for a in atlaslar) + ". İngilizce etiketler bu projede Latince (TA) karşılıklarıyla değiştirildi.")
     for p in pmcler:
         e = K.makale(p)
         items.append(f"{e['authors']} {K.baslik_noktali(e)} ~{e['journal']}~ {e['year']}. doi:{e['doi']} – {p} – **{e['license_code']}**")
@@ -361,3 +387,28 @@ def kaynakca(prs, pmcler, ek, sayfa):
         dipnot(s, "PMC görselleri AWS PMC Open Access deposundan (pmc-oa-opendata) indirilmiştir; lisans, md5 ve özgün altyazılar sources/perine_*.json içinde.", sayfa)
         fix_runs(s); sayfa += 1
     return sayfa
+
+
+def atlas_slayt(prs, d, sayfa):
+    """Atlas çizimi (Latince etiketli) büyük; sağda kısa öğrenci notları. d['fig']=("atlas","atlas:<ad>")."""
+    s = yeni(prs)
+    baslik(s, d["baslik"], d.get("alt"), d.get("etiket", "ATLAS"), d.get("bolum"))
+    p, f = sekil(d["fig"])
+    if d.get("metin_alt"):
+        g = picture_fit(s, p, 0.3, 1.15, 12.73, 4.6)
+        kutu = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.3), Inches(6.08), Inches(12.73), Inches(0.88))
+        kutu.fill.solid(); kutu.fill.fore_color.rgb = LIGHT; kutu.line.fill.background()
+        maddeler(s, 0.4, 6.1, 12.5, 0.85, d["metin_alt"], size=d.get("boyut", 15), aralik=1)
+    elif d.get("metin"):
+        g = picture_fit(s, p, 0.25, 1.2, d.get("gw", 8.7), 5.45)
+        kutu = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(9.15), Inches(1.2), Inches(3.93), Inches(5.6))
+        kutu.fill.solid(); kutu.fill.fore_color.rgb = LIGHT; kutu.line.fill.background()
+        maddeler(s, 9.25, 1.28, 3.75, 5.45, d["metin"], size=d.get("boyut", 16), aralik=6)
+    else:
+        g = picture_fit(s, p, 0.3, 1.2, 12.73, 5.45)
+    text(s, g["x"], g["y"] + g["h"] + 0.02, g["w"], 0.28, d.get("altyazi") or kisa_atif(d["fig"][1]),
+         size=10.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
+    dipnot(s, atif(d["fig"][1]), sayfa)
+    if d.get("not"): notes(s, d["not"])
+    fix_runs(s)
+    return s
