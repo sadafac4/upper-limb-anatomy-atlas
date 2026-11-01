@@ -91,16 +91,19 @@ def _kirp(path, crop):
     return out, (crop[0], crop[1])
 
 
-def etiketler(s, geo, items, sol_x, sol_w, sag_x, sag_w, y0, y1, size=13.5, renk=YELLOW, kutu_h=0.34):
-    """items: [(etiket, (px,py))] özgün piksel. Görüntünün sol yarısındaki noktalar sol sütuna, sağdakiler sağ sütuna."""
+def etiketler(s, geo, items, sol_x, sol_w, sag_x, sag_w, y0, y1, size=13.5, renk=YELLOW, kutu_h=0.34, taraf=None):
+    """items: [(etiket, (px,py))] özgün piksel. Görüntünün sol yarısındaki noktalar sol sütuna, sağdakiler sağ sütuna
+    (taraf='L' / 'R' ise hepsi o sütuna)."""
     orta = geo["x"] + geo["w"] / 2
     pts = [(t, img2slide(geo, p)) for t, p in items]
+    if taraf == "L": orta = 1e9
+    if taraf == "R": orta = -1e9
     sol = [p for p in pts if p[1][0] < orta]; sag = [p for p in pts if p[1][0] >= orta]
     for grup, cx, cw, yon in ((sol, sol_x, sol_w, "L"), (sag, sag_x, sag_w, "R")):
         if not grup:
             continue
         grup.sort(key=lambda a: a[1][1])
-        n = len(grup); gap = kutu_h + 0.08
+        n = len(grup); gap = min(kutu_h + 0.08, (y1 - y0) / max(n, 1))
         ys = [min(max(p[1][1] - kutu_h / 2, y0), y1 - kutu_h) for p in grup]
         for i in range(1, n):
             ys[i] = max(ys[i], ys[i - 1] + gap)
@@ -127,20 +130,46 @@ def _icinde(pts, kirp):
     return [(t, (x - x0, y - y0)) for t, (x, y) in pts if x0 + 3 <= x <= x1 - 3 and y0 + 3 <= y <= y1 - 3]
 
 
+KISALT = [("Musculus ", "M. "), ("Musculi ", "Mm. "), ("Glandula ", "Gl. "), ("Ligamentum ", "Lig. "), ("Nervus ", "N. "),
+          ("Nervi ", "Nn. "), (" (smooth-muscle plate per authors)", " (düz kas plağı)"), (" (male)", " ♂"), (" (female)", " ♀"),
+          (" (fasciculus neurovascularis pudendus internus)", ""), (" (fasciculus neurovascularis)", ""), (" (n. dorsalis clitoridis / n. perinealis / nn. rectales inferiores)", ""), (" (paries superomedialis fossae ischioanalis)", ""),
+          (" (insertiones resectae)", " (kesik)"), (" (insertio resecta)", " (kesik)"), ("Ramus ossis ischii / ramus inferior ossis pubis (ramus ischiopubicus)", "Ramus ischiopubicus"),
+          (" (on reflected fascia obturatoria)", ""), (" (in canali pudendali)", " (canalis pudendalis içinde)"),
+          ("musculus transversus perinei profundus", "m. transv. perinei prof."), (", pars anterior - fasciculus ", " – ön kısım, "), ("Membrana perinei / M. transversus perinei profundus", "Membrana perinei / m. transv. perinei prof."),
+          (" (rhabdosphincter)", ""), ("M. transversus perinei superficialis", "M. transversus perinei superf."),
+          ("M. transversus perinei profundus", "M. transversus perinei prof."), (", fasciculus superior", " – fasc. sup."),
+          (", fasciculus inferior", " – fasc. inf."), (" sub m. bulbospongioso", " (m. bulbospongiosus altında)"),
+          ("Vasa pudenda interna et n. pudendus", "Vasa pudenda interna + n. pudendus")]
+
+
+_ING = re.compile(r"\s*\((?=[^)]*\b(of|per|cut|end-point|pubic angle|drawn|vectors|origin|bright|blue|smooth|authors|in canali)\b)[^)]*\)")
+
+
+def kisalt(t):
+    for a, b in KISALT:
+        t = t.replace(a, b)
+    t = _ING.sub("", t)
+    t = t.replace(" - vertex of drawn lines", "")
+    return t
+
+
 def _noktalar(f, d):
     """Slayt etiketleri: d['etiket'] varsa [(latince, xy)], yoksa JSON label_points'in tamamı."""
     if d.get("etiketler") is not None:
         return d["etiketler"]
     out = []
     for lp in f.get("label_points") or []:
-        out.append((lp["latin"], tuple(lp["xy"])))
+        if d.get("haric") and any(h in lp["latin"] for h in d["haric"]):
+            continue
+        out.append((kisalt(lp["latin"]), tuple(lp["xy"])))
     return out
 
 
 def _lisans_notu(s, pmc, x, y, w):
     lc = K.makale(pmc)["license_code"]
     if "NC" in lc or "ND" in lc:
-        text(s, x, y, w, 0.3, f"Lisans: {lc} – yalnızca ticari olmayan eğitim amaçlı; görsel değiştirilmeden kullanılmıştır.",
+        ek = "görsel değiştirilmeden (kırpılmadan) kullanılmıştır" if "ND" in lc else "uyarlama: yalnızca kırpma, aynı lisansla"
+        text(s, x, y, w, 0.3, f"Lisans: {lc} – yalnızca ticari olmayan eğitim amaçlı; {ek}.",
              size=9, color=ACCENT, italic=True)
 
 
@@ -232,12 +261,17 @@ def iki_gorsel(prs, d, sayfa):
     y0, y1 = 1.2, 6.62 - alt_h
     atiflar = []
     for i, fd in enumerate(d["figler"]):
-        bx = 0.3 + i * 6.4; bw = 6.3
         p, f = sekil(fd["fig"]); p2, off = _kirp(p, fd.get("kirp"))
-        lw = fd.get("lw", 1.75)
-        g = picture_fit(s, p2, bx + lw + 0.12, y0, bw - 2 * lw - 0.24, y1 - y0 - 0.3)
+        lw = fd.get("lw", 2.25)
         pts = _icinde(_noktalar(f, fd), fd.get("kirp"))
-        etiketler(s, g, pts, bx, lw, bx + bw - lw, lw, y0, y1 - 0.3, size=fd.get("eboyut", 12))
+        if i == 0:
+            lx, bx, bw = 0.25, 0.25 + lw + 0.1, 6.55 - (0.25 + lw + 0.1)
+        else:
+            bx = 6.75; bw = SW - 0.25 - lw - 0.1 - bx; lx = bx + bw + 0.1
+        if not pts:
+            bx, bw = (0.3, 6.25) if i == 0 else (6.75, 6.28)
+        g = picture_fit(s, p2, bx, y0, bw, y1 - y0 - 0.3)
+        etiketler(s, g, pts, lx, lw, lx, lw, y0, y1 - 0.3, size=fd.get("eboyut", 12.5), taraf="L" if i == 0 else "R")
         text(s, bx, g["y"] + g["h"] + 0.02, bw, 0.28, fd.get("altyazi") or f"{f['label']} – {kisa_atif(fd['fig'][1])}",
              size=10.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
         atiflar.append(K.atif(fd["fig"][1]))
@@ -284,23 +318,28 @@ def tablo(prs, d, sayfa):
 
 
 def calisma(prs, d, sayfa):
-    """Literatür/varyasyon çalışması: solda görsel (etiketli), sağda yöntem–bulgu–önem özeti."""
+    """Literatür/varyasyon çalışması: solda büyük görsel (iki yanda Latince etiketler), sağda yöntem–bulgu–önem özeti."""
     s = yeni(prs)
     baslik(s, d["baslik"], d.get("alt"), d.get("etiket", "VARYASYON"), d.get("bolum"))
     p, f = sekil(d["fig"]); p2, off = _kirp(p, d.get("kirp"))
     pts = _icinde(_noktalar(f, d), d.get("kirp")) if d.get("etiketli", True) else []
-    lw = d.get("lw", 1.75 if pts else 0.0)
-    g = picture_fit(s, p2, 0.3 + lw, 1.25, 6.9 - 2 * lw, 5.1)
+    lw = d.get("lw", 2.0) if pts else 0.0
+    if lw <= 0.3: pts, lw = [], 0.0
+    X0, X1 = 0.25, 8.35
+    g = picture_fit(s, p2, X0 + lw + 0.1, 1.2, X1 - X0 - 2 * lw - 0.2, 5.35)
     if pts:
-        etiketler(s, g, pts, 0.25, lw - 0.05, 0.3 + 6.9 - lw + 0.05, lw - 0.05, 1.25, 6.35, size=12)
-    text(s, 0.3, g["y"] + g["h"] + 0.02, 6.9, 0.3, d.get("altyazi") or f"{f['label']} – {kisa_atif(d['fig'][1])}",
+        etiketler(s, g, pts, X0, lw, X1 - lw, lw, 1.2, 6.55, size=d.get("eboyut", 12.5))
+    text(s, X0, g["y"] + g["h"] + 0.02, X1 - X0, 0.3, d.get("altyazi") or f"{f['label']} – {kisa_atif(d['fig'][1])}",
          size=10.5, color=GREY, italic=True, align=PP_ALIGN.CENTER)
-    y = 1.25
+    kutu = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(8.5), Inches(1.15), Inches(4.58), Inches(5.5))
+    kutu.fill.solid(); kutu.fill.fore_color.rgb = LIGHT; kutu.line.fill.background()
+    y = 1.2
     for ad, icerik in (("Çalışma", d["calisma"]), ("Bulgular", d["bulgu"]), ("Klinik / cerrahi önem", d["onem"])):
-        text(s, 7.45, y, 5.6, 0.34, ad, size=15, color=ACCENT, bold=True); y += 0.36
-        tb = maddeler(s, 7.45, y, 5.6, 1.6, icerik if isinstance(icerik, list) else [icerik], size=d.get("boyut", 14), aralik=2)
-        y += d.get("bosluk", {}).get(ad, 1.55)
-    _lisans_notu(s, d["fig"][1], 7.45, 6.68, 5.6)
+        text(s, 8.6, y, 4.4, 0.34, ad, size=15, color=ACCENT, bold=True); y += 0.36
+        maddeler(s, 8.6, y, 4.4, 1.5, icerik if isinstance(icerik, list) else [icerik], size=d.get("boyut", 13.5), aralik=2)
+        satir = sum(max(1, len(t) // 48 + 1) for t in (icerik if isinstance(icerik, list) else [icerik]))
+        y += 0.12 + satir * 0.27
+    _lisans_notu(s, d["fig"][1], 0.3, 6.68, 8.0)
     dipnot(s, K.atif(d["fig"][1]), sayfa)
     notes(s, "Şekil altyazısı (özgün): " + f["caption"])
     fix_runs(s)

@@ -1,0 +1,2216 @@
+[
+  {
+    "use": "perine_lecture",
+    "topic": "Layered dissection of the MALE urogenital triangle: superficial muscles -> perineal membrane -> deep perineal space (smooth-muscle 'DTP') and external urethral sphincter",
+    "pmcid": "PMC12229694",
+    "version": 1,
+    "doi": "10.1038/s41598-025-09585-9",
+    "citation": "Sci Rep. 2025 Jul 3;15:23730. doi: 10.1038/s41598-025-09585-9",
+    "title": "Presence of smooth muscle continuous with the rectal and vaginal walls in the deep perineal space prompts reconsideration of the deep transverse perineal muscle",
+    "authors": "Muro S., Chang L., Tharnmanularp S. et al.",
+    "year": "2025",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2025_9585_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Macroscopic examination of the male perineum. (A) Removal of the skin, fat, and connective tissue reveals the perineal muscles. (B) A slender, band-like muscle extending from the midline to the IPR, identified as the STP. (C) Deeper dissection reveals the PM, a firm, dense connective tissue structure. (D) Removal of the PM exposes the structure, a triangular, plate-like shaped muscle with transverse fibers, continuous with the anterior rectal wall (dashed arrows). BP, bulb of penis; Bs, bulbospongiosus; EAS, external anal sphincter; Ic, ischiocavernosus; IPR, ischiopubic ramus; LA, levator ani; PM, perineal membrane; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra.",
+        "specimen": "human cadaver (formalin-perfused, 8%; elderly donors)",
+        "what_it_shows": "Four-step inferior view of a male perineum: (A,B) after removal of skin/fat the bulbospongiosus over the bulb, the ischiocavernosus on the ischiopubic ramus and a slender band-like superficial transverse perineal muscle (outlined) in front of the external anal sphincter; (C) deeper, after removing the superficial muscles, the firm perineal membrane between the ischiopubic rami below the bulb of penis; (D) after removing the perineal membrane, the external urethral sphincter around the urethra and a triangular smooth-muscle plate (SM) continuous with the longitudinal muscle of the rectum (dashed arrows).",
+        "labels_visible_in_image": "A: Ic, Bs, STP, EAS, Anterior; B: Bs, Ic, STP (red dashed outline), EAS x2; C: BP, IPR, PM, LA, EAS; D: EUS, Ur, SM, LA, LM, green dashed lines, white dashed arrows",
+        "label_points": [
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              128,
+              62
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              160,
+              47
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              137,
+              117
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              194,
+              189
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              434,
+              84
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              509,
+              42
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              447,
+              179
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              444,
+              247
+            ]
+          },
+          {
+            "latin": "Bulbus penis",
+            "author_label": "BP",
+            "xy": [
+              161,
+              312
+            ]
+          },
+          {
+            "latin": "Ramus ossis ischii / ramus inferior ossis pubis (ramus ischiopubicus)",
+            "author_label": "IPR",
+            "xy": [
+              49,
+              362
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              112,
+              387
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "LA",
+            "xy": [
+              106,
+              456
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              232,
+              525
+            ]
+          },
+          {
+            "latin": "Musculus sphincter urethrae externus",
+            "author_label": "EUS",
+            "xy": [
+              469,
+              331
+            ]
+          },
+          {
+            "latin": "Urethra (pars membranacea)",
+            "author_label": "Ur",
+            "xy": [
+              497,
+              344
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus (smooth-muscle plate per authors)",
+            "author_label": "SM",
+            "xy": [
+              441,
+              382
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "LA",
+            "xy": [
+              431,
+              437
+            ]
+          },
+          {
+            "latin": "Stratum longitudinale tunicae muscularis recti",
+            "author_label": "LM",
+            "xy": [
+              491,
+              484
+            ]
+          }
+        ],
+        "pixels": "669x549",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41598_2025_9585_Fig7_HTML.jpg",
+        "label": "Fig. 7",
+        "caption": "Schematic view of the pelvic region, seen from an oblique inferior angle. (A) Male pelvic structures. (B) Female pelvic structures. (C) Enlarged view of the male perineum, illustrating the arrangement from superficial to deep layers: the STP, followed by the PM, and then the smooth muscle structure in the deep perineal space, a triangular, plate-like shaped smooth muscle continuous with the rectal wall. (D) Enlarged view of the female perineum, showing the arrangement from superficial to deep layers: the STP, followed by the PM, and then the smooth muscle structure in the deep perineal space, a triangular, plate-like shaped smooth muscle continuous with both the rectal wall and the vaginal wall. Bl, bladder; Bs, bulbospongiosus; EAS, external anal sphincter; EUS, external urethral sphincter; Ic, ischiocavernosus; LM, longitudinal muscle of rectum; PM, perineal membrane; R, rectum; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra; Va, vagina.",
+        "specimen": "schematic",
+        "what_it_shows": "Authors' oblique inferior schematic of male (A,C) and female (B,D) perineum showing the three layers: superficial striated STP/Bs/Ic, the perineal membrane (blue sheet) between the ischiopubic rami, and above it the smooth-muscle plate (SM) of the deep perineal space continuous with the rectal longitudinal muscle (and vaginal wall in females).",
+        "labels_visible_in_image": "C: Ur, Bs, Ic, PM, STP, SM, LM, R, EAS; D: Bl, Ur, Va, SM, LM, R, Bs, PM, Ic, STP, EAS; A, B, C, D",
+        "label_points": [
+          {
+            "latin": "Urethra",
+            "author_label": "Ur",
+            "xy": [
+              200,
+              324
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              206,
+              354
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              244,
+              394
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              216,
+              400
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              187,
+              447
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus (smooth-muscle plate per authors)",
+            "author_label": "SM",
+            "xy": [
+              137,
+              353
+            ]
+          },
+          {
+            "latin": "Stratum longitudinale tunicae muscularis recti",
+            "author_label": "LM",
+            "xy": [
+              94,
+              389
+            ]
+          },
+          {
+            "latin": "Rectum",
+            "author_label": "R",
+            "xy": [
+              109,
+              434
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              131,
+              498
+            ]
+          },
+          {
+            "latin": "Vesica urinaria",
+            "author_label": "Bl",
+            "xy": [
+              503,
+              298
+            ]
+          },
+          {
+            "latin": "Urethra feminina",
+            "author_label": "Ur",
+            "xy": [
+              516,
+              328
+            ]
+          },
+          {
+            "latin": "Vagina",
+            "author_label": "Va",
+            "xy": [
+              503,
+              369
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              537,
+              381
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              578,
+              409
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              634,
+              388
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              572,
+              474
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus (smooth-muscle plate per authors)",
+            "author_label": "SM",
+            "xy": [
+              466,
+              334
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              481,
+              497
+            ]
+          }
+        ],
+        "pixels": "669x529",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig7_HTML.jpg"
+      }
+    ],
+    "key_findings": "'Perineal muscle shape and location from nine cadavers (five males; average age, 79 years) were macroscopically examined.' 'An overall layered perineum structure was revealed in both sexes. A slender, band-like striated muscle was observed near the surface. Beneath this layer was a dense connective tissue membrane that provides separation. A triangular, plate-like shaped smooth muscle with transversely oriented fibers occupied the deep perineal space, which, unlike the striated muscle, was continuous with the rectal wall and was identified as the deep transverse perineal muscle.'",
+    "clinical_relevance": "'Findings indicate that the deep transverse perineal muscle may be a distinct pelvic smooth muscle component.' Relevant to the classic 'urogenital diaphragm' concept, to perineal/obstetric repair and to transperineal surgery (layer-by-layer anatomy).",
+    "notes": "Sci Rep 2025, CC BY 4.0. Same group (Muro/Akita, Tokyo) as PMC8373982, PMC6942605, PMC7182620, PMC12003430. Fig 1 panels A-B are the male SUPERFICIAL POUCH; C = PERINEAL MEMBRANE; D = DEEP POUCH. Fig 7 is the authors' own schematic (good for the 'layers' slide). The interpretation of the DTP as smooth muscle is the authors' view (contrast PMC13069139)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Layered dissection of the FEMALE urogenital triangle: Bs/Ic/STP, bulb of vestibule, perineal membrane, deep smooth-muscle plate",
+    "pmcid": "PMC12229694",
+    "version": 1,
+    "doi": "10.1038/s41598-025-09585-9",
+    "citation": "Sci Rep. 2025 Jul 3;15:23730. doi: 10.1038/s41598-025-09585-9",
+    "title": "Presence of smooth muscle continuous with the rectal and vaginal walls in the deep perineal space prompts reconsideration of the deep transverse perineal muscle",
+    "authors": "Muro S., Chang L., Tharnmanularp S. et al.",
+    "year": "2025",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2025_9585_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Macroscopic examination of the female perineum. (A) Dissection of the skin, fat, and connective tissue reveals the perineal muscles. (B) A slender, band-like muscle running transversely, identified as the STP, is located posterolateral to the vaginal opening. (C) Deeper dissection reveals the PM. (D) Removal of the PM exposes the structure, a triangular, plate-like shaped muscle with transverse fibers, continuous with the vaginal wall and anterior rectal wall (dashed arrow). BV, bulb of vestibule; Bs, bulbospongiosus; EAS, external anal sphincter; Ic, ischiocavernosus; IPR, ischiopubic ramus; LA, levator ani; PM, perineal membrane; SM, smooth muscle; STP, superficial transverse perineal muscle; Ur, urethra; Va, vagina.",
+        "specimen": "human cadaver (formalin-perfused, 8%; elderly donors)",
+        "what_it_shows": "Inferior view of a female perineum in four dissection steps: (A,B) Ic and Bs lateral to the vestibule, slender STP posterolateral to the vaginal opening; (C) after removal of Bs, the bulb of the vestibule (BV) and the perineal membrane (PM) lateral to urethra and vagina; (D) after removing the PM, the smooth-muscle plate (SM) continuous with the vaginal wall and rectal longitudinal muscle (dashed arrow).",
+        "labels_visible_in_image": "A: Ic, Bs, Va, STP, EAS, Anterior; B: Ic, Bs, Ur, Va, STP (red dashed); C: IPR, BV, PM, Ur, Va; D: IPR, BV, Ur, Va, SM, LA, LM, EAS",
+        "label_points": [
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              91,
+              68
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              125,
+              72
+            ]
+          },
+          {
+            "latin": "Vagina (ostium vaginae)",
+            "author_label": "Va",
+            "xy": [
+              159,
+              94
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              80,
+              124
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              178,
+              231
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              438,
+              56
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              488,
+              81
+            ]
+          },
+          {
+            "latin": "Ostium urethrae externum",
+            "author_label": "Ur",
+            "xy": [
+              550,
+              86
+            ]
+          },
+          {
+            "latin": "Ostium vaginae",
+            "author_label": "Va",
+            "xy": [
+              550,
+              97
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              418,
+              150
+            ]
+          },
+          {
+            "latin": "Ramus ischiopubicus",
+            "author_label": "IPR",
+            "xy": [
+              62,
+              322
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "BV",
+            "xy": [
+              166,
+              336
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              92,
+              386
+            ]
+          },
+          {
+            "latin": "Urethra feminina",
+            "author_label": "Ur",
+            "xy": [
+              225,
+              358
+            ]
+          },
+          {
+            "latin": "Vagina",
+            "author_label": "Va",
+            "xy": [
+              230,
+              369
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "BV",
+            "xy": [
+              508,
+              322
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus (smooth-muscle plate per authors)",
+            "author_label": "SM",
+            "xy": [
+              425,
+              394
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "LA",
+            "xy": [
+              467,
+              474
+            ]
+          },
+          {
+            "latin": "Stratum longitudinale tunicae muscularis recti",
+            "author_label": "LM",
+            "xy": [
+              581,
+              519
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              534,
+              534
+            ]
+          }
+        ],
+        "pixels": "669x549",
+        "local_path": "perine/images/raw/PMC12229694/41598_2025_9585_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "Female donors = 4 of the 9 cadavers (five males). 'The smooth muscle was continuous with the longitudinal rectal muscle and, in females, with the vaginal muscular wall.'",
+    "clinical_relevance": "Female perineal layers relevant to obstetric perineal trauma, perineal body and vestibular-bulb haemorrhage.",
+    "notes": "Same article as the male entry; female superficial pouch (Bs, Ic, STP, BV) + PM shown on cadaver."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Perineal membrane and the 'deep transverse perineal muscle' question: embalmed male/female dissection + excised membrane plate",
+    "pmcid": "PMC13069139",
+    "version": 1,
+    "doi": "10.1111/joa.70057",
+    "citation": "J Anat. 2025 Oct 22;248(5):755–65. doi: 10.1111/joa.70057",
+    "title": "Macroscopical and histological characterization of the perineal membrane and deep perineal pouch",
+    "authors": "Kampelmann M., Grindley C., Mühlfeld C. et al.",
+    "year": "2025",
+    "journal": "Journal of Anatomy",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "JOA-248-755-g004.jpg",
+        "label": "FIGURE 1",
+        "caption": "Topography of the perineal region in a male. Dorsally, the anal region is formed by the ischioanal fossa (green circle). On the ventral side is the urogenital region with the deep and superficial perineal pouches. The loose connective tissue extends over (cranial) the deep perineal pouch (arrow). (1) levator ani muscle, (2) coccygeus muscle, (3) perineal membrane/deep transverse perineal muscle, (4) ischiocavernosus muscle, and (5) bulbospongiosus muscle.",
+        "specimen": "human cadaver (embalmed, elderly)",
+        "what_it_shows": "Male perineum from below after removal of fat: ischioanal fossa (green circle) dorsally; ventrally the urogenital region with bulbospongiosus (5), ischiocavernosus (4) and the perineal membrane/'DTP' plate (3); arrow marks the loose connective tissue extending cranial to the deep pouch; 1 levator ani, 2 coccygeus.",
+        "labels_visible_in_image": "ventral, dorsal, right, left, 1, 2, 3, 4, 5, white arrow, green circle",
+        "label_points": [
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "5",
+            "xy": [
+              384,
+              117
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "4",
+            "xy": [
+              457,
+              173
+            ]
+          },
+          {
+            "latin": "Membrana perinei / musculus transversus perinei profundus",
+            "author_label": "3",
+            "xy": [
+              412,
+              226
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "1",
+            "xy": [
+              467,
+              442
+            ]
+          },
+          {
+            "latin": "Musculus coccygeus",
+            "author_label": "2",
+            "xy": [
+              512,
+              511
+            ]
+          },
+          {
+            "latin": "Textus connectivus laxus supra spatium profundum perinei",
+            "author_label": "white arrow",
+            "xy": [
+              297,
+              251
+            ]
+          }
+        ],
+        "pixels": "709x628",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g004.jpg"
+      },
+      {
+        "file": "JOA-248-755-g001.jpg",
+        "label": "FIGURE 2",
+        "caption": "Perineal regions of (a) female and (b) male donors. Branches of the pudendal artery and nerve partly covering the deep perineal pouch. (1) Ischioanal fossa, (2) levator ani muscle, (3) perineal membrane/deep transverse perineal muscle covered by branches of the internal pudendal artery (inferior rectal artery), as well as branches of the pudendal nerve (perineal nerves and inferior rectal nerves), (4) superficial transverse perineal muscle (only visible in males), (5) ischiocavernous muscle, and (6) bulbospongiosus muscle.",
+        "specimen": "human cadaver (embalmed, elderly)",
+        "what_it_shows": "Female (a) and male (b) perineum from below with branches of the internal pudendal artery and pudendal nerve still covering the deep perineal pouch: ischioanal fossa (1), levator ani (2), perineal membrane/DTP (3), STP (4, visible only in the male), ischiocavernosus (5), bulbospongiosus (6).",
+        "labels_visible_in_image": "(a) ventral, dorsal, right, left, 1, 2, 3, 5, 6; (b) ventral, dorsal, right, left, 1, 2, 3, 4, 5, 6",
+        "label_points": [
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "6",
+            "xy": [
+              290,
+              186
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "5",
+            "xy": [
+              381,
+              159
+            ]
+          },
+          {
+            "latin": "Membrana perinei / musculus transversus perinei profundus",
+            "author_label": "3",
+            "xy": [
+              435,
+              308
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "2",
+            "xy": [
+              412,
+              445
+            ]
+          },
+          {
+            "latin": "Fossa ischioanalis",
+            "author_label": "1",
+            "xy": [
+              465,
+              412
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "6",
+            "xy": [
+              377,
+              858
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "5",
+            "xy": [
+              436,
+              946
+            ]
+          },
+          {
+            "latin": "Membrana perinei / musculus transversus perinei profundus",
+            "author_label": "3",
+            "xy": [
+              290,
+              995
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "4",
+            "xy": [
+              396,
+              1031
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "2",
+            "xy": [
+              273,
+              1112
+            ]
+          },
+          {
+            "latin": "Fossa ischioanalis",
+            "author_label": "1",
+            "xy": [
+              448,
+              1118
+            ]
+          }
+        ],
+        "pixels": "661x1332",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g001.jpg"
+      },
+      {
+        "file": "JOA-248-755-g005.jpg",
+        "label": "FIGURE 4",
+        "caption": "Excised whole tissue plate including the perineal membrane. (a–c) female; (d–f) male. (a) and (d) inner view; (b) and (e) outer views. The surrounding area of the urethral openings of the urogenital sphincter complex are visible. For histological studies only, the free part of the perineal membrane was used (limiting lines). (c, f) Frontal views of the whole plate.",
+        "specimen": "human cadaver (embalmed, elderly)",
+        "what_it_shows": "The whole tissue plate of the deep perineal pouch including the perineal membrane, excised from a female (a-c) and a male (d-f) donor: inner and outer views and frontal views; blue lines mark the free lateral part used for histology. The female plate is broad and trapezoid with a central opening; the male plate is narrower and triangular.",
+        "labels_visible_in_image": "(a)-(f), ventral, dorsal, cranial, caudal, blue lines; no anatomical text labels",
+        "label_points": [
+          {
+            "latin": "Membrana perinei (feminina, pars libera)",
+            "author_label": "",
+            "xy": [
+              105,
+              150
+            ]
+          },
+          {
+            "latin": "Membrana perinei (masculina, pars libera)",
+            "author_label": "",
+            "xy": [
+              615,
+              150
+            ]
+          }
+        ],
+        "pixels": "709x683",
+        "local_path": "perine/images/raw/PMC13069139/JOA-248-755-g005.jpg"
+      }
+    ],
+    "key_findings": "'Investigations were performed on embalmed human donors of both sexes (n = 10, mean age at death: 82 years).' 'A relatively thick tissue plate (diameter: 4-5 mm) located superior to a fascia-like structure, the perineal membrane, was observed running transversally to the ischiopubic rami. Macroscopically, a clearly visible transverse running muscle was not observed in both sexes.' 'In both sexes, the volume densities of the connective tissue were approximately 80%.' 'In females, the proportion of the striated muscle cells was less than 1%.'",
+    "clinical_relevance": "'There was no evidence of the existence of a clearly definable striated DTP muscle, not only in females but also in males. Muscle cells decreased with increasing age.' Supports teaching the deep pouch as a fibromuscular plate rather than a distinct striated 'urogenital diaphragm'.",
+    "notes": "J Anat 2025, CC BY 4.0. Fig 3 (posterior/inner view) downloaded, viewed and deleted (crowded numbering, hard to read). Fig 1 also shows the anal triangle (ischioanal fossa) - overlap with the anal-triangle agent only as context. Numbers in the images are white digits."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Male superficial and deep pouch around the bulb: STP superior/inferior bundles, perineal membrane, Cowper's (bulbourethral) gland, DTP",
+    "pmcid": "PMC8373982",
+    "version": 1,
+    "doi": "10.1038/s41598-021-96130-z",
+    "citation": "Sci Rep. 2021 Aug 18;11:16705. doi: 10.1038/s41598-021-96130-z",
+    "title": "Anatomy of Cowper’s gland in humans suggesting a secretion and emission mechanism facilitated by cooperation of striated and smooth muscles",
+    "authors": "Muro S., Suriyut J., Akita K.",
+    "year": "2021",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2021_96130_Fig1_HTML.jpg",
+        "label": "Figure 1",
+        "caption": "The central region of the male perineum where the perineal muscles gather. (A) The inferior aspect of the perineum, including the Bs, Ic, STP, and EAS muscles. (B) The magnified view of the rectangular space in (A). The STP was medially divided into two bundles, the STPs and STPi. (C) The inferolateral aspect, in which the pelvis was slightly tilted. The Bs and EAS were observed to be continuous. The Bs, EAS, and STP were concentrated in the central region of the perineum. Bs bulbospongiosus, EAS external anal sphincter, Ic ischiocavernosus, IPR ischiopubic ramus, IT ischial tuberosity, STP superficial transverse perineal muscle, STPi inferior bundle of STP, STPs superior bundle of STP.",
+        "specimen": "human cadaver (formalin-perfused, 8%)",
+        "what_it_shows": "Inferior (A,B) and inferolateral (C) views of the male perineum: bulbospongiosus over the bulb, ischiocavernosus on the ischiopubic ramus, STP from the ischial tuberosity dividing medially into superior (STPs) and inferior (STPi) bundles, EAS around the anus; Bs and EAS continuous.",
+        "labels_visible_in_image": "A: Bs, IPR, Ic, STP, IT, EAS, Anus, 20 mm, Anterior/R/L, Inferior aspect; B: Ic, STPs, STPi, 10 mm; C: Bs, Ic, IPR, STPs, STPi, IT, EAS, 20 mm, Inferolateral aspect",
+        "label_points": [
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              203,
+              80
+            ]
+          },
+          {
+            "latin": "Ramus ischiopubicus",
+            "author_label": "IPR",
+            "xy": [
+              125,
+              137
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              170,
+              135
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              172,
+              212
+            ]
+          },
+          {
+            "latin": "Tuber ischiadicum",
+            "author_label": "IT",
+            "xy": [
+              67,
+              273
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              160,
+              327
+            ]
+          },
+          {
+            "latin": "Anus",
+            "author_label": "Anus",
+            "xy": [
+              223,
+              397
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis, fasciculus superior",
+            "author_label": "STPs",
+            "xy": [
+              630,
+              65
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis, fasciculus inferior",
+            "author_label": "STPi",
+            "xy": [
+              633,
+              122
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              580,
+              285
+            ]
+          }
+        ],
+        "pixels": "708x479",
+        "local_path": "perine/images/raw/PMC8373982/41598_2021_96130_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41598_2021_96130_Fig2_HTML.jpg",
+        "label": "Figure 2",
+        "caption": "The Cowper’s gland and surrounding muscles. (A) After removal of the Bs and Ic from Fig. 1, the PM was observed on the left and right sides of the CSP and was attached to the bilateral IPR. The STPi ran superficially and connected to the EAS medially, whereas the STPs ran deeply and extended deeper than the PM. (B) After removal of the PM to reveal structures in the deep perineal pouch. The CG was observed posterior to the CSP. The STPs extended to around the CG. The DTP was deeper than the CG. Bs bulbospongiosus, CG Cowper’s gland, CSP corpus spongiosum penis, DTP deep transverse perineal muscle, EAS external anal sphincter, Ic ischiocavernosus, IPR ischiopubic ramus, IT ischial tuberosity, PM perineal membrane, STP superficial transverse perineal muscle, STPi inferior bundle of STP, STPs superior bundle of STP, Ur urethra.",
+        "specimen": "human cadaver (formalin-perfused, 8%)",
+        "what_it_shows": "(A) After removal of Bs and Ic the perineal membrane is seen on both sides of the corpus spongiosum attached to the ischiopubic rami; STPi runs superficial, STPs passes deep to the membrane. (B) After removal of the PM, the deep perineal pouch: paired Cowper's glands posterior to the corpus spongiosum/urethra, DTP deeper and lateral, STPs extending around the glands.",
+        "labels_visible_in_image": "A: CSP, IPR, PM (x2), STPs, STPi, IT, EAS, 10 mm, Anterior/R/L; B: Ur (arrow), CSP, IPR, DTP (x2), CG (x2), STPs, STPi, IT, EAS, dotted lines, 10 mm",
+        "label_points": [
+          {
+            "latin": "Corpus spongiosum penis (bulbus penis)",
+            "author_label": "CSP",
+            "xy": [
+              350,
+              65
+            ]
+          },
+          {
+            "latin": "Ramus ischiopubicus",
+            "author_label": "IPR",
+            "xy": [
+              122,
+              128
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              230,
+              155
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              490,
+              155
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis, fasciculus superior",
+            "author_label": "STPs",
+            "xy": [
+              238,
+              305
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis, fasciculus inferior",
+            "author_label": "STPi",
+            "xy": [
+              247,
+              348
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              348,
+              410
+            ]
+          },
+          {
+            "latin": "Urethra",
+            "author_label": "Ur",
+            "xy": [
+              330,
+              500
+            ]
+          },
+          {
+            "latin": "Corpus spongiosum penis",
+            "author_label": "CSP",
+            "xy": [
+              335,
+              580
+            ]
+          },
+          {
+            "latin": "Glandula bulbourethralis",
+            "author_label": "CG",
+            "xy": [
+              320,
+              662
+            ]
+          },
+          {
+            "latin": "Glandula bulbourethralis",
+            "author_label": "CG",
+            "xy": [
+              398,
+              670
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus",
+            "author_label": "DTP",
+            "xy": [
+              232,
+              660
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus",
+            "author_label": "DTP",
+            "xy": [
+              482,
+              650
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              338,
+              872
+            ]
+          }
+        ],
+        "pixels": "668x914",
+        "local_path": "perine/images/raw/PMC8373982/41598_2021_96130_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "'In this study, seven male corpses of body donors were used to conduct macroscopic anatomy, histology, and three-dimensional reconstruction. The Cowper's gland was surrounded laterally and posterosuperiorly by striated and smooth muscles, respectively. The striated muscle bundle was connected from the superficial transverse perineal muscle, levator ani, and external anal sphincter to the external urethral sphincter (rhabdosphincter). The smooth muscle was part of the deep transverse perineal muscle and entered between the bilateral Cowper's glands and lobules.'",
+    "clinical_relevance": "'Our findings indicate that the secretion and emission of the Cowper's gland in humans are carried out through the cooperation of striated and smooth muscles.' Bulbourethral glands sit in the deep pouch at the bulb - relevant to bulbar urethroplasty and APR/perineal prostatectomy planes.",
+    "notes": "Sci Rep 2021, CC BY 4.0. Only cadaver photo of the bulbourethral gland in situ found in the OA bucket. Fig 2 is the best single image of PM + deep pouch contents (male)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Female superficial perineal muscles: bulbospongiosus attaching to the lateral EAS; STP crossing the midline deep to EAS",
+    "pmcid": "PMC6942605",
+    "version": 1,
+    "doi": "10.1007/s12565-019-00492-4",
+    "citation": "Anat Sci Int. 2019 Jun 4;95(1):47–53. doi: 10.1007/s12565-019-00492-4",
+    "title": "Three muscle slings of the pelvic floor in women: an anatomic study",
+    "authors": "Baramee P., Muro S., Suriyut J. et al.",
+    "year": "2019",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2019_492_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Lateral aspect of pelvic dissection, right side (mirror image). A few muscle bundles occupy the region between the BS and the STP (star). The STP extends posteriorly along the external anal sphincter (asterisk). The medial part of the STP courses medially along the inner surface of the EAS (hash symbol)",
+        "specimen": "human cadaver (formalin-perfused, 8%)",
+        "what_it_shows": "Lateral (mirror-image) view of a female right perineum: ischiocavernosus, bulbospongiosus and STP; star = bundles between BS and STP; asterisk = STP extending posteriorly along the EAS; hash = medial STP passing along the inner surface of the EAS.",
+        "labels_visible_in_image": "IC, BS, STP, EAS, white star, white asterisk, #, Superior/Anterior arrows",
+        "label_points": [
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "IC",
+            "xy": [
+              150,
+              118
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "BS",
+            "xy": [
+              186,
+              180
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              302,
+              183
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              399,
+              242
+            ]
+          },
+          {
+            "latin": "Fasciculi musculares inter m. bulbospongiosum et m. transversum perinei superficialem",
+            "author_label": "star",
+            "xy": [
+              242,
+              128
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis (pars posterior)",
+            "author_label": "*",
+            "xy": [
+              342,
+              224
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis (pars medialis)",
+            "author_label": "#",
+            "xy": [
+              309,
+              243
+            ]
+          }
+        ],
+        "pixels": "646x398",
+        "local_path": "perine/images/raw/PMC6942605/12565_2019_492_Fig3_HTML.jpg"
+      },
+      {
+        "file": "12565_2019_492_Fig4_HTML.jpg",
+        "label": "Fig. 4",
+        "caption": "a Whole pelvis dissection, anteroinferior aspect. The anterior portion of the EAS covers the middle part of the STP. b On reflection of the anterior part of the EAS, the STP is identified crossing the midline and continuing as the same muscle on the contralateral side",
+        "specimen": "human cadaver (formalin-perfused, 8%)",
+        "what_it_shows": "Anteroinferior view of a female pelvis: IC and BS on each side of the vagina, STP on both sides converging toward the anal canal; (B) after reflecting the anterior EAS the STP is seen crossing the midline (arrow) to the contralateral muscle.",
+        "labels_visible_in_image": "A and B: Vagina, BS x2, IC x2, STP (arrows), EAS, Anal, Anterior/Lateral; B also STP with downward arrow at midline",
+        "label_points": [
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "IC",
+            "xy": [
+              441,
+              73
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "BS",
+            "xy": [
+              470,
+              63
+            ]
+          },
+          {
+            "latin": "Ostium vaginae",
+            "author_label": "Vagina",
+            "xy": [
+              532,
+              55
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "BS",
+            "xy": [
+              586,
+              60
+            ]
+          },
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "IC",
+            "xy": [
+              624,
+              73
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis (pars mediana)",
+            "author_label": "STP",
+            "xy": [
+              535,
+              129
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              469,
+              118
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              593,
+              126
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              536,
+              148
+            ]
+          },
+          {
+            "latin": "Anus",
+            "author_label": "Anal",
+            "xy": [
+              525,
+              179
+            ]
+          }
+        ],
+        "pixels": "708x226",
+        "local_path": "perine/images/raw/PMC6942605/12565_2019_492_Fig4_HTML.jpg"
+      }
+    ],
+    "key_findings": "'The pelvic floor muscles of 28 pelvic halves from 16 female cadavers (mean age 79.75 years) were dissected'. 'The bulbospongiosus muscle was found to be attached to the lateral surface of the external anal sphincter. The superficial transverse perineal muscle crossed superiorly to the bulbospongiosus and coursed medially toward its contralateral muscle bundle deep to the anterior portion of the external anal sphincter. The superficial transverse perineal muscle formed the middle sling.'",
+    "clinical_relevance": "'This study proposes that three muscular slings could be important in supporting the pelvic floor in women.' Challenges the textbook 'all muscles insert into the perineal body' model - relevant to perineal repair after obstetric tears.",
+    "notes": "Anat Sci Int 2019, CC BY 4.0. Fig 2 (inferior view) not used here (dark; adds little beyond Fig 3/4) - file kept in the folder because the anal-triangle agent uses it. Fig 4 is small (708x226) but both panels are legible; panel B used for label points."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Male perineal muscles in continuity (lateral view): IC, BS, STP, EAS and their link to levator ani",
+    "pmcid": "PMC7182620",
+    "version": 1,
+    "doi": "10.1007/s12565-019-00521-2",
+    "citation": "Anat Sci Int. 2019 Dec 23;95(3):305–12. doi: 10.1007/s12565-019-00521-2",
+    "title": "Various significant connections of the male pelvic floor muscles with special reference to the anal and urethral sphincter muscles",
+    "authors": "Suriyut J., Muro S., Baramee P. et al.",
+    "year": "2019",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2019_521_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Pelvic floor muscle. a Pelvic floor muscle on the lateral aspect, which is composed of the IC, BS, STP, EAS, and LA. The star represents the lateral tendon of the STP; white and black arrows, the connection among the STP, BS, and EAS; black asterisk, the connection between the BS and EAS. b After the lateral reflections of the STP, the white and black arrowheads represent the anterior and posterior muscle bundle of the LA, respectively; white asterisk, the connection between the LA and BS; black triangle, the connection between the STP and LA; circle, the blending point between the LA and EAS. ACL anococcygeal ligament, BS bulbospongiosus, EAS external anal sphincter, IC ischiocavernosus, LA levator ani muscle, STP superficial transverse perineal; yellow arrow, anal opening",
+        "specimen": "human cadaver (formalin 10%)",
+        "what_it_shows": "Lateral view of a male pelvic floor (A) and after reflecting STP (B): bulbospongiosus and ischiocavernosus anteriorly, STP with its lateral tendon (star) joining BS and EAS (arrows), BS-EAS connection (black asterisk), levator ani above; (B) anterior/posterior LA bundles (arrowheads) reaching BS and EAS.",
+        "labels_visible_in_image": "A: pubis bone, tendinous arch, LA, IC, BS, STP, star, white/black arrows, black asterisk, EAS, ACL, coccyx, yellow arrow, Sup./Ant./Post., Lateral aspect; B: LA, STP, BS, white asterisk, white/black arrowheads, black triangle, circle, black asterisk, EAS, ACL",
+        "label_points": [
+          {
+            "latin": "Musculus ischiocavernosus",
+            "author_label": "IC",
+            "xy": [
+              24,
+              351
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "BS",
+            "xy": [
+              68,
+              418
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              268,
+              367
+            ]
+          },
+          {
+            "latin": "Tendo lateralis m. transversi perinei superficialis",
+            "author_label": "star",
+            "xy": [
+              341,
+              333
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              318,
+              462
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "LA",
+            "xy": [
+              294,
+              227
+            ]
+          },
+          {
+            "latin": "Junctio m. bulbospongiosi et m. sphincteris ani externi",
+            "author_label": "black asterisk",
+            "xy": [
+              156,
+              441
+            ]
+          }
+        ],
+        "pixels": "646x1088",
+        "local_path": "perine/images/raw/PMC7182620/12565_2019_521_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "'Fifteen male pelvises were used for microscopic dissection, and three male pelvises were used for histological examination. On the lateral aspect, the perineal muscles were connected to each other. Bundles of the levator ani muscle extended to connect to the perineal muscles. In addition, the extended muscle bundle from the levator ani muscle and the perineal muscles surround the external urethral sphincter.'",
+    "clinical_relevance": "'The connection between the perineal muscles and levator ani muscle indicates a possible close relationship between the functions of the urethra and anus.'",
+    "notes": "Anat Sci Int 2019, CC BY 4.0. Figure is dominated by levator ani (pelvic-floor territory) - use panel A for the perineal-muscle continuity concept; coordinates given only for panel A."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Female external genitalia & superficial pouch on cadaver: crus/body/glans clitoridis, bulb of vestibule, STP, suspensory ligament; perineal body",
+    "pmcid": "PMC7913006",
+    "version": 1,
+    "doi": "10.3390/diagnostics11020221",
+    "citation": "Diagnostics (Basel). 2021 Feb 2;11(2):221. doi: 10.3390/diagnostics11020221",
+    "title": "Midline and Mediolateral Episiotomy: Risk Assessment Based on Clinical Anatomy",
+    "authors": "Garner D. K., Patel A. B., Hung J. et al.",
+    "year": "2021",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-11-00221-g004.jpg",
+        "label": "Figure 4",
+        "caption": "Female perineum dissected to reveal all perineal structures accessed by continuing a mediolateral episiotomy incision. The neurovascular bundles contain branches of the superficial (S) and deep (D) perineal nerves and the internal pudendal artery. *Bulb of the vestibule overlain by the bulbospongiosus muscle.",
+        "specimen": "human cadaver (embalmed: 3% formaldehyde/phenol/glycerin)",
+        "what_it_shows": "Dissected female perineum after continuing a mediolateral episiotomy incision: body, glans and crus of the clitoris, suspensory ligament of the clitoris, the bulb of the vestibule overlain by bulbospongiosus (*), superficial (S) and deep (D) perineal neurovascular bundles and the superficial transverse perineal muscle.",
+        "labels_visible_in_image": "Suspensory ligament of the clitoris; Body of the clitoris; Crus of the clitoris (2 arrows); Glans clitoridis; Neurovascular bundles; S; D; *; Labum majus [sic]; Superficial transverse perineal m.",
+        "label_points": [
+          {
+            "latin": "Ligamentum suspensorium clitoridis",
+            "author_label": "Suspensory ligament of the clitoris",
+            "xy": [
+              357,
+              43
+            ]
+          },
+          {
+            "latin": "Corpus clitoridis",
+            "author_label": "Body of the clitoris",
+            "xy": [
+              316,
+              193
+            ]
+          },
+          {
+            "latin": "Glans clitoridis",
+            "author_label": "Glans clitoridis",
+            "xy": [
+              256,
+              320
+            ]
+          },
+          {
+            "latin": "Crus clitoridis",
+            "author_label": "Crus of the clitoris",
+            "xy": [
+              387,
+              229
+            ]
+          },
+          {
+            "latin": "Crus clitoridis",
+            "author_label": "Crus of the clitoris",
+            "xy": [
+              500,
+              261
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli sub m. bulbospongioso",
+            "author_label": "*",
+            "xy": [
+              455,
+              321
+            ]
+          },
+          {
+            "latin": "Nervus perinealis, rami superficiales (fasciculus neurovascularis)",
+            "author_label": "S",
+            "xy": [
+              389,
+              350
+            ]
+          },
+          {
+            "latin": "Nervus perinealis, rami profundi (fasciculus neurovascularis)",
+            "author_label": "D",
+            "xy": [
+              500,
+              354
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei superficialis",
+            "author_label": "Superficial transverse perineal m.",
+            "xy": [
+              551,
+              464
+            ]
+          },
+          {
+            "latin": "Labium majus pudendi",
+            "author_label": "Labum majus",
+            "xy": [
+              200,
+              420
+            ]
+          }
+        ],
+        "pixels": "691x728",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g004.jpg"
+      },
+      {
+        "file": "diagnostics-11-00221-g003.jpg",
+        "label": "Figure 3",
+        "caption": "Representative anatomy of the perineum based on our dissections. Most commonly, the perineal body was not a major site of muscle attachment. The bulbospongiosus muscle was continuous with the superficial portion of the external anal sphincter (EAS), both innervated by branches of the perineal nerves. The inferior rectal nerve innervated the subcutaneous EAS and skin around the anus. The bulb of the vestibule extended to the posterior fourchette, with the greater vestibular gland anchored to its posterior margin.",
+        "specimen": "schematic",
+        "what_it_shows": "Authors' illustration of the female perineum based on their dissections: body and crus of the clitoris, bulb of the vestibule with the greater vestibular (Bartholin) gland at its posterior end, bulbospongiosus continuous with the superficial EAS, subcutaneous EAS, and the perineal/posterior labial/inferior rectal branches of the pudendal nerve.",
+        "labels_visible_in_image": "Body of the clitoris; Crus; Bulb of the vestibule; Greater vestibular gland; Superficial EAS; Subcutaneous EAS; Bulbospongiosus m.; Posterior labia nn.; Deep perineal n.; Superficial perineal n.; Inferior rectal n.; Pudendal n.",
+        "label_points": [
+          {
+            "latin": "Corpus clitoridis",
+            "author_label": "Body of the clitoris",
+            "xy": [
+              353,
+              133
+            ]
+          },
+          {
+            "latin": "Crus clitoridis",
+            "author_label": "Crus",
+            "xy": [
+              299,
+              179
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "Bulb of the vestibule",
+            "xy": [
+              319,
+              257
+            ]
+          },
+          {
+            "latin": "Glandula vestibularis major",
+            "author_label": "Greater vestibular gland",
+            "xy": [
+              330,
+              284
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bulbospongiosus m.",
+            "xy": [
+              387,
+              155
+            ]
+          },
+          {
+            "latin": "Nervi labiales posteriores",
+            "author_label": "Posterior labia nn.",
+            "xy": [
+              380,
+              203
+            ]
+          },
+          {
+            "latin": "Nervus perinealis, rami profundi",
+            "author_label": "Deep perineal n.",
+            "xy": [
+              414,
+              229
+            ]
+          },
+          {
+            "latin": "Nervus perinealis, rami superficiales",
+            "author_label": "Superficial perineal n.",
+            "xy": [
+              407,
+              302
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus, pars superficialis",
+            "author_label": "Superficial EAS",
+            "xy": [
+              328,
+              344
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus, pars subcutanea",
+            "author_label": "Subcutaneous EAS",
+            "xy": [
+              355,
+              394
+            ]
+          },
+          {
+            "latin": "Nervi anales (rectales) inferiores",
+            "author_label": "Inferior rectal n.",
+            "xy": [
+              413,
+              374
+            ]
+          },
+          {
+            "latin": "Nervus pudendus",
+            "author_label": "Pudendal n.",
+            "xy": [
+              452,
+              365
+            ]
+          }
+        ],
+        "pixels": "742x497",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g003.jpg"
+      },
+      {
+        "file": "diagnostics-11-00221-g002.jpg",
+        "label": "Figure 2",
+        "caption": "Female perineum with a midline episiotomy incision and a low-angle mediolateral incision. Midline episiotomies endanger the perineal body and many mediolateral incisions endanger the bulb of the vestibule and associated neurovasculature, as depicted here.",
+        "specimen": "human cadaver (embalmed)",
+        "what_it_shows": "External view of a cadaver female perineum with a midline and a low-angle mediolateral episiotomy incision: vaginal orifice, perineal body (between vestibule and anus), posterior edge of the bulb of the vestibule exposed by the mediolateral cut, and anal orifice.",
+        "labels_visible_in_image": "Labum majus [sic]; Vaginal orifice; Mediolateral episiotomy incision; Midline episiotomy incision; Perineal body; Posterior edge of the bulb of the vestubule [sic]; Anal orifice",
+        "label_points": [
+          {
+            "latin": "Ostium vaginae",
+            "author_label": "Vaginal orifice",
+            "xy": [
+              335,
+              668
+            ]
+          },
+          {
+            "latin": "Corpus perineale",
+            "author_label": "Perineal body",
+            "xy": [
+              415,
+              1005
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli (margo posterior)",
+            "author_label": "Posterior edge of the bulb of the vestubule",
+            "xy": [
+              225,
+              965
+            ]
+          },
+          {
+            "latin": "Anus",
+            "author_label": "Anal orifice",
+            "xy": [
+              390,
+              1113
+            ]
+          }
+        ],
+        "pixels": "772x1192",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g002.jpg"
+      }
+    ],
+    "key_findings": "'We performed 61 incisions on 47 female cadavers and dissected around the incision site.' 'Midline IncisionIn 100% of cadavers, the midline incision damaged the connective tissue of the perineal body and overlying skin' 'In 16.6% of cadavers, we identified gracile muscle fibers inserting onto the perineal body, while 83.4% had only connective tissue within the incision.' 'In 14.3% of cadavers, the incision was of sufficient length to completely bisect the perineal body and extend to some muscle fibers of the subcutaneous portion of the external anal sphincter'. 'Low-Angle Mediolateral IncisionIn 75% of cadavers, the bulbospongiosus muscle, greater vestibular gland, and posterior labial nerves were in the plane of the incision.'",
+    "clinical_relevance": "'Mediolateral incisions posed greater risk of iatrogenic injury to ipsilateral nerve, muscle, erectile, and gland tissues.' Direct link of superficial-pouch anatomy (bulb, Bartholin gland, perineal nerves) and perineal body to episiotomy complications.",
+    "notes": "Diagnostics 2021, CC BY 4.0. Fig 3 is the only labelled image of the greater vestibular (Bartholin) gland found (schematic, authors' own; no third-party attribution in caption). Fig 2 is an external cadaver view (hair/skin) - consider audience. Text typos 'Labum', 'vestubule' are printed in the images. Doubles as variation source (perineal body composition percentages)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Clitoris as a 3D organ: excised clitoris (body, crura, suspensory ligament, prepuce) and microCT reconstruction with vestibular bulbs",
+    "pmcid": "PMC11452485",
+    "version": 1,
+    "doi": "10.1038/s41598-024-72898-8",
+    "citation": "Sci Rep. 2024 Oct 4;14:23060. doi: 10.1038/s41598-024-72898-8",
+    "title": "Innervation pattern and fiber counts of the human dorsal nerve of clitoris",
+    "authors": "Tunçkol E., Heim C., Brunk I. et al.",
+    "year": "2024",
+    "journal": "Scientific Reports",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "41598_2024_72898_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "External structure of human vulva and the sectioning of the clitoris. (a) Female vulva in frontal view. (b) The body and the crura of clitoris are shown in lateral view. Dashed lines show where we took samples. (c) Cross section of the crus of clitoris shows the corpus cavernosum (CC) and neurovascular bundle. Arrows show blood vessels accompanying pudendal bundles. (d) Cross section of the clitoris at the level of pubic symphysis. Dorsal nerve bundles of clitoris are situated dorsal to erectile bodies. Arrows show blood vessels.",
+        "specimen": "human cadaver (formalin-fixed vulva samples)",
+        "what_it_shows": "(A) Excised vulva block from the front (mons pubis, labia majora/minora); (B) the dissected clitoris in lateral view: body with suspensory ligament and prepuce, and the two crura descending; dashed lines = sampling levels; (C,D) cross-sections of crus and body with corpora cavernosa and dorsal neurovascular bundles.",
+        "labels_visible_in_image": "A: Mons Pubis, Labia Majora, Labia Minora; B: Suspensory ligament, Prepuce, Crura (2 leaders), dashed lines, 1 cm; C: Neurovascular bundle, CC, arrowheads, dashed circle, 1 cm; D: CC x2, arrowheads, dashed circle, 1 cm",
+        "label_points": [
+          {
+            "latin": "Mons pubis",
+            "author_label": "Mons Pubis",
+            "xy": [
+              183,
+              55
+            ]
+          },
+          {
+            "latin": "Labium majus pudendi",
+            "author_label": "Labia Majora",
+            "xy": [
+              265,
+              155
+            ]
+          },
+          {
+            "latin": "Labium minus pudendi",
+            "author_label": "Labia Minora",
+            "xy": [
+              225,
+              228
+            ]
+          },
+          {
+            "latin": "Ligamentum suspensorium clitoridis",
+            "author_label": "Suspensory ligament",
+            "xy": [
+              395,
+              140
+            ]
+          },
+          {
+            "latin": "Preputium clitoridis",
+            "author_label": "Prepuce",
+            "xy": [
+              683,
+              185
+            ]
+          },
+          {
+            "latin": "Crus clitoridis",
+            "author_label": "Crura",
+            "xy": [
+              460,
+              290
+            ]
+          },
+          {
+            "latin": "Crus clitoridis",
+            "author_label": "Crura",
+            "xy": [
+              480,
+              340
+            ]
+          }
+        ],
+        "pixels": "775x944",
+        "local_path": "perine/images/raw/PMC11452485/41598_2024_72898_Fig1_HTML.jpg"
+      },
+      {
+        "file": "41598_2024_72898_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "MicroCT scan of the human clitoris and female corpus spongiosum. (a) Another vulva is microCT scanned shown in frontal view. (b) Volume rendering of segmented structures of clitoral structures. Corpora Cavernosa (CC), corpus spongiosum (CS), vestibular bulbs (VB), and glans clitoris (GC) are represented in blue, orange, green and pink, respectively. (c) Volume rendering of segmented structures in lateral view. (d) Transverse section of clitoris showing different type of erectile tissues. (e) Cross-section of clitoris showing the same erectile tissue. (f) Cross-section of another clitoris that was stained with trichrome azan showing corpus spongiosum in relation to corpora cavernosa.",
+        "specimen": "human cadaver (microCT of iodine-stained formalin-fixed specimen; 3D reconstruction)",
+        "what_it_shows": "MicroCT of a cadaver vulva (A) with volume-rendered segmentation (B frontal, C lateral) of corpora cavernosa (blue: body + crura), corpus spongiosum (orange), vestibular bulbs (green) and glans clitoridis (pink); (D,E) microCT sections labelled CC, CS, VB; (F) azan histology.",
+        "labels_visible_in_image": "A-F; D: CC x2, CS; E: CS, VB x2; colour coding explained only in caption",
+        "label_points": [
+          {
+            "latin": "Corpus cavernosum clitoridis (crus)",
+            "author_label": "",
+            "xy": [
+              370,
+              50
+            ]
+          },
+          {
+            "latin": "Corpus spongiosum (pars intermedia bulborum)",
+            "author_label": "",
+            "xy": [
+              318,
+              72
+            ]
+          },
+          {
+            "latin": "Glans clitoridis",
+            "author_label": "",
+            "xy": [
+              338,
+              90
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "",
+            "xy": [
+              280,
+              140
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "",
+            "xy": [
+              375,
+              145
+            ]
+          },
+          {
+            "latin": "Corpus cavernosum clitoridis",
+            "author_label": "CC",
+            "xy": [
+              125,
+              372
+            ]
+          },
+          {
+            "latin": "Corpus spongiosum",
+            "author_label": "CS",
+            "xy": [
+              115,
+              430
+            ]
+          },
+          {
+            "latin": "Corpus spongiosum",
+            "author_label": "CS",
+            "xy": [
+              390,
+              442
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "VB",
+            "xy": [
+              338,
+              507
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "VB",
+            "xy": [
+              415,
+              492
+            ]
+          }
+        ],
+        "pixels": "669x583",
+        "local_path": "perine/images/raw/PMC11452485/41598_2024_72898_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "'We counted on avarage 2917 axons in the crus of the clitoris (76% of which are myelinated) and 3137 axons in the hemibody of the clitoris (71% of which are myelinated).' 'In the crus of the clitoris, about 12 such bundles can be recognized while about 32 bundles are present in the clitoral hemi-body.' 'clitoris has approximately 6 times denser innervation compared to the penis.' Specimens: 'Formalin-fixed vulva samples were collected from 6 female cadavers'.",
+    "clinical_relevance": "Dorsal nerve of clitoris runs as loose bundles - relevant to vulvar/cosmetic surgery, FGM reconstruction and gender-affirming surgery.",
+    "notes": "Sci Rep 2024, CC BY 4.0 (O'Connell-type 3D clitoral anatomy). O'Connell's own papers (J Urol 1998/2005) are not in the PMC OA bucket. 'avarage' typo is verbatim. In Fig 2B the blue CC rendering includes the crura; colours carry the meaning - Turkish legend needed."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Penile root suspension: fundiform ligament (from the membranous superficial fascia) and suspensory ligament with its three bundles",
+    "pmcid": "PMC10594829",
+    "version": 1,
+    "doi": "10.1186/s12610-023-00202-1",
+    "citation": "Basic Clin Androl. 2023 Oct 24;33:26. doi: 10.1186/s12610-023-00202-1",
+    "title": "Suspension of the penis – dissection, anatomical description and highlighting of anatomical risks in sectioning the suspensory ligaments",
+    "authors": "Filipoiu F. M., Ion R. T., Filipoiu Z. F. et al.",
+    "year": "2023",
+    "journal": "Basic and Clinical Andrology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12610_2023_202_Fig5_HTML.jpg",
+        "label": "Fig. 5",
+        "caption": "Relations of the fundiform ligament with the penis and the suspensory ligament. 1. Right bundle of the fundiform ligament. 2. Left bundle of the fundiform ligament. 3. Suspensory ligament. 4. Right spermatic cord. 5. Left spermatic cord",
+        "specimen": "human cadaver (formalin-fixed)",
+        "what_it_shows": "Anterior view of the penopubic region after removing skin and superficial fascia: right and left bundles of the fundiform ligament embracing the penis, the deeper suspensory ligament in the midline, and both spermatic cords laterally.",
+        "labels_visible_in_image": "1, 2, 3, 4, 5 (black digits)",
+        "label_points": [
+          {
+            "latin": "Ligamentum fundiforme penis, fasciculus dexter",
+            "author_label": "1",
+            "xy": [
+              287,
+              236
+            ]
+          },
+          {
+            "latin": "Ligamentum fundiforme penis, fasciculus sinister",
+            "author_label": "2",
+            "xy": [
+              371,
+              237
+            ]
+          },
+          {
+            "latin": "Ligamentum suspensorium penis",
+            "author_label": "3",
+            "xy": [
+              316,
+              241
+            ]
+          },
+          {
+            "latin": "Funiculus spermaticus dexter",
+            "author_label": "4",
+            "xy": [
+              157,
+              150
+            ]
+          },
+          {
+            "latin": "Funiculus spermaticus sinister",
+            "author_label": "5",
+            "xy": [
+              481,
+              154
+            ]
+          }
+        ],
+        "pixels": "595x448",
+        "local_path": "perine/images/raw/PMC10594829/12610_2023_202_Fig5_HTML.jpg"
+      },
+      {
+        "file": "12610_2023_202_Fig9_HTML.jpg",
+        "label": "Fig. 9",
+        "caption": "Suspensory ligament components. 1. Suspensory ligament. 2,3. Lateral bundles of the suspensory ligament. 4. Median bundle of the suspensory ligament. 5. Body of the penis. 6. Right fascicle of the fundiform ligament. 7. Left fascicle of the fundiform ligament. 8. Right spermatic cord. 9. Left spermatic cord",
+        "specimen": "human cadaver (formalin-fixed)",
+        "what_it_shows": "Suspensory ligament of the penis dissected into a median bundle and two lateral bundles attaching to the dorsum of the penile body, with the reflected right/left fascicles of the fundiform ligament and both spermatic cords.",
+        "labels_visible_in_image": "1-9 (black digits)",
+        "label_points": [
+          {
+            "latin": "Ligamentum suspensorium penis",
+            "author_label": "1",
+            "xy": [
+              263,
+              383
+            ]
+          },
+          {
+            "latin": "Ligamentum suspensorium penis, fasciculus lateralis",
+            "author_label": "2",
+            "xy": [
+              230,
+              448
+            ]
+          },
+          {
+            "latin": "Ligamentum suspensorium penis, fasciculus lateralis",
+            "author_label": "3",
+            "xy": [
+              303,
+              445
+            ]
+          },
+          {
+            "latin": "Ligamentum suspensorium penis, fasciculus medianus",
+            "author_label": "4",
+            "xy": [
+              268,
+              453
+            ]
+          },
+          {
+            "latin": "Corpus penis",
+            "author_label": "5",
+            "xy": [
+              292,
+              620
+            ]
+          },
+          {
+            "latin": "Ligamentum fundiforme penis, fasciculus dexter",
+            "author_label": "6",
+            "xy": [
+              140,
+              268
+            ]
+          },
+          {
+            "latin": "Ligamentum fundiforme penis, fasciculus sinister",
+            "author_label": "7",
+            "xy": [
+              310,
+              263
+            ]
+          },
+          {
+            "latin": "Funiculus spermaticus dexter",
+            "author_label": "8",
+            "xy": [
+              32,
+              513
+            ]
+          },
+          {
+            "latin": "Funiculus spermaticus sinister",
+            "author_label": "9",
+            "xy": [
+              450,
+              508
+            ]
+          }
+        ],
+        "pixels": "595x794",
+        "local_path": "perine/images/raw/PMC10594829/12610_2023_202_Fig9_HTML.jpg"
+      }
+    ],
+    "key_findings": "'We dissected the ligaments providing the suspension of the penis in 7 formalized corpses.' 'We have identified three types of fundiform ligament: A unique triangular structure; A double structure accompanied by accessory fascicles; A ligament structure with the aspect of an undifferentiated fibrous connective band.' 'For the suspensory ligament, we identified three groups of fibers through which it is attached to the penile body.' 'the suspensory ligament is represented by three blades: two superficial blades sharing the role of the fundiform ligament and a deep blade on the midline, which is continued by the deep fascia of the penis'.",
+    "clinical_relevance": "Ligament sectioning in penile lengthening risks the dorsal neurovascular bundle and penile instability; the fundiform ligament is a derivative of the membranous layer of the abdominal superficial fascia (Scarpa) - the Scarpa-Colles-dartos continuum at the penile root.",
+    "notes": "Basic Clin Androl 2023, CC BY 4.0. Closest OA cadaver material to the 'fascia penis / Scarpa continuity' topic. Fig 1 (unexplained numbers in caption) and Fig 12 (dorsal NV bundle - pudendal territory of another agent) downloaded, viewed, deleted. The caption of Fig 5 lists numbers; '4/5' spermatic cords are the tubular structures lateral to the penis."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Sex differences of the deep pouch: rhabdosphincter, compressor urethrae, urethrovaginal sphincter, perineal membrane, Cowper's gland, DTP (author diagrams)",
+    "pmcid": "PMC4022307",
+    "version": 1,
+    "doi": "10.1155/2014/906921",
+    "citation": "Biomed Res Int. 2014 Apr 27;2014:906921. doi: 10.1155/2014/906921",
+    "title": "The Urethral Rhabdosphincter, Levator Ani Muscle, and Perineal Membrane: A Review",
+    "authors": "Hinata N., Murakami G.",
+    "year": "2014",
+    "journal": "BioMed Research International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "BMRI2014-906921.011.jpg",
+        "label": "Figure 11",
+        "caption": "A diagram of the levator ani, rhabdosphincter, and perineal membrane in women. Lateral view through the bony pelvis. In the female, the rhabdosphincter is connected with the ischiadic bony ramus by the perineal membrane. The fibers of the levator ani muscle are directed to the external sphincter and anus. In the female, the rhabdosphincter is continuous with the anterior long muscle sheet, the urethrovaginal sphincter (UVS), and the posterolateral small part, the compressor urethrae (CU). These striated muscles are embedded in an elastic-fiber mesh that provides the insertion for the perineal membrane (PM) to the ischiadic bony ramus. The perineal membrane extends anteromedially to a space between the vestibular bulb and the vaginal wall. The levator ani is attached to the superior aspects of the perineal membrane (arrows).",
+        "specimen": "schematic",
+        "what_it_shows": "Female, lateral view through the bony pelvis: rhabdosphincter (RS) around the urethra, compressor urethrae (CU) and urethrovaginal sphincter (UVS) continuous with the thick perineal membrane (PM) that anchors them to the ischiopubic ramus; levator ani attaches to the upper surface of the PM; vestibular bulb and bulbospongiosus below.",
+        "labels_visible_in_image": "Uterus, Bladder, Vagina, Pubis, RS, CU, Levator ani (x2), Urethra, PM, UVS, External anal sphincter, Vestibular bulb, Bulbospongiosus muscle, Anus",
+        "label_points": [
+          {
+            "latin": "Musculus sphincter urethrae externus (rhabdosphincter)",
+            "author_label": "RS",
+            "xy": [
+              190,
+              302
+            ]
+          },
+          {
+            "latin": "Urethra feminina",
+            "author_label": "Urethra",
+            "xy": [
+              154,
+              385
+            ]
+          },
+          {
+            "latin": "Musculus sphincter urethrovaginalis",
+            "author_label": "UVS",
+            "xy": [
+              237,
+              446
+            ]
+          },
+          {
+            "latin": "Musculus compressor urethrae",
+            "author_label": "CU",
+            "xy": [
+              275,
+              375
+            ]
+          },
+          {
+            "latin": "Membrana perinei",
+            "author_label": "PM",
+            "xy": [
+              283,
+              492
+            ]
+          },
+          {
+            "latin": "Bulbus vestibuli",
+            "author_label": "Vestibular bulb",
+            "xy": [
+              137,
+              525
+            ]
+          },
+          {
+            "latin": "Musculus bulbospongiosus",
+            "author_label": "Bulbospongiosus muscle",
+            "xy": [
+              171,
+              500
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "Levator ani",
+            "xy": [
+              404,
+              354
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "External anal sphincter",
+            "xy": [
+              383,
+              588
+            ]
+          },
+          {
+            "latin": "Os pubis",
+            "author_label": "Pubis",
+            "xy": [
+              104,
+              204
+            ]
+          },
+          {
+            "latin": "Vagina",
+            "author_label": "Vagina",
+            "xy": [
+              417,
+              196
+            ]
+          }
+        ],
+        "pixels": "600x733",
+        "local_path": "perine/images/raw/PMC4022307/BMRI2014-906921.011.jpg"
+      },
+      {
+        "file": "BMRI2014-906921.010.jpg",
+        "label": "Figure 10",
+        "caption": "A diagram of the levator ani and rhabdosphincter in men. Lateral view through the bony pelvis. In the male, the rhabdosphincter is connected with the inferomedial margin of the levator ani. The fibers of the levator ani muscle are directed to the external sphincter and anus. By a thick fascia (sandwiched by arrows) containing veins, nerves, elastic fibers, and smooth muscle, the rhabdosphincter area in the male is connected with the inferomedial margin of the levator ani. Stars indicate a layer for the male perineal membrane (not drawn; see Figure 2(c) insert). On the lower side of the rhabdosphincter area, the deep transverse perineal muscle connects Cowper's gland and the internal surface of the ischiadic bone.",
+        "specimen": "schematic",
+        "what_it_shows": "Male, lateral view: rhabdosphincter (RS) around the membranous urethra continuing up as prostatocapsular RS, Cowper's gland in the deep pouch below RS, deep transverse perineal muscle behind it, levator ani lateral with veins and nerves between; stars = connection of RS to perineal muscles.",
+        "labels_visible_in_image": "Prostatocapsular RS, Bladder, Pubis, Prostate, RS, Levator ani, Veins and nerves, Urethra, Cowper's gland, Deep transverse perineal muscle, External anal sphincter, Anus, stars",
+        "label_points": [
+          {
+            "latin": "Musculus sphincter urethrae externus (rhabdosphincter)",
+            "author_label": "RS",
+            "xy": [
+              158,
+              358
+            ]
+          },
+          {
+            "latin": "Urethra (pars spongiosa)",
+            "author_label": "Urethra",
+            "xy": [
+              183,
+              483
+            ]
+          },
+          {
+            "latin": "Glandula bulbourethralis",
+            "author_label": "Cowper's gland",
+            "xy": [
+              250,
+              483
+            ]
+          },
+          {
+            "latin": "Musculus transversus perinei profundus",
+            "author_label": "Deep transverse perineal muscle",
+            "xy": [
+              296,
+              467
+            ]
+          },
+          {
+            "latin": "Prostata",
+            "author_label": "Prostate",
+            "xy": [
+              175,
+              263
+            ]
+          },
+          {
+            "latin": "Musculus levator ani",
+            "author_label": "Levator ani",
+            "xy": [
+              442,
+              229
+            ]
+          },
+          {
+            "latin": "Musculus sphincter ani externus",
+            "author_label": "External anal sphincter",
+            "xy": [
+              433,
+              467
+            ]
+          },
+          {
+            "latin": "Os pubis",
+            "author_label": "Pubis",
+            "xy": [
+              121,
+              217
+            ]
+          }
+        ],
+        "pixels": "600x615",
+        "local_path": "perine/images/raw/PMC4022307/BMRI2014-906921.010.jpg"
+      }
+    ],
+    "key_findings": "Review of the authors' serial-section studies in elderly cadavers: 'The male perineal membrane was thin but solid and extends along the inferior margin or bottom of the rhabdosphincter area. In contrast, the female rhabdosphincter, including the compressor urethrae and urethrovaginal sphincter muscles, was embedded in the elastic fiber mesh that is continuous with the thick, multilaminar perineal membrane. The inferomedial edge of the female LA was attached to the upper surface of the perineal membrane and not directly attached to the rhabdosphincter.'",
+    "clinical_relevance": "Continence anatomy for radical prostatectomy and female anti-incontinence surgery: 'We presented new diagrams showing the gender differences in topographical anatomy of the LA and rhabdosphincter.'",
+    "notes": "Biomed Res Int 2014, CC BY 3.0. Author diagrams (no cadaver photo of CU/UVS exists in the OA bucket); histology figures of the same article not used (cross-sectional)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Female external urethral sphincter: horseshoe-shaped skeletal muscle around the mid-urethra (3D reconstruction from cadaver serial sections)",
+    "pmcid": "PMC12003430",
+    "version": 1,
+    "doi": "10.1007/s00192-025-06045-w",
+    "citation": "Int Urogynecol J. 2025 Jan 20;36(3):647–54. doi: 10.1007/s00192-025-06045-w",
+    "title": "Three-dimensional Analysis of the Distribution of Smooth and Skeletal Muscle Tissue Around the Female Urethra",
+    "authors": "Liu T., Muro S., Tharnmanularp S. et al.",
+    "year": "2025",
+    "journal": "International Urogynecology Journal",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "192_2025_6045_Fig3_HTML.jpg",
+        "label": "Fig. 3",
+        "caption": "Three-dimensional reconstructed images of the muscular tissue around the urethra. Three-dimensional reconstructed images showing the muscles surrounding the female urethra. (a, c, e, and g) Anterior views. (b, d, f, and h) Posterior views. a, b The urethra was curved. The entire urethra was lined with uLM. c, d The entire length was covered by the cUM layer. e, f In the middle part of the urethra, skeletal muscle surrounds the ventral side of the urethra, which extends in a horseshoe shape and spreads side-to-side. Additionally, in the distal part of the urethra, uLM and uCM protruded anteriorly (e, dagger). g, h The smooth muscle layer covers the uLM, uCM, and EUS layers. The outermost smooth muscle layer was continuous with the smooth muscles of the vaginal wall. EUS, external urethral sphincter; sm, smooth muscle; uLM, longitudinal smooth muscle surrounding urethra; uCM, circular smooth muscle surrounding urethra; Ur, urethra; Vm, smooth muscle from the vaginal wall",
+        "specimen": "human cadaver (formalin; 3D reconstruction of serial histology)",
+        "what_it_shows": "3D reconstructions (anterior A,C,E,G; posterior B,D,F,H) of the female urethral muscle coats: inner longitudinal (uLM) and circular (uCM) smooth muscle, the red horseshoe-shaped external urethral sphincter open dorsally, and an outer smooth-muscle layer continuous with the vaginal wall (Vm).",
+        "labels_visible_in_image": "A: Ur, uLM, 20mm, axes; B: Ur, uLM; C: Ur, uCM, uLM; D: uCM; E: Ur, EUS, dagger; F: uCM, EUS; G: Ur, sm, Vm, EUS, uCM, triangles; H: sm, Vm, EUS",
+        "label_points": [
+          {
+            "latin": "Musculus sphincter urethrae externus",
+            "author_label": "EUS",
+            "xy": [
+              416,
+              95
+            ]
+          },
+          {
+            "latin": "Urethra feminina",
+            "author_label": "Ur",
+            "xy": [
+              432,
+              22
+            ]
+          },
+          {
+            "latin": "Musculus sphincter urethrae externus (pars posterior, aperta)",
+            "author_label": "EUS",
+            "xy": [
+              402,
+              267
+            ]
+          },
+          {
+            "latin": "Musculus sphincter urethrae externus",
+            "author_label": "EUS",
+            "xy": [
+              591,
+              105
+            ]
+          },
+          {
+            "latin": "Tunica muscularis externa (stratum leve)",
+            "author_label": "sm",
+            "xy": [
+              595,
+              52
+            ]
+          }
+        ],
+        "pixels": "675x338",
+        "local_path": "perine/images/raw/PMC12003430/192_2025_6045_Fig3_HTML.jpg"
+      }
+    ],
+    "key_findings": "'Pelvises from five female cadavers were collected for histological analysis.' 'The female urethra was surrounded by four muscle layers arranged from inner to outer layers in the following order: longitudinal smooth muscle, circular smooth muscle, the external urethral sphincter (EUS), and an outermost smooth muscle layer.' 'Moreover, smooth muscle fibers extending from the vagina were found between the LA and EUS.'",
+    "clinical_relevance": "'This study clarified the distribution of muscle tissue surrounding the female urethra, showing that the EUS is connected to the LA through the outermost smooth muscle layer. Thus, urination control likely involves both the urethral muscle layers and the pelvic floor muscles.'",
+    "notes": "Int Urogynecol J 2025, CC BY 4.0. Reconstruction, not a dissection photo; supporting figure for the deep-pouch sphincter slide."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Perineal body size on transperineal ultrasound: normal nulliparous vs prolapse (morphometry)",
+    "pmcid": "PMC7270988",
+    "version": 1,
+    "doi": "10.1007/s00192-019-04166-7",
+    "citation": "Int Urogynecol J. 2019 Dec 11;31(6):1197–202. doi: 10.1007/s00192-019-04166-7",
+    "title": "Ultrasound imaging of the perineal body: a useful clinical tool",
+    "authors": "Asfour V., Digesu G. A., Fernando R. et al.",
+    "year": "2019",
+    "journal": "International Urogynecology Journal",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "192_2019_4166_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "a) Image of a normal perineal body from a healthy volunteer. The perineal body is shown with red arrows. b) Perineal body(PB) measurements are outlined (Length, Height and Perimeter). c) Perineal body measurements in a healthy volunteer. d) Perineal body scan measurements in a prolapse patient",
+        "specimen": "US",
+        "what_it_shows": "2D transperineal ultrasound (midsagittal): (a) normal perineal body (red arrows) between urethra/bladder anteriorly and anal canal posteriorly; (b) outline of PB length, height, perimeter and area; (c) measurements in a healthy volunteer; (d) small PB in a prolapse patient.",
+        "labels_visible_in_image": "a: Bladder, Ur, AC, PB, red arrows; b: PB Height, PB Perimeter and Area, PB Length, Anal canal; c: A, measurement box 1 D 33.7mm, 2 D 25.5mm, 3 A 5.05cm2, C 11.93cm; d: B, 1 D 5.6mm, 2 D 9.7mm, 3 A 0.51cm2, C 2.96cm",
+        "label_points": [
+          {
+            "latin": "Vesica urinaria",
+            "author_label": "Bladder",
+            "xy": [
+              115,
+              102
+            ]
+          },
+          {
+            "latin": "Urethra feminina",
+            "author_label": "Ur",
+            "xy": [
+              150,
+              117
+            ]
+          },
+          {
+            "latin": "Canalis analis",
+            "author_label": "AC",
+            "xy": [
+              238,
+              117
+            ]
+          },
+          {
+            "latin": "Corpus perineale",
+            "author_label": "PB",
+            "xy": [
+              217,
+              146
+            ]
+          }
+        ],
+        "pixels": "708x496",
+        "local_path": "perine/images/raw/PMC7270988/192_2019_4166_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "'A total of 101 participants were recruited of which 22 were nulliparous healthy volunteers. Mean perineal body measurements in controls were height 22.5 ± 3.3 mm, length 17.4 ± 2.7 mm, perimeter 7.5 ± 0.9 mm, and area 2.8 ± 0.38 cm2. Perineal body measurements in 79 prolapse patients: height 16.9 ± 1.7 mm, length 16.0 ± 1.4 mm, perimeter 6.5 ± 0.5 mm and area 2.1 ± 0.5 cm2.'",
+    "clinical_relevance": "'A small perineal body was strongly associated with posterior compartment prolapse (paired t test, p < 0.0001)'. 'A perineal body mid-sagittal area of less than 2.4 cm2 has been shown to be associated strongly with posterior compartment prolapse.'",
+    "notes": "Int Urogynecol J 2020, CC BY 4.0. IMAGING (US) - used because no OA cadaver morphometry of the perineal body was found. NOTE: abstract states perimeter in 'mm' (7.5 ± 0.9) but the on-screen values (11.93 cm) indicate cm - quote verbatim and flag."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Female external genital morphometry in 208 Turkish women (clitoral glans, prepuce, clitoris-urethra, perineal body length)",
+    "pmcid": "PMC7538817",
+    "version": 1,
+    "doi": "10.4274/tjod.galenos.2020.89896",
+    "citation": "Turk J Obstet Gynecol. 2020 Oct 2;17(3):175–81. doi: 10.4274/tjod.galenos.2020.89896",
+    "title": "Do external female genital measurements affect genital perception and sexual function and orgasm?",
+    "authors": "Ellibeş Kaya A., Doğan O., Yassa M. et al.",
+    "year": "2020",
+    "journal": "Turkish Journal of Obstetrics and Gynecology",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "TJOG-17-175-g1.jpg",
+        "label": "Figure 1",
+        "caption": "A schematic drawing of a part of the female external genitalia measurements.Labia minora width: The length from the base of the labium minora to the widest lateral prominence.Labia minora length: Longest craniocaudal length of the labium minoraClitoral glans width: Transverse diameter of the clitoral glansClitoral glans length: Longest craniocaudal length of the clitoral glansClitoral prepuce length: Length of the skin fold on the clitorisClitoris to urethra: From mid-clitoral glans to mid-urethraPerineal body length: The length from the posterior fourchette to mid-anal orificeVagina to perineum: From the point at the perineum where the labia minora begin to the hymen at 6 o’clockLabia majora length: Longest craniocaudal length of labium majusLabia majora width: Transvers length of labium majus",
+        "specimen": "schematic",
+        "what_it_shows": "Author drawing of the vulva with dashed measurement lines: clitoral glans width/length, clitoral prepuce length, clitoris-to-urethra, labia majora/minora length and width, vagina-to-perineum and perineal body length.",
+        "labels_visible_in_image": "clitoral glans width; clitoral prepuce lenght [sic]; clitoral glans lenght [sic]; clitoris to urethra; labia majora length; labia minora lenght [sic]; vagina to perineum; perineal body lenght [sic]; labia minora width; labia majora width",
+        "label_points": [
+          {
+            "latin": "Glans clitoridis",
+            "author_label": "clitoral glans width",
+            "xy": [
+              235,
+              99
+            ]
+          },
+          {
+            "latin": "Ostium urethrae externum",
+            "author_label": "clitoris to urethra",
+            "xy": [
+              235,
+              170
+            ]
+          },
+          {
+            "latin": "Ostium vaginae",
+            "author_label": "",
+            "xy": [
+              235,
+              255
+            ]
+          },
+          {
+            "latin": "Corpus perineale",
+            "author_label": "perineal body lenght",
+            "xy": [
+              235,
+              325
+            ]
+          },
+          {
+            "latin": "Labium minus pudendi",
+            "author_label": "labia minora width",
+            "xy": [
+              265,
+              225
+            ]
+          }
+        ],
+        "pixels": "450x423",
+        "local_path": "perine/images/raw/PMC7538817/TJOG-17-175-g1.jpg"
+      }
+    ],
+    "key_findings": "'This prospective cohort study consisted of 208 healthy premenopausal women.' 'The external female genital measurements were (cm, mean ± standard deviation): clitoral prepuce length 2.05±0.48; clitoral glans length 0.87±0.21; clitoral glans width 0.60±0.15; clitoris to urethra 2.24±0.55; anterior fornix depth 7.75±0.92; posterior fornix depth 9.25±0.75; labia minora width, right 2.12±0.86, left 2.20±0.96.'",
+    "clinical_relevance": "'The female genital measurements were found to be distributed over a wide range.' '...no significant relationship was found between genital measurements and sexual functions or orgasm. These findings suggest that a more cautious approach should be taken towards genital surgeries for cosmetic purposes.'",
+    "notes": "Turk J Obstet Gynecol 2020 (Turkish population!), CC BY 2.5. Living women, not cadaver. Perineal body length was measured (definition: 'The length from the posterior fourchette to mid-anal orifice') but its value is only in Table 1, which is an image not in the XML - do not cite a number. Drawing is low-resolution (450x423)."
+  }
+]
