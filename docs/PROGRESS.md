@@ -101,3 +101,8 @@ scripts/render.sh              PPTX → PDF → PNG for visual QA
 * Kaynak araştırması 3 paralel ajanla: `sources/perine_{pelvis,urogenital,anal}.json` (36 makale, ~55 şekil, ~430 doğrulanmış etiket noktası) + arama günlükleri.
 * Yeni betikler: `scripts/{icerik_perine,perine_gorsel,perine_slayt,perine_sema,build_perine,perine_qa_noktalar,build_perine_*}.py`.
 * Görsel QA: tüm görsel slaytlar 100 dpi render edilip kontrol edildi; düzeltilenler: İngilizce etiket artıkları, taşan etiket sütunları, küçük kalan görseller (kırpma + düzen), sinir/arter konum ifadesi.
+
+### Session 3b – perine revizyonu (öğrenci düzeyi)
+* İstek: düzeyi tıp öğrencisine indir, atlas görselleri daha çok, kadavra daha az.
+* 70 → 41 slayt; OpenStax A&P (CC BY) atlas çizimleri Latince etiketlerle (`scripts/atlas_latince.py`, `sources/perine_atlas.json`); kadavra slaytları 6'ya indirildi; öğrenim hedefleri, özet, sorular eklendi. Ayrıntılar `perine/README.md`.
+* `scripts/kaynak_kayit.py`: pmcid'siz JSON kayıtlarını atlar (atlas kaydı için).
