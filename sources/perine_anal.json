@@ -1,0 +1,1456 @@
+[
+  {
+    "use": "perine_lecture",
+    "topic": "Deep gluteal approach: pudendal neurovascular bundle crossing the ischial spine/sacrospinous ligament, sacrotuberous ligament (cut), ischioanal fossa roof (levator ani), anococcygeal ligament, EAS",
+    "pmcid": "PMC8713160",
+    "version": 1,
+    "doi": "10.3892/etm.2021.11036",
+    "citation": "Exp Ther Med. 2021 Dec 3;23(2):113. doi: 10.3892/etm.2021.11036",
+    "title": "Overview of the anatomical basis of the piriformis syndrome-dissection with magnetic resonance correlation",
+    "authors": "Goidescu O. C., Enyedi M., Tulin A. D. et al.",
+    "year": "2021",
+    "journal": "Experimental and Therapeutic Medicine",
+    "license_code": "CC BY-NC-ND",
+    "figures": [
+      {
+        "file": "etm-23-02-11036-g01.jpg",
+        "label": "Figure 2",
+        "caption": "Dissection of the deep gluteal region (posterior view). 1, Piriformis muscle; 2, internal obturator muscle; 3, ischial tuberosity (posterior view); 4, levator ani muscle (superior-medial border of the ischiorectal fossa); 5, anococcygeal ligament; 6, sacrum; 7, gluteus medius muscle; 8, gluteus minimus muscle; 9, sciatic nerve; 10, ischial spine; 11, internal pudendal neurovascular bundle; 12, gluteus maximus muscle; 13, superior gluteal artery and vein; 14, external anal sphincter; 15, pelvic subperitoneal tissue visible after removing the coccygeus muscle; 16, sacrotuberous attachment points (cut); 17, sacrospinous ligament.",
+        "specimen": "human cadaver (embalmed), posterior view of right deep gluteal region",
+        "what_it_shows": "Gluteus maximus removed and sacrotuberous ligament cut (16): the internal pudendal neurovascular bundle (11) leaves the pelvis below piriformis (1), crosses the ischial spine (10) / sacrospinous ligament (17) and re-enters through the lesser sciatic foramen medial to obturator internus (2) and the ischial tuberosity (3); medially the ischioanal fossa is opened showing levator ani as its supero-medial wall (4), the anococcygeal ligament (5) and the external anal sphincter (14).",
+        "labels_visible_in_image": "numbers only: 1-17 (black/orange digits printed on structures)",
+        "label_points": [
+          {
+            "latin": "M. piriformis",
+            "author_label": "1",
+            "xy": [
+              310,
+              248
+            ]
+          },
+          {
+            "latin": "M. obturatorius internus",
+            "author_label": "2",
+            "xy": [
+              326,
+              420
+            ]
+          },
+          {
+            "latin": "Tuber ischiadicum",
+            "author_label": "3",
+            "xy": [
+              330,
+              552
+            ]
+          },
+          {
+            "latin": "M. levator ani (paries superomedialis fossae ischioanalis)",
+            "author_label": "4",
+            "xy": [
+              135,
+              492
+            ]
+          },
+          {
+            "latin": "Lig. anococcygeum",
+            "author_label": "5",
+            "xy": [
+              36,
+              510
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "9",
+            "xy": [
+              388,
+              366
+            ]
+          },
+          {
+            "latin": "Spina ischiadica",
+            "author_label": "10",
+            "xy": [
+              318,
+              348
+            ]
+          },
+          {
+            "latin": "Vasa pudenda interna et n. pudendus (fasciculus neurovascularis pudendus internus)",
+            "author_label": "11",
+            "xy": [
+              258,
+              433
+            ]
+          },
+          {
+            "latin": "M. gluteus maximus",
+            "author_label": "12",
+            "xy": [
+              580,
+              152
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus",
+            "author_label": "14",
+            "xy": [
+              70,
+              660
+            ]
+          },
+          {
+            "latin": "Lig. sacrotuberale (insertiones resectae)",
+            "author_label": "16",
+            "xy": [
+              148,
+              278
+            ]
+          },
+          {
+            "latin": "Lig. sacrotuberale (insertio resecta)",
+            "author_label": "16",
+            "xy": [
+              296,
+              517
+            ]
+          },
+          {
+            "latin": "Lig. sacrospinale",
+            "author_label": "17",
+            "xy": [
+              225,
+              272
+            ]
+          }
+        ],
+        "pixels": "646x781",
+        "local_path": "perine/images/raw/PMC8713160/etm-23-02-11036-g01.jpg"
+      }
+    ],
+    "key_findings": "Romanian dissection + MRI study. 'The anterior divisions of the S2, S3 and S4 spinal nerves give rise to the pudendal nerve.' 'This nerve, together with the internal pudendal artery, are closely associated with the rigid superior border of the sacrospinous ligament, actually passing between the piriformis muscle and the sacrospinous ligament and then between the ligament and the upper border of the sciatic spine.' 'The elements of the internal pudendal neurovascular bundle follow their extrapelvic course surrounding the ischial spine in the deep gluteal region in order to reenter the pelvis through the lesser sciatic notch.'",
+    "clinical_relevance": "Shows the interligamentous (sacrospinous-sacrotuberous) segment - the commonest entrapment site - and the transgluteal landmark (ischial spine) used for pudendal block and decompression.",
+    "notes": "LICENCE CC BY-NC-ND: non-commercial, no derivatives - use unmodified (no overlay labels drawn onto the image; place Turkish legend beside it). Best single topographic figure of the set (646x781)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Pelvic (internal) view: pudendal nerve and internal pudendal artery at the sacrospinous ligament, branches in the ischioanal fossa, anococcygeal ligament",
+    "pmcid": "PMC8713160",
+    "version": 1,
+    "doi": "10.3892/etm.2021.11036",
+    "citation": "Exp Ther Med. 2021 Dec 3;23(2):113. doi: 10.3892/etm.2021.11036",
+    "title": "Overview of the anatomical basis of the piriformis syndrome-dissection with magnetic resonance correlation",
+    "authors": "Goidescu O. C., Enyedi M., Tulin A. D. et al.",
+    "year": "2021",
+    "journal": "Experimental and Therapeutic Medicine",
+    "license_code": "CC BY-NC-ND",
+    "figures": [
+      {
+        "file": "etm-23-02-11036-g00.jpg",
+        "label": "Figure 1",
+        "caption": "Internal view of the pelvic wall. The red dotted line marks the internal pudendal artery and its branches; the green arrows mark the internal pudendal nerve and its branches: Dorsal nerve of clitoris, perineal, inferior rectal nerves; S1-S4, anterior branches of the sacral plexus. 1, Internal iliac artery; 2, superior gluteal artery; 3, inferior gluteal artery; 4, obturator nerve; 5, internal obturator muscle; 6, levator ani muscle (reflected); 7, levator ani muscle (cut); 8, piriformis muscle; 9, sacrospinous ligament; 10, coccygeus muscle; 11, anococcygeal ligament; 12, coccyx bone 13, rectum. 14, pubic bone; 15, sympathetic trunk.",
+        "specimen": "human cadaver (embalmed), medial view of hemipelvis, levator ani reflected",
+        "what_it_shows": "Internal view of the lateral pelvic wall with levator ani reflected (6) and cut (7): the internal pudendal artery (red dotted line) and pudendal nerve (green arrows) from S2-S4 pass over the sacrospinous ligament (9)/coccygeus (10), then run forward below obturator internus (5) giving inferior rectal, perineal and dorsal clitoral branches; anococcygeal ligament (11) and coccyx (12) posteriorly.",
+        "labels_visible_in_image": "numbers 1-15, LST, S1-S4; red dotted line (internal pudendal artery); green arrows (pudendal nerve and branches)",
+        "label_points": [
+          {
+            "latin": "N. pudendus",
+            "author_label": "green arrow",
+            "xy": [
+              213,
+              378
+            ]
+          },
+          {
+            "latin": "A. pudenda interna",
+            "author_label": "red dotted line",
+            "xy": [
+              180,
+              330
+            ]
+          },
+          {
+            "latin": "Rami n. pudendi (n. dorsalis clitoridis / n. perinealis / nn. rectales inferiores)",
+            "author_label": "green arrow",
+            "xy": [
+              470,
+              330
+            ]
+          },
+          {
+            "latin": "Rami n. pudendi (n. dorsalis clitoridis / n. perinealis / nn. rectales inferiores)",
+            "author_label": "green arrow",
+            "xy": [
+              468,
+              395
+            ]
+          },
+          {
+            "latin": "Rami n. pudendi (n. dorsalis clitoridis / n. perinealis / nn. rectales inferiores)",
+            "author_label": "green arrow",
+            "xy": [
+              391,
+              442
+            ]
+          },
+          {
+            "latin": "M. obturatorius internus",
+            "author_label": "5",
+            "xy": [
+              340,
+              268
+            ]
+          },
+          {
+            "latin": "Lig. sacrospinale",
+            "author_label": "9",
+            "xy": [
+              232,
+              474
+            ]
+          },
+          {
+            "latin": "M. coccygeus",
+            "author_label": "10",
+            "xy": [
+              340,
+              512
+            ]
+          },
+          {
+            "latin": "Lig. anococcygeum",
+            "author_label": "11",
+            "xy": [
+              402,
+              575
+            ]
+          },
+          {
+            "latin": "Os coccygis",
+            "author_label": "12",
+            "xy": [
+              360,
+              615
+            ]
+          },
+          {
+            "latin": "Rectum",
+            "author_label": "13",
+            "xy": [
+              600,
+              490
+            ]
+          }
+        ],
+        "pixels": "646x659",
+        "local_path": "perine/images/raw/PMC8713160/etm-23-02-11036-g00.jpg"
+      }
+    ],
+    "key_findings": "Same study as above (see key findings).",
+    "clinical_relevance": "Internal view complements the gluteal view: the pudendal canal contents seen from the pelvic side after levator ani reflection.",
+    "notes": "LICENCE CC BY-NC-ND. Caption does not say which green arrow is which branch; only generic 'branches' are labelled. Female specimen (dorsal nerve of clitoris)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Pudendal (Alcock's) canal opened on a female cadaver",
+    "pmcid": "PMC529451",
+    "version": 1,
+    "doi": "10.1186/1471-2482-4-15",
+    "citation": "BMC Surg. 2004 Oct 30;4:15. doi: 10.1186/1471-2482-4-15",
+    "title": "Pudendal nerve decompression in perineology : a case series",
+    "authors": "Beco J., Climov D., Bex M.",
+    "year": "2004",
+    "journal": "BMC Surgery",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "1471-2482-4-15-3.jpg",
+        "label": "Figure 3",
+        "caption": "Left Alcock's canal (showed by the tip of the forceps) viewed from the mid side on a female cadaver: on the left the pudendal nerve, on the right the inferior rectal nerve on the finger.",
+        "specimen": "human cadaver (female), perineal (trans-ischioanal) approach, operative-style photo",
+        "what_it_shows": "Left Alcock's canal opened (tip of forceps) from the medial side through the ischioanal fossa: pudendal nerve on the left of the image; the inferior rectal nerve is said to be on the finger at right (not clearly discernible).",
+        "labels_visible_in_image": "no printed labels (forceps and a black suture only)",
+        "label_points": [
+          {
+            "latin": "N. pudendus",
+            "author_label": "",
+            "xy": [
+              60,
+              145
+            ]
+          },
+          {
+            "latin": "Canalis pudendalis (Alcock)",
+            "author_label": "tip of the forceps",
+            "xy": [
+              182,
+              200
+            ]
+          }
+        ],
+        "pixels": "347x287",
+        "local_path": "perine/images/raw/PMC529451/1471-2482-4-15-3.jpg"
+      }
+    ],
+    "key_findings": "Retrospective series of 'bilateral PND' in 74 women. 'When bilateral PND was the only procedure done to treat the symptoms, the cure rates of perineodynia, anal incontinence and urinary incontinence were 8/14, 4/5 and 3/5, respectively.' Anatomy as stated by the authors: 'In the canal the nerve crosses the sharp edge of the sacro-tuberous ligament (falciform process)'. Shafik trans-perineal technique: 'Vertical incision of the skin between the anus and the ischial tuberosity.- Opening of the ischio-rectal fossa with scissors.- The inferior rectal nerve is hooked under the finger and followed to the entrance of the Alcock's canal'.",
+    "clinical_relevance": "Pudendal canal syndrome (entrapment) and trans-perineal (Shafik) decompression via the ischioanal fossa; the inferior rectal nerve is the guide to the canal entrance.",
+    "notes": "Small (347x287) video-still; use at half-slide. Companion Fig 4 (view from below) was rejected - nerve not identifiable with confidence. Only cadaver figure in our set that is centred on the opened canal itself; also the only OA source here mentioning the falciform process."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Transgluteal exposure: surface landmarks, sacrotuberous ligament, pudendal nerve in Alcock's canal beside the sciatic nerve",
+    "pmcid": "PMC6785340",
+    "version": 1,
+    "doi": "10.1055/s-0039-1688513",
+    "citation": "Indian J Plast Surg. 2019 May 6;52(2):222–5. doi: 10.1055/s-0039-1688513",
+    "title": "Sciatic Nerve to Pudendal Nerve Transfer: Anatomical Feasibility for a New Proposed Technique",
+    "authors": "Agarwal P., Sharma D., Wankhede S. et al.",
+    "year": "2019",
+    "journal": "Indian Journal of Plastic Surgery : Official Publication of the Association of Plastic Surgeons of India",
+    "license_code": "CC BY-NC-ND",
+    "figures": [
+      {
+        "file": "10-1055-s-0039-1688513_00198_01.jpg",
+        "label": "Fig. 1",
+        "caption": "Surface marking for exposure of the sciatic and pudendal nerves.",
+        "specimen": "human cadaver (formalin-fixed), prone, surface",
+        "what_it_shows": "Skin markings for the O'Bichere gluteal approach: midpoint of the lateral border of the sacrum, both ischial tuberosities and the greater trochanter joined by lines (posterior/prone view of the perineum-gluteal region).",
+        "labels_visible_in_image": "Mid point of sacrum; Gr. trochanter; Ischial tuberosity (two arrows)",
+        "label_points": [
+          {
+            "latin": "Tuber ischiadicum (dextrum)",
+            "author_label": "Ischial tuberosity",
+            "xy": [
+              175,
+              262
+            ]
+          },
+          {
+            "latin": "Tuber ischiadicum (sinistrum)",
+            "author_label": "Ischial tuberosity",
+            "xy": [
+              322,
+              272
+            ]
+          },
+          {
+            "latin": "Os sacrum (punctum medium marginis lateralis)",
+            "author_label": "Mid point of sacrum",
+            "xy": [
+              258,
+              172
+            ]
+          },
+          {
+            "latin": "Trochanter major",
+            "author_label": "Gr. trochanter",
+            "xy": [
+              482,
+              214
+            ]
+          }
+        ],
+        "pixels": "491x453",
+        "local_path": "perine/images/raw/PMC6785340/10-1055-s-0039-1688513_00198_01.jpg"
+      },
+      {
+        "file": "10-1055-s-0039-1688513_00198_03.jpg",
+        "label": "Fig. 3",
+        "caption": "Gluteus maximus split and sacrotuberous ligament exposed.",
+        "specimen": "human cadaver (formalin-fixed), prone, gluteal approach",
+        "what_it_shows": "Gluteus maximus split, retracted, exposing the white band of the sacrotuberous ligament (red arrow).",
+        "labels_visible_in_image": "Sacrotuberous ligament (red arrow)",
+        "label_points": [
+          {
+            "latin": "Lig. sacrotuberale",
+            "author_label": "Sacrotuberous ligament",
+            "xy": [
+              285,
+              368
+            ]
+          }
+        ],
+        "pixels": "491x688",
+        "local_path": "perine/images/raw/PMC6785340/10-1055-s-0039-1688513_00198_03.jpg"
+      },
+      {
+        "file": "10-1055-s-0039-1688513_00198_04.jpg",
+        "label": "Fig. 4",
+        "caption": "Sacrotuberous ligament cut and pudendal nerve exposed in Alcock's canal and sciatic nerve lateral to ischial tuberosity.",
+        "specimen": "human cadaver (formalin-fixed), prone, gluteal approach",
+        "what_it_shows": "After division of the sacrotuberous ligament: pudendal nerve exposed in Alcock's canal (medial) and sciatic nerve lateral to the ischial tuberosity, with a ruler between them.",
+        "labels_visible_in_image": "Pudendal nerve; Sciatic nerve (red arrows); ruler",
+        "label_points": [
+          {
+            "latin": "N. pudendus (in canali pudendali)",
+            "author_label": "Pudendal nerve",
+            "xy": [
+              276,
+              231
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "Sciatic nerve",
+            "xy": [
+              322,
+              246
+            ]
+          }
+        ],
+        "pixels": "495x399",
+        "local_path": "perine/images/raw/PMC6785340/10-1055-s-0039-1688513_00198_04.jpg"
+      }
+    ],
+    "key_findings": "'Pudendal and sciatic nerves were exposed in 5 (4 male and 1 female) human cadavers (10 sites).' 'Mean pudendal nerve diameter was 2.94 mm (range = 2.7–3.1 mm) on the right side and 2.82 mm (range = 2.5–3 mm) on the left.' 'The distance between the two nerves was 23.4 mm (range = 20–26 mm) on both sides'.",
+    "clinical_relevance": "Gluteal (transgluteal) route to the pudendal nerve used for decompression; proposed sciatic-to-pudendal nerve transfer for continence.",
+    "notes": "LICENCE CC BY-NC-ND. Fig 1 is in the PRONE position (not lithotomy) but still gives the bony landmarks (ischial tuberosities, sacrum) in a cadaver. Indian J Plast Surg."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Anal triangle from below (male): EAS, ischial tuberosity, ischiopubic ramus, coccyx, anus - perineal boundaries in a dissected cadaver",
+    "pmcid": "PMC7898478",
+    "version": 1,
+    "doi": "10.1002/ca.23713",
+    "citation": "Clin Anat. 2020 Dec 30;34(2):272–82. doi: 10.1002/ca.23713",
+    "title": "The series of smooth muscle structures in the pelvic floors of men: Dynamic coordination of smooth and skeletal muscles",
+    "authors": "Muro S., Tsukada Y., Ito M. et al.",
+    "year": "2020",
+    "journal": "Clinical Anatomy (New York, N.y.)",
+    "license_code": "CC BY-NC-ND",
+    "figures": [
+      {
+        "file": "CA-34-272-g001.jpg",
+        "label": "FIGURE 1",
+        "caption": "Superficial perineal region including the columnar structure. (a) Inferior aspect of the male pelvis after removal of the perineal subcutaneous tissue. The EAS, STP, Bs, and Ic are observed. A portion of the muscle bundles of the EAS extends anteriorly and continues to the Bs in the midline (arrow heads). (b) Magnified view of the rectangular area of (a) after removal of the muscle bundles in the midline. The EAS and STP share muscle bundles and are continuous (arrow heads). (c) Image taken after removal of the Bs and the connecting muscle bundles between the EAS and STP. The columnar structure (indicated by the circle) is observed in the median region anterior to the EAS and has vertically aligned fibers (craniocaudal direction). The muscle bundles of the STP extend to both the ventral and dorsal sides of this structure. Circle, the columnar structure; Bs, bulbospongiosus; Co, coccyx; CSP, corpus spongiosum penis; EAS, external anal sphincter; Ic, ischiocavernosus; IPR, ischiopubic ramus; IT, ischial tuberosity; n, nerve; STP, superficial transverse perineal muscle [Color figure can be viewed at wileyonlinelibrary.com]",
+        "specimen": "human cadaver (male, formalin), inferior aspect = lithotomy-like view after removal of subcutaneous tissue",
+        "what_it_shows": "Panel a: whole perineum from below with skin/fat removed: ischial tuberosity (IT), ischiopubic ramus (IPR), ischiocavernosus (Ic), bulbospongiosus (Bs), superficial transverse perineal muscle (STP), external anal sphincter (EAS) around the anus and coccyx (Co) - i.e. both perineal triangles and their bony boundaries; ischioanal fossae open lateral to the EAS. Panels b-c: magnified EAS-STP continuity and the median 'columnar structure'.",
+        "labels_visible_in_image": "(a) Inferior aspect, Bs, IPR, Ic, IT, STP, EAS, Anus, Co, arrowheads, R/L/Anterior; (b) IPR, Ic, Bs, IT, n, STP, EAS; (c) IPR, Ic, CSP, IT, STP, EAS, circle",
+        "label_points": [
+          {
+            "latin": "Tuber ischiadicum",
+            "author_label": "IT",
+            "xy": [
+              28,
+              244
+            ]
+          },
+          {
+            "latin": "Ramus ischiopubicus",
+            "author_label": "IPR",
+            "xy": [
+              86,
+              156
+            ]
+          },
+          {
+            "latin": "M. ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              131,
+              169
+            ]
+          },
+          {
+            "latin": "M. bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              210,
+              82
+            ]
+          },
+          {
+            "latin": "M. transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              138,
+              229
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              149,
+              301
+            ]
+          },
+          {
+            "latin": "Anus",
+            "author_label": "Anus",
+            "xy": [
+              195,
+              369
+            ]
+          },
+          {
+            "latin": "Os coccygis",
+            "author_label": "Co",
+            "xy": [
+              205,
+              457
+            ]
+          }
+        ],
+        "pixels": "709x488",
+        "local_path": "perine/images/raw/PMC7898478/CA-34-272-g001.jpg"
+      }
+    ],
+    "key_findings": "'Three male cadavers (ages at death, 64, 75, and 89 years) were used for the macroscopic examination.' Caption: 'A portion of the muscle bundles of the EAS extends anteriorly and continues to the Bs in the midline' and 'The EAS and STP share muscle bundles and are continuous'.",
+    "clinical_relevance": "The cleanest cadaveric 'map' of the perineal outlet: tuber ischiadicum - ramus ischiopubicus - coccyx frame, the line between the tuberosities separating trigonum urogenitale and trigonum anale.",
+    "notes": "LICENCE CC BY-NC-ND. Panel a carries the anal-triangle content; ND licence means the figure must be shown unmodified (no cropping/overlays). Shared interest with the urogenital-triangle agent (Bs/Ic/STP)."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Female perineum from below: EAS and ischioanal fat body lateral to it",
+    "pmcid": "PMC6942605",
+    "version": 1,
+    "doi": "10.1007/s12565-019-00492-4",
+    "citation": "Anat Sci Int. 2019 Jun 4;95(1):47–53. doi: 10.1007/s12565-019-00492-4",
+    "title": "Three muscle slings of the pelvic floor in women: an anatomic study",
+    "authors": "Baramee P., Muro S., Suriyut J. et al.",
+    "year": "2019",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2019_492_Fig2_HTML.jpg",
+        "label": "Fig. 2",
+        "caption": "Whole pelvis dissection, inferior aspect. The muscle bundle of the BS fuses with the lateral surface of the EAS. The superficial transverse perineal muscle crosses the BS superiorly. STP Superficial transverse perineal muscle",
+        "specimen": "human cadaver (female, formalin), inferior aspect",
+        "what_it_shows": "Left half of a female perineum from below: EAS posteromedially, STP crossing anterior to the ischioanal fossa whose yellow fat body (unlabelled) has been exposed lateral to the EAS; BS and IC anteriorly.",
+        "labels_visible_in_image": "IC, BS, STP, EAS; Anterior / Medial orientation arrows",
+        "label_points": [
+          {
+            "latin": "M. ischiocavernosus",
+            "author_label": "IC",
+            "xy": [
+              328,
+              378
+            ]
+          },
+          {
+            "latin": "M. bulbospongiosus",
+            "author_label": "BS",
+            "xy": [
+              225,
+              428
+            ]
+          },
+          {
+            "latin": "M. transversus perinei superficialis",
+            "author_label": "STP",
+            "xy": [
+              360,
+              585
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              140,
+              900
+            ]
+          },
+          {
+            "latin": "Corpus adiposum fossae ischioanalis",
+            "author_label": "",
+            "xy": [
+              430,
+              750
+            ]
+          }
+        ],
+        "pixels": "709x1057",
+        "local_path": "perine/images/raw/PMC6942605/12565_2019_492_Fig2_HTML.jpg"
+      }
+    ],
+    "key_findings": "'A total of 28 pelvic halves from 16 female cadavers (age range 54–99 years, mean age 79.75 years) were used for dissection.' Caption: 'The muscle bundle of the BS fuses with the lateral surface of the EAS.'",
+    "clinical_relevance": "Ischioanal fat body (corpus adiposum) is the space of ischioanal abscess spread; its anterior boundary is the STP/perineal membrane level.",
+    "notes": "Article folder shared with another agent (Figs 3-5 belong to them); only Fig 2 used here. Fat body is unlabelled by the authors - Turkish legend must say so."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Schematic: EAS, anococcygeal ligament and levator ani 'posterior sling' (puborectalis) seen from below",
+    "pmcid": "PMC10256674",
+    "version": 1,
+    "doi": "10.1007/s12565-023-00717-7",
+    "citation": "Anat Sci Int. 2023 Mar 24;98(3):407–25. doi: 10.1007/s12565-023-00717-7",
+    "title": "Pelvic floor and perineal muscles: a dynamic coordination between skeletal and smooth muscles on pelvic floor stabilization",
+    "authors": "Muro S., Akita K.",
+    "year": "2023",
+    "journal": "Anatomical Science International",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "12565_2023_717_Fig1_HTML.jpg",
+        "label": "Fig. 1",
+        "caption": "Skeletal muscles of the pelvic outlet in women. The skeletal muscles of the pelvic outlet share muscle bundles and are continuous, forming a continuous skeletal muscle sheet. A The pelvic outlet muscles in women from the medial aspect. The LA surrounds the anal canal both anteriorly and posteriorly; the anterior sling and posterior sling of the LA go around the anterior and posterior to the anal canal, respectively. Bs does not run toward the midline but goes laterally. The STP crosses the midline and continues as the same muscle to the contralateral side, forming a component of the anal canal anterior wall. B The inferior aspect of the pelvic outlet muscles in women. Bs adjoins the lateral surface of the EAS to form a lateral connection between Bs and EAS. The anterior sling of LA, muscle bundle of STP, and posterior sling of LA cross the midline and then merge with the contralateral side to form three muscle slings that pass anterior and posterior to the anal canal: anterior, middle, and posterior. AC anal canal, ACL anococcygeal ligament, Bs bulbospongiosus, EAS external anal sphincter, Ic ischiocavernosus, LA levator ani, STP superficial transverse perineal muscle, V vagina.(Modified from: Baramee et al. 2020)",
+        "specimen": "author schematic (based on cadaver dissections)",
+        "what_it_shows": "A: medial view of female pelvic outlet muscles; B: inferior view showing levator ani anterior and posterior slings around the anal canal (posterior sling = classic puborectalis), STP as 'middle sling', EAS and the anococcygeal ligament (ACL) attaching to the coccyx.",
+        "labels_visible_in_image": "A: Pubis, LA, Coccyx, ACL, Bs, Ic, Anterior sling, LA, STP (Middle sling), EAS, Posterior sling, Anus; B: Anterior sling, Posterior sling, ACL, Coccyx, V, AC, Pubis, Bs, Ic, LA, EAS, STP (Middle sling), Inferior aspect",
+        "label_points": [
+          {
+            "latin": "M. levator ani - ansa anterior",
+            "author_label": "Anterior sling",
+            "xy": [
+              516,
+              137
+            ]
+          },
+          {
+            "latin": "M. puborectalis (ansa posterior m. levatoris ani)",
+            "author_label": "Posterior sling",
+            "xy": [
+              610,
+              132
+            ]
+          },
+          {
+            "latin": "Lig. anococcygeum",
+            "author_label": "ACL",
+            "xy": [
+              635,
+              150
+            ]
+          },
+          {
+            "latin": "Os coccygis",
+            "author_label": "Coccyx",
+            "xy": [
+              650,
+              157
+            ]
+          },
+          {
+            "latin": "Canalis analis",
+            "author_label": "AC",
+            "xy": [
+              570,
+              155
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus",
+            "author_label": "EAS",
+            "xy": [
+              585,
+              185
+            ]
+          },
+          {
+            "latin": "M. levator ani",
+            "author_label": "LA",
+            "xy": [
+              558,
+              205
+            ]
+          },
+          {
+            "latin": "M. transversus perinei superficialis",
+            "author_label": "STP (Middle sling)",
+            "xy": [
+              525,
+              205
+            ]
+          },
+          {
+            "latin": "M. bulbospongiosus",
+            "author_label": "Bs",
+            "xy": [
+              495,
+              192
+            ]
+          },
+          {
+            "latin": "M. ischiocavernosus",
+            "author_label": "Ic",
+            "xy": [
+              472,
+              204
+            ]
+          }
+        ],
+        "pixels": "676x355",
+        "local_path": "perine/images/raw/PMC10256674/12565_2023_717_Fig1_HTML.jpg"
+      }
+    ],
+    "key_findings": "Review of the authors' cadaver work. 'It is widely known that some muscle bundles of the LA form a sling that goes around the posterior to the anal canal, which is generally called “puborectalis”'. 'The more posterior muscle bundles of the LA attach to the connective tissue that is called as the anococcygeal raphe when the bilateral LA meets the posterior median plane'.",
+    "clinical_relevance": "Explains continence mechanics and why 'anococcygeal raphe/ligament' terminology varies (Courtney's coccygeal muscular raphe, levator plate, dorsal layer of the ACL).",
+    "notes": "Schematic, CC BY. Points are for panel B only. Caption notes 'Modified from: Baramee et al. 2020'."
+  },
+  {
+    "use": "perine_lecture",
+    "topic": "Schematic: pudendal nerve branches in the female anal/urogenital triangles (lithotomy view)",
+    "pmcid": "PMC7913006",
+    "version": 1,
+    "doi": "10.3390/diagnostics11020221",
+    "citation": "Diagnostics (Basel). 2021 Feb 2;11(2):221. doi: 10.3390/diagnostics11020221",
+    "title": "Midline and Mediolateral Episiotomy: Risk Assessment Based on Clinical Anatomy",
+    "authors": "Garner D. K., Patel A. B., Hung J. et al.",
+    "year": "2021",
+    "journal": "Diagnostics",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "diagnostics-11-00221-g003.jpg",
+        "label": "Figure 3",
+        "caption": "Representative anatomy of the perineum based on our dissections. Most commonly, the perineal body was not a major site of muscle attachment. The bulbospongiosus muscle was continuous with the superficial portion of the external anal sphincter (EAS), both innervated by branches of the perineal nerves. The inferior rectal nerve innervated the subcutaneous EAS and skin around the anus. The bulb of the vestibule extended to the posterior fourchette, with the greater vestibular gland anchored to its posterior margin.",
+        "specimen": "author illustration (based on dissection of 47 embalmed female cadavers)",
+        "what_it_shows": "Lithotomy-view drawing of the female perineum: pudendal nerve entering lateral to the anus, giving the inferior rectal nerve to the subcutaneous EAS/perianal skin, then superficial and deep perineal nerves and posterior labial nerves; superficial and subcutaneous EAS, bulb of vestibule, greater vestibular gland.",
+        "labels_visible_in_image": "Body of the clitoris, Bulbospongiosus m., Crus, Posterior labia nn., Deep perineal n., Bulb of the vestibule, Superficial perineal n., Greater vestibular gland, Inferior rectal n., Superficial EAS, Pudendal n., Subcutaneous EAS",
+        "label_points": [
+          {
+            "latin": "N. pudendus",
+            "author_label": "Pudendal n.",
+            "xy": [
+              453,
+              365
+            ]
+          },
+          {
+            "latin": "Nn. anales (rectales) inferiores",
+            "author_label": "Inferior rectal n.",
+            "xy": [
+              412,
+              372
+            ]
+          },
+          {
+            "latin": "N. perinealis - ramus superficialis",
+            "author_label": "Superficial perineal n.",
+            "xy": [
+              407,
+              302
+            ]
+          },
+          {
+            "latin": "N. perinealis - ramus profundus",
+            "author_label": "Deep perineal n.",
+            "xy": [
+              414,
+              229
+            ]
+          },
+          {
+            "latin": "Nn. labiales posteriores",
+            "author_label": "Posterior labia nn.",
+            "xy": [
+              380,
+              203
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus - pars superficialis",
+            "author_label": "Superficial EAS",
+            "xy": [
+              328,
+              343
+            ]
+          },
+          {
+            "latin": "M. sphincter ani externus - pars subcutanea",
+            "author_label": "Subcutaneous EAS",
+            "xy": [
+              355,
+              393
+            ]
+          }
+        ],
+        "pixels": "742x497",
+        "local_path": "perine/images/raw/PMC7913006/diagnostics-11-00221-g003.jpg"
+      }
+    ],
+    "key_findings": "'We obtained 47 donated female human cadavers'. Caption: 'The bulbospongiosus muscle was continuous with the superficial portion of the external anal sphincter (EAS), both innervated by branches of the perineal nerves. The inferior rectal nerve innervated the subcutaneous EAS and skin around the anus.' 'In 40% of cadavers, there was damage to branches of the deep perineal nerve, branches of the superficial perineal nerve, and the main trunk of the superficial perineal nerve' (mediolateral episiotomy).",
+    "clinical_relevance": "Episiotomy risk anatomy; illustrates the distribution of n. pudendus branches in the anal and urogenital triangles.",
+    "notes": "CC BY. Article folder shared with the urogenital-triangle agent (g002/g004 theirs). Labels printed in English ('Posterior labia nn.' sic)."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Pudendal nerve trunking variations (types I, IIa, IIb, III) at the sacrospinous ligament - gluteal approach",
+    "pmcid": "PMC9492552",
+    "version": 1,
+    "doi": "10.7759/cureus.28281",
+    "citation": "Cureus. 2022 Aug 22;14(8):e28281. doi: 10.7759/cureus.28281",
+    "title": "Anatomical Study of the Variants of the Extrapelvic Part of the Pudendal Nerve",
+    "authors": "Ranjan R., Chanda C., Kushwaha R. et al.",
+    "year": "2022",
+    "journal": "Cureus",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "cureus-0014-00000028281-i01.jpg",
+        "label": "Figure 1",
+        "caption": "Showing type I pattern of Pudendal nerve: single trunk, with no sciatic communication.PN(I): Pudendal nerve type I, IPV: Internal Pudendal Vessels, SN: Sciatic Nerve",
+        "specimen": "human cadaver (formalin), prone, gluteal approach",
+        "what_it_shows": "Type I: single pudendal nerve trunk with internal pudendal vessels, medial to the sciatic nerve; no sciatic communication.",
+        "labels_visible_in_image": "PN(I), IPV, SN",
+        "label_points": [
+          {
+            "latin": "N. pudendus (truncus unicus, typus I)",
+            "author_label": "PN(I)",
+            "xy": [
+              428,
+              204
+            ]
+          },
+          {
+            "latin": "Vasa pudenda interna",
+            "author_label": "IPV",
+            "xy": [
+              430,
+              224
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "SN",
+            "xy": [
+              460,
+              275
+            ]
+          }
+        ],
+        "pixels": "750x485",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i01.jpg"
+      },
+      {
+        "file": "cureus-0014-00000028281-i03.jpg",
+        "label": "Figure 3",
+        "caption": "Showing type IIa, double trunked with inferior rectal nerve piercing the sacrospinous ligament. PN(IIa): Bifurcated Pudendal nerve with inferior rectal nerve piercing the sacrospinous ligament.IPV: Internal Pudendal Vessels SSL: SSL: Sacrospinous ligament",
+        "specimen": "human cadaver (formalin), prone, gluteal approach",
+        "what_it_shows": "Type IIa: two-trunked pudendal nerve, one trunk (inferior rectal nerve) piercing the sacrospinous ligament.",
+        "labels_visible_in_image": "PN(IIa) (two leader lines), IPV, SSL",
+        "label_points": [
+          {
+            "latin": "N. pudendus - truncus 1 (typus IIa)",
+            "author_label": "PN(IIa)",
+            "xy": [
+              438,
+              250
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 2 / n. rectalis inferior (typus IIa)",
+            "author_label": "PN(IIa)",
+            "xy": [
+              458,
+              222
+            ]
+          },
+          {
+            "latin": "Vasa pudenda interna",
+            "author_label": "IPV",
+            "xy": [
+              400,
+              281
+            ]
+          },
+          {
+            "latin": "Lig. sacrospinale",
+            "author_label": "SSL",
+            "xy": [
+              505,
+              272
+            ]
+          }
+        ],
+        "pixels": "750x424",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i03.jpg"
+      },
+      {
+        "file": "cureus-0014-00000028281-i04.jpg",
+        "label": "Figure 4",
+        "caption": "Showing type II b, double trunked pudendal nerve with inferior rectal nerve not piercing the sacrospinous ligament, no communication with Sciatic nerve.PN(IIb): Bifurcated Pudendal nerve, IPV: Internal Pudendal Vessels, NOI: Nerve to Obturator Internus, SN: Sciatic Nerve",
+        "specimen": "human cadaver (formalin), prone, gluteal approach",
+        "what_it_shows": "Type IIb: two-trunked pudendal nerve, inferior rectal nerve not piercing the ligament; nerve to obturator internus and sciatic nerve lateral.",
+        "labels_visible_in_image": "IPV, PN(IIb) (two leader lines), NOI, SN",
+        "label_points": [
+          {
+            "latin": "Vasa pudenda interna",
+            "author_label": "IPV",
+            "xy": [
+              465,
+              289
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 1 (typus IIb)",
+            "author_label": "PN(IIb)",
+            "xy": [
+              499,
+              269
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 2 (typus IIb)",
+            "author_label": "PN(IIb)",
+            "xy": [
+              487,
+              300
+            ]
+          },
+          {
+            "latin": "N. musculi obturatorii interni",
+            "author_label": "NOI",
+            "xy": [
+              479,
+              321
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "SN",
+            "xy": [
+              541,
+              370
+            ]
+          }
+        ],
+        "pixels": "750x409",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i04.jpg"
+      },
+      {
+        "file": "cureus-0014-00000028281-i06.jpg",
+        "label": "Figure 6",
+        "caption": "Showing type III, Triple trunked pudendal nerve, no sciatic nerve communication.PN(III): Trifurcated Pudendal nerve, IPV: Internal Pudendal Vessels, NOI: Nerve to Obturator Internet, SN: Sciatic Nerve",
+        "specimen": "human cadaver (formalin), prone, gluteal approach",
+        "what_it_shows": "Type III: three-trunked pudendal nerve; internal pudendal vessels and nerve to obturator internus lateral, sciatic nerve further lateral.",
+        "labels_visible_in_image": "PN(III) (three leader lines), IPV, NOI, SN",
+        "label_points": [
+          {
+            "latin": "N. pudendus - truncus 1 (typus III)",
+            "author_label": "PN(III)",
+            "xy": [
+              392,
+              252
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 2 (typus III)",
+            "author_label": "PN(III)",
+            "xy": [
+              415,
+              260
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 3 (typus III)",
+            "author_label": "PN(III)",
+            "xy": [
+              444,
+              267
+            ]
+          },
+          {
+            "latin": "Vasa pudenda interna",
+            "author_label": "IPV",
+            "xy": [
+              466,
+              277
+            ]
+          },
+          {
+            "latin": "N. musculi obturatorii interni",
+            "author_label": "NOI",
+            "xy": [
+              461,
+              315
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "SN",
+            "xy": [
+              530,
+              319
+            ]
+          }
+        ],
+        "pixels": "750x520",
+        "local_path": "perine/images/raw/PMC9492552/cureus-0014-00000028281-i06.jpg"
+      }
+    ],
+    "key_findings": "26 formalin-embalmed cadavers (16 M, 10 F), 52 hemipelves. 'In the present study, 27 out of 52 hemipelves (51.9%) were identified as type I having a single pudendal nerve trunk'. Type IIa: 'This branching pattern was observed in 7 out of 52 hemipelves (13.5%).' 'Twelve out of 52 hemipelves (23.1%) were type IIb ... but the inferior rectal nerve did not pass through the sacrospinous ligament.' 'Three trunked pudendal nerve (type III) was observed in 11.5% of hemipelves. In 14/52 hemipelves (26.9%), communication with the sciatic nerve was noted'. Literature (Mahakkanukrauh 2005, 73 nerves): 'type I is defined as one-trunked (41/73; 56.2%) ... type III is two-trunked with one trunk as an inferior rectal nerve piercing through the sacrospinous ligament (8/73; 11%) ... type V is three-trunked (9/73;12.3%)'.",
+    "clinical_relevance": "Multiple trunks / an inferior rectal nerve piercing the sacrospinous ligament matter for sacrospinous colpopexy, transgluteal pudendal block (incomplete block) and decompression surgery.",
+    "notes": "CC BY (Cureus). The Abstract erroneously writes 'inferior gluteal nerve' for types IIa/IIb; the Results body and captions say 'inferior rectal nerve' - quote the body. The table of earlier studies gives the Mahakkanukrauh classification (requested 'Mahakkanukrauh type' data). i02/i05/i07 (sciatic-communication subtypes) downloaded and deleted (redundant)."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Pudendal nerve formation (S3-S4) and 2-, 3-, 4-trunk variants with sciatic communication",
+    "pmcid": "PMC12519013",
+    "version": 1,
+    "doi": "10.5115/acb.25.012",
+    "citation": "Anat Cell Biol. 2025 Jun 2;58(3):388–94. doi: 10.5115/acb.25.012",
+    "title": "Morphology and morphometry of pudendal nerve in East Indian population with surgical implications: a cadaveric study",
+    "authors": "Suganya G., Ray B., Bharadwaj Y.",
+    "year": "2025",
+    "journal": "Anatomy & Cell Biology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "acb-58-3-388-f2.jpg",
+        "label": "Fig. 2",
+        "caption": "The formation and trunking variations in pudendal nerve. (A) Formation variation of pudendal nerve from S3 and S4 root. (B) The trunking variations in pudendal nerve 2 trunks. (C) The trunking variations in pudendal nerve 3 trunks. (D) The trunking variations in pudendal nerve 4 trunks. PN, pudendal nerve; LST, lumbosacral trunk; S, superior; I, inferior; M, medial; L, lateral; Rt, right; Lt, left; yellow arrow, communication with sciatic nerve.",
+        "specimen": "human cadaver (embalmed), 4-panel",
+        "what_it_shows": "A: pelvic view of sacral plexus with pudendal nerve (highlighted) formed from S3-S4; B: two-trunked; C: three-trunked; D: four-trunked pudendal nerve (red numbers 1-4); yellow arrows = communication with the sciatic nerve.",
+        "labels_visible_in_image": "A: LST, S1, S2, S3, S4, PN, orientation cross; B: 1, 2, yellow arrow; C: 1, 2, 3; D: 1, 2, 3, 4, yellow arrow; panel letters A-D",
+        "label_points": [
+          {
+            "latin": "Truncus lumbosacralis",
+            "author_label": "LST",
+            "xy": [
+              179,
+              52
+            ]
+          },
+          {
+            "latin": "N. spinalis S1 (ramus anterior)",
+            "author_label": "S1",
+            "xy": [
+              171,
+              74
+            ]
+          },
+          {
+            "latin": "N. spinalis S2 (ramus anterior)",
+            "author_label": "S2",
+            "xy": [
+              160,
+              90
+            ]
+          },
+          {
+            "latin": "N. spinalis S3 (ramus anterior)",
+            "author_label": "S3",
+            "xy": [
+              160,
+              106
+            ]
+          },
+          {
+            "latin": "N. spinalis S4 (ramus anterior)",
+            "author_label": "S4",
+            "xy": [
+              160,
+              119
+            ]
+          },
+          {
+            "latin": "N. pudendus",
+            "author_label": "PN",
+            "xy": [
+              109,
+              135
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 1 (B)",
+            "author_label": "1",
+            "xy": [
+              146,
+              279
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 2 (B)",
+            "author_label": "2",
+            "xy": [
+              134,
+              283
+            ]
+          },
+          {
+            "latin": "Ramus communicans n. pudendi cum n. ischiadico (B)",
+            "author_label": "yellow arrow",
+            "xy": [
+              146,
+              289
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 1 (D)",
+            "author_label": "1",
+            "xy": [
+              628,
+              191
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 2 (D)",
+            "author_label": "2",
+            "xy": [
+              626,
+              220
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 3 (D)",
+            "author_label": "3",
+            "xy": [
+              617,
+              209
+            ]
+          },
+          {
+            "latin": "N. pudendus - truncus 4 (D)",
+            "author_label": "4",
+            "xy": [
+              609,
+              210
+            ]
+          },
+          {
+            "latin": "Ramus communicans n. pudendi cum n. ischiadico (D)",
+            "author_label": "yellow arrow",
+            "xy": [
+              577,
+              194
+            ]
+          }
+        ],
+        "pixels": "698x429",
+        "local_path": "perine/images/raw/PMC12519013/acb-58-3-388-f2.jpg"
+      }
+    ],
+    "key_findings": "10 cadavers (5 M, 5 F; East Indian). 'In 6 cadaveric specimen we found 1 trunk (60%), in 2 (1 male and 1 female) cadaveric specimens we found two trunked pudendal nerve bilaterally (20%), in 1 male cadaver we found 3 trunks of pudendal nerve (10%), and in 1 male cadaver 4 trunks of pudendal nerve were present bilaterally.' 'There was communication of pudendal nerve with sciatic nerve in 9 cadavers bilaterally.' 'The maximum CSA was found below the piriformis (4.04 mm2).' Literature: 'Gruber et al. [4] found multiple trunks in 40.5% and Maldonado et al. [5] found multiple trunks in 38%.'",
+    "clinical_relevance": "'This communication would lead to aberrant blockade of both the nerves when one of the nerves is blocked intentionally'. Abstract: ischial spine-to-PN and pubic symphysis-to-dorsal nerve distances larger in females (pudendal block landmarks).",
+    "notes": "LICENCE CC BY-NC (Anat Cell Biol 2025). Panel C trunk numbers too small to localise reliably - not given points. Fig 4 (caliper measurements) downloaded and rejected (nerves not discernible)."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Inferior rectal nerve arising directly from the S3 ventral ramus",
+    "pmcid": "PMC6449584",
+    "version": 1,
+    "doi": "10.5115/acb.2019.52.1.100",
+    "citation": "Anat Cell Biol. 2019 Mar 29;52(1):100–1. doi: 10.5115/acb.2019.52.1.100",
+    "title": "Report of an inferior rectal nerve variant arising from the S3 ventral ramus",
+    "authors": "Dupont G., Iwanaga J., Oskouian R. J. et al.",
+    "year": "2019",
+    "journal": "Anatomy & Cell Biology",
+    "license_code": "CC BY-NC",
+    "figures": [
+      {
+        "file": "acb-52-100-g001.jpg",
+        "label": "Fig. 1",
+        "caption": "A variant of the inferior rectal nerve. Note the S3 ventral ramus giving off pelvic splanchnics and then continuing as the inferior rectal nerve. The inferior rectal nerve also gives off a branch to communicate with the pudendal nerve.",
+        "specimen": "human cadaver (fresh-looking, pelvis opened from posterior after sacrotuberous ligament reflection)",
+        "what_it_shows": "Nerves dyed purple: the S3 ventral ramus gives pelvic splanchnic nerves and continues as an independent inferior rectal nerve, which sends a branch to the pudendal nerve.",
+        "labels_visible_in_image": "S3 nerve root; Inferior rectal nerve; Pelvic splanchnics; Branch to pudendal nerve; Pudendal nerve (white arrows)",
+        "label_points": [
+          {
+            "latin": "Ramus anterior n. spinalis S3",
+            "author_label": "S3 nerve root",
+            "xy": [
+              265,
+              128
+            ]
+          },
+          {
+            "latin": "Nn. rectales inferiores (variatio, ex S3)",
+            "author_label": "Inferior rectal nerve",
+            "xy": [
+              362,
+              148
+            ]
+          },
+          {
+            "latin": "Nn. splanchnici pelvici",
+            "author_label": "Pelvic splanchnics",
+            "xy": [
+              275,
+              178
+            ]
+          },
+          {
+            "latin": "Ramus communicans ad n. pudendum",
+            "author_label": "Branch to pudendal nerve",
+            "xy": [
+              400,
+              215
+            ]
+          },
+          {
+            "latin": "N. pudendus",
+            "author_label": "Pudendal nerve",
+            "xy": [
+              375,
+              300
+            ]
+          }
+        ],
+        "pixels": "633x350",
+        "local_path": "perine/images/raw/PMC6449584/acb-52-100-g001.jpg"
+      }
+    ],
+    "key_findings": "Case report. 'the S3 ventral ramus was found giving off pelvic splanchnics, then continuing as the inferior rectal nerve.' 'Common alterations in the path of the inferior rectal nerve involve its independent derivation from the fourth sacral root (S4), and more distally, piercing of the sacrospinous ligament'.",
+    "clinical_relevance": "'understanding the path of the inferior rectal nerve and being aware of its variants is necessary for procedures such as pudendal nerve blocks, pudendal nerve anastomoses, sacrospinous colpopexy, and various surgical exposures of this region'; injury may cause fecal incontinence.",
+    "notes": "LICENCE CC BY-NC (Anat Cell Biol 2019; Dupont, Iwanaga, Oskouian, Tubbs). Orientation of the photo is not stated; bloody field."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Internal pudendal and inferior gluteal arteries from a common trunk in the gluteal region (stellate pattern), relation to sacrotuberous ligament",
+    "pmcid": "PMC5829714",
+    "version": 1,
+    "doi": "10.1590/1677-5449.000116",
+    "citation": "J Vasc Bras. 2016 Apr-Jun;15(2):168–72. doi: 10.1590/1677-5449.000116",
+    "title": "Clinical importance of a star shaped branch of internal iliac artery and unusual branches of an abnormal obturator artery: rare vascular variations",
+    "authors": "Nayak S. B., Guru A., Reghunathan D. et al.",
+    "year": "2016",
+    "journal": "Jornal Vascular Brasileiro",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "jvb-15-02-168-g02.jpg",
+        "label": "Figure 2",
+        "caption": "Dissection of the left gluteal region showing variant branches of the internal iliac artery. CT2: Common Trunk 2; MB: Muscular Branches; IGA: Inferior Gluteal Artery; STL: Sacrotuberous Ligament; SN: Sciatic Nerve; IPA: Internal Pudendal Artery.",
+        "specimen": "human cadaver (male), left gluteal region, gluteus maximus reflected",
+        "what_it_shows": "A common trunk (CT2) emerges below piriformis and divides in a star-shaped pattern into the internal pudendal artery, inferior gluteal artery and muscular branches; sciatic nerve laterally, sacrotuberous ligament medially.",
+        "labels_visible_in_image": "Gluteus medius, Piriformis, Gluteus maximus (reflected), CT2, MB (x2), IPA, IGA (two arrows), SN, STL",
+        "label_points": [
+          {
+            "latin": "Truncus communis (a. pudenda interna + a. glutea inferior)",
+            "author_label": "CT2",
+            "xy": [
+              470,
+              195
+            ]
+          },
+          {
+            "latin": "Rami musculares",
+            "author_label": "MB",
+            "xy": [
+              515,
+              205
+            ]
+          },
+          {
+            "latin": "Rami musculares",
+            "author_label": "MB",
+            "xy": [
+              445,
+              230
+            ]
+          },
+          {
+            "latin": "A. pudenda interna",
+            "author_label": "IPA",
+            "xy": [
+              510,
+              260
+            ]
+          },
+          {
+            "latin": "A. glutea inferior",
+            "author_label": "IGA",
+            "xy": [
+              470,
+              265
+            ]
+          },
+          {
+            "latin": "A. glutea inferior (ramus)",
+            "author_label": "IGA",
+            "xy": [
+              250,
+              405
+            ]
+          },
+          {
+            "latin": "Lig. sacrotuberale",
+            "author_label": "STL",
+            "xy": [
+              510,
+              405
+            ]
+          },
+          {
+            "latin": "N. ischiadicus",
+            "author_label": "SN",
+            "xy": [
+              365,
+              345
+            ]
+          }
+        ],
+        "pixels": "681x563",
+        "local_path": "perine/images/raw/PMC5829714/jvb-15-02-168-g02.jpg"
+      }
+    ],
+    "key_findings": "Case report (one male cadaver). 'The inferior gluteal artery (IGA) and internal pudendal artery (IPA) did not arise as separate branches from the internal iliac artery; rather, they arose from the second CT.' 'The second, smaller, common trunk entered the gluteal region through the greater sciatic foramen, below the piriformis muscle and presented a stellate branching pattern deep to the gluteus maximus muscle.'",
+    "clinical_relevance": "Relevant to gluteal/transgluteal approaches to the pudendal canal and to pelvic embolisation; authors discuss Adachi/Yamaki classifications of internal iliac branching.",
+    "notes": "CC BY (J Vasc Bras). The internal pudendal artery itself runs normally toward the lesser sciatic foramen; the variation is its origin."
+  },
+  {
+    "use": "perine_variation",
+    "topic": "Artery of the penis arising inside the pelvis (accessory-pudendal-type origin) with a hypoplastic internal pudendal artery",
+    "pmcid": "PMC3971847",
+    "version": 1,
+    "doi": "10.1155/2014/193194",
+    "citation": "Case Rep Vasc Med. 2014 Feb 12;2014:193194. doi: 10.1155/2014/193194",
+    "title": "A Rare Variation in the Origin and Course of the Artery of Penis",
+    "authors": "Nayak S. B., Kumar N., Patil J. et al.",
+    "year": "2014",
+    "journal": "Case Reports in Vascular Medicine",
+    "license_code": "CC BY",
+    "figures": [
+      {
+        "file": "CRIVAM2014-193194.001.jpg",
+        "label": "Figure 1",
+        "caption": "Superior view of the left hemipelvis. (AOP: artery of penis, CT1: common trunk 1, CT2: common trunk 2, IIA: internal iliac artery, IIV: internal iliac vein, ILA: iliolumbar artery, IVA: inferior vesical arteries, MRA: middle rectal artery, OA: obturator artery, ON: obturator nerve, SGA: superior gluteal artery, SVA: superior vesical artery, and U: ureter.)",
+        "specimen": "human cadaver (male), superior view of left hemipelvis",
+        "what_it_shows": "Second common trunk of the internal iliac artery gives obturator and inferior vesical arteries and the artery of the penis (AOP), which runs forward on the lateral pelvic wall above the pelvic floor.",
+        "labels_visible_in_image": "Urinary bladder, U, SVA, MRA, IIA, ILA, IVA, CT2, AOP, CT1, SGA, OA, ON, IIV",
+        "label_points": [
+          {
+            "latin": "A. penis (origo intrapelvica; a. pudenda accessoria-typus)",
+            "author_label": "AOP",
+            "xy": [
+              112,
+              240
+            ]
+          },
+          {
+            "latin": "Truncus communis 2",
+            "author_label": "CT2",
+            "xy": [
+              300,
+              275
+            ]
+          },
+          {
+            "latin": "Aa. vesicales inferiores",
+            "author_label": "IVA",
+            "xy": [
+              228,
+              262
+            ]
+          },
+          {
+            "latin": "A. obturatoria",
+            "author_label": "OA",
+            "xy": [
+              190,
+              350
+            ]
+          },
+          {
+            "latin": "N. obturatorius",
+            "author_label": "ON",
+            "xy": [
+              270,
+              382
+            ]
+          },
+          {
+            "latin": "Truncus communis 1",
+            "author_label": "CT1",
+            "xy": [
+              380,
+              295
+            ]
+          },
+          {
+            "latin": "A. glutea superior",
+            "author_label": "SGA",
+            "xy": [
+              445,
+              305
+            ]
+          },
+          {
+            "latin": "A. rectalis media",
+            "author_label": "MRA",
+            "xy": [
+              420,
+              212
+            ]
+          }
+        ],
+        "pixels": "600x460",
+        "local_path": "perine/images/raw/PMC3971847/CRIVAM2014-193194.001.jpg"
+      },
+      {
+        "file": "CRIVAM2014-193194.002.jpg",
+        "label": "Figure 2",
+        "caption": "Sagittal section of the pelvis showing the sectional views of rectum, canal, urinary bladder, prostate, and the pubis. (AOP: artery of penis, BP: bulb of penis, DEP: deep artery of the penis, DOA: dorsal artery of the penis, and RCP: right crus of the penis.)",
+        "specimen": "human cadaver (male), median sagittal hemisection of pelvis",
+        "what_it_shows": "The intrapelvic artery of the penis descends below the puboprostatic ligaments behind the pubic symphysis and divides into the dorsal and deep arteries of the penis near the bulb and right crus.",
+        "labels_visible_in_image": "Rectum, Urinary bladder, AOP, Pubis, Prostate, DOA, DEP, RCP, Anal canal, BP",
+        "label_points": [
+          {
+            "latin": "A. penis (origo intrapelvica)",
+            "author_label": "AOP",
+            "xy": [
+              372,
+              198
+            ]
+          },
+          {
+            "latin": "A. dorsalis penis",
+            "author_label": "DOA",
+            "xy": [
+              380,
+              305
+            ]
+          },
+          {
+            "latin": "A. profunda penis",
+            "author_label": "DEP",
+            "xy": [
+              355,
+              318
+            ]
+          },
+          {
+            "latin": "Crus penis dextrum",
+            "author_label": "RCP",
+            "xy": [
+              420,
+              365
+            ]
+          },
+          {
+            "latin": "Bulbus penis",
+            "author_label": "BP",
+            "xy": [
+              330,
+              405
+            ]
+          },
+          {
+            "latin": "Prostata",
+            "author_label": "Prostate",
+            "xy": [
+              270,
+              297
+            ]
+          },
+          {
+            "latin": "Canalis analis",
+            "author_label": "Anal canal",
+            "xy": [
+              195,
+              375
+            ]
+          },
+          {
+            "latin": "Os pubis",
+            "author_label": "Pubis",
+            "xy": [
+              465,
+              265
+            ]
+          }
+        ],
+        "pixels": "600x460",
+        "local_path": "perine/images/raw/PMC3971847/CRIVAM2014-193194.002.jpg"
+      }
+    ],
+    "key_findings": "Case report. 'The artery of the penis arose from a common arterial trunk from the left internal iliac artery.' 'The artery of the penis coursed forwards between the bladder and lateral pelvic wall until the pubis. Thereafter it passed below the puboprostatic ligaments and divided into deep and dorsal arteries of the penis just behind the lower border of the pubic symphysis'. 'The left internal pudendal artery was reduced in size and it supplied the musculature of the perineum and the anal canal. It also supplied the bulb of the penis.'",
+    "clinical_relevance": "Such intrapelvic penile supply runs near the prostate/puboprostatic ligaments - at risk in radical prostatectomy; relevant to erectile dysfunction and penile revascularisation.",
+    "notes": "CC BY. The authors do NOT use the term 'accessory pudendal artery'; the slide may say 'aksesuar pudendal arter ile aynı paternde' but must not attribute the term to them. Fig 2 is a sagittally hemisected pelvis (gross specimen, not a cross-sectional image series)."
+  }
+]

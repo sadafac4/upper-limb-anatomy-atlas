@@ -1,0 +1,474 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="pros70030" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Prostate</journal-id><journal-id journal-id-type="iso-abbrev">Prostate</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">8101368</journal-id><journal-id journal-id-type="publisher-id">PROS</journal-id><journal-title-group><journal-title>The Prostate</journal-title></journal-title-group><issn pub-type="ppub">0270-4137</issn><issn pub-type="epub">1097-0045</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12452807</article-id><article-id pub-id-type="pmcid-ver">PMC12452807.1</article-id><article-id pub-id-type="pmcaid">12452807</article-id><article-id pub-id-type="pmcaiid">12452807</article-id><article-id pub-id-type="pmid">40771028</article-id><article-id pub-id-type="doi">10.1002/pros.70030</article-id><article-id pub-id-type="publisher-id">PROS70030</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Novel Anatomical Findings in Robot‐Assisted Prostatectomy and Optimal Dissection Layer Selection for Preserving Urethral Support Structures</article-title></title-group><contrib-group><contrib id="pros70030-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Muro</surname><given-names initials="S">Satoru</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4709-6359</contrib-id><xref rid="pros70030-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>muro.fana@tmd.ac.jp</email></address></contrib><contrib id="pros70030-cr-0002" contrib-type="author"><name name-style="western"><surname>Shoji</surname><given-names initials="S">Sunao</given-names></name><xref rid="pros70030-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="pros70030-cr-0003" contrib-type="author"><name name-style="western"><surname>Aoki</surname><given-names initials="M">Meiko</given-names></name><xref rid="pros70030-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="pros70030-cr-0004" contrib-type="author"><name name-style="western"><surname>Tharnmanularp</surname><given-names initials="S">Suthasinee</given-names></name><xref rid="pros70030-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="pros70030-cr-0005" contrib-type="author"><name name-style="western"><surname>Nimura</surname><given-names initials="A">Akimoto</given-names></name><xref rid="pros70030-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="pros70030-cr-0006" contrib-type="author"><name name-style="western"><surname>Akita</surname><given-names initials="K">Keiichi</given-names></name><xref rid="pros70030-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pros70030-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Anatomy, Graduate School of Medical and Dental Sciences</named-content>
+<institution>Institute of Science Tokyo</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="pros70030-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Urology</named-content>
+<institution>Tokai University School of Medicine</institution>
+<city>Isehara</city>
+<named-content content-type="country-part">Kanagawa</named-content>
+<country country="JP">Japan</country>
+</aff><aff id="pros70030-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Princess Srisavangavadhana Faculty of Medicine</named-content>
+<institution>Chulabhorn Royal Academy</institution>
+<city>Bangkok</city>
+<country country="TH">Thailand</country>
+</aff><aff id="pros70030-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Functional Joint Anatomy, Biomedical Engineering Laboratory, Institute of Industry Incubation</named-content>
+<institution>Institute of Science Tokyo</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Satoru Muro (<email>muro.fana@tmd.ac.jp</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2025</year></pub-date><volume>85</volume><issue seq="90">15</issue><issue-id pub-id-type="pmc-issue-id">497234</issue-id><issue-id pub-id-type="doi">10.1002/pros.v85.15</issue-id><fpage>1440</fpage><lpage>1448</lpage><history><date date-type="rev-recd"><day>14</day><month>7</month><year>2025</year></date><date date-type="received"><day>31</day><month>3</month><year>2025</year></date><date date-type="accepted"><day>29</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>23</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-24 10:25:38.010"><day>24</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">The Prostate</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PROS-85-1440.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PROS-85-1440.pdf"/><abstract><title>ABSTRACT</title><sec id="pros70030-sec-0010"><title>Background</title><p>The role of preserving the superior fascia of the pelvic diaphragm in the context of urinary function remains unclear. This study aimed to investigate the anatomical relationship between the superior fascia of the pelvic diaphragm and the external urethral sphincter in terms of preventing postoperative urinary incontinence. We hypothesized that the external urethral sphincter would be supported by the fascia, smooth muscle, and levator ani muscle.</p></sec><sec id="pros70030-sec-0020"><title>Methods</title><p>Three cadavers were used, and the pelvis was dissected to explore the superior fascia of the pelvic diaphragm, levator ani muscle, and external urethral sphincter. Tissue samples underwent wide‐range serial sectioning, Masson's trichrome staining, and immunohistochemical staining for smooth muscle actin. Serial histological sections were reconstructed three‐dimensionally.</p></sec><sec id="pros70030-sec-0030"><title>Results</title><p>Macroscopic examination revealed the superior fascia of the pelvic diaphragm as a fibrous membrane covering the levator ani muscle. Histology identified interposing smooth muscle tissue between the levator ani muscle, superior fascia, and the external urethral sphincter. Three‐dimensional reconstruction revealed this smooth muscle filling the space between the superior fascia and external urethral sphincter, extending medially and laterally, and connecting with surrounding structures.</p></sec><sec id="pros70030-sec-0040"><title>Conclusions</title><p>This study clarified the anatomical details of smooth muscle tissue interposed between the superior fascia of the pelvic diaphragm, external urethral sphincter, and levator ani muscle. This smooth muscle, continuous with the superior fascia, likely forms a supportive structure stabilizing the external urethral sphincter, playing a crucial role in urinary continence. During robot‐assisted radical prostatectomy, selection of the dissection plane should consider preservation of these supportive structures to maintain postoperative urinary function.</p></sec></abstract><kwd-group><kwd id="pros70030-kwd-0001">external urethral sphincter</kwd><kwd id="pros70030-kwd-0002">pelvic floor</kwd><kwd id="pros70030-kwd-0003">prostatectomy</kwd><kwd id="pros70030-kwd-0004">smooth muscle</kwd><kwd id="pros70030-kwd-0005">urinary incontinence</kwd></kwd-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="9"/><word-count count="5804"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:22.09.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="pros70030-sec-0050"><label>1</label><title>Introduction</title><p>The importance of preserving the superior fascia of the pelvic diaphragm (SFPD) that covers the levator ani (LA) muscle during robot‐assisted radical prostatectomy (RARP) is not clear among urologists. Preserving the SFPD is associated with an increased likelihood of a positive surgical margin, resulting in variations in surgical techniques depending on the facility or surgeon. If dissection is performed while identifying the layer lateral to the SFPD, an adequate tumor margin can be attained while simultaneously exposing the LA muscle. This approach may facilitate hemostasis and simplify the procedure [<xref rid="pros70030-bib-0001" ref-type="bibr">1</xref>]. Additionally, preserving the neurovascular bundle to maintain sexual function can inadvertently lead to the preservation of the SFPD [<xref rid="pros70030-bib-0002" ref-type="bibr">2</xref>, <xref rid="pros70030-bib-0003" ref-type="bibr">3</xref>]. Nonetheless, the importance of the SFPD in relation to its interaction with the LA muscle in the context of postoperative urinary incontinence has not been established.</p><p>Maintaining urinary continence requires not only nerve preservation but also the preservation of the external urethral sphincter (EUS) and its supportive structures. However, knowledge of the anatomical relationship between the SFPD and the EUS is limited.</p><p>For proper muscle function, both contraction strength and supportive structures that efficiently transmit this contraction force are essential. Previous anatomical and histological studies have suggested that the EUS of men may be posteriorly continuous with the external anal sphincter and the LA muscle [<xref rid="pros70030-bib-0004" ref-type="bibr">4</xref>, <xref rid="pros70030-bib-0005" ref-type="bibr">5</xref>]. Additionally, in women, the EUS is surrounded by smooth muscle and faces the SFPD through this smooth muscle layer. This finding suggests that smooth muscles may support the EUS [<xref rid="pros70030-bib-0006" ref-type="bibr">6</xref>]. Considering this, we hypothesized that in men, the EUS may be supported by both the smooth muscle and LA muscle.</p><p>This study aimed to elucidate the anatomical relationship between the SFPD and the EUS. Thus, we aimed to provide scientific evidence for selecting the optimal dissection layer during RARP, thereby contributing to the development of novel surgical techniques to prevent postoperative urinary incontinence.</p></sec><sec sec-type="materials-and-methods" id="pros70030-sec-0060"><label>2</label><title>Materials and Methods</title><sec id="pros70030-sec-0070"><label>2.1</label><title>Preparation of Cadaveric Specimens</title><p>Six male cadavers (mean age at death, 85.3 [range, 60–92] years) were donated to our department in accordance with the Japanese law entitled “The Act on Body Donation for Medical and Dental Education” (Act No. 56 of 1983). All donors had voluntarily agreed to the use of their remains as educational and study materials before their death. Written informed consent was obtained after a clear explanation of the purpose and methods of using their corpses. Following their demise, informed consent was explained to their families, and there were no objections.</p><p>All cadavers were fixed using arterial perfusion with 8% formalin and preserved in 30% alcohol. Cadavers with a history of pelvic organ surgery were excluded. The Board of Ethics of our institution approved this study (approval number: M2018‐006). All methods were performed in accordance with the relevant guidelines and regulations.</p></sec><sec id="pros70030-sec-0080"><label>2.2</label><title>Macroscopic Anatomy</title><p>Three cadavers were used for macroscopic anatomical examination. The pelvic region of the cadavers was accessed by transecting the superior margin at the iliac crest across the abdomen and resecting the lower portion at the hip joint. Subsequently, the pelvis was divided along the median plane using a diamond‐band pathology saw (EXAKT 312; EXKAKT Advanced Technologies GmbH, Norderstedt, Germany). The pelvic halves were meticulously dissected layer by layer from the medial aspect. The tendinous arch of the pelvic fascia (TAPF), to which the prostate and the SFPD are attached, was examined. An incision was made medial to this line (on the prostate side), and the prostate was retracted medially. After tracing the entire SFPD, the SFPD on the lateral side of the prostate was removed to expose the LA muscle. The contact area between the LA muscle and membranous urethra that includes the EUS was then examined.</p></sec><sec id="pros70030-sec-0090"><label>2.3</label><title>Histology</title><p>Three cadavers were used for histological examinations. Large areas of tissue, including the prostate, the membranous part of the urethra, and the EUS, LA, and SFPD, were harvested en bloc. Histological examination of large tissue masses is referred to as “wide‐range serial sectioning” [<xref rid="pros70030-bib-0006" ref-type="bibr">6</xref>]. Tissue blocks were fixed by immersion in 10% formalin for 24 h and subsequently decalcified in Plank–Rychlo solution (AlCl<sub>3</sub>:6H<sub>2</sub>O 126.7 g/L, HCl 85 mL/L, and HCOOH 50 mL/L) for 5 days. Following decalcification, neutralization was performed by immersion in 5% sodium sulfate for 12 h. Thereafter, the tissue blocks were dehydrated (70% ethanol, 80% ethanol, 90% ethanol, 100% ethanol, and xylene) by immersion for a minimum of 24 h in each solution. Subsequently, the blocks were embedded in paraffin for 5 days under negative pressure. The paraffin solution was changed three times. Paraffin‐embedded tissue blocks were serially sectioned at 1‐mm intervals in the coronal plane into 5‐µm‐thick specimens using a rotary microtome (RX‐860, Yamato Kohki Industrial Co. Ltd., Saitama, Japan).</p><p>Histological sections were stained with Masson's trichrome to identify the muscular and connective tissues. Additionally, immunohistochemical staining of the sections was performed to confirm the distribution of smooth muscle tissues. The slides were then microwaved in 10 mM sodium citrate buffer (pH 6.0) for antigen retrieval. Endogenous peroxidase activity was inactivated by incubating the tissues in methanol‐containing 0.3% H<sub>2</sub>O<sub>2</sub> for 30 min. Nonspecific binding was blocked by incubation in phosphate‐buffered saline containing 0.05% Tween 20% and 2.5% goat serum at room temperature for 30 min. The sections were incubated overnight at room temperature with primary antibodies against smooth muscle actin (ready‐to‐use actin; smooth muscle Ab‐1, clone 1A4; Thermo Fisher Scientific, Fremont, CA, USA). The sections were washed and incubated for 30 min at room temperature with peroxidase‐conjugated anti‐mouse immunoglobulin G (IgG) (ready‐to‐use, MP‐7452, ImmPRESSHRP Goat Anti‐Mouse IgG Polymer, Vector Laboratories, CA, USA) as secondary antibodies. Immunocomplexes were detected using 3, 3‐diaminobenzidine (Fujifilm Wako Pure Chemical Corporation, Osaka, Japan) and counterstained with hematoxylin for 1 min.</p></sec><sec id="pros70030-sec-0100"><label>2.4</label><title>Three‐Dimensional (3D) Reconstruction</title><p>Computer‐assisted 3D reconstruction was performed using the serial coronal histological sections used in the histological examinations mentioned earlier. Stained histological sections were scanned as whole slides using a high‐quality scanner (GT‐X980; Seiko Epson Corp., Tokyo, Japan). Structures were segmented on serial histological section images (prostate, urethra, bladder, seminal vesicle, EUS, internal urethral sphincter, rectum, rectal muscle, ischiopubic ramus, LA, obturator internus, ischiocavernosus, bulbospongiosus, superficial transverse perineal muscle, corpus cavernosum penis, corpus spongiosum penis, SFPD, and smooth muscle tissue) using the segmentation tool “Seg &amp; Ref” (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/SatoruMuro/SAM2GUIfor3Drecon" ext-link-type="uri">https://github.com/SatoruMuro/SAM2GUIfor3Drecon</ext-link>) [<xref rid="pros70030-bib-0007" ref-type="bibr">7</xref>]. The segmented structures were three‐dimensionally reconstructed using the software 3D Slicer (version 5.6.2; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.slicer.org/" ext-link-type="uri">https://www.slicer.org/</ext-link>). The combination of wide‐range serial sectioning and 3D reconstruction enables nondestructive 3D visualization of anatomical structures over a wide area [<xref rid="pros70030-bib-0008" ref-type="bibr">8</xref>].</p></sec></sec><sec sec-type="results" id="pros70030-sec-0110"><label>3</label><title>Results</title><p>Upon macroscopic anatomical examination, sagittally bisected pelvic specimens were accessed from the medial side to examine the SFPD covering the pelvic wall (Figure <xref rid="pros70030-fig-0001" ref-type="fig">1A</xref>). The attachment between the prostate and the TAPF was incised, and the space between the SFPD and the prostate was dissected to retract the prostate medially (Figure <xref rid="pros70030-fig-0001" ref-type="fig">1B</xref>). The SFPD was identified as a fibrous membrane covering the superior surface of the LA muscle, with the TAPF as its thickened part. The surface of the LA muscle was exposed after removing the SFPD from the lateral region of the prostate. A whitish tissue was attached between the medial edge of the LA muscle and the prostate (Figure <xref rid="pros70030-fig-0001" ref-type="fig">1C</xref>).</p><fig position="float" fig-type="Figure" id="pros70030-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Macroscopic anatomical examination of the SFPD. (A) Sagittally bisected pelvic specimen observed from the medial side, indicating the SFPD covering the pelvic wall. The red transection line corresponds to the coronal sections presented in Figures <xref rid="pros70030-fig-0002" ref-type="fig">2</xref> and <xref rid="pros70030-fig-0003" ref-type="fig">3</xref>. (B) The prostate was retracted medially after incising the attachment between the prostate and the TAPF and dissecting the space between the SFPD and the prostate. (C) The SFPD was removed in the region lateral to the prostate, exposing the muscular surface of the LA muscle. A whitish tissue (asterisks) was observed between the medial edge of the LA muscle and the prostate. CS1, coronal section 1, CS2, coronal section 2; CSP, corpus spongiosum penis; Cx, coccyx; LA, levator ani muscle; OC, obturator canal; Pr, prostate; Pu, pubis; R, rectum; SFPD, superior fascia of the pelvic diaphragm; TAPF, tendinous arch of the pelvic fascia; Ur, urethra. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PROS-85-1440-g001.jpg"/></fig><p>Histologically, the LA muscle was identified lateral to the prostate, whereas the EUS surrounding the membranous urethra was inferior to the prostate (Figure <xref rid="pros70030-fig-0002" ref-type="fig">2A</xref>). The superior surface of the LA muscle was covered by a clearly defined membranous structure that was approximately 0.1–0.2 mm thick and identified as the SFPD (Figure <xref rid="pros70030-fig-0002" ref-type="fig">2A,B</xref>). Near the medial edge of the LA muscle, an approximately 0.5‐mm‐thick tissue layer was observed covering the medial border of the LA muscle, interposed between the LA muscle/SFPD and the EUS (Figure <xref rid="pros70030-fig-0002" ref-type="fig">2B</xref>). This interposing tissue was attached to the serrated lateral edge of the EUS, extended along the medial edge of the LA muscle, and continued into the SFPD. Additionally, it was continuous with the fibrous tissue that forms the surface of the prostate. Masson's trichrome staining revealed dense staining of this tissue, indicating the presence of collagen fibers, whereas smooth muscle actin staining revealed the presence of smooth muscles (Figure <xref rid="pros70030-fig-0002" ref-type="fig">2B,C</xref>). This smooth muscle tissue was distinctly separated from the LA muscle bundles near the membranous urethra by a space filled with loose connective tissue. However, in more posterior regions, the smooth muscle tissue intermingled with the LA muscle bundles (Figure <xref rid="pros70030-fig-0003" ref-type="fig">3A,B</xref>). Observations of the contact points between the smooth muscle and the EUS, as well as between the smooth muscle and the LA muscle, revealed that smooth muscle tissue and striated muscle tissue intermingled and were in direct contact (Figure <xref rid="pros70030-fig-0003" ref-type="fig">3C,D</xref>). In further posterior sections, this smooth muscle tissue was continuous with the smooth muscle fibers of the rectal wall and the rectourethralis muscle that extended from the rectal wall.</p><fig position="float" fig-type="Figure" id="pros70030-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Histological analysis of the SFPD and EUS. (A) Coronal section stained by Masson's trichrome indicates the LA muscle located lateral to the prostate and the EUS positioned inferior to the prostate. The superior surface of the LA muscle was covered by a well‐defined membranous structure, approximately 0.1–0.2 mm thick, identified as the SFPD. (B) Higher magnification image of A demonstrates that near the medial edge of the LA muscle is a tissue layer (arrowheads) interposed between the LA muscle/SFPD and the EUS. This tissue layer attaches to the serrated lateral edge of the EUS and continues into the SFPD. (C) Immunostaining for smooth muscle indicated the presence of smooth muscle (red arrows) within this interposing tissue. EUS, external urethral sphincter; IPR, ischiopubic ramus; LA, levator ani muscle; Oi, obturator internus; Pr, prostate; SFPD, superior fascia of the pelvic diaphragm; Ur, urethra. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PROS-85-1440-g002.jpg"/></fig><fig position="float" fig-type="Figure" id="pros70030-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Intermingling of smooth muscle tissue with the EUS and the LA muscle. (A) Coronal section of the region posterior to the urethra stained with Masson's trichrome. (B) Immunostaining for smooth muscle in (A). (C) Higher magnification image of the rectangular space in A. Contact points between the smooth muscle and the EUS indicate clusters of smooth and striated muscle cells intermingling with direct cell‐to‐cell contact. (D) Higher magnification image of the rectangular space in (A). Contact points between the smooth muscle and the LA muscle show clusters of smooth muscle cells and striated muscle cells intermingling with direct cell‐to‐cell contact. EUS, external urethral sphincter; LA, levator ani muscle; RM, rectal muscle; SFPD, superior fascia of the pelvic diaphragm; SM, smooth muscle. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PROS-85-1440-g006.jpg"/></fig><p>Three‐dimensional reconstruction was used to visualize the spatial relationships between the prostate and surrounding structures (Figure <xref rid="pros70030-fig-0004" ref-type="fig">4A</xref>). The LA muscle was positioned lateral to the prostate and membranous urethra, with its surface covered by the SFPD. An interposing tissue composed of smooth muscle was distributed near the medial edge of the LA muscle (Figure <xref rid="pros70030-fig-0004" ref-type="fig">4B</xref>). This smooth muscle tissue filled the space between the SFPD and the EUS over a wide area, attaching medially to the EUS and extending laterally along the medial edge of the LA muscle, where it continued into the SFPD (Figure <xref rid="pros70030-fig-0004" ref-type="fig">4C–E</xref>).</p><fig position="float" fig-type="Figure" id="pros70030-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Three‐dimensional reconstruction of the prostate and its lateral structures. (A) Medial view of the three‐dimensionally reconstructed structures. (B) Posteromedial view reveals spatial relationships of the prostate, LA muscle, membranous urethra, and SFPD. (C) Removal of the prostate shows that smooth muscle tissue fills the space between the SFPD and the EUS. (D) Removal of SFPD indicates that the interposing smooth muscle tissue attaches medially to the EUS, extending laterally along the medial edge of the LA muscle. (E) Removal of smooth muscle indicates that the EUS is not directly attached to the LA muscle on its lateral side. Bl, bladder; Bs, bulbospongiosus muscle; CSP, corpus spongiosum penis; EUS, external urethral sphincter; IUS, internal urethral sphincter; LA, levator ani muscle; Pr, prostate; Pu, pubis; RM, rectal muscle; SFPD, superior fascia of the pelvic diaphragm; SM, smooth muscle; SV, seminal vesicle; Ur, urethra. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PROS-85-1440-g004.jpg"/></fig></sec><sec sec-type="discussion" id="pros70030-sec-0120"><label>4</label><title>Discussion</title><p>This study clarified the anatomical details of the smooth muscle tissue interposed between the SFPD and the EUS (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5A–C</xref>). This smooth muscle tissue was attached to the lateral edge of the EUS and continued into the SFPD while covering the medial edge of the LA muscle (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5B</xref>). These findings suggest that this smooth muscle tissue, along with the SFPD, may form a morphological supportive structure for the EUS. Although its potential role in maintaining urinary continence is speculated based on anatomical configuration, further physiological or clinical investigations are required for functional verification. During RARP, a decision to dissect the SFPD should be made by considering whether to preserve the supportive structure of the EUS.</p><fig position="float" fig-type="Figure" id="pros70030-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Anatomical relationships between the EUS, SFPD, and LA muscle, interposed by smooth muscle tissue. (A) Illustration of the midsagittal section of the male pelvis. Red lines labeled CS1 and CS2 indicate the corresponding planes of the sections presented in (B) and (C), respectively. (B) Coronal section of the urethra. The smooth muscle tissue is attached to the lateral edge of the EUS and continues into the SFPD while covering the medial edge of the LA muscle. Direct contact is observed between the smooth muscle and the EUS, whereas loose connective tissue is interposed between the smooth muscle and the LA muscle. (C) Coronal section of the posterior region of the urethra. The smooth muscle tissue and the LA muscle are in direct contact with closely adhering fibers. CS1, coronal section 1, CS2, coronal section 2; Bl, bladder; EUS, external urethral sphincter; LA, levator ani; Pr, prostate; Pu, pubis; R, rectum; SFPD, superior fascia of the pelvic diaphragm; SM, smooth muscle; Ur, urethra. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="PROS-85-1440-g005.jpg"/></fig><p>The effectiveness of pelvic floor muscle training that targets the LA muscle in improving urinary incontinence after prostate surgery indicates that the function of the LA muscle contributes to urinary continence [<xref rid="pros70030-bib-0009" ref-type="bibr">9</xref>, <xref rid="pros70030-bib-0010" ref-type="bibr">10</xref>, <xref rid="pros70030-bib-0011" ref-type="bibr">11</xref>]. The anatomical relationship between the LA muscle and the EUS can explain this mechanism. Historically, the EUS was considered an independent muscle, separate from the LA muscle [<xref rid="pros70030-bib-0012" ref-type="bibr">12</xref>, <xref rid="pros70030-bib-0013" ref-type="bibr">13</xref>]. Subsequent anatomical and histological studies have suggested that the EUS may be posteriorly continuous with the muscle bundles of the external anal sphincter and the LA muscle [<xref rid="pros70030-bib-0004" ref-type="bibr">4</xref>, <xref rid="pros70030-bib-0005" ref-type="bibr">5</xref>]. Furthermore, regarding the lateral supportive structures of the EUS, a connective tissue that either connects or separates the LA muscle and the EUS has been reported [<xref rid="pros70030-bib-0014" ref-type="bibr">14</xref>, <xref rid="pros70030-bib-0015" ref-type="bibr">15</xref>, <xref rid="pros70030-bib-0016" ref-type="bibr">16</xref>, <xref rid="pros70030-bib-0017" ref-type="bibr">17</xref>]. Such connective tissues are often reported as the fascial structures associated with SFPD [<xref rid="pros70030-bib-0018" ref-type="bibr">18</xref>, <xref rid="pros70030-bib-0019" ref-type="bibr">19</xref>]. However, the exact nature of these tissues, including their composition and distribution, remains unclear. In this study, we demonstrated that the smooth muscle tissue extends, covering the medial edge of the LA muscle, as a part of the lateral supportive structure of EUS. This smooth muscle tissue fills the space between the lateral edge of the EUS, LA muscle, prostate, and SFPD and is posteriorly continuous with the smooth muscle fibers of the rectal wall. These observations were made possible through detailed assessment of the basic structures via macroscopic dissection, comprehensive histological analysis using wide‐range serial sections [<xref rid="pros70030-bib-0008" ref-type="bibr">8</xref>], and successful visualization through 3D reconstruction. Our findings are in agreement with recent studies that have redefined the morphology of the EUS and its relationship with surrounding structures. Barlas et al. (2024) reported that the EUS exhibits an omega‐shaped configuration, with striated muscle fibers extending into the prostate apex and urethra, highlighting its complex spatial anatomy [<xref rid="pros70030-bib-0020" ref-type="bibr">20</xref>]. Gyftopoulos described the EUS as a dual‐layered structure, consisting of an outer striated sphincter and an inner lissosphincter (smooth muscle), and emphasized its anatomical relationship with the rectourethralis muscle (smooth muscle) [<xref rid="pros70030-bib-0021" ref-type="bibr">21</xref>]. These findings underscore the concept that the continence mechanism involves coordinated interaction between striated and smooth muscle systems [<xref rid="pros70030-bib-0004" ref-type="bibr">4</xref>]. The smooth muscle tissue identified in our study, along with the SFPD, may correspond to these smooth muscle components and contribute to the integrated morphological framework of the EUS.</p><p>Muscle function requires both contraction strength and supportive structures to transmit this force efficiently. The EUS has been described as a horseshoe‐shaped structure that surrounds the anterior and lateral portions of the membranous urethra [<xref rid="pros70030-bib-0013" ref-type="bibr">13</xref>, <xref rid="pros70030-bib-0016" ref-type="bibr">16</xref>, <xref rid="pros70030-bib-0018" ref-type="bibr">18</xref>, <xref rid="pros70030-bib-0022" ref-type="bibr">22</xref>], and its contraction exerts a force that presses the anterior wall of the urethra against the posterior wall. However, in adults, the muscle fibers of the EUS are partially atrophic and irregularly distributed [<xref rid="pros70030-bib-0023" ref-type="bibr">23</xref>], making it unlikely that this muscle alone generates a significant contraction force. Based on previous studies, anatomical observations proposed the possibility of muscular continuity between the EUS, external anal sphincter, and LA muscle [<xref rid="pros70030-bib-0004" ref-type="bibr">4</xref>, <xref rid="pros70030-bib-0005" ref-type="bibr">5</xref>], This potential structural association may play a supportive role in EUS function, although the extent and physiological relevance of such continuity remain to be confirmed. During EUS contraction, the smooth muscle tissue located posterior to the urethra (the rectourethralis muscle) is hypothesized to stabilize the posterior urethral wall, thereby enhancing the urethral closure effect. The EUS must be fixed in an optimal position to maximize its sphincteric effect on the urethra. This is particularly important in the pelvic floor that is subjected to gravity and abdominal pressure. The smooth muscle tissue structure identified in this study filled the space between the EUS, LA muscle, and SFPD and seems to bind these structures together and function as a support structure that stabilizes the EUS in its proper position within the pelvic floor. We have previously reported that the smooth muscle tissue extends throughout the pelvic floor, filling the spaces between skeletal muscles and between skeletal muscles and visceral organs [<xref rid="pros70030-bib-0024" ref-type="bibr">24</xref>, <xref rid="pros70030-bib-0025" ref-type="bibr">25</xref>, <xref rid="pros70030-bib-0026" ref-type="bibr">26</xref>, <xref rid="pros70030-bib-0027" ref-type="bibr">27</xref>, <xref rid="pros70030-bib-0028" ref-type="bibr">28</xref>, <xref rid="pros70030-bib-0029" ref-type="bibr">29</xref>, <xref rid="pros70030-bib-0030" ref-type="bibr">30</xref>, <xref rid="pros70030-bib-0031" ref-type="bibr">31</xref>]. The supportive structure of the EUS identified in this study is considered another example of a smooth muscle structure unique to the pelvic floor. The present study revealed that at least two distinct patterns of contact between the smooth and striated muscle can be observed (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5</xref>). At the contact surfaces between the smooth muscle and the EUS (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5B</xref>) as well as between the smooth muscle and the LA muscle in the posterior region of the urethra (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5C</xref>), smooth muscle tissue and striated muscle tissue are in direct contact, with the tissues closely adhering to each other. This mode of interaction suggests that smooth muscle may directly transmit contractile force from striated muscle, enabling coordinated function. In contrast, loose connective tissue is interposed between the smooth muscle and the LA muscle on the lateral side of the urethra (Figure <xref rid="pros70030-fig-0005" ref-type="fig">5B</xref>). In this configuration, the smooth muscle is not directly influenced by the contraction of striated muscle fibers. Instead, it is hypothesized that contraction of the LA muscle narrows the levator hiatus, thereby indirectly supporting and elevating the bladder, prostate, and urethral sphincter as a functional unit. The diverse modes of contact between the smooth and striated muscle surrounding the urethra may indicate functional significance in maintaining the sphincter's position and balance; however, this hypothesis is solely based on structural observations and requires further validation through functional studies. To better understand the anatomical structures that contribute to maintaining urinary continence, it is necessary to recognize not only the EUS, LA muscle, and their innervating nerves but also the importance of smooth muscle tissue that functions as a supportive structure for EUS.</p><p>In RARP, the prostate can be dissected using a medial or lateral approach relative to the SFPD (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6A–F</xref>) [<xref rid="pros70030-bib-0001" ref-type="bibr">1</xref>]. Specifically, if dissection is performed lateral to the SFPD, the fascia remains attached to the excised prostate and is not preserved (non‐preservation of the SFPD) (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6C,D</xref>). Conversely, if dissection is performed medial to the SFPD, the fascia remains on the surface of the LA muscle and is preserved (preservation of the SFPD) (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6E,F</xref>). Based on our anatomical findings, the choice of dissection plane around the SFPD may cause both direct damage to the EUS and injury to its supporting structures. In non‐preservation of SFPD, dissection proceeds along the plane, exposing the LA muscle, and this may lead to an incision extending from the medial edge of the LA muscle to the upper portion of the EUS (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6C,D</xref>). In contrast, in preservation of the SFPD, the dissection follows a plane closer to the prostate than in non‐preservation of the SFPD, allowing for a greater preservation of the EUS (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6E,F</xref>). From another perspective, non‐preservation of the SFPD results in the loss of connective tissue linking the smooth muscle structure. This may reduce force transmission from the LA muscle to the EUS through the SFPD and smooth muscle structures (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6C,D</xref>). In such a state, the EUS may not be adequately stabilized in its optimal position, potentially affecting postoperative urinary function. Conversely, in preservation of the SFPD, the connections among the SFPD, smooth muscle structures, EUS, and their relationship with the LA muscle are maintained (Figure <xref rid="pros70030-fig-0006" ref-type="fig">6E,F</xref>). This preservation of the EUS‐supporting structures contributes to the stabilization of the EUS in its optimal postoperative position. Furthermore, maintaining the force transmission from the LA muscle to the EUS via the SFPD and smooth muscle structures may enhance the effectiveness of pelvic floor training after surgery. Previous studies have recommended dissection strategies that preserve the SFPD [<xref rid="pros70030-bib-0002" ref-type="bibr">2</xref>, <xref rid="pros70030-bib-0003" ref-type="bibr">3</xref>]; however, these studies primarily focused on preserving the neurovascular bundles around the prostate, with less consideration given to the preservation of EUS‐supporting structures and the prevention of postoperative urinary incontinence. The findings of our study complement those of previous reports by introducing the novel perspective that preserving the SFPD also contributes to the preservation of EUS‐supporting structures. Compared to non‐preservation of the SFPD, preservation of the SFPD may be disadvantageous in securing a sufficient surgical margin, necessitating strategic selection of the dissection plane based on tumor localization. Here, we propose that the dissection plane associated with preservation of the SFPD corresponds to preservation of the EUS‐supporting structures, and we anticipate that this morphological information may contribute to future discussions on dissection strategies in RARP, although its clinical impact on postoperative urinary continence should be examined in further studies.</p><fig position="float" fig-type="Figure" id="pros70030-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Surgical implications of preserving SFPD in robot‐assisted radical prostatectomy. (A) Anatomical details of the smooth muscle tissue interposed between the SFPD and the EUS. This smooth muscle structure attaches to the lateral edge of the EUS and continues into the SFPD while covering the medial edge of the LA muscle. The dissection line between non‐preservation and preservation of SFPD is shown in the figure. (B) Magnified view of the dissection lines. (C) Non‐preservation of SFPD, where the dissection proceeds laterally to the SFPD. This exposes the LA muscle and may lead to an incision extending from its medial edge to the upper portion of the EUS. Additionally, the loss of connective tissue linking the smooth muscle structures may reduce force transmission from the LA to the EUS. (D) An intraoperative photograph taken in the dissection layer of non‐preservation of the SFPD. The layer between LA and SFPD has been dissected, exposing the LA. (E) Preservation of SFPD: The dissection follows a plane medial to the SFPD, retaining the fascia on the surface of the LA muscle. This approach maintains the anatomical connections among the SFPD, smooth muscle structures, and the EUS, contributing to its stabilization. (F) An intraoperative photograph taken in the dissection layer of preservation of the SFPD. The SFPD is preserved and retained on the LA side. EUS, external urethral sphincter; LA, levator ani muscle; Pr, prostate; SFPD, superior fascia of the pelvic diaphragm; SM, smooth muscle; Ur, urethra. [Color figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="PROS-85-1440-g003.jpg"/></fig><p>Our study possesses some limitations. First, the cadavers used were of an advanced age, as they were donated to our institute after their demise in later years. Second, this study was purely anatomical. The selection of dissection layers in RARP and their impact on postoperative urinary function requires further verification through future clinical studies.</p></sec><sec sec-type="conclusions" id="pros70030-sec-0130"><label>5</label><title>Conclusions</title><p>This study clarified the anatomical details of the smooth muscle tissue filling the space between the EUS, SFPD, and LA muscle through detailed macroscopic observations, comprehensive histological analyses using wide‐range serial sectioning, and 3D reconstruction. This smooth muscle tissue was observed to form a continuous anatomical structure that may contribute to stabilizing the EUS in the pelvic floor. Although the findings suggest a potential supportive role for this tissue, such functional implications remain hypothetical. From an anatomical standpoint, the choice of dissection plane during RARP may affect the preservation of EUS‐associated structures; however, further functional or clinical validation is needed. The present results provide a basis for future investigations, including functional studies, to explore whether and how these structures contribute to urinary continence or influence surgical outcomes.</p></sec><sec id="pros70030-sec-0150"><title>Disclosure</title><p>During the preparation of this study, ChatGPT was used to improve the clarity and grammatical usage of English. After using these services, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.</p></sec><sec id="pros70030-sec-0160"><title>Ethics Statement</title><p>The Board of Ethics of our institution approved this study (approval number: M2018‐006).</p></sec><sec id="pros70030-sec-0170"><title>Consent</title><p>All donors had voluntarily agreed to the use of their remains as educational and study materials before their death. Written informed consent was obtained after a clear explanation of the purpose and methods of using their corpses. Following their demise, the informed consent was explained to the bereaved families and there were no objections.</p></sec><sec sec-type="COI-statement" id="pros70030-sec-0180"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="pros70030-sec-0140"><title>Acknowledgments</title><p>This study was supported by JSPS KAKENHI (grant numbers JP19K23821, JP21K15329, and JP21H03799). We thank the individuals who donated their bodies for this study.</p></ack><sec sec-type="data-availability" id="pros70030-sec-0200"><title>Data Availability Statement</title><p>Data supporting this study's findings are available from the corresponding author upon request.</p></sec><ref-list content-type="cited-references" id="pros70030-bibl-0001"><title>References</title><ref id="pros70030-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="pros70030-cit-0001">
+<string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Walsh</surname>
+</string-name>, “<article-title>Anatomic Radical Prostatectomy: Evolution of the Surgical Technique</article-title>,” <source>Journal of Urology</source>
+<volume>160</volume>, no. <issue>6 Pt 2</issue> (<year>1998</year>): <fpage>2418</fpage>–<lpage>2424</lpage>, <pub-id pub-id-type="doi">10.1097/00005392-199812020-00010</pub-id>.<pub-id pub-id-type="pmid">9817395</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="pros70030-cit-0002">
+<string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Nielsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Schaeffer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Marschke</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Walsh</surname>
+</string-name>, “<article-title>High Anterior Release of the Levator Fascia Improves Sexual Function Following Open Radical Retropubic Prostatectomy</article-title>,” <source>Journal of Urology</source>
+<volume>180</volume>, no. <issue>6</issue> (<year>2008</year>): <fpage>2557</fpage>–<lpage>2564</lpage>, <pub-id pub-id-type="doi">10.1016/j.juro.2008.08.047</pub-id>.<pub-id pub-id-type="pmid">18930504</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="pros70030-cit-0003">
+<string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Savera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kaul</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Badani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Stark</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. L.</given-names>
+<surname>Shah</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Menon</surname>
+</string-name>, “<article-title>Robotic Radical Prostatectomy With the ‘Veil of Aphrodite’ Technique: Histologic Evidence of Enhanced Nerve Sparing</article-title>,” <source>European Urology</source>
+<volume>49</volume>, no. <issue>6</issue> (<year>2006</year>): <fpage>1065</fpage>–<lpage>1074</lpage>, <pub-id pub-id-type="doi">10.1016/j.eururo.2006.02.050</pub-id>.<pub-id pub-id-type="pmid">16597485</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="pros70030-cit-0004">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shoji</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Suriyut</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Anatomy of Muscle Connections in the Male Urethra and Anorectal Canal</article-title>,” <source>BJU International</source>
+<volume>133</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>752</fpage>–<lpage>759</lpage>, <pub-id pub-id-type="doi">10.1111/bju.16307</pub-id>.<pub-id pub-id-type="pmid">38456568</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="pros70030-cit-0005">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Suriyut</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Baramee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harada</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Various Significant Connections of the Male Pelvic Floor Muscles With Special Reference to the Anal and Urethral Sphincter Muscles</article-title>,” <source>Anatomical Science International</source>
+<volume>95</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>305</fpage>–<lpage>312</lpage>, <pub-id pub-id-type="doi">10.1007/s12565-019-00521-2</pub-id>.<pub-id pub-id-type="pmid">31872375</pub-id>
+<pub-id pub-id-type="pmcid">PMC7182620</pub-id></mixed-citation></ref><ref id="pros70030-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="pros70030-cit-0006">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tharnmanularp</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Three‐Dimensional Analysis of the Distribution of Smooth and Skeletal Muscle Tissue Around the Female Urethra</article-title>,” <source>International Urogynecology Journal</source>
+<volume>36</volume> (<year>2025</year>): <fpage>647</fpage>–<lpage>654</lpage>, <pub-id pub-id-type="doi">10.1007/s00192-025-06045-w</pub-id>.<pub-id pub-id-type="pmid">39833539</pub-id>
+<pub-id pub-id-type="pmcid">PMC12003430</pub-id></mixed-citation></ref><ref id="pros70030-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="pros70030-cit-0007">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ibara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nimura</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Seg and Ref: A Newly Developed Toolset for Artificial Intelligence‐Powered Segmentation and Interactive Refinement for Labor‐Saving Three‐Dimensional Reconstruction</article-title>,” <source>Microscopy</source>
+<volume>1</volume> (<year>2025</year>): <elocation-id>dfaf015</elocation-id>, <pub-id pub-id-type="doi">10.1093/jmicro/dfaf015</pub-id>.<pub-id pub-id-type="pmid">40037547</pub-id></mixed-citation></ref><ref id="pros70030-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="pros70030-cit-0008">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Novel Combination Method of Wide‐Range Serial Sectioning and 3D Reconstruction Visualizing Both Macro‐Level Dynamics and Micro‐Level Interactions in an Attempt to Analyze the Female Pelvic Floor</article-title>,” <source>Anatomical Science International</source>
+<volume>98</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>343</fpage>–<lpage>352</lpage>, <pub-id pub-id-type="doi">10.1007/s12565-023-00710-0</pub-id>.<pub-id pub-id-type="pmid">36882587</pub-id>
+<pub-id pub-id-type="pmcid">PMC10256643</pub-id></mixed-citation></ref><ref id="pros70030-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="pros70030-cit-0009">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Long</surname>
+</string-name>, et al., “<article-title>Effect of Pelvic Floor Muscle Training on Urinary Incontinence After Radical Prostatectomy: An Umbrella Review of Meta‐Analysis and Systematic Review</article-title>,” <source>Clinical Rehabilitation</source>
+<volume>37</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>494</fpage>–<lpage>515</lpage>, <pub-id pub-id-type="doi">10.1177/02692155221136046</pub-id>.<pub-id pub-id-type="pmid">36305082</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="pros70030-cit-0010">
+<string-name name-style="western">
+<given-names>F. T.</given-names>
+<surname>Baumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Reimer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Gockeln</surname>
+</string-name>, et al., “<article-title>Supervised Pelvic Floor Muscle Exercise Is More Effective Than Unsupervised Pelvic Floor Muscle Exercise at Improving Urinary Incontinence in Prostate Cancer Patients Following Radical Prostatectomy – a Systematic Review and Meta‐Analysis</article-title>,” <source>Disability and Rehabilitation</source>
+<volume>44</volume>, no. <issue>19</issue> (<year>2022</year>): <fpage>5374</fpage>–<lpage>5385</lpage>, <pub-id pub-id-type="doi">10.1080/09638288.2021.1937717</pub-id>.<pub-id pub-id-type="pmid">34550846</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="pros70030-cit-0011">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kannan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Winser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Fung</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cheing</surname>
+</string-name>, “<article-title>Effectiveness of Pelvic Floor Muscle Training Alone and in Combination With Biofeedback, Electrical Stimulation, or Both Compared to Control for Urinary Incontinence in Men Following Prostatectomy: Systematic Review and Meta‐Analysis</article-title>,” <source>Physical Therapy</source>
+<volume>98</volume>, no. <issue>11</issue> (<year>2018</year>): <fpage>932</fpage>–<lpage>945</lpage>, <pub-id pub-id-type="doi">10.1093/ptj/pzy101</pub-id>.<pub-id pub-id-type="pmid">30137629</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="pros70030-cit-0012">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bhadra</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. M.</given-names>
+<surname>Grill</surname>
+</string-name>, “<article-title>Functional Anatomy of the Male Feline Urethra: Morphological and Physiological Correlations</article-title>,” <source>Journal of Urology</source>
+<volume>161</volume>, no. <issue>2</issue> (<year>1999</year>): <fpage>654</fpage>–<lpage>659</lpage>.<pub-id pub-id-type="pmid">9915477</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="pros70030-cit-0013">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Strasser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Klima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Poisel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Horninger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartsch</surname>
+</string-name>, “<article-title>Anatomy and Innervation of the Rhabdosphincter of the Male Urethra</article-title>,” <source>Prostate</source>
+<volume>28</volume>, no. <issue>1</issue> (<year>1996</year>): <fpage>24</fpage>–<lpage>31</lpage>, <pub-id pub-id-type="doi">10.1002/(SICI)1097-0045(199601)28:1&lt;24::AID-PROS4&gt;3.0.CO;2-O</pub-id>.<pub-id pub-id-type="pmid">8545278</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="pros70030-cit-0014">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hinata</surname>
+</string-name> and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Murakami</surname>
+</string-name>, “<article-title>The Urethral Rhabdosphincter, Levator Ani Muscle, and Perineal Membrane: A Review</article-title>,” <source>BioMed Research International</source>
+<volume>2014</volume> (<year>2014</year>): <elocation-id>906921</elocation-id>, <pub-id pub-id-type="doi">10.1155/2014/906921</pub-id>.<pub-id pub-id-type="pmid">24877147</pub-id>
+<pub-id pub-id-type="pmcid">PMC4022307</pub-id></mixed-citation></ref><ref id="pros70030-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="pros70030-cit-0015">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yucel</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Baskin</surname>
+</string-name>, “<article-title>An Anatomical Description of the Male and Female Urethral Sphincter Complex</article-title>,” <source>Journal of Urology</source>
+<volume>171</volume>, no. <issue>5</issue> (<year>2004</year>): <fpage>1890</fpage>–<lpage>1897</lpage>, <pub-id pub-id-type="doi">10.1097/01.ju.0000124106.16505.df</pub-id>.<pub-id pub-id-type="pmid">15076301</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="pros70030-cit-0016">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Dorschner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Biesold</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Schmidt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. U.</given-names>
+<surname>Stolzenburg</surname>
+</string-name>, “<article-title>The Dispute About the External Sphincter and the Urogenital Diaphragm</article-title>,” <source>Journal of Urology</source>
+<volume>162</volume>, no. <issue>6</issue> (<year>1999</year>): <fpage>1942</fpage>–<lpage>1945</lpage>, <pub-id pub-id-type="doi">10.1016/S0022-5347(05)68074-3</pub-id>.<pub-id pub-id-type="pmid">10569543</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="pros70030-cit-0017">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Burnett</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Mostwin</surname>
+</string-name>, “<article-title>In Situ Anatomical Study of the Male Urethral Sphincteric Complex: Relevance to Continence Preservation Following Major Pelvic Surgery</article-title>,” <source>Journal of Urology</source>
+<volume>160</volume>, no. <issue>4</issue> (<year>1998</year>): <fpage>1301</fpage>–<lpage>1306</lpage>, <pub-id pub-id-type="doi">10.1016/S0022-5347(01)62521-7</pub-id>.<pub-id pub-id-type="pmid">9751340</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="pros70030-cit-0018">
+<string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Oelrich</surname>
+</string-name>, “<article-title>The Urethral Sphincter Muscle in the Male</article-title>,” <source>American Journal of Anatomy</source>
+<volume>158</volume>, no. <issue>2</issue> (<year>1980</year>): <fpage>229</fpage>–<lpage>246</lpage>, <pub-id pub-id-type="doi">10.1002/aja.1001580211</pub-id>.<pub-id pub-id-type="pmid">7416058</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="pros70030-cit-0019">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Takenaka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Soga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Murakami</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fujisawa</surname>
+</string-name>, “<article-title>A Novel Technique for Approaching the Endopelvic Fascia in Retropubic Radical Prostatectomy, Based on an Anatomical Study of Fixed and Fresh Cadavers</article-title>,” <source>BJU International</source>
+<volume>95</volume>, no. <issue>6</issue> (<year>2005</year>): <fpage>766</fpage>–<lpage>771</lpage>, <pub-id pub-id-type="doi">10.1111/j.1464-410X.2005.05397.x</pub-id>.<pub-id pub-id-type="pmid">15794779</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="pros70030-cit-0020">
+<string-name name-style="western">
+<given-names>I. S.</given-names>
+<surname>Barlas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Aybal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Duvarci</surname>
+</string-name>, et al., “<article-title>Revisiting the External Urethral Sphincter: New Anatomical Insights From a Human Cadaver Study</article-title>,” <source>World Journal of Urology</source>
+<volume>42</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>496</fpage>, <pub-id pub-id-type="doi">10.1007/s00345-024-05204-w</pub-id>.<pub-id pub-id-type="pmid">39183200</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="pros70030-cit-0021">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gyftopoulos</surname>
+</string-name>, “<article-title>Radical Prostatectomy and Anatomical Controversies: The Urethral Sphincter and the Elusive Continence Mechanisms</article-title>,” <source>Cancers</source>
+<volume>15</volume>, no. <issue>13</issue> (<year>2023</year>): <elocation-id>3410</elocation-id>, <pub-id pub-id-type="doi">10.3390/cancers15133410</pub-id>.<pub-id pub-id-type="pmid">37444520</pub-id>
+<pub-id pub-id-type="pmcid">PMC10340559</pub-id></mixed-citation></ref><ref id="pros70030-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="pros70030-cit-0022">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ludwikowski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Oesch Hayward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Brenner</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Fritsch</surname>
+</string-name>, “<article-title>The Development of the External Urethral Sphincter in Humans</article-title>,” <source>BJU International</source>
+<volume>87</volume>, no. <issue>6</issue> (<year>2001</year>): <fpage>565</fpage>–<lpage>568</lpage>, <pub-id pub-id-type="doi">10.1046/j.1464-410x.2001.00086.x</pub-id>.<pub-id pub-id-type="pmid">11298059</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="pros70030-cit-0023">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Koraitim</surname>
+</string-name>, “<article-title>The Male Urethral Sphincter Complex Revisited: An Anatomical Concept and Its Physiological Correlate</article-title>,” <source>Journal of Urology</source>
+<volume>179</volume>, no. <issue>5</issue> (<year>2008</year>): <fpage>1683</fpage>–<lpage>1689</lpage>, <pub-id pub-id-type="doi">10.1016/j.juro.2008.01.010</pub-id>.<pub-id pub-id-type="pmid">18343449</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="pros70030-cit-0024">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Suriyut</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Anatomy of Cowper's Gland in Humans Suggesting a Secretion and Emission Mechanism Facilitated by Cooperation of Striated and Smooth Muscles</article-title>,” <source>Scientific Reports</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>16705</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41598-021-96130-z</pub-id>.<pub-id pub-id-type="pmid">34408190</pub-id>
+<pub-id pub-id-type="pmcid">PMC8373982</pub-id></mixed-citation></ref><ref id="pros70030-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="pros70030-cit-0025">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tsukada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ito</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>The Series of Smooth Muscle Structures in the Pelvic Floors of Men: Dynamic Coordination of Smooth and Skeletal Muscles</article-title>,” <source>Clinical Anatomy</source>
+<volume>34</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>272</fpage>–<lpage>282</lpage>, <pub-id pub-id-type="doi">10.1002/ca.23713</pub-id>.<pub-id pub-id-type="pmid">33347645</pub-id>
+<pub-id pub-id-type="pmcid">PMC7898478</pub-id></mixed-citation></ref><ref id="pros70030-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="pros70030-cit-0026">
+<string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Kato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Kato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Miyasaka</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Spatial Distribution of Smooth Muscle Tissue in the Female Pelvic Floor and Surrounding the Urethra and Vagina</article-title>,” <source>Anatomical Science International</source>
+<volume>95</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>516</fpage>–<lpage>522</lpage>, <pub-id pub-id-type="doi">10.1007/s12565-020-00549-9</pub-id>.<pub-id pub-id-type="pmid">32419067</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="pros70030-cit-0027">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tsukada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ito</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Anatomy of the Smooth Muscle Structure in the Female Anorectal Anterior Wall: Convergence and Anterior Extension of the Internal Anal Sphincter and Longitudinal Muscle</article-title>,” <source>Colorectal Disease</source>
+<volume>21</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>472</fpage>–<lpage>480</lpage>, <pub-id pub-id-type="doi">10.1111/codi.14549</pub-id>.<pub-id pub-id-type="pmid">30614646</pub-id>
+<pub-id pub-id-type="pmcid">PMC6850065</pub-id></mixed-citation></ref><ref id="pros70030-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="pros70030-cit-0028">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Kagawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Habu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Ka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harada</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Coexistence of Dense and Sparse Areas in the Longitudinal Smooth Muscle of the Anal Canal: Anatomical and Histological Analyses Inspired by Magnetic Resonance Images</article-title>,” <source>Clinical Anatomy</source>
+<volume>33</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>619</fpage>–<lpage>626</lpage>, <pub-id pub-id-type="doi">10.1002/ca.23467</pub-id>.<pub-id pub-id-type="pmid">31573098</pub-id>
+<pub-id pub-id-type="pmcid">PMC7187423</pub-id></mixed-citation></ref><ref id="pros70030-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="pros70030-cit-0029">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tsukada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ito</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Spatial Distribution of Smooth Muscle Tissue in the Male Pelvic Floor With Special Reference to the Lateral Extent of the Rectourethralis Muscle: Application to Prostatectomy and Proctectomy</article-title>,” <source>Clinical Anatomy</source>
+<volume>31</volume>, no. <issue>8</issue> (<year>2018</year>): <fpage>1167</fpage>–<lpage>1176</lpage>, <pub-id pub-id-type="doi">10.1002/ca.23254</pub-id>.<pub-id pub-id-type="pmid">30113089</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="pros70030-cit-0030">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Nakajima</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nasu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Harada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Akita</surname>
+</string-name>, “<article-title>Morphology of the Region Anterior to the Anal Canal in Males: Visualization of the Anterior Bundle of the Longitudinal Muscle by Transanal Ultrasonography</article-title>,” <source>Surgical and Radiologic Anatomy</source>
+<volume>39</volume>, no. <issue>9</issue> (<year>2017</year>): <fpage>967</fpage>–<lpage>973</lpage>, <pub-id pub-id-type="doi">10.1007/s00276-017-1832-0</pub-id>.<pub-id pub-id-type="pmid">28247085</pub-id>
+</mixed-citation></ref><ref id="pros70030-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="pros70030-cit-0031">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Muro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Nakajima</surname>
+</string-name>, et al., “<article-title>Dynamic Intersection of the Longitudinal Muscle and External Anal Sphincter in the Layered Structure of the Anal Canal Posterior Wall</article-title>,” <source>Surgical and Radiologic Anatomy</source>
+<volume>36</volume>, no. <issue>6</issue> (<year>2014</year>): <fpage>551</fpage>–<lpage>559</lpage>, <pub-id pub-id-type="doi">10.1007/s00276-013-1228-8</pub-id>.<pub-id pub-id-type="pmid">24258358</pub-id>
+</mixed-citation></ref></ref-list></back></article>
